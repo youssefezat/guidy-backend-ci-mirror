@@ -1,0 +1,35 @@
+route_id,agency_id,route_long_name,route_short_name,route_type,continuous_pickup,continuous_drop_off
+GOV_MIN_17,GOV,Moasasset Al Zakah - Al Sayeda Nafeesa,Minibus 17,3,1,1
+GOV_MIN_23,GOV,Kafr Tuhurmis - Sekket Al Waili St. (Kobry Al Qobba),Minibus 23,3,1,1
+GOV_MIN_30,GOV,Zahraa Ain Shams - Al Sayeda Nafeesa,Minibus 30,3,1,1
+GOV_MIN_80,GOV,Isko - Al Darraasa,Minibus 80,3,1,1
+GOV_MIN_89,GOV,Isko - Al Sayeda Nafeesa,Minibus 89,3,1,1
+GOV_MIN_90,GOV,Isko - El-Giza,Minibus 90,3,1,1
+GOV_MIN_132,GOV,Moasasset Al Zakah - Qawmeya Arabeya Secondary Bus Station,Minibus 132,3,1,1
+GOV_MIN_146,GOV,Kafr AL Shurafa - Al Sayeda Nafeesa,Minibus 146,3,1,1
+GOV_MIN_355,GOV,Ataba - Al Khanka (Al Salam Rd.),Minibus 355,3,1,1
+GOV_MIN_421,GOV,Al Khosous - Al Sayeda Nafeesa,Minibus 421,3,1,1
+GOV_MIN_755,GOV,Om Bayoumi - Saqr Quraish,Minibus 755,3,1,1
+GOV_CTA_28,GOV,Om Bayoumi - Abd Al Moneim Riad,CTA 28,3,1,1
+GOV_CTA_43,GOV,El-Matareyya - Bab El Shaaria,CTA 43,3,1,1
+GOV_CTA_203,GOV,Om Bayoumi - Bulaq Al Dakrur,CTA 203,3,1,1
+GOV_CTA_356,GOV,Cairo Airport - Abd Al Moneim Riad,CTA 356,3,1,1
+GOV_CTA_888,GOV,Moneeb - Ahmed Helmy,CTA 888,3,1,1
+GOV_CTA_922,GOV,Saqr Quraish - Abbaseya Square,CTA 922,3,1,1
+GOV_CTA_955,GOV,El Haykestep - Abd Al Moneim Riad,CTA 955,3,1,1
+GOV_CTA_988,GOV,Badrashen - Ramses,CTA 988,3,1,1
+GOV_CTA_990,GOV,Masaken Ain Shams - Giza Square,CTA 990,3,1,1
+GOV_CTA_1008,GOV,Saqr Quraish - Masaken Al Wehda,CTA 1008,3,1,1
+GOV_CTA_1046,GOV,Moneeb - Hadayek Al Qobba,CTA 1046,3,1,1
+GOV_CTA_1051,GOV,Shubra El-Kheima - Cairo Airport,CTA 1051,3,1,1
+GOV_CTA_1059,GOV,Amiriyyah - Al Sayeda Zeinab,CTA 1059,3,1,1
+GOV_CTA_1068,GOV,Lebanon Square - Abbaseya,CTA 1068,3,1,1
+GOV_CTA_1071,GOV,Marioteyya - Masaken Al Wehda,CTA 1071,3,1,1
+GOV_CTA_1085,GOV,Al Sayeda Aisha - Bulaq Al Dakrur,CTA 1085,3,1,1
+GOV_CTA_1090,GOV,Amiriyyah - Al Abageyya,CTA 1090,3,1,1
+GOV_CTA_1097,GOV,8th District (6th of October) - Lebanon Square,CTA 1097,3,1,1
+GOV_CTA_1105,GOV,Abbaseya Square - Al Omraneyya,CTA 1105,3,1,1
+GOV_CTA_1121,GOV,Al Nozha Al Gadeeda - Abd Al Moneim Riad,CTA 1121,3,1,1
+GOV_CTA_1127,GOV,Bulaq Al Dakrur - 3rd Settlement Station,CTA 1127,3,1,1
+GOV_CTA_1144,GOV,Al Abageyya - Ibrahim Bek,CTA 1144,3,1,1
+GOV_CTA_1153,GOV,Helwan - Abd Al Moneim Riad,CTA 1153,3,1,1

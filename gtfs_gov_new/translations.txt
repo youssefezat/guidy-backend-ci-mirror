@@ -1,0 +1,145 @@
+table_name,field_name,language,field_value,translation
+routes,route_long_name,ar,El Haykestep - Mamaleek (Al Manial),الهايكستب - موقف المماليك (المنيل)
+routes,route_short_name,ar,Minibus 4,مينى باص 4
+routes,route_long_name,ar,Amiriyyah - Rehab Square,الأميرية - ميدان الرحاب
+routes,route_short_name,ar,Minibus 8,مينى باص 8
+routes,route_long_name,ar,Salam Station (10th of Ramadan Station) - Al Geish Square,موقف السلام (موقف العاشر) - ميدان الجيش
+routes,route_short_name,ar,Minibus 9,مينى باص 9
+routes,route_long_name,ar,Ibrahim Bek - Naguib Mahfouz Square (1st Settlement),إبراهيم بك - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,Minibus 10,مينى باص 10
+routes,route_long_name,ar,Moasasset Al Zakah - Al Sayeda Nafeesa,مؤسسة الزكاة - السيدة نفيسة
+routes,route_short_name,ar,Minibus 17,مينى باص 17
+routes,route_long_name,ar,15th of May - Masaken Al Shrouq,15 مايو - مساكن الشروق
+routes,route_short_name,ar,Minibus 26,مينى باص 26
+routes,route_long_name,ar,Kafr Tuhurmis - Elecrticity Hospital (Suez Rd),كفر طهرمس - مستشفى كهرباء (طريق السويس)
+routes,route_short_name,ar,Minibus 37,مينى باص 37
+routes,route_long_name,ar,Matbaa - Al Nozha Al Gadida,موقف المطبعة - النزهة الجديدة
+routes,route_short_name,ar,Minibus 44,مينى باص 44
+routes,route_long_name,ar,Saft Al Laban - Al Mazallaat ( Shubra),صفط اللبن - المظلات ( شبرا)
+routes,route_short_name,ar,Minibus 52,مينى باص 52
+routes,route_long_name,ar,Saft Al Laban - Masaken Almaza,صفط اللبن - مساكن الماظة
+routes,route_short_name,ar,Minibus 53,مينى باص 53
+routes,route_long_name,ar,Saft Al Laban - 8th District (Nasr City),صفط اللبن - الحي الثامن (مدينة نصر)
+routes,route_short_name,ar,Minibus 57,مينى باص 57
+routes,route_long_name,ar,Suez Bridge Entrance to Ring Road - Boulak El-Dakrour,جسر السويس - بولاق الدكرور
+routes,route_short_name,ar,Minibus 74,مينى باص 74
+routes,route_long_name,ar,Arab Tuweila - Basateen,عرب الطوايله - البساتين
+routes,route_short_name,ar,Minibus 79,مينى باص 79
+routes,route_long_name,ar,Isko - Al Darraasa,إسكو - الدراسة
+routes,route_short_name,ar,Minibus 80,مينى باص 80
+routes,route_long_name,ar,Kobry Orabi - Naguib Mahfouz Square (1st Settlement),كوبري عرابي - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,Minibus 81,مينى باص 81
+routes,route_long_name,ar,Rod Al Farag Metro Station - Naguib Mahfouz Square (1st Settlement),محطة مترو روض الفرج - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,Minibus 101,مينى باص 101
+routes,route_long_name,ar,Salam Station (10th of Ramadan Station) - Attaba,موقف السلام (موقف العاشر) - العتبة
+routes,route_short_name,ar,Minibus 106,مينى باص 106
+routes,route_long_name,ar,Amiriyyah - 8th District (Nasr City),الأميرية - الحي الثامن (مدينة نصر)
+routes,route_short_name,ar,Minibus 115,مينى باص 115
+routes,route_long_name,ar,Lebanon Square - Naguib Mahfouz Square (1st Settlement),ميدان لبنان - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,Minibus 125,مينى باص 125
+routes,route_long_name,ar,Rod Al Farag Metro Station - Naguib Mahfouz Square (1st Settlement),محطة مترو روض الفرج - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,Minibus 131,مينى باص 131
+routes,route_long_name,ar,Naguib Mahfouz Square (1st Settlement) - Al Sayeda Nafeesa,ميدان نجيب محفوظ (التجمع الأول) - السيدة نفيسة
+routes,route_short_name,ar,Minibus 136,مينى باص 136
+routes,route_long_name,ar,Higher Institute For Hotels & Tourism (Sheraton) - Qawmeya Arabeya,المعهد العالى للفنادق والسياحة (شيراتون) - القومية العربية
+routes,route_short_name,ar,Minibus 137,مينى باص 137
+routes,route_long_name,ar,Helwan Metro - Al Nozha Al Gadida,مترو حلوان - النزهة الجديدة
+routes,route_short_name,ar,Minibus 138,مينى باص 138
+routes,route_long_name,ar,El-Qawmia - Al Sayeda Zeinab,القومية العربية - السيدة زينب
+routes,route_short_name,ar,Minibus 139,مينى باص 139
+routes,route_long_name,ar,Mohamed Naguib Metro Station - Rehab Square,محطة مترو محمد نجيب - ميدان الرحاب
+routes,route_short_name,ar,Minibus 140,مينى باص 140
+routes,route_long_name,ar,Moasasset Al Zakah - Al Toob Al Ramly,مؤسسة الزكاة - الطوب الرملي
+routes,route_short_name,ar,Minibus 145,مينى باص 145
+routes,route_long_name,ar,El-Qawmia - Basateen,القومية العربية - البساتين
+routes,route_short_name,ar,Minibus 149,مينى باص 149
+routes,route_long_name,ar,Zahraa Ain Shams - 10th District (Nasr City),زهراء عين شمس - الحي العاشر (مدينة نصر)
+routes,route_short_name,ar,Minibus 153,مينى باص 153
+routes,route_long_name,ar,Arab Tuweila - Al Darraasa,عرب الطوايله - الدراسة
+routes,route_short_name,ar,Minibus 202,مينى باص 202
+routes,route_long_name,ar,Abbassia - Al Omraneyya,العباسية - العمرانية
+routes,route_short_name,ar,Minibus 203,مينى باص 203
+routes,route_long_name,ar,Kafr Tuhurmis - Suez Bridge Entrance to Ring Road,كفر طهرمس - جسر السويس
+routes,route_short_name,ar,Minibus 211,مينى باص 211
+routes,route_long_name,ar,Rehab Square - Al Ismailiya Square,ميدان الرحاب - ميدان الاسماعيلية
+routes,route_short_name,ar,Minibus 220,مينى باص 220
+routes,route_long_name,ar,Lebanon Square - Al Ahly Sporting Club,ميدان لبنان - النادي الاهلي الرياضي
+routes,route_short_name,ar,Minibus 226,مينى باص 226
+routes,route_long_name,ar,Abou Zaabal - Ramses,أبو زعبل - رمسيس
+routes,route_short_name,ar,Minibus 255,مينى باص 255
+routes,route_long_name,ar,Moasasset Al Zakah - Mamaleek (Al Manial),مؤسسة الزكاة - موقف المماليك (المنيل)
+routes,route_short_name,ar,Minibus 303,مينى باص 303
+routes,route_long_name,ar,Rod Al Farag Metro Station - Rehab Square,محطة مترو روض الفرج - ميدان الرحاب
+routes,route_short_name,ar,Minibus 314,مينى باص 314
+routes,route_long_name,ar,Al Kahraba St. (Nasr City) - Port Said Square (Maadi),شارع الكهرباء (مدينة نصر) - ميدان بورسعيد (المعادى)
+routes,route_short_name,ar,Minibus 333,مينى باص 333
+routes,route_long_name,ar,Ataba - Al Khanka (Al Salam Rd.),العتبة - الخانكة (طريق السلام)
+routes,route_short_name,ar,Minibus 355,مينى باص 355
+routes,route_long_name,ar,Al Gezira (Al Moqattam) - Bashtil (Ring Rd.),الجزيرة (المقطم) - بشتيل (الطريق الدائري)
+routes,route_short_name,ar,Minibus 404,مينى باص 404
+routes,route_long_name,ar,Al Zawya Al Hamra - Al Omraneyya,الزاوية الحمراء - العمرانية
+routes,route_short_name,ar,Minibus 424,مينى باص 424
+routes,route_long_name,ar,Military Academy Stadium (Sheraton) - Ard Al Lewa Steps (26th of July Corridor),استاد الأكاديمية العسكرية (شيراتون) - سلم أرض اللواء (محور 26 يوليو)
+routes,route_short_name,ar,Minibus 505,مينى باص 505
+routes,route_long_name,ar,Al Habib Mosque (Al Barageel) - Waha Garage (Nasr City),مسجد الحبيب (البراجيل) - جراج الواحة (مدينة نصر)
+routes,route_short_name,ar,Minibus 606,مينى باص 606
+routes,route_long_name,ar,Al Mothalath (Ahmed Al Zomor St.) - Kobry Al Qobba,المثلث (شارع أحمد الزمر) - كوبري القبة
+routes,route_short_name,ar,Minibus 616,مينى باص 616
+routes,route_long_name,ar,Al Qanater Al Khayriya - Zewail Rd. (Wahat Rd.),القناطر الخيرية - طريق زويل (طريق الواحات)
+routes,route_short_name,ar,Minibus 700,مينى باص 700
+routes,route_long_name,ar,Haram & Marioteya - Ahmed Helmy,الهرم المريوطية - أحمد حلمي
+routes,route_short_name,ar,Minibus 702,مينى باص 702
+routes,route_long_name,ar,Om Bayoumi - Saqr Quraish,ام بيومي - صقر قريش
+routes,route_short_name,ar,Minibus 755,مينى باص 755
+routes,route_long_name,ar,Shubra El-Kheima - Hadabet Al Ahram,شبرا الخيمة - هضبة الاهرام
+routes,route_short_name,ar,Minibus 2002,مينى باص 2002
+routes,route_long_name,ar,Qalyub - Misr University for Sciences and Technology (MUST),قليوب - جامعة مصر
+routes,route_short_name,ar,Minibus 2003,مينى باص 2003
+routes,route_long_name,ar,Mankaraa Gate (Hadayek Al Ahram) - Abd Al Moneim Riad,بوابة منقرع (حدائق الأهرام) - عبد المنعم رياض
+routes,route_short_name,ar,Minibus 7 M,مينى باص 7 M
+routes,route_long_name,ar,Mazlaqan Om Khinan (Al Hawamdeyya) - Abd Al Moneim Riad,مزلقان ام خنان (الحوامدية) - عبد المنعم رياض
+routes,route_short_name,ar,CTA 123,أتوبيس 123
+routes,route_long_name,ar,Saqr Quraish - Abd Al Moneim Riad,صقر قريش - عبد المنعم رياض
+routes,route_short_name,ar,CTA 160/,أتوبيس 160/
+routes,route_long_name,ar,Al Warraq - Amiriyyah,الوراق - الأميرية
+routes,route_short_name,ar,CTA 222,أتوبيس 222
+routes,route_long_name,ar,Cairo Airport - Ahmed Helmy,مطار القاهرة - أحمد حلمي
+routes,route_short_name,ar,CTA 366,أتوبيس 366
+routes,route_long_name,ar,Moneeb Station - Gardenia (Cairo Suez Rd.),موقف المنيب - جاردينيا (طريق القاهرة السويس)
+routes,route_short_name,ar,CTA 573,أتوبيس 573
+routes,route_long_name,ar,Ahmed Saaed Bridge Exit - Al Shaheed Corridor,اخر كوبري أحمد سعيد - محور الشهيد
+routes,route_short_name,ar,CTA 582,أتوبيس 582
+routes,route_long_name,ar,Giza Square - Naguib Mahfouz Square (1st Settlement),ميدان الجيزة - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,CTA 912,أتوبيس 912
+routes,route_long_name,ar,El Haykestep - Abd Al Moneim Riad,الهايكستب - عبد المنعم رياض
+routes,route_short_name,ar,CTA 955,أتوبيس 955
+routes,route_long_name,ar,Badrashen - Ramses,البدرشين - رمسيس
+routes,route_short_name,ar,CTA 988,أتوبيس 988
+routes,route_long_name,ar,Al Kahraba St. (Nasr City) - Port Said St. (Al Sawah),شارع الكهرباء (مدينة نصر) - شارع بورسعيد (السواح)
+routes,route_short_name,ar,CTA 997,أتوبيس 997
+routes,route_long_name,ar,Abbassia - Abd Al Moneim Riad,العباسية - عبد المنعم رياض
+routes,route_short_name,ar,CTA 13 - 25,أتوبيس 13 - 25
+routes,route_long_name,ar,Masaken Almaza - Moneeb Station,مساكن الماظة - موقف المنيب
+routes,route_short_name,ar,CTA 1011,أتوبيس 1011
+routes,route_long_name,ar,Ard Al Lewa Steps (26th of July Corridor) - Shubra El-Kheima,سلم أرض اللواء (محور 26 يوليو) - شبرا الخيمة
+routes,route_short_name,ar,CTA 1017,أتوبيس 1017
+routes,route_long_name,ar,Masaken Betcho - Imbaba,مساكن بيتشو - إمبابة
+routes,route_short_name,ar,CTA 1031,أتوبيس 1031
+routes,route_long_name,ar,Shubra El-Kheima - Abbaseya,شبرا الخيمة - العباسية
+routes,route_short_name,ar,CTA 1035,أتوبيس 1035
+routes,route_long_name,ar,Al Qanater Al Khayriya - Al Mazallaat ( Shubra),القناطر الخيرية - المظلات ( شبرا)
+routes,route_short_name,ar,CTA 1052,أتوبيس 1052
+routes,route_long_name,ar,Al Gezira (Al Moqattam) - Bulaq Al Dakrur,الجزيرة (المقطم) - بولاق الدكرور
+routes,route_short_name,ar,CTA 1085,أتوبيس 1085
+routes,route_long_name,ar,Shubra El-Kheima - Naguib Mahfouz Square (1st Settlement),شبرا الخيمة - ميدان نجيب محفوظ (التجمع الأول)
+routes,route_short_name,ar,CTA 1103,أتوبيس 1103
+routes,route_long_name,ar,Warraq Al Arab - Abbassia,وراق العرب - العباسية
+routes,route_short_name,ar,CTA 1125,أتوبيس 1125
+routes,route_long_name,ar,Bulaq Al Dakrur - 3rd Settlement Station,بولاق الدكرور - التجمع الثالث
+routes,route_short_name,ar,CTA 1127,أتوبيس 1127
+routes,route_long_name,ar,Asmarat - Giza Square,الأسمرات - ميدان الجيزة
+routes,route_short_name,ar,CTA 1142,أتوبيس 1142
+routes,route_long_name,ar,Al Kahraba St. (Nasr City) - Al Mazallaat ( Shubra),شارع الكهرباء (مدينة نصر) - المظلات ( شبرا)
+routes,route_short_name,ar,CTA 1145,أتوبيس 1145
+routes,route_long_name,ar,Helwan Metro - Abd Al Moneim Riad,مترو حلوان - عبد المنعم رياض
+routes,route_short_name,ar,CTA 1153,أتوبيس 1153

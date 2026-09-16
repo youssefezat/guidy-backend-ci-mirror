@@ -1,0 +1,145 @@
+route_id,service_id,trip_headsign,direction_id,shape_id,trip_id
+GOV_MIN_4,Ground_Daily,Mamaleek (Al Manial),0,,GOV_MIN_4_0
+GOV_MIN_4,Ground_Daily,El Haykestep,1,,GOV_MIN_4_1
+GOV_MIN_8,Ground_Daily,Rehab Square,0,,GOV_MIN_8_0
+GOV_MIN_8,Ground_Daily,Amiriyyah,1,,GOV_MIN_8_1
+GOV_MIN_9,Ground_Daily,Al Geish Square,0,,GOV_MIN_9_0
+GOV_MIN_9,Ground_Daily,Salam Station (10th of Ramadan Station),1,,GOV_MIN_9_1
+GOV_MIN_10,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_10_0
+GOV_MIN_10,Ground_Daily,Ibrahim Bek,1,,GOV_MIN_10_1
+GOV_MIN_17,Ground_Daily,Al Sayeda Nafeesa,0,,GOV_MIN_17_0
+GOV_MIN_17,Ground_Daily,Moasasset Al Zakah,1,,GOV_MIN_17_1
+GOV_MIN_26,Ground_Daily,Masaken Al Shrouq,0,,GOV_MIN_26_0
+GOV_MIN_26,Ground_Daily,15th of May,1,,GOV_MIN_26_1
+GOV_MIN_37,Ground_Daily,Elecrticity Hospital (Suez Rd),0,,GOV_MIN_37_0
+GOV_MIN_37,Ground_Daily,Kafr Tuhurmis,1,,GOV_MIN_37_1
+GOV_MIN_44,Ground_Daily,Al Nozha Al Gadida,0,,GOV_MIN_44_0
+GOV_MIN_44,Ground_Daily,Matbaa,1,,GOV_MIN_44_1
+GOV_MIN_52,Ground_Daily,Al Mazallaat ( Shubra),0,,GOV_MIN_52_0
+GOV_MIN_52,Ground_Daily,Saft Al Laban,1,,GOV_MIN_52_1
+GOV_MIN_53,Ground_Daily,Masaken Almaza,0,,GOV_MIN_53_0
+GOV_MIN_53,Ground_Daily,Saft Al Laban,1,,GOV_MIN_53_1
+GOV_MIN_57,Ground_Daily,8th District (Nasr City),0,,GOV_MIN_57_0
+GOV_MIN_57,Ground_Daily,Saft Al Laban,1,,GOV_MIN_57_1
+GOV_MIN_74,Ground_Daily,Boulak El-Dakrour,0,,GOV_MIN_74_0
+GOV_MIN_74,Ground_Daily,Suez Bridge Entrance to Ring Road,1,,GOV_MIN_74_1
+GOV_MIN_79,Ground_Daily,Basateen,0,,GOV_MIN_79_0
+GOV_MIN_79,Ground_Daily,Arab Tuweila,1,,GOV_MIN_79_1
+GOV_MIN_80,Ground_Daily,Al Darraasa,0,,GOV_MIN_80_0
+GOV_MIN_80,Ground_Daily,Isko,1,,GOV_MIN_80_1
+GOV_MIN_81,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_81_0
+GOV_MIN_81,Ground_Daily,Kobry Orabi,1,,GOV_MIN_81_1
+GOV_MIN_101,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_101_0
+GOV_MIN_101,Ground_Daily,Rod Al Farag Metro Station,1,,GOV_MIN_101_1
+GOV_MIN_106,Ground_Daily,Attaba,0,,GOV_MIN_106_0
+GOV_MIN_106,Ground_Daily,Salam Station (10th of Ramadan Station),1,,GOV_MIN_106_1
+GOV_MIN_115,Ground_Daily,8th District (Nasr City),0,,GOV_MIN_115_0
+GOV_MIN_115,Ground_Daily,Amiriyyah,1,,GOV_MIN_115_1
+GOV_MIN_125,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_125_0
+GOV_MIN_125,Ground_Daily,Lebanon Square,1,,GOV_MIN_125_1
+GOV_MIN_131,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_131_0
+GOV_MIN_131,Ground_Daily,Rod Al Farag Metro Station,1,,GOV_MIN_131_1
+GOV_MIN_136,Ground_Daily,Al Sayeda Nafeesa,0,,GOV_MIN_136_0
+GOV_MIN_136,Ground_Daily,Naguib Mahfouz Square (1st Settlement),1,,GOV_MIN_136_1
+GOV_MIN_137,Ground_Daily,Qawmeya Arabeya,0,,GOV_MIN_137_0
+GOV_MIN_137,Ground_Daily,Higher Institute For Hotels & Tourism (Sheraton),1,,GOV_MIN_137_1
+GOV_MIN_138,Ground_Daily,Al Nozha Al Gadida,0,,GOV_MIN_138_0
+GOV_MIN_138,Ground_Daily,Helwan Metro,1,,GOV_MIN_138_1
+GOV_MIN_139,Ground_Daily,Al Sayeda Zeinab,0,,GOV_MIN_139_0
+GOV_MIN_139,Ground_Daily,El-Qawmia,1,,GOV_MIN_139_1
+GOV_MIN_140,Ground_Daily,Rehab Square,0,,GOV_MIN_140_0
+GOV_MIN_140,Ground_Daily,Mohamed Naguib Metro Station,1,,GOV_MIN_140_1
+GOV_MIN_145,Ground_Daily,Al Toob Al Ramly,0,,GOV_MIN_145_0
+GOV_MIN_145,Ground_Daily,Moasasset Al Zakah,1,,GOV_MIN_145_1
+GOV_MIN_149,Ground_Daily,Basateen,0,,GOV_MIN_149_0
+GOV_MIN_149,Ground_Daily,El-Qawmia,1,,GOV_MIN_149_1
+GOV_MIN_153,Ground_Daily,10th District (Nasr City),0,,GOV_MIN_153_0
+GOV_MIN_153,Ground_Daily,Zahraa Ain Shams,1,,GOV_MIN_153_1
+GOV_MIN_202,Ground_Daily,Al Darraasa,0,,GOV_MIN_202_0
+GOV_MIN_202,Ground_Daily,Arab Tuweila,1,,GOV_MIN_202_1
+GOV_MIN_203,Ground_Daily,Al Omraneyya,0,,GOV_MIN_203_0
+GOV_MIN_203,Ground_Daily,Abbassia,1,,GOV_MIN_203_1
+GOV_MIN_211,Ground_Daily,Suez Bridge Entrance to Ring Road,0,,GOV_MIN_211_0
+GOV_MIN_211,Ground_Daily,Kafr Tuhurmis,1,,GOV_MIN_211_1
+GOV_MIN_220,Ground_Daily,Al Ismailiya Square,0,,GOV_MIN_220_0
+GOV_MIN_220,Ground_Daily,Rehab Square,1,,GOV_MIN_220_1
+GOV_MIN_226,Ground_Daily,Al Ahly Sporting Club,0,,GOV_MIN_226_0
+GOV_MIN_226,Ground_Daily,Lebanon Square,1,,GOV_MIN_226_1
+GOV_MIN_255,Ground_Daily,Ramses,0,,GOV_MIN_255_0
+GOV_MIN_255,Ground_Daily,Abou Zaabal,1,,GOV_MIN_255_1
+GOV_MIN_303,Ground_Daily,Mamaleek (Al Manial),0,,GOV_MIN_303_0
+GOV_MIN_303,Ground_Daily,Moasasset Al Zakah,1,,GOV_MIN_303_1
+GOV_MIN_314,Ground_Daily,Rehab Square,0,,GOV_MIN_314_0
+GOV_MIN_314,Ground_Daily,Rod Al Farag Metro Station,1,,GOV_MIN_314_1
+GOV_MIN_333,Ground_Daily,Port Said Square (Maadi),0,,GOV_MIN_333_0
+GOV_MIN_333,Ground_Daily,Al Kahraba St. (Nasr City),1,,GOV_MIN_333_1
+GOV_MIN_355,Ground_Daily,Al Khanka (Al Salam Rd.),0,,GOV_MIN_355_0
+GOV_MIN_355,Ground_Daily,Ataba,1,,GOV_MIN_355_1
+GOV_MIN_404,Ground_Daily,Bashtil (Ring Rd.),0,,GOV_MIN_404_0
+GOV_MIN_404,Ground_Daily,Al Gezira (Al Moqattam),1,,GOV_MIN_404_1
+GOV_MIN_424,Ground_Daily,Al Omraneyya,0,,GOV_MIN_424_0
+GOV_MIN_424,Ground_Daily,Al Zawya Al Hamra,1,,GOV_MIN_424_1
+GOV_MIN_505,Ground_Daily,Ard Al Lewa Steps (26th of July Corridor),0,,GOV_MIN_505_0
+GOV_MIN_505,Ground_Daily,Military Academy Stadium (Sheraton),1,,GOV_MIN_505_1
+GOV_MIN_606,Ground_Daily,Waha Garage (Nasr City),0,,GOV_MIN_606_0
+GOV_MIN_606,Ground_Daily,Al Habib Mosque (Al Barageel),1,,GOV_MIN_606_1
+GOV_MIN_616,Ground_Daily,Kobry Al Qobba,0,,GOV_MIN_616_0
+GOV_MIN_616,Ground_Daily,Al Mothalath (Ahmed Al Zomor St.),1,,GOV_MIN_616_1
+GOV_MIN_700,Ground_Daily,Zewail Rd. (Wahat Rd.),0,,GOV_MIN_700_0
+GOV_MIN_700,Ground_Daily,Al Qanater Al Khayriya,1,,GOV_MIN_700_1
+GOV_MIN_702,Ground_Daily,Ahmed Helmy,0,,GOV_MIN_702_0
+GOV_MIN_702,Ground_Daily,Haram & Marioteya,1,,GOV_MIN_702_1
+GOV_MIN_755,Ground_Daily,Saqr Quraish,0,,GOV_MIN_755_0
+GOV_MIN_755,Ground_Daily,Om Bayoumi,1,,GOV_MIN_755_1
+GOV_MIN_2002,Ground_Daily,Hadabet Al Ahram,0,,GOV_MIN_2002_0
+GOV_MIN_2002,Ground_Daily,Shubra El-Kheima,1,,GOV_MIN_2002_1
+GOV_MIN_2003,Ground_Daily,Misr University for Sciences and Technology (MUST),0,,GOV_MIN_2003_0
+GOV_MIN_2003,Ground_Daily,Qalyub,1,,GOV_MIN_2003_1
+GOV_MIN_7 M,Ground_Daily,Abd Al Moneim Riad,0,,GOV_MIN_7 M_0
+GOV_MIN_7 M,Ground_Daily,Mankaraa Gate (Hadayek Al Ahram),1,,GOV_MIN_7 M_1
+GOV_CTA_123,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_123_0
+GOV_CTA_123,Ground_Daily,Mazlaqan Om Khinan (Al Hawamdeyya),1,,GOV_CTA_123_1
+GOV_CTA_160/,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_160/_0
+GOV_CTA_160/,Ground_Daily,Saqr Quraish,1,,GOV_CTA_160/_1
+GOV_CTA_222,Ground_Daily,Amiriyyah,0,,GOV_CTA_222_0
+GOV_CTA_222,Ground_Daily,Al Warraq,1,,GOV_CTA_222_1
+GOV_CTA_366,Ground_Daily,Ahmed Helmy,0,,GOV_CTA_366_0
+GOV_CTA_366,Ground_Daily,Cairo Airport,1,,GOV_CTA_366_1
+GOV_CTA_573,Ground_Daily,Gardenia (Cairo Suez Rd.),0,,GOV_CTA_573_0
+GOV_CTA_573,Ground_Daily,Moneeb Station,1,,GOV_CTA_573_1
+GOV_CTA_582,Ground_Daily,Al Shaheed Corridor,0,,GOV_CTA_582_0
+GOV_CTA_582,Ground_Daily,Ahmed Saaed Bridge Exit,1,,GOV_CTA_582_1
+GOV_CTA_912,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_CTA_912_0
+GOV_CTA_912,Ground_Daily,Giza Square,1,,GOV_CTA_912_1
+GOV_CTA_955,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_955_0
+GOV_CTA_955,Ground_Daily,El Haykestep,1,,GOV_CTA_955_1
+GOV_CTA_988,Ground_Daily,Ramses,0,,GOV_CTA_988_0
+GOV_CTA_988,Ground_Daily,Badrashen,1,,GOV_CTA_988_1
+GOV_CTA_997,Ground_Daily,Port Said St. (Al Sawah),0,,GOV_CTA_997_0
+GOV_CTA_997,Ground_Daily,Al Kahraba St. (Nasr City),1,,GOV_CTA_997_1
+GOV_CTA_13 - 25,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_13 - 25_0
+GOV_CTA_13 - 25,Ground_Daily,Abbassia,1,,GOV_CTA_13 - 25_1
+GOV_CTA_1011,Ground_Daily,Moneeb Station,0,,GOV_CTA_1011_0
+GOV_CTA_1011,Ground_Daily,Masaken Almaza,1,,GOV_CTA_1011_1
+GOV_CTA_1017,Ground_Daily,Shubra El-Kheima,0,,GOV_CTA_1017_0
+GOV_CTA_1017,Ground_Daily,Ard Al Lewa Steps (26th of July Corridor),1,,GOV_CTA_1017_1
+GOV_CTA_1031,Ground_Daily,Imbaba,0,,GOV_CTA_1031_0
+GOV_CTA_1031,Ground_Daily,Masaken Betcho,1,,GOV_CTA_1031_1
+GOV_CTA_1035,Ground_Daily,Abbaseya,0,,GOV_CTA_1035_0
+GOV_CTA_1035,Ground_Daily,Shubra El-Kheima,1,,GOV_CTA_1035_1
+GOV_CTA_1052,Ground_Daily,Al Mazallaat ( Shubra),0,,GOV_CTA_1052_0
+GOV_CTA_1052,Ground_Daily,Al Qanater Al Khayriya,1,,GOV_CTA_1052_1
+GOV_CTA_1085,Ground_Daily,Bulaq Al Dakrur,0,,GOV_CTA_1085_0
+GOV_CTA_1085,Ground_Daily,Al Gezira (Al Moqattam),1,,GOV_CTA_1085_1
+GOV_CTA_1103,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_CTA_1103_0
+GOV_CTA_1103,Ground_Daily,Shubra El-Kheima,1,,GOV_CTA_1103_1
+GOV_CTA_1125,Ground_Daily,Abbassia,0,,GOV_CTA_1125_0
+GOV_CTA_1125,Ground_Daily,Warraq Al Arab,1,,GOV_CTA_1125_1
+GOV_CTA_1127,Ground_Daily,3rd Settlement Station,0,,GOV_CTA_1127_0
+GOV_CTA_1127,Ground_Daily,Bulaq Al Dakrur,1,,GOV_CTA_1127_1
+GOV_CTA_1142,Ground_Daily,Giza Square,0,,GOV_CTA_1142_0
+GOV_CTA_1142,Ground_Daily,Asmarat,1,,GOV_CTA_1142_1
+GOV_CTA_1145,Ground_Daily,Al Mazallaat ( Shubra),0,,GOV_CTA_1145_0
+GOV_CTA_1145,Ground_Daily,Al Kahraba St. (Nasr City),1,,GOV_CTA_1145_1
+GOV_CTA_1153,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_1153_0
+GOV_CTA_1153,Ground_Daily,Helwan Metro,1,,GOV_CTA_1153_1

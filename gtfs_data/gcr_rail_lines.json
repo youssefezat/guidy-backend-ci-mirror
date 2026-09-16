@@ -1,0 +1,934 @@
+{
+ "generated_from": "OpenStreetMap via Geofabrik Egypt extract (osrm_data/egypt-latest.osm.pbf, already shipped with the backend)",
+ "licence": "ODbL - https://www.openstreetmap.org/copyright",
+ "excluded": {
+  "egyptian_national_railways": "route=train relations carry 3-17 node members against lines with dozens of stations, and no open timetable exists. Routing on it would require inventing departure times.",
+  "alexandria_tram": "Outside the chosen coverage area; Raml line shut for reconstruction January 2026.",
+  "ferries": "Only Nuweiba-Aqaba is mapped; not Cairo river transport.",
+  "west_nile_monorail": "Under construction, no passenger service."
+ },
+ "lines": [
+  {
+   "key": "monorail_east_nile",
+   "short_name": "Monorail",
+   "long_name_en": "East Nile Monorail: Cairo Stadium - Justice City",
+   "long_name_ar": "مونوريل شرق النيل: استاد القاهرة - مدينة العدالة",
+   "route_type": 12,
+   "agency_id": "NAT",
+   "colour": "9C27B0",
+   "opened": "2026-05-06",
+   "service_start": "06:00",
+   "service_end": "18:00",
+   "headway_sec": 600,
+   "dwell_sec": 0,
+   "fare_model": "banded_hops",
+   "fare_bands": [
+    [
+     5,
+     20
+    ],
+    [
+     10,
+     40
+    ],
+    [
+     15,
+     55
+    ],
+    [
+     null,
+     80
+    ]
+   ],
+   "length_km": 56.5,
+   "journey_minutes": 60,
+   "directions": [
+    {
+     "direction_id": 0,
+     "osm_rel": 13186211,
+     "headsign_en": "Justice City",
+     "headsign_ar": "مدينة العدالة",
+     "stations": [
+      {
+       "osm_node": 8153781067,
+       "name_en": "Cairo Stadium",
+       "name_ar": "استاد القاهرة",
+       "lat": 30.071579,
+       "lon": 31.317643
+      },
+      {
+       "osm_node": 13691445047,
+       "name_en": "Hesham Barakat",
+       "name_ar": "هشام بركات",
+       "lat": 30.06347,
+       "lon": 31.321813
+      },
+      {
+       "osm_node": 12206848818,
+       "name_en": "El Azhar University",
+       "name_ar": "جامعة الازهر",
+       "lat": 30.053777,
+       "lon": 31.324722
+      },
+      {
+       "osm_node": 12206826987,
+       "name_en": "The Seventh District",
+       "name_ar": "الحي السابع",
+       "lat": 30.043768,
+       "lon": 31.330912
+      },
+      {
+       "osm_node": 12206833925,
+       "name_en": "El Musheer Ahmed Ismail",
+       "name_ar": "المشير احمد اسماعيل",
+       "lat": 30.045452,
+       "lon": 31.346393
+      },
+      {
+       "osm_node": 12206732996,
+       "name_en": "Jehan el Sadat",
+       "name_ar": "جيهان السادات",
+       "lat": 30.039235,
+       "lon": 31.355478
+      },
+      {
+       "osm_node": 12206762833,
+       "name_en": "Moushir Tantawi",
+       "name_ar": "المشير طنطاوي",
+       "lat": 30.019161,
+       "lon": 31.383307
+      },
+      {
+       "osm_node": 12206733005,
+       "name_en": "One Ninety",
+       "name_ar": "وان ناينتي",
+       "lat": 30.016192,
+       "lon": 31.408974
+      },
+      {
+       "osm_node": 12206759934,
+       "name_en": "Air Force Hospital",
+       "name_ar": "المستشفى الجوي",
+       "lat": 30.01625,
+       "lon": 31.433885
+      },
+      {
+       "osm_node": 12206666398,
+       "name_en": "El Narges",
+       "name_ar": "النرجس",
+       "lat": 30.025445,
+       "lon": 31.459911
+      },
+      {
+       "osm_node": 12206658463,
+       "name_en": "Investors",
+       "name_ar": "المستثمرين",
+       "lat": 30.02531,
+       "lon": 31.490655
+      },
+      {
+       "osm_node": 12204816178,
+       "name_en": "Al Lotus",
+       "name_ar": "اللوتس",
+       "lat": 30.013222,
+       "lon": 31.519531
+      },
+      {
+       "osm_node": 12204802781,
+       "name_en": "Golden Square",
+       "name_ar": "جولدن سكوير",
+       "lat": 30.026962,
+       "lon": 31.533036
+      },
+      {
+       "osm_node": 12204780997,
+       "name_en": "Beit el Watan",
+       "name_ar": "بيت الوطن",
+       "lat": 30.026838,
+       "lon": 31.56059
+      },
+      {
+       "osm_node": 12204760500,
+       "name_en": "Al Fattah al Alim Mosque",
+       "name_ar": "مسجد الفتاح العليم",
+       "lat": 30.024724,
+       "lon": 31.598901
+      },
+      {
+       "osm_node": 12204707793,
+       "name_en": "R1",
+       "name_ar": "الحي R1",
+       "lat": 30.016903,
+       "lon": 31.631
+      },
+      {
+       "osm_node": 8153887878,
+       "name_en": "R2",
+       "name_ar": "الحي R2",
+       "lat": 30.018235,
+       "lon": 31.663366
+      },
+      {
+       "osm_node": 12204710521,
+       "name_en": "Central Business District",
+       "name_ar": "حي المال والاعمال",
+       "lat": 30.017251,
+       "lon": 31.689148
+      },
+      {
+       "osm_node": 8153887919,
+       "name_en": "Art and Culture City",
+       "name_ar": "مدينة الفنون والثقافة",
+       "lat": 30.008035,
+       "lon": 31.725583
+      },
+      {
+       "osm_node": 8153887924,
+       "name_en": "Governmental District",
+       "name_ar": "الحي الحكومي",
+       "lat": 30.007939,
+       "lon": 31.744813
+      },
+      {
+       "osm_node": 12204326294,
+       "name_en": "Misr Mosque",
+       "name_ar": "مسجد مصر",
+       "lat": 29.995276,
+       "lon": 31.750057
+      },
+      {
+       "osm_node": 9887149546,
+       "name_en": "Justice City",
+       "name_ar": "مدينة العدالة",
+       "lat": 30.005941,
+       "lon": 31.77011
+      }
+     ],
+     "hop_seconds": [
+      72,
+      81,
+      92,
+      109,
+      81,
+      253,
+      181,
+      174,
+      197,
+      215,
+      224,
+      146,
+      193,
+      269,
+      233,
+      227,
+      181,
+      266,
+      135,
+      109,
+      165
+     ]
+    },
+    {
+     "direction_id": 1,
+     "osm_rel": 20384125,
+     "headsign_en": "Cairo Stadium",
+     "headsign_ar": "استاد القاهرة",
+     "stations": [
+      {
+       "osm_node": 12204487645,
+       "name_en": "Justice City",
+       "name_ar": "مدينة العدالة",
+       "lat": 30.006006,
+       "lon": 31.770047
+      },
+      {
+       "osm_node": 12204326295,
+       "name_en": "Misr Mosque",
+       "name_ar": "مسجد مصر",
+       "lat": 29.995335,
+       "lon": 31.750142
+      },
+      {
+       "osm_node": 12204679423,
+       "name_en": "Governmental District",
+       "name_ar": "الحي الحكومي",
+       "lat": 30.008018,
+       "lon": 31.744816
+      },
+      {
+       "osm_node": 12204679331,
+       "name_en": "Art and Culture City",
+       "name_ar": "مدينة الفنون والثقافة",
+       "lat": 30.008112,
+       "lon": 31.725582
+      },
+      {
+       "osm_node": 12204710522,
+       "name_en": "Central Business District",
+       "name_ar": "حي المال والاعمال",
+       "lat": 30.017322,
+       "lon": 31.689175
+      },
+      {
+       "osm_node": 12204707225,
+       "name_en": "R2",
+       "name_ar": "الحي R2",
+       "lat": 30.018323,
+       "lon": 31.663357
+      },
+      {
+       "osm_node": 12204707792,
+       "name_en": "R1",
+       "name_ar": "الحي R1",
+       "lat": 30.016989,
+       "lon": 31.631012
+      },
+      {
+       "osm_node": 12204760499,
+       "name_en": "Al Fattah al Alim Mosque",
+       "name_ar": "مسجد الفتاح العليم",
+       "lat": 30.024772,
+       "lon": 31.598783
+      },
+      {
+       "osm_node": 12204780998,
+       "name_en": "Beit el Watan",
+       "name_ar": "بيت الوطن",
+       "lat": 30.026912,
+       "lon": 31.560582
+      },
+      {
+       "osm_node": 12204802780,
+       "name_en": "Golden Square",
+       "name_ar": "جولدن سكوير",
+       "lat": 30.027045,
+       "lon": 31.533039
+      },
+      {
+       "osm_node": 12204816177,
+       "name_en": "Al Lotus",
+       "name_ar": "اللوتس",
+       "lat": 30.013291,
+       "lon": 31.519595
+      },
+      {
+       "osm_node": 12206658462,
+       "name_en": "Investors",
+       "name_ar": "المستثمرين",
+       "lat": 30.025404,
+       "lon": 31.490658
+      },
+      {
+       "osm_node": 12206666397,
+       "name_en": "El Narges",
+       "name_ar": "النرجس",
+       "lat": 30.025525,
+       "lon": 31.459916
+      },
+      {
+       "osm_node": 12206697336,
+       "name_en": "Air Force Hospital",
+       "name_ar": "المستشفى الجوي",
+       "lat": 30.016322,
+       "lon": 31.433885
+      },
+      {
+       "osm_node": 12206733004,
+       "name_en": "One Ninety",
+       "name_ar": "وان ناينتي",
+       "lat": 30.016277,
+       "lon": 31.408971
+      },
+      {
+       "osm_node": 12206762834,
+       "name_en": "Moushir Tantawi",
+       "name_ar": "المشير طنطاوي",
+       "lat": 30.01924,
+       "lon": 31.383336
+      },
+      {
+       "osm_node": 12206732997,
+       "name_en": "Jehan el Sadat",
+       "name_ar": "جيهان السادات",
+       "lat": 30.039231,
+       "lon": 31.355546
+      },
+      {
+       "osm_node": 12206833926,
+       "name_en": "El Musheer Ahmed Ismail",
+       "name_ar": "المشير احمد اسماعيل",
+       "lat": 30.045502,
+       "lon": 31.346385
+      },
+      {
+       "osm_node": 12206826988,
+       "name_en": "The Seventh District",
+       "name_ar": "الحي السابع",
+       "lat": 30.043822,
+       "lon": 31.330887
+      },
+      {
+       "osm_node": 12206848819,
+       "name_en": "El Azhar University",
+       "name_ar": "جامعة الازهر",
+       "lat": 30.05378,
+       "lon": 31.324797
+      },
+      {
+       "osm_node": 13691445046,
+       "name_en": "Hesham Barakat",
+       "name_ar": "هشام بركات",
+       "lat": 30.063498,
+       "lon": 31.321868
+      },
+      {
+       "osm_node": 12206899290,
+       "name_en": "Cairo Stadium",
+       "name_ar": "استاد القاهرة",
+       "lat": 30.071612,
+       "lon": 31.317713
+      }
+     ],
+     "hop_seconds": [
+      165,
+      109,
+      135,
+      266,
+      181,
+      227,
+      233,
+      269,
+      193,
+      146,
+      224,
+      215,
+      197,
+      174,
+      181,
+      253,
+      81,
+      109,
+      92,
+      81,
+      72
+     ]
+    }
+   ],
+   "sources": [
+    "OSM relations 13186211 / 20384125 (ODbL)",
+    "Fares + 06:00-18:00 hours: Egyptian Streets, 9 May 2026",
+    "Length, station count, 60 min journey: Wikipedia / Alstom"
+   ]
+  },
+  {
+   "key": "lrt_capital",
+   "short_name": "LRT",
+   "long_name_en": "Cairo LRT: Adly Mansour - Arts and Culture City",
+   "long_name_ar": "القطار الكهربائي الخفيف: عدلي منصور - مدينة الفنون والثقافة",
+   "route_type": 2,
+   "agency_id": "NAT",
+   "colour": "00897B",
+   "opened": "2022-07-03",
+   "service_start": "05:30",
+   "service_end": "23:30",
+   "headway_sec": 900,
+   "dwell_sec": 0,
+   "fare_model": "banded_hops",
+   "fare_bands": [
+    [
+     3,
+     10
+    ],
+    [
+     7,
+     15
+    ],
+    [
+     null,
+     20
+    ]
+   ],
+   "journey_minutes": 60,
+   "directions": [
+    {
+     "direction_id": 0,
+     "osm_rel": 14350112,
+     "headsign_en": "Arts and Culture City",
+     "headsign_ar": "مدينة الفنون والثقافة",
+     "stations": [
+      {
+       "osm_node": 11925983911,
+       "name_en": "Adly Mansour",
+       "name_ar": "",
+       "lat": 30.14642,
+       "lon": 31.421246
+      },
+      {
+       "osm_node": 11925983927,
+       "name_en": "El-Obour",
+       "name_ar": "",
+       "lat": 30.162936,
+       "lon": 31.481516
+      },
+      {
+       "osm_node": 11925983957,
+       "name_en": "Future",
+       "name_ar": "",
+       "lat": 30.173139,
+       "lon": 31.554071
+      },
+      {
+       "osm_node": 11925740687,
+       "name_en": "El-Shorouk",
+       "name_ar": "",
+       "lat": 30.179538,
+       "lon": 31.605807
+      },
+      {
+       "osm_node": 11925740704,
+       "name_en": "New Heliopolis",
+       "name_ar": "",
+       "lat": 30.184014,
+       "lon": 31.652656
+      },
+      {
+       "osm_node": 11925740728,
+       "name_en": "Badr",
+       "name_ar": "",
+       "lat": 30.175163,
+       "lon": 31.716049
+      },
+      {
+       "osm_node": 11925996776,
+       "name_en": "El-Robaiky",
+       "name_ar": "",
+       "lat": 30.166538,
+       "lon": 31.752507
+      },
+      {
+       "osm_node": 11524576250,
+       "name_en": "Hadayek al-Assema",
+       "name_ar": "حدائق العاصمة",
+       "lat": 30.136679,
+       "lon": 31.806815
+      },
+      {
+       "osm_node": 11524576330,
+       "name_en": "Capital Airport",
+       "name_ar": "",
+       "lat": 30.075872,
+       "lon": 31.782502
+      },
+      {
+       "osm_node": 11925996681,
+       "name_en": "Arts and Culture City",
+       "name_ar": "مدينة الفنون و الثقافة",
+       "lat": 30.013652,
+       "lon": 31.72495
+      }
+     ],
+     "hop_seconds": [
+      400,
+      465,
+      331,
+      298,
+      406,
+      239,
+      407,
+      471,
+      583
+     ]
+    },
+    {
+     "direction_id": 1,
+     "osm_rel": 14350112,
+     "headsign_en": "Adly Mansour",
+     "headsign_ar": "عدلي منصور",
+     "stations": [
+      {
+       "osm_node": 11925996681,
+       "name_en": "Arts and Culture City",
+       "name_ar": "مدينة الفنون و الثقافة",
+       "lat": 30.013652,
+       "lon": 31.72495
+      },
+      {
+       "osm_node": 11524576330,
+       "name_en": "Capital Airport",
+       "name_ar": "",
+       "lat": 30.075872,
+       "lon": 31.782502
+      },
+      {
+       "osm_node": 11524576250,
+       "name_en": "Hadayek al-Assema",
+       "name_ar": "حدائق العاصمة",
+       "lat": 30.136679,
+       "lon": 31.806815
+      },
+      {
+       "osm_node": 11925996776,
+       "name_en": "El-Robaiky",
+       "name_ar": "",
+       "lat": 30.166538,
+       "lon": 31.752507
+      },
+      {
+       "osm_node": 11925740728,
+       "name_en": "Badr",
+       "name_ar": "",
+       "lat": 30.175163,
+       "lon": 31.716049
+      },
+      {
+       "osm_node": 11925740704,
+       "name_en": "New Heliopolis",
+       "name_ar": "",
+       "lat": 30.184014,
+       "lon": 31.652656
+      },
+      {
+       "osm_node": 11925740687,
+       "name_en": "El-Shorouk",
+       "name_ar": "",
+       "lat": 30.179538,
+       "lon": 31.605807
+      },
+      {
+       "osm_node": 11925983957,
+       "name_en": "Future",
+       "name_ar": "",
+       "lat": 30.173139,
+       "lon": 31.554071
+      },
+      {
+       "osm_node": 11925983927,
+       "name_en": "El-Obour",
+       "name_ar": "",
+       "lat": 30.162936,
+       "lon": 31.481516
+      },
+      {
+       "osm_node": 11925983911,
+       "name_en": "Adly Mansour",
+       "name_ar": "",
+       "lat": 30.14642,
+       "lon": 31.421246
+      }
+     ],
+     "hop_seconds": [
+      583,
+      471,
+      407,
+      239,
+      406,
+      298,
+      331,
+      465,
+      400
+     ]
+    }
+   ],
+   "sources": [
+    "OSM relation 14350112 (ODbL)",
+    "05:30-23:30 hours + fare bands: Egypt Independent",
+    "Station list cross-checked against Wikipedia (Cairo Light Rail Transit)"
+   ]
+  },
+  {
+   "key": "lrt_ramadan",
+   "short_name": "LRT",
+   "long_name_en": "Cairo LRT: Adly Mansour - Knowledge City",
+   "long_name_ar": "القطار الكهربائي الخفيف: عدلي منصور - مدينة المعارف",
+   "route_type": 2,
+   "agency_id": "NAT",
+   "colour": "00897B",
+   "opened": "2022-07-03",
+   "service_start": "05:30",
+   "service_end": "23:30",
+   "headway_sec": 900,
+   "dwell_sec": 0,
+   "fare_model": "banded_hops",
+   "fare_bands": [
+    [
+     3,
+     10
+    ],
+    [
+     7,
+     15
+    ],
+    [
+     null,
+     20
+    ]
+   ],
+   "journey_minutes": 40,
+   "directions": [
+    {
+     "direction_id": 0,
+     "osm_rel": 14350101,
+     "headsign_en": "Knowledge City",
+     "headsign_ar": "مدينة المعارف",
+     "stations": [
+      {
+       "osm_node": 8954572010,
+       "name_en": "Adly Mansour",
+       "name_ar": "",
+       "lat": 30.146379,
+       "lon": 31.421261
+      },
+      {
+       "osm_node": 314636753,
+       "name_en": "El-Obour",
+       "name_ar": "",
+       "lat": 30.162892,
+       "lon": 31.481531
+      },
+      {
+       "osm_node": 9885252629,
+       "name_en": "Future",
+       "name_ar": "",
+       "lat": 30.173097,
+       "lon": 31.554078
+      },
+      {
+       "osm_node": 9885252632,
+       "name_en": "El-Shorouk",
+       "name_ar": "",
+       "lat": 30.1795,
+       "lon": 31.605813
+      },
+      {
+       "osm_node": 8953945552,
+       "name_en": "New Heliopolis",
+       "name_ar": "",
+       "lat": 30.183975,
+       "lon": 31.652656
+      },
+      {
+       "osm_node": 8953943083,
+       "name_en": "Badr",
+       "name_ar": "",
+       "lat": 30.174958,
+       "lon": 31.716045
+      },
+      {
+       "osm_node": 8953943113,
+       "name_en": "Industrial Park",
+       "name_ar": "",
+       "lat": 30.203931,
+       "lon": 31.715577
+      },
+      {
+       "osm_node": 8953943104,
+       "name_en": "Knowledge City",
+       "name_ar": "مدينة المعارف",
+       "lat": 30.23069,
+       "lon": 31.691547
+      }
+     ],
+     "hop_seconds": [
+      407,
+      473,
+      336,
+      303,
+      413,
+      216,
+      252
+     ]
+    },
+    {
+     "direction_id": 1,
+     "osm_rel": 14350101,
+     "headsign_en": "Adly Mansour",
+     "headsign_ar": "عدلي منصور",
+     "stations": [
+      {
+       "osm_node": 8953943104,
+       "name_en": "Knowledge City",
+       "name_ar": "مدينة المعارف",
+       "lat": 30.23069,
+       "lon": 31.691547
+      },
+      {
+       "osm_node": 8953943113,
+       "name_en": "Industrial Park",
+       "name_ar": "",
+       "lat": 30.203931,
+       "lon": 31.715577
+      },
+      {
+       "osm_node": 8953943083,
+       "name_en": "Badr",
+       "name_ar": "",
+       "lat": 30.174958,
+       "lon": 31.716045
+      },
+      {
+       "osm_node": 8953945552,
+       "name_en": "New Heliopolis",
+       "name_ar": "",
+       "lat": 30.183975,
+       "lon": 31.652656
+      },
+      {
+       "osm_node": 9885252632,
+       "name_en": "El-Shorouk",
+       "name_ar": "",
+       "lat": 30.1795,
+       "lon": 31.605813
+      },
+      {
+       "osm_node": 9885252629,
+       "name_en": "Future",
+       "name_ar": "",
+       "lat": 30.173097,
+       "lon": 31.554078
+      },
+      {
+       "osm_node": 314636753,
+       "name_en": "El-Obour",
+       "name_ar": "",
+       "lat": 30.162892,
+       "lon": 31.481531
+      },
+      {
+       "osm_node": 8954572010,
+       "name_en": "Adly Mansour",
+       "name_ar": "",
+       "lat": 30.146379,
+       "lon": 31.421261
+      }
+     ],
+     "hop_seconds": [
+      252,
+      216,
+      413,
+      303,
+      336,
+      473,
+      407
+     ]
+    }
+   ],
+   "sources": [
+    "OSM relation 14350101 (ODbL)",
+    "05:30-23:30 hours + fare bands: Egypt Independent",
+    "Station list cross-checked against Wikipedia (Cairo Light Rail Transit)"
+   ]
+  },
+  {
+   "key": "airport_apm",
+   "short_name": "APM",
+   "long_name_en": "Cairo Airport Shuttle: TB1 - TB2 & TB3",
+   "long_name_ar": "مكوك مطار القاهرة: مبنى ١ - مبنى ٢ و ٣",
+   "route_type": 12,
+   "agency_id": "CAI_APM",
+   "colour": "455A64",
+   "opened": null,
+   "service_start": "00:00",
+   "service_end": "23:59",
+   "hours_verified": false,
+   "headway_sec": 420,
+   "dwell_sec": 0,
+   "fare_model": "free",
+   "fare_bands": [
+    [
+     null,
+     0
+    ]
+   ],
+   "journey_minutes": 5,
+   "directions": [
+    {
+     "direction_id": 0,
+     "osm_rel": 11728293,
+     "headsign_en": "TB2 & TB3",
+     "headsign_ar": "مبنى ٢ و ٣",
+     "stations": [
+      {
+       "osm_node": 1640389016,
+       "name_en": "TB1",
+       "name_ar": "",
+       "lat": 30.127256,
+       "lon": 31.403247
+      },
+      {
+       "osm_node": 7984340766,
+       "name_en": "Air Mall",
+       "name_ar": "",
+       "lat": 30.124871,
+       "lon": 31.402952
+      },
+      {
+       "osm_node": 1097799466,
+       "name_en": "Car Park",
+       "name_ar": "",
+       "lat": 30.116421,
+       "lon": 31.401404
+      },
+      {
+       "osm_node": 5287067161,
+       "name_en": "TB2 & TB3",
+       "name_ar": "",
+       "lat": 30.112236,
+       "lon": 31.398405
+      }
+     ],
+     "hop_seconds": [
+      45,
+      162,
+      93
+     ]
+    },
+    {
+     "direction_id": 1,
+     "osm_rel": 11728294,
+     "headsign_en": "TB1",
+     "headsign_ar": "مبنى ١",
+     "stations": [
+      {
+       "osm_node": 5287067161,
+       "name_en": "TB2 & TB3",
+       "name_ar": "",
+       "lat": 30.112236,
+       "lon": 31.398405
+      },
+      {
+       "osm_node": 1097799466,
+       "name_en": "Car Park",
+       "name_ar": "",
+       "lat": 30.116421,
+       "lon": 31.401404
+      },
+      {
+       "osm_node": 7984340766,
+       "name_en": "Air Mall",
+       "name_ar": "",
+       "lat": 30.124871,
+       "lon": 31.402952
+      },
+      {
+       "osm_node": 1640389016,
+       "name_en": "TB1",
+       "name_ar": "",
+       "lat": 30.127256,
+       "lon": 31.403247
+      }
+     ],
+     "hop_seconds": [
+      93,
+      162,
+      45
+     ]
+    }
+   ],
+   "sources": [
+    "OSM relations 11728293 / 11728294 (ODbL)",
+    "Free, 4 stations, 5 minutes: Cairo International Airport",
+    "Operating hours: NOT PUBLISHED -- assumed 24h, see comment above"
+   ]
+  }
+ ]
+}

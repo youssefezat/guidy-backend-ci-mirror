@@ -1,0 +1,389 @@
+{
+    "source":  "OpenStreetMap via Overpass (https://overpass-api.de/api/interpreter)",
+    "licence":  "ODbL - https://www.openstreetmap.org/copyright",
+    "fetched_at":  "2026-09-09T10:10:34",
+    "bbox":  "29.70,30.80,30.35,31.80",
+    "mode_counts":  {
+                        "tram":  0,
+                        "trolleybus":  0,
+                        "minibus":  0,
+                        "light_rail":  0,
+                        "bus":  1,
+                        "share_taxi":  0,
+                        "monorail":  4,
+                        "subway":  8,
+                        "train":  8
+                    },
+    "elements":  [
+                     {
+                         "type":  "relation",
+                         "id":  214280,
+                         "tags":  {
+                                      "ref":  "990",
+                                      "route":  "bus",
+                                      "type":  "route"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  11728293,
+                         "tags":  {
+                                      "duration":  "5",
+                                      "from":  "TB1",
+                                      "name":  "MiniMetro",
+                                      "public_transport:version":  "2",
+                                      "route":  "monorail",
+                                      "to":  "TB2 \u0026 TB3",
+                                      "type":  "route",
+                                      "via":  "Car Park",
+                                      "wikidata":  "Q125142832"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  11728294,
+                         "tags":  {
+                                      "duration":  "5",
+                                      "from":  "TB2 \u0026 TB3",
+                                      "name":  "MiniMetro",
+                                      "public_transport:version":  "2",
+                                      "route":  "monorail",
+                                      "to":  "TB1",
+                                      "type":  "route",
+                                      "via":  "Car Park",
+                                      "wikidata":  "Q125142832"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  13186211,
+                         "tags":  {
+                                      "colour":  "#00309A",
+                                      "name":  "Ø®Ø· Ù…ÙˆÙ†ÙˆØ±ÙŠÙ„ Ø´Ø±Ù‚ Ø§Ù„Ù†ÙŠÙ„",
+                                      "name:en":  "East Nile line: Stadium â†’ New Capital",
+                                      "name:fr":  "ligne de monorail du Nil oriental",
+                                      "network":  "Ù…ÙˆÙ†ÙˆØ±ÙŠÙ„ Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©",
+                                      "public_transport:version":  "2",
+                                      "route":  "monorail",
+                                      "type":  "route",
+                                      "wikidata":  "Q138807842"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  20384125,
+                         "tags":  {
+                                      "colour":  "#00309A",
+                                      "name":  "Ø®Ø· Ù…ÙˆÙ†ÙˆØ±ÙŠÙ„ Ø´Ø±Ù‚ Ø§Ù„Ù†ÙŠÙ„",
+                                      "name:en":  "East Nile line: New Capital â†’ Stadium",
+                                      "name:fr":  "ligne de monorail du Nil oriental",
+                                      "network":  "Ù…ÙˆÙ†ÙˆØ±ÙŠÙ„ Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©",
+                                      "network:wikidata":  "Q104850852",
+                                      "public_transport:version":  "2",
+                                      "route":  "monorail",
+                                      "type":  "route",
+                                      "wikidata":  "Q138807842"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  421705,
+                         "tags":  {
+                                      "from":  "Ø­Ù„ÙˆØ§Ù†",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø£ÙˆÙ„",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø£ÙˆÙ„",
+                                      "name:de":  "Erste Metrolinie",
+                                      "name:en":  "Line 1: Helwan â†’ New El-Marg",
+                                      "name:fr":  "Ligne 1 : Helwan â†’ New El-Marg",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "1",
+                                      "route":  "subway",
+                                      "to":  "Ø§Ù„Ù…Ø±Ø¬ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017774",
+                                      "wikipedia":  "en:Cairo Metro Line 1"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  421706,
+                         "tags":  {
+                                      "colour":  "#FF7000",
+                                      "from":  "Ø§Ù„Ù…Ù†ÙŠØ¨",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù†ÙŠ : Ø§Ù„Ù…Ù†ÙŠØ¨â€Ž â† Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©â€Ž",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù†ÙŠ : Ø§Ù„Ù…Ù†ÙŠØ¨â€Ž â† Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©â€Ž",
+                                      "name:de":  "Linie 2: El Mounib â†’ Shubra El-Kheima",
+                                      "name:en":  "Line 2: El Mounib â†’ Shubra El-Kheima",
+                                      "name:fr":  "Ligne 2 : El Mounib â†’ Shubra El-Kheima",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "2",
+                                      "route":  "subway",
+                                      "to":  "Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017773",
+                                      "wikipedia":  "en:Cairo Metro Line 2"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  2063304,
+                         "tags":  {
+                                      "colour":  "#00AF23",
+                                      "from":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø« : Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ± â† Ø§Ù„ÙƒÙŠØª ÙƒØ§Øª",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø«",
+                                      "name:de":  "Linie 3",
+                                      "name:en":  "Line 3: Adly Mansour â†’ Kit-kat",
+                                      "name:fr":  "Ligne 3 : Adli Mansour â†’ Kit-kat",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "3",
+                                      "route":  "subway",
+                                      "to":  "Ø§Ù„Ø¹ØªØ¨Ø©",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017776",
+                                      "wikipedia":  "en:Cairo Metro Line 3"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  2826217,
+                         "tags":  {
+                                      "from":  "Ø§Ù„Ù…Ø±Ø¬ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø£ÙˆÙ„",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø£ÙˆÙ„",
+                                      "name:de":  "Erste Metrolinie",
+                                      "name:en":  "Line 1: New El-Marg â†’ Helwan",
+                                      "name:fr":  "Ligne 1 : New El-Marg â†’ Helwan",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "1",
+                                      "route":  "subway",
+                                      "to":  "Ø­Ù„ÙˆØ§Ù†",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017774",
+                                      "wikipedia":  "en:Cairo Metro Line 1"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  7686561,
+                         "tags":  {
+                                      "colour":  "#00AF23",
+                                      "from":  "Ø§Ù„Ø¹ØªØ¨Ø©",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø« : Ø§Ù„ÙƒÙŠØª ÙƒØ§Øª â† Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø«",
+                                      "name:de":  "Linie 3",
+                                      "name:en":  "Line 3: Kit-kat â†’ Adly Mansour",
+                                      "name:fr":  "Ligne 3 : Kit-kat â†’ Adli Mansour",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "3",
+                                      "route":  "subway",
+                                      "to":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017776",
+                                      "wikipedia":  "en:Cairo Metro Line 3"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  7927231,
+                         "tags":  {
+                                      "colour":  "#FF7000",
+                                      "from":  "Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù†ÙŠ : Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©â€Ž â† Ø§Ù„Ù…Ù†ÙŠØ¨",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù†ÙŠ : Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©â€Ž â† Ø§Ù„Ù…Ù†ÙŠØ¨",
+                                      "name:de":  "Linie 2: Shubra El-Kheima â†’ El Mounib",
+                                      "name:en":  "Line 2: Shubra El-Kheima â†’ El Mounib",
+                                      "name:fr":  "Ligne 2 : Shubra El-Kheima â†’ El Mounib",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "2",
+                                      "route":  "subway",
+                                      "to":  "Ø§Ù„Ù…Ù†ÙŠØ¨",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017773",
+                                      "wikipedia":  "en:Cairo Metro Line 2"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  17625744,
+                         "tags":  {
+                                      "colour":  "#00AF23",
+                                      "from":  "Ø§Ù„Ø¹ØªØ¨Ø©",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø« : Ø§Ù„ÙƒÙŠØª ÙƒØ§Øª â† Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø«",
+                                      "name:de":  "Linie 3: UniversitÃ¤t Kairo â†’ Adli Mansur",
+                                      "name:en":  "Line 3: Cairo University â†’ Adly Mansour",
+                                      "name:fr":  "Ligne 3 : UniversitÃ© du Caire â†’ Adli Mansour",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "3",
+                                      "route":  "subway",
+                                      "to":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017776",
+                                      "wikipedia":  "en:Cairo Metro Line 3"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  17625746,
+                         "tags":  {
+                                      "colour":  "#00AF23",
+                                      "from":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "name":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø« : Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ± â† Ø¬Ø§Ù…Ø¹Ø© Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©",
+                                      "name:ar":  "Ø§Ù„Ø®Ø· Ø§Ù„Ø«Ø§Ù„Ø«",
+                                      "name:de":  "Linie 3: Adli Mansur â†’ UniversitÃ¤t Kairo",
+                                      "name:en":  "Line 3: Adly Mansour â†’ Cairo University",
+                                      "name:fr":  "Ligne 3 : Adli Mansour â†’ UniversitÃ© du Caire",
+                                      "network":  "Ø§Ù„Ø´Ø±ÙƒØ© Ø§Ù„Ù…ØµØ±ÙŠØ© Ù„Ø¥Ø¯Ø§Ø±Ø© ÙˆØªØ´ØºÙŠÙ„ Ø§Ù„Ù…ØªØ±Ùˆ",
+                                      "public_transport:version":  "2",
+                                      "ref":  "3",
+                                      "route":  "subway",
+                                      "to":  "Ø¬Ø§Ù…Ø¹Ø© Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©",
+                                      "type":  "route",
+                                      "wikidata":  "Q5017776",
+                                      "wikipedia":  "en:Cairo Metro Line 3"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  280689,
+                         "tags":  {
+                                      "name":  "Ø®Ø· Ø§Ù„Ø¥Ø³ÙƒÙ†Ø¯Ø±ÙŠØ©-Ø£Ø³ÙˆØ§Ù†",
+                                      "name:ar":  "Ø®Ø· Ø§Ù„Ø¥Ø³ÙƒÙ†Ø¯Ø±ÙŠØ©-Ø£Ø³ÙˆØ§Ù†",
+                                      "name:de":  "Alexandria-Assuan-Linie",
+                                      "name:en":  "Alexandria-Aswan line",
+                                      "name:fr":  "Ligne Alexandrie-Assouan",
+                                      "network":  "EG-railway",
+                                      "public_transport:version":  "2",
+                                      "route":  "train",
+                                      "type":  "route"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  5300628,
+                         "tags":  {
+                                      "name":  "Ø®Ø· Ø§Ù„Ø§Ø³Ù…Ø§Ø¹ÙŠÙ„ÙŠØ©-Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©",
+                                      "name:ar":  "Ø®Ø· Ø§Ù„Ø§Ø³Ù…Ø§Ø¹ÙŠÙ„ÙŠØ©-Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©",
+                                      "name:de":  "Ismailia-Cairo Linie",
+                                      "name:en":  "Ismailia-Cairo line",
+                                      "name:fr":  "Ligne Ismailia-Cairo",
+                                      "network":  "EG-railway",
+                                      "note":  "Arabic name was translated with online tools might be incorrect",
+                                      "public_transport:version":  "2",
+                                      "route":  "train",
+                                      "type":  "route"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  5300629,
+                         "tags":  {
+                                      "name":  "Mansoura-Cairo line",
+                                      "network":  "EG-railway",
+                                      "public_transport:version":  "2",
+                                      "route":  "train",
+                                      "type":  "route"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  14350100,
+                         "tags":  {
+                                      "colour":  "darkred",
+                                      "from":  "Ù…Ø¯ÙŠÙ†Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ù",
+                                      "name":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "name:en":  "Cairo Light Rail Transit: Adly Mansour â†’ Knowledge City",
+                                      "name:fr":  "Service branche Ramadan (Adly Mansour â†’ Knowledge City)",
+                                      "network":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "network:wikidata":  "Q89843133",
+                                      "operator":  "RATP Dev",
+                                      "public_transport:version":  "2",
+                                      "ref":  "LRT",
+                                      "route":  "train",
+                                      "to":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "type":  "route",
+                                      "wikidata":  "Q125121893"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  14350101,
+                         "tags":  {
+                                      "colour":  "darkred",
+                                      "from":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "name":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "name:en":  "Cairo Light Rail Transit: Knowledge City â†’ Adly Mansour",
+                                      "name:fr":  "Service branche Ramadan (Knowledge City â†’ Adly Mansour)",
+                                      "network":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "operator":  "RATP Dev",
+                                      "public_transport:version":  "2",
+                                      "ref":  "LRT",
+                                      "route":  "train",
+                                      "to":  "Ù…Ø¯ÙŠÙ†Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ù",
+                                      "type":  "route",
+                                      "wikidata":  "Q125121893"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  14350102,
+                         "tags":  {
+                                      "colour":  "darkred",
+                                      "duration":  "45",
+                                      "from":  "Ù…Ø¯ÙŠÙ†Ø© Ø§Ù„ÙÙ†ÙˆÙ† Ùˆ Ø§Ù„Ø«Ù‚Ø§ÙØ©",
+                                      "name":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "name:en":  "Cairo Light Rail Transit",
+                                      "name:fr":  "branche Nouvelle Capitale Administrative (vers A. Mansour)",
+                                      "network":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "operator":  "RATP Dev",
+                                      "public_transport:version":  "2",
+                                      "ref":  "LRT",
+                                      "route":  "train",
+                                      "to":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "type":  "route",
+                                      "wikidata":  "Q125123069"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  14350112,
+                         "tags":  {
+                                      "colour":  "darkred",
+                                      "duration":  "45",
+                                      "from":  "Ø¹Ø¯Ù„Ù‰ Ù…Ù†ØµÙˆØ±",
+                                      "name":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "name:en":  "Cairo Light Rail Transit",
+                                      "name:fr":  "branche Nouvelle Capitale Administrative (vers N. Cap. Adm.))",
+                                      "network":  "Ø§Ù„Ù‚Ø·Ø§Ø± Ø§Ù„ÙƒÙ‡Ø±Ø¨Ø§Ø¦ÙŠ Ø§Ù„Ø®ÙÙŠÙ",
+                                      "operator":  "RATP Dev",
+                                      "public_transport:version":  "2",
+                                      "ref":  "LRT",
+                                      "route":  "train",
+                                      "to":  "Ù…Ø¯ÙŠÙ†Ø© Ø§Ù„ÙÙ†ÙˆÙ† Ùˆ Ø§Ù„Ø«Ù‚Ø§ÙØ©",
+                                      "type":  "route",
+                                      "wikidata":  "Q125123069"
+                                  }
+                     },
+                     {
+                         "type":  "relation",
+                         "id":  20675797,
+                         "tags":  {
+                                      "from":  "Mansoura",
+                                      "name":  "Mansoura-Cairo line",
+                                      "network":  "EG-railway",
+                                      "public_transport:version":  "2",
+                                      "route":  "train",
+                                      "to":  "Cairo",
+                                      "type":  "route"
+                                  }
+                     }
+                 ]
+}

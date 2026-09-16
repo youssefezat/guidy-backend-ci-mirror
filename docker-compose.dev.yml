@@ -1,0 +1,24 @@
+# Local development overlay. NOT loaded automatically -- pass it explicitly:
+#
+#   docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --build backend
+#
+# WHY THIS FILE EXISTS
+#
+# docker-compose.yml publishes no ports for the backend, on purpose: only
+# Caddy is meant to be reachable from outside the server. That is right for
+# production and fatal for the Android emulator, which reaches the host at
+# 10.0.2.2:8000 and finds nothing listening -- the app shows "Couldn't load
+# lines right now" while the container is perfectly healthy.
+#
+# Deliberately NOT named docker-compose.override.yml. Compose loads that one
+# automatically, which would mean checking out this repo on the server and
+# silently exposing the backend to the internet. Requiring -f makes local
+# development the thing you opt into, rather than production hardening the
+# thing you can forget to opt out of.
+services:
+  backend:
+    ports:
+      # Bound to 127.0.0.1, never 0.0.0.0. The emulator's 10.0.2.2 is an
+      # alias for the host's loopback, so loopback-only is enough for it and
+      # still refuses anything off the machine.
+      - "127.0.0.1:8000:8000"

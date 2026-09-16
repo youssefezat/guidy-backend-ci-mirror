@@ -1,0 +1,152 @@
+name: CI
+
+# WHY THIS EXISTS
+#
+# Until now nothing in this repo was ever built or tested anywhere except
+# one Windows machine. The 82-test suite passes there, which proves it
+# passes there -- not that a fresh checkout of what is actually committed
+# passes anywhere. Those are different claims, and only the second one is
+# worth anything when someone else clones this or when it is defended.
+#
+# Every push now runs the suite on a clean Ubuntu runner against nothing
+# but what git actually contains.
+
+on:
+  push:
+    branches: [main, "ci/**", "feat/**", "fix/**"]
+  pull_request:
+    branches: [main]
+  workflow_dispatch: # lets you (or `gh workflow run ci.yml`) trigger it by hand
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # The suite loads the real GTFS feed from gtfs_data/, which IS
+      # committed (including osrm_edge_cache.json). No OSRM server is
+      # reachable from a runner, and that is fine on purpose: the engine
+      # falls back to haversine for interchange edges when OSRM is absent,
+      # so this also proves the fallback path stays working.
+      - name: Run the routing engine test suite
+        run: python -m unittest test_routing_engine.py -v
+
+      # Every other test_*.py (live tracking, OSRM client with a fake server,
+      # API endpoints through TestClient, gov-route matching, feed geometry,
+      # and the whole-feed sweeps: every route plannable, every Lines-screen
+      # route connected and drawable). About 2.5 minutes on one runner.
+      - name: Run the remaining backend test suites
+        env:
+          USE_OSRM: "false"
+        run: |
+          pip install pytest httpx
+          python -m pytest -q --durations=5 --ignore=test_routing_engine.py
+
+  # The feed is generated data, not hand-maintained: build_rail_gtfs.py
+  # rewrites seven files in gtfs_data/ from gcr_rail_lines.json. If someone
+  # edits a stop by hand, the committed feed and its generator drift apart
+  # silently and the next regeneration quietly reverts the edit.
+  #
+  # Re-running the generator and diffing is the cheapest possible guard
+  # against that: it is idempotent by construction (it strips every RL_ row
+  # before writing), so a clean tree afterwards is the invariant.
+  feed-matches-generator:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Regenerate the rail rows
+        run: python build_rail_gtfs.py gtfs_data
+
+      - name: Feed must match what the generator produces
+        run: |
+          if ! git diff --quiet -- gtfs_data/; then
+            echo "::error::gtfs_data/ differs from what build_rail_gtfs.py produces."
+            echo "Either re-run 'python build_rail_gtfs.py gtfs_data' and commit the result,"
+            echo "or make the change in gtfs_data/gcr_rail_lines.json instead of by hand."
+            git diff --stat -- gtfs_data/
+            exit 1
+          fi
+          echo "gtfs_data/ is in sync with its generator."
+
+  # The unittest suite covers the routing engine. Nothing covered main.py,
+  # so the FastAPI layer had only ever run inside a Docker container on one
+  # machine -- and FastAPI does real work at import time that an engine
+  # test never reaches. Two rail endpoints were added without being started
+  # even once.
+  api-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Boot the API and exercise every endpoint
+        env:
+          GTFS_PATH: gtfs_data
+          # No OSRM server on a runner. The engine falls back to haversine
+          # for interchange edges, so this also keeps that path exercised;
+          # leaving it on just means waiting out connection timeouts.
+          USE_OSRM: "false"
+          # The smoke test makes ~15 requests in a few seconds and the
+          # default limit is 30/minute -- close enough to trip on a slow
+          # runner and fail for a reason that has nothing to do with the code.
+          RATE_LIMIT_PER_MINUTE: "500"
+        run: |
+          python -m uvicorn main:app --host 127.0.0.1 --port 8000 > uvicorn.log 2>&1 &
+          for i in $(seq 1 40); do
+            sleep 2
+            curl -sf -o /dev/null http://127.0.0.1:8000/api/health && break
+          done
+          python api_smoke_test.py
+
+      - name: Server log (on failure)
+        if: failure()
+        run: cat uvicorn.log
+
+  # Builds and runs the actual deployment artifact. docker-compose.yml has
+  # no source mount, so the image is what production serves -- editing a
+  # .py file changes nothing until this is rebuilt, which has already
+  # caused one confusing round of "the fix isn't working".
+  docker-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - run: docker build -t guidy-backend:ci .
+
+      # The Dockerfile defaults GTFS_PATH to /data/gtfs, which compose
+      # supplies by mounting ./gtfs_data. Standalone there is no mount, but
+      # `COPY . .` already placed the feed at /app/gtfs_data -- so point at
+      # that rather than reproducing the compose plumbing here.
+      - name: Run the image and check it serves
+        run: |
+          docker run -d --name guidy-ci -p 8000:8000 \
+            -e GTFS_PATH=/app/gtfs_data -e USE_OSRM=false guidy-backend:ci
+          for i in $(seq 1 40); do
+            sleep 2
+            curl -sf http://127.0.0.1:8000/api/health && break
+          done
+          curl -sf http://127.0.0.1:8000/api/health | grep -q '"status":"ok"'
+          echo "container serves /api/health"
+
+      - name: Container log (on failure)
+        if: failure()
+        run: docker logs guidy-ci || true

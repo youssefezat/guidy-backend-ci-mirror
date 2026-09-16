@@ -1,0 +1,178 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-09T07:07:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 421705,
+  "tags": {
+    "from": "حلوان",
+    "name": "الخط الأول",
+    "name:ar": "الخط الأول",
+    "name:de": "Erste Metrolinie",
+    "name:en": "Line 1: Helwan → New El-Marg",
+    "name:fr": "Ligne 1 : Helwan → New El-Marg",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "1",
+    "route": "subway",
+    "to": "المرج الجديدة",
+    "type": "route",
+    "wikidata": "Q5017774",
+    "wikipedia": "en:Cairo Metro Line 1"
+  }
+},
+{
+  "type": "relation",
+  "id": 421706,
+  "tags": {
+    "colour": "#FF7000",
+    "from": "المنيب",
+    "name": "الخط الثاني : المنيب‎ ← شبرا الخيمة‎",
+    "name:ar": "الخط الثاني : المنيب‎ ← شبرا الخيمة‎",
+    "name:de": "Linie 2: El Mounib → Shubra El-Kheima",
+    "name:en": "Line 2: El Mounib → Shubra El-Kheima",
+    "name:fr": "Ligne 2 : El Mounib → Shubra El-Kheima",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "to": "شبرا الخيمة",
+    "type": "route",
+    "wikidata": "Q5017773",
+    "wikipedia": "en:Cairo Metro Line 2"
+  }
+},
+{
+  "type": "relation",
+  "id": 2063304,
+  "tags": {
+    "colour": "#00AF23",
+    "from": "عدلى منصور",
+    "name": "الخط الثالث : عدلى منصور ← الكيت كات",
+    "name:ar": "الخط الثالث",
+    "name:de": "Linie 3",
+    "name:en": "Line 3: Adly Mansour → Kit-kat",
+    "name:fr": "Ligne 3 : Adli Mansour → Kit-kat",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "العتبة",
+    "type": "route",
+    "wikidata": "Q5017776",
+    "wikipedia": "en:Cairo Metro Line 3"
+  }
+},
+{
+  "type": "relation",
+  "id": 2826217,
+  "tags": {
+    "from": "المرج الجديدة",
+    "name": "الخط الأول",
+    "name:ar": "الخط الأول",
+    "name:de": "Erste Metrolinie",
+    "name:en": "Line 1: New El-Marg → Helwan",
+    "name:fr": "Ligne 1 : New El-Marg → Helwan",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "1",
+    "route": "subway",
+    "to": "حلوان",
+    "type": "route",
+    "wikidata": "Q5017774",
+    "wikipedia": "en:Cairo Metro Line 1"
+  }
+},
+{
+  "type": "relation",
+  "id": 7686561,
+  "tags": {
+    "colour": "#00AF23",
+    "from": "العتبة",
+    "name": "الخط الثالث : الكيت كات ← عدلى منصور",
+    "name:ar": "الخط الثالث",
+    "name:de": "Linie 3",
+    "name:en": "Line 3: Kit-kat → Adly Mansour",
+    "name:fr": "Ligne 3 : Kit-kat → Adli Mansour",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "عدلى منصور",
+    "type": "route",
+    "wikidata": "Q5017776",
+    "wikipedia": "en:Cairo Metro Line 3"
+  }
+},
+{
+  "type": "relation",
+  "id": 7927231,
+  "tags": {
+    "colour": "#FF7000",
+    "from": "شبرا الخيمة",
+    "name": "الخط الثاني : شبرا الخيمة‎ ← المنيب",
+    "name:ar": "الخط الثاني : شبرا الخيمة‎ ← المنيب",
+    "name:de": "Linie 2: Shubra El-Kheima → El Mounib",
+    "name:en": "Line 2: Shubra El-Kheima → El Mounib",
+    "name:fr": "Ligne 2 : Shubra El-Kheima → El Mounib",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "to": "المنيب",
+    "type": "route",
+    "wikidata": "Q5017773",
+    "wikipedia": "en:Cairo Metro Line 2"
+  }
+},
+{
+  "type": "relation",
+  "id": 17625744,
+  "tags": {
+    "colour": "#00AF23",
+    "from": "العتبة",
+    "name": "الخط الثالث : الكيت كات ← عدلى منصور",
+    "name:ar": "الخط الثالث",
+    "name:de": "Linie 3: Universität Kairo → Adli Mansur",
+    "name:en": "Line 3: Cairo University → Adly Mansour",
+    "name:fr": "Ligne 3 : Université du Caire → Adli Mansour",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "عدلى منصور",
+    "type": "route",
+    "wikidata": "Q5017776",
+    "wikipedia": "en:Cairo Metro Line 3"
+  }
+},
+{
+  "type": "relation",
+  "id": 17625746,
+  "tags": {
+    "colour": "#00AF23",
+    "from": "عدلى منصور",
+    "name": "الخط الثالث : عدلى منصور ← جامعة القاهرة",
+    "name:ar": "الخط الثالث",
+    "name:de": "Linie 3: Adli Mansur → Universität Kairo",
+    "name:en": "Line 3: Adly Mansour → Cairo University",
+    "name:fr": "Ligne 3 : Adli Mansour → Université du Caire",
+    "network": "الشركة المصرية لإدارة وتشغيل المترو",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "جامعة القاهرة",
+    "type": "route",
+    "wikidata": "Q5017776",
+    "wikipedia": "en:Cairo Metro Line 3"
+  }
+}
+
+  ]
+}

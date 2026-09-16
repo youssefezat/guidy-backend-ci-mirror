@@ -1,0 +1,3 @@
+monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_id
+1,1,1,1,1,1,1,20250101,20261231,Ground_Daily
+1,1,1,1,0,0,1,20250101,20261231,Ground_Weekdays

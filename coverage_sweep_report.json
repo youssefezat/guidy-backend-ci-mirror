@@ -1,0 +1,160 @@
+{
+  "method": "24 named Greater Cairo urban centres; all ordered OD pairs; Wednesday 09:00; direct engine; OSRM disabled",
+  "endpoint_coverage_percent": 100.0,
+  "transit_assisted_od_percent": 100.0,
+  "complete_transit_od_percent": 100.0,
+  "points": 24,
+  "ordered_pairs": 552,
+  "endpoint_coverage": {
+    "6th October": {
+      "covered": true,
+      "snap_distance_m": 364.57944265826745
+    },
+    "Sheikh Zayed": {
+      "covered": true,
+      "snap_distance_m": 719.012054662413
+    },
+    "Smart Village": {
+      "covered": true,
+      "snap_distance_m": 1344.412823910835
+    },
+    "Giza / Haram": {
+      "covered": true,
+      "snap_distance_m": 85.0721463426184
+    },
+    "Faisal": {
+      "covered": true,
+      "snap_distance_m": 4.568935352400577
+    },
+    "Dokki": {
+      "covered": true,
+      "snap_distance_m": 136.62669961164022
+    },
+    "Mohandessin": {
+      "covered": true,
+      "snap_distance_m": 57.58049287829782
+    },
+    "Zamalek": {
+      "covered": true,
+      "snap_distance_m": 63.19246344079691
+    },
+    "Downtown": {
+      "covered": true,
+      "snap_distance_m": 40.58828878010658
+    },
+    "Shubra El Kheima": {
+      "covered": true,
+      "snap_distance_m": 1.9828366726854758
+    },
+    "Rod El Farag": {
+      "covered": true,
+      "snap_distance_m": 114.04368954677793
+    },
+    "Heliopolis": {
+      "covered": true,
+      "snap_distance_m": 35.414031802386965
+    },
+    "Nasr City": {
+      "covered": true,
+      "snap_distance_m": 404.74155642341594
+    },
+    "Abbas El Akkad": {
+      "covered": true,
+      "snap_distance_m": 230.74960148593735
+    },
+    "Mokattam": {
+      "covered": true,
+      "snap_distance_m": 1134.4745979836057
+    },
+    "Maadi": {
+      "covered": true,
+      "snap_distance_m": 3.3118045879296942
+    },
+    "Helwan": {
+      "covered": true,
+      "snap_distance_m": 5.343442169323272
+    },
+    "New Cairo": {
+      "covered": true,
+      "snap_distance_m": 615.9948882916846
+    },
+    "Rehab": {
+      "covered": true,
+      "snap_distance_m": 1016.8388724062055
+    },
+    "Madinaty": {
+      "covered": true,
+      "snap_distance_m": 2515.1313930190736
+    },
+    "El Shorouk": {
+      "covered": true,
+      "snap_distance_m": 107.31850986367743
+    },
+    "Obour": {
+      "covered": true,
+      "snap_distance_m": 1007.1299193669387
+    },
+    "Badr": {
+      "covered": true,
+      "snap_distance_m": 97.7174519010009
+    },
+    "New Administrative Capital": {
+      "covered": true,
+      "snap_distance_m": 2262.911530149358
+    }
+  },
+  "origin_success_percent": {
+    "6th October": 100.0,
+    "Sheikh Zayed": 100.0,
+    "Smart Village": 100.0,
+    "Giza / Haram": 100.0,
+    "Faisal": 100.0,
+    "Dokki": 100.0,
+    "Mohandessin": 100.0,
+    "Zamalek": 100.0,
+    "Downtown": 100.0,
+    "Shubra El Kheima": 100.0,
+    "Rod El Farag": 100.0,
+    "Heliopolis": 100.0,
+    "Nasr City": 100.0,
+    "Abbas El Akkad": 100.0,
+    "Mokattam": 100.0,
+    "Maadi": 100.0,
+    "Helwan": 100.0,
+    "New Cairo": 100.0,
+    "Rehab": 100.0,
+    "Madinaty": 100.0,
+    "El Shorouk": 100.0,
+    "Obour": 100.0,
+    "Badr": 100.0,
+    "New Administrative Capital": 100.0
+  },
+  "destination_success_percent": {
+    "6th October": 100.0,
+    "Sheikh Zayed": 100.0,
+    "Smart Village": 100.0,
+    "Giza / Haram": 100.0,
+    "Faisal": 100.0,
+    "Dokki": 100.0,
+    "Mohandessin": 100.0,
+    "Zamalek": 100.0,
+    "Downtown": 100.0,
+    "Shubra El Kheima": 100.0,
+    "Rod El Farag": 100.0,
+    "Heliopolis": 100.0,
+    "Nasr City": 100.0,
+    "Abbas El Akkad": 100.0,
+    "Mokattam": 100.0,
+    "Maadi": 100.0,
+    "Helwan": 100.0,
+    "New Cairo": 100.0,
+    "Rehab": 100.0,
+    "Madinaty": 100.0,
+    "El Shorouk": 100.0,
+    "Obour": 100.0,
+    "Badr": 100.0,
+    "New Administrative Capital": 100.0
+  },
+  "failures": [],
+  "partial_itineraries": []
+}

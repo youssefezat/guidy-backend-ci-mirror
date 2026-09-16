@@ -1,0 +1,11 @@
+﻿.git
+.venv
+__pycache__
+*.pyc
+osrm_data/
+osrm_car/
+osrm_foot/
+gtfs_data.backup*
+coverage_gaps.jsonl
+*.xlsx
+server.log

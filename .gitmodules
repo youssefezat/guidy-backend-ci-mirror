@@ -1,0 +1,3 @@
+[submodule "transit_digital_cairo_source"]
+	path = transit_digital_cairo_source
+	url = https://github.com/transportforcairo/Transit---GCR-Digital-Cairo-2017-.git

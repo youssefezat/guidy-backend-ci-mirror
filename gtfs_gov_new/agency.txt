@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone
+GOV_CTA,Cairo Governorate published bus routes (reconstructed),https://www.cairo.gov.eg/,Africa/Cairo
+GOV_CTA_M,Cairo Governorate published minibus routes (reconstructed),https://www.cairo.gov.eg/,Africa/Cairo

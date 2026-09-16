@@ -1,0 +1,22 @@
+{$DOMAIN} {
+	# Caddy handles the TLS certificate (Let's Encrypt) automatically for
+	# {$DOMAIN} the first time it starts, and renews it in the background --
+	# nothing else to configure here. Requires DOMAIN in .env to already be
+	# a real domain with an A record pointed at this server's public IP.
+
+	encode gzip
+
+	reverse_proxy backend:8000
+
+	# Basic security headers -- cheap to add, no downside for an API.
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+	}
+
+	log {
+		output stdout
+		format console
+	}
+}

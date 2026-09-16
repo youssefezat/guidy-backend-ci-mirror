@@ -1,0 +1,1945 @@
+route_id,service_id,trip_headsign,direction_id,shape_id,trip_id
+P_O_14_IG076,Ground_Daily,Nahda City,0,P_O_14_IG076_R_Shape,P_O_14_IG076_R
+p3-8qu3UivDvTp0cckEVG,Ground_Daily,Haram Talbeya,1,WlyxFoUGEmOwnigxzisOe_Shape,WlyxFoUGEmOwnigxzisOe
+CTA_M_112,Ground_Daily,Masaken Sheraton,0,CTA_M_112_O_Shape,CTA_M_112_O
+P_O_14_CA033,Ground_Daily,Alf Maskan,1,P_O_14_CA033_R_Shape,P_O_14_CA033_R
+P_O_14_IC008,Ground_Daily,Hossary,1,P_O_14_IC008_R_Shape,P_O_14_IC008_R
+P_B_8_NC011,Ground_Daily,Al Shabab Entrance,0,P_B_8_NC011_O_Shape,P_B_8_NC011_O
+FptsKvc-vW3cBoVWdYDUL,Ground_Daily,Ahmed Helmy,1,KL6LiAhzGnxertX9Ff5PL_Shape,KL6LiAhzGnxertX9Ff5PL
+COOP_IC024,Ground_Daily,Al-Salam (10th of Ramadan),1,COOP_IC024_O_Shape,COOP_IC024_O
+yW2PB6nRIGF3AW92oa9Kq,Ground_Daily,Sheikh Zayed General Hospital,0,XVQbEYXGijXqhWsDJIFQS_Shape,XVQbEYXGijXqhWsDJIFQS
+5uY9vir47u3ABX4ON8Tf3,Ground_Daily,Moassasa,0,nBQyEcOdSAZz-ivOI1I0Z_Shape,nBQyEcOdSAZz-ivOI1I0Z
+P_O_14_GZ016,Ground_Daily,Al Warraq,1,P_O_14_GZ016_R_Shape,P_O_14_GZ016_R
+P_O_14_GZ032,Ground_Daily,Kerdasa,1,P_O_14_GZ032_R_Shape,P_O_14_GZ032_R
+iPmb6Kx9epuWwMHetjCnF,Ground_Daily,Al-Salam (10th of Ramadan),0,VuaXfDvuhTYJ-TYWaJa76_Shape,VuaXfDvuhTYJ-TYWaJa76
+P_O_14_IC023,Ground_Daily,Gas (Banks Area),1,P_O_14_IC023_R_Shape,P_O_14_IC023_R
+FptsKvc-vW3cBoVWdYDUL,Ground_Daily,Akher Tersa,0,gjJQWZi93W-mwaLf0GMEK_Shape,gjJQWZi93W-mwaLf0GMEK
+P_O_14_IC051,Ground_Daily,New Cairo Court,1,P_O_14_IC051_O_Shape,P_O_14_IC051_O
+s9b5Iic4NtV_eorQzj73e,Ground_Daily,Al-Salam (10th of Ramadan),0,VRqsromYJpfiy-qVTSxfk_Shape,VRqsromYJpfiy-qVTSxfk
+LNhgToq2DsZoXTXPK8G9d,Ground_Daily,Nahda City,1,lXEko31zzBDalexCQcqNR_Shape,lXEko31zzBDalexCQcqNR
+WiQa8bXpeSlLhEC1SUwGb,Ground_Daily,Al-Salam (10th of Ramadan),1,-_VpN7mgRZ3gJMkTAlCYj_Shape,-_VpN7mgRZ3gJMkTAlCYj
+COOP_IG080,Ground_Daily,Al Shari' Al Gadeed  (Bahteem),1,COOP_IG080_R_Shape,COOP_IG080_R
+I30E1wTMc3MAmoOQniW3h,Ground_Daily,10th District (Nasr City),0,UmoIJOVG88DhijzVHsBiG_Shape,UmoIJOVG88DhijzVHsBiG
+P_O_14_IG066,Ground_Daily,Ramses,1,P_O_14_IG066_R_Shape,P_O_14_IG066_R
+Ci3EuISJ24C8rXJIGK05p,Ground_Daily,Nahda City,0,1tN6IsX2M24xR-xZ1ykFM_Shape,1tN6IsX2M24xR-xZ1ykFM
+CTA_1145,Ground_Daily,Tagneed (Al Remaya),1,CTA_1145_R_Shape,CTA_1145_R
+LNhgToq2DsZoXTXPK8G9d,Ground_Daily,Bulaq Al Dakrur,0,znS5J7q3CNP1rdEZ4vkJK_Shape,znS5J7q3CNP1rdEZ4vkJK
+WLDxjQ-KCsznJV1tiaAUM,Ground_Daily,Mazallat,1,i-8uarZ8JxAXRjAG9CXTF_Shape,i-8uarZ8JxAXRjAG9CXTF
+kRpR7tVa5mkJF71MQgxHN,Ground_Daily,Hadaba Wosta (Moqattam),1,7GQl2A2SxfqKgVVcqTb5j_Shape,7GQl2A2SxfqKgVVcqTb5j
+P_B_8_CA148,Ground_Daily,Al Marg Police,0,P_B_8_CA148_O_Shape,P_B_8_CA148_O
+CTA_1025,Ground_Daily,15th of May,0,CTA_1025_O_Shape,CTA_1025_O
+CTA_317,Ground_Daily,Al-Salam (10th of Ramadan),0,CTA_317_O_Shape,CTA_317_O
+CTA_1107,Ground_Daily,Imbaba,0,CTA_1107_O_Shape,CTA_1107_O
+P_B_8_6O026,Ground_Daily,7th District (6th of October),1,P_B_8_6O026_R_Shape,P_B_8_6O026_R
+CYBtB1fCo1hBspOu6rrgm,Ground_Daily,Al-Salam (10th of Ramadan),0,I3zs3cC48xNwYipPBSVOf_Shape,I3zs3cC48xNwYipPBSVOf
+Eib3Hm9Na_KFRfgk0ykjn,Ground_Daily,Gas (Banks Area),1,EVMTmhBeTDkD2Bnd_ejr8_Shape,EVMTmhBeTDkD2Bnd_ejr8
+BOX_6O006,Ground_Daily,Hossary,1,BOX_6O006_R_Shape,BOX_6O006_R
+CTA_1018,Ground_Daily,Ahmed Helmy,0,CTA_1018_O_Shape,CTA_1018_O
+2EAwBcn3IACPZ0xefVHUM,Ground_Daily,New Marg,1,YaJquxQOxVS7keebUeubh_Shape,YaJquxQOxVS7keebUeubh
+CTA_1009,Ground_Daily,Attaba,1,CTA_1009_R_Shape,CTA_1009_R
+CTA_912-1048,Ground_Daily,7th District (Nasr City),1,CTA_912or1048_R_Shape,CTA_912or1048_R
+wMjyQ7gRXkx7VXHzsFwCf,Ground_Daily,Al Shari' Al Gadeed  (Bahteem),0,1-LdWzFVbChn8FY-dPvXs_Shape,1-LdWzFVbChn8FY-dPvXs
+P_O_14_GZ007,Ground_Daily,Dandy Mall,0,P_O_14_GZ007_O_Shape,P_O_14_GZ007_O
+P_O_14_CA011,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA011_R_Shape,P_O_14_CA011_R
+3tz5zeyxwhFrOyUkh7Ywp,Ground_Daily,Hossary,1,lNMyNTvbU0KjkbsJTHaL3_Shape,lNMyNTvbU0KjkbsJTHaL3
+CTA_794,Ground_Daily,Masaken Sheraton,1,CTA_794_R_Shape,CTA_794_R
+CTA_1005,Ground_Daily,Dawaran Shubra,1,CTA_1005_R_Shape,CTA_1005_R
+mwUKKpciQEKn_H2kOT4BD,Ground_Daily,Znen (Awwel Al Eshreen),1,7ejWuP8z_-yXEIrG9P8V3_Shape,7ejWuP8z_-yXEIrG9P8V3
+1FhB0pHnV9BOvKm0Ob-wB,Ground_Daily,Hossary,1,AfDp8Lw8bHWxnh6Hl9cuC_Shape,AfDp8Lw8bHWxnh6Hl9cuC
+EwqAOaw248bX7cqrouzx3,Ground_Daily,Masallah Al Gadeda (Matareyya),0,vVcgD2JTe21Zaahlos0TS_Shape,vVcgD2JTe21Zaahlos0TS
+6rjmU4VqdB1ooUUa9jZiN,Ground_Daily,Al Shorouq,1,Fv7f1MMCDUnncE-sll5Wm_Shape,Fv7f1MMCDUnncE-sll5Wm
+CYBtB1fCo1hBspOu6rrgm,Ground_Daily,Rehab - Gate 13 - 12,1,ZesCeeINq5ELkiEeKwyBZ_Shape,ZesCeeINq5ELkiEeKwyBZ
+dJMk38hnkQqjWUx8GExQu,Ground_Daily,Rawda Mosque  (Obour),1,8SkG5rSD-6qVr0uWhMn-X_Shape,8SkG5rSD-6qVr0uWhMn-X
+ZDNaajF6Sze97Dcd-UimA,Ground_Daily,10th District (Nasr City),0,_MUBI27IvfizNOys4qHWP_Shape,_MUBI27IvfizNOys4qHWP
+dQV3G9JYKsRk7qTtx6qZF,Ground_Daily,Remaya (New Mashaal),0,a47PxSF1PyufcStMBcnNh_Shape,a47PxSF1PyufcStMBcnNh
+CTA_1073,Ground_Daily,Amr Ibn El Aas,1,CTA_1073_R_Shape,CTA_1073_R
+eNaYFATGV4nFM2ODEQGb5,Ground_Daily,Attaba,1,n_5Ch2ca9rn5mOS5TkQeD_Shape,n_5Ch2ca9rn5mOS5TkQeD
+GX87T1pzMtRxYekSSN02o,Ground_Daily,Shabab (Obour),1,tuR6V0Tr7bxE4m6dObmRZ_Shape,tuR6V0Tr7bxE4m6dObmRZ
+P_O_14_IG089,Ground_Daily,Znen (Awwel Al Eshreen),0,P_O_14_IG089_O_Shape,P_O_14_IG089_O
+CTA_65,Ground_Daily,8th District (Nasr City) - Al tabba,0,CTA_65_O_Shape,CTA_65_O
+s2yaV54cOOS0xeyQpkTZl,Ground_Daily,3rd Settlement  (New Cairo),0,XNopAbb9eJNPDjMBcE0b6_Shape,XNopAbb9eJNPDjMBcE0b6
+CTA_317,Ground_Daily,Badr City,1,CTA_317_R_Shape,CTA_317_R
+BOX_6O022,Ground_Daily,Industrial Zone 3,0,BOX_6O022_O_Shape,BOX_6O022_O
+49Lt1kKFfGCSPZKc8R4LQ,Ground_Daily,Wizarat District - New Administrative Capital,0,49Lt1kKFfGCSPZKc8R4LQ_O_Shape,49Lt1kKFfGCSPZKc8R4LQ_O
+Dy5kofrNjrAu73mDsw5Vk,Ground_Daily,10th District (Nasr City),0,SXx8fXX75-BaX8cOUYj4D_Shape,SXx8fXX75-BaX8cOUYj4D
+CTA_1083,Ground_Daily,Abd Al Moneim Riad,1,CTA_1083_R_Shape,CTA_1083_R
+CTA_990,Ground_Daily,Motseian,1,CTA_990_R_Shape,CTA_990_R
+CTA_1063,Ground_Daily,Zahraa Ain Shams,1,CTA_1063_R_Shape,CTA_1063_R
+CTA_1053,Ground_Daily,7th District (Nasr City),1,CTA_1053_R_Shape,CTA_1053_R
+aPqU-5Zq_31ywCFAxL2wE,Ground_Daily,Alf Maskan,1,dFWoSyUx9VeTsDoZOeb6L_Shape,dFWoSyUx9VeTsDoZOeb6L
+8zZN-__0-7PufjS2ZVRSA,Ground_Daily,Saqr Quraish,1,QJcvUl1VUfHX8_uJE8iFh_Shape,QJcvUl1VUfHX8_uJE8iFh
+S7vV1gLrYMRDA3sRxXeNY,Ground_Daily,Ahmed Helmy,0,rWdpX9jtqOMwxxecbbgjk_Shape,rWdpX9jtqOMwxxecbbgjk
+krefFO7pEgU4JkYMwWveO,Ground_Daily,Rehab - Gate 6,1,DApo8Lo9E1zCAx-JnLmaH_Shape,DApo8Lo9E1zCAx-JnLmaH
+5n-gry5iuNS4TUoZAFqXI,Ground_Daily,Rehab - Gate 6,1,PmWJUPOFpmKcT200Qq2Xd_Shape,PmWJUPOFpmKcT200Qq2Xd
+INAVDyd7BcSqbkwQ6JoJO,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,_M38QLuDvPQ_W2yRL5mRc_Shape,_M38QLuDvPQ_W2yRL5mRc
+CTA_1019,Ground_Daily,1st Settlement (New Cairo),0,CTA_1019_O_Shape,CTA_1019_O
+CTA_1047,Ground_Daily,Badr (Sheikh Zayed),0,CTA_1047_O_Shape,CTA_1047_O
+CTA_1005,Ground_Daily,Obour Market,0,CTA_1005_O_Shape,CTA_1005_O
+COOP_QA005,Ground_Daily,Moassasa,0,COOP_QA005_O_Shape,COOP_QA005_O
+CTA_1021,Ground_Daily,Imbaba,0,CTA_1021_O_Shape,CTA_1021_O
+CTA_975,Ground_Daily,Hegaz Square,1,CTA_975_R_Shape,CTA_975_R
+CTA_1018,Ground_Daily,3rd Settlement  (New Cairo),1,CTA_1018_R_Shape,CTA_1018_R
+CTA_44S-1042,Ground_Daily,Zahraa Ain Shams,0,CTA_44Sor1042_O_Shape,CTA_44Sor1042_O
+P_O_14_CA139,Ground_Daily,Helwan Metro,1,P_O_14_CA139_R_Shape,P_O_14_CA139_R
+ht0GgjSAbF0kdmnExj5Yz,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),1,9W3iyPYNsRzSoaetpx5gM_Shape,9W3iyPYNsRzSoaetpx5gM
+PqnyKZvgBfy2DlGQ-9usu,Ground_Daily,Helwan,1,4_qcGUGy3Wzn_B5S3qmS-_Shape,4_qcGUGy3Wzn_B5S3qmS-
+CTA_1118,Ground_Daily,Tagneed (Al Remaya),0,CTA_1118_O_Shape,CTA_1118_O
+P_O_14_GZ052,Ground_Daily,Ard El Lewaa,0,P_O_14_GZ052_O_Shape,P_O_14_GZ052_O
+CTA_1148,Ground_Daily,Isbiko,1,CTA_1148_R_Shape,CTA_1148_R
+0Ey4XgPAt58ikVvQZvr-a,Ground_Daily,Helwan,0,usg2lmtF9UuZnhyFAm1GY_Shape,usg2lmtF9UuZnhyFAm1GY
+CTA_1019,Ground_Daily,Masaken Zeinhom,1,CTA_1019_R_Shape,CTA_1019_R
+CTA_530,Ground_Daily,Qalyoub,0,CTA_530_O_Shape,CTA_530_O
+1uALlQYE7WZs28gRvdky_,Ground_Daily,Gas (Banks Area),0,LZcoEjiWrbaH8VgnGch2L_Shape,LZcoEjiWrbaH8VgnGch2L
+COOP_GZ028,Ground_Daily,Giza Square,0,COOP_GZ028_O_Shape,COOP_GZ028_O
+8jTTZgEIrhAYkvpLjD0fe,Ground_Daily,Gas (Banks Area),0,isPw6PhzKEDeLTr5I-7vr_Shape,isPw6PhzKEDeLTr5I-7vr
+y4xb6nE-WNerPhWcnvsM0,Ground_Daily,Gas (Banks Area),1,hAWqVS5969NMnqsZRMTiA_Shape,hAWqVS5969NMnqsZRMTiA
+vUkl6qQJBMrkeq2TumXP0,Ground_Daily,Moneeb Konayyesa,0,lH6vRkFxg-QF9PngEPTIy_Shape,lH6vRkFxg-QF9PngEPTIy
+CTA_1083,Ground_Daily,Obour,0,CTA_1083_O_Shape,CTA_1083_O
+CTA_945-1082,Ground_Daily,Masaken Ain Shams,0,CTA_945or1082_O_Shape,CTA_945or1082_O
+WLDxjQ-KCsznJV1tiaAUM,Ground_Daily,Al Qanatir Al Khayriyyah,0,-KXBWd6BGupvyORSKjMaX_Shape,-KXBWd6BGupvyORSKjMaX
+yh9YPjdcnPYlRsZtyNbb5,Ground_Daily,New Marg,1,7YroNlF6ClpQ16Am79uAH_Shape,7YroNlF6ClpQ16Am79uAH
+fPRBf1K3K_qq6lfyMtz0d,Ground_Daily,New Marg,0,qUQGCGQ8XO8pQivgvrYXw_Shape,qUQGCGQ8XO8pQivgvrYXw
+CTA_92-1050,Ground_Daily,Imbaba,0,CTA_92or1050_O_Shape,CTA_92or1050_O
+CTA_306,Ground_Daily,Amiriya,1,CTA_306_R_Shape,CTA_306_R
+dJMk38hnkQqjWUx8GExQu,Ground_Daily,New Marg,0,GfRnG1RbUVDJ6mNhgB54e_Shape,GfRnG1RbUVDJ6mNhgB54e
+P_O_14_IG068,Ground_Daily,Giza Square,0,P_O_14_IG068_O_Shape,P_O_14_IG068_O
+CTA_1128,Ground_Daily,Mazallat,0,CTA_1128_O_Shape,CTA_1128_O
+-jATAbzzhiwEzrFjPHt6K,Ground_Daily,New Marg,1,ZLGgUAAmO2pthh3VsP4dN_Shape,ZLGgUAAmO2pthh3VsP4dN
+sqx1SY5Zgo0LoyC1SMQf2,Ground_Daily,Zahraa Madinet Nasr,0,rkyPhSyQKg-5TvCDgJhg0_Shape,rkyPhSyQKg-5TvCDgJhg0
+sX7EyGGLBt2OzYRcGGO74,Ground_Daily,New Marg,1,Do0-pjCAalxT5YKcBGtb6_Shape,Do0-pjCAalxT5YKcBGtb6
+U12iA-JAJn3HecabkdSeW,Ground_Daily,Al Warraq,0,jQ64f8tN97d_QL03BADkT_Shape,jQ64f8tN97d_QL03BADkT
+Zy8zeMtNXeBpZrtvM4kDl,Ground_Daily,Matareya Square,1,YyiVEYu_1hH69dh94lRA3_Shape,YyiVEYu_1hH69dh94lRA3
+gIGWDwJ1h2hbMhbXxMgt-,Ground_Daily,New Marg,0,z7mnvVbBrdUm2rqPC1ar0_Shape,z7mnvVbBrdUm2rqPC1ar0
+ezpn_pLZwURzLcKbgLGqy,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,HgGpMtRt3tMXqMy-0bGL0_Shape,HgGpMtRt3tMXqMy-0bGL0
+hRA5S5Z-BPCDxu2DCpfVS,Ground_Daily,New Marg,1,vYGnDwsHfuDhP0X7EQuAL_Shape,vYGnDwsHfuDhP0X7EQuAL
+COOP_GZ006,Ground_Daily,Giza Square,0,COOP_GZ006_O_Shape,COOP_GZ006_O
+COOP_GZ011,Ground_Daily,Lebanon Square,1,COOP_GZ011_R_Shape,COOP_GZ011_R
+zdqlYRVdftBHIeoVbaRin,Ground_Daily,Ramses,0,75z339d09_Er4AOy81rDy_Shape,75z339d09_Er4AOy81rDy
+PqnyKZvgBfy2DlGQ-9usu,Ground_Daily,Zahraa Madinet Nasr,0,eBOdmX_KGutUi0_tmS6JD_Shape,eBOdmX_KGutUi0_tmS6JD
+31lxQf5nIa80ffeAkBjMH,Ground_Daily,Al-Salam (10th of Ramadan),1,ftSQadIGL_3hY0lGpm2hq_Shape,ftSQadIGL_3hY0lGpm2hq
+l45Z_rte2W7zMPDfJsvgF,Ground_Daily,Hadaba Wosta (Moqattam),0,PyVXpQlIbQTtGcoEbvded_Shape,PyVXpQlIbQTtGcoEbvded
+AWvboTfFAFIfUgBcz8N8_,Ground_Daily,Isaaf,0,gfPIlccDp7gHHN0ee2DIi_Shape,gfPIlccDp7gHHN0ee2DIi
+YNiBQqmS39eoratamiEeJ,Ground_Daily,Al-Salam (10th of Ramadan),1,peDJPFVjdmU9OXrpgiOQ7_Shape,peDJPFVjdmU9OXrpgiOQ7
+hRA5S5Z-BPCDxu2DCpfVS,Ground_Daily,AUC Bus,0,03DoNTkN7gRhNwPDazhTG_Shape,03DoNTkN7gRhNwPDazhTG
+sKigzosL3Acf4HBsP24lt,Ground_Daily,Al Hamd Square,1,h5BqZqlexFCnSFXQjIuhG_Shape,h5BqZqlexFCnSFXQjIuhG
+UfIjTN8B9qEE30WQYajlo,Ground_Daily,Al Hamd Square,1,LE33PNs66RVDOUFIk8oMm_Shape,LE33PNs66RVDOUFIk8oMm
+sX7EyGGLBt2OzYRcGGO74,Ground_Daily,Akher Faisal,0,YpBx1HnQEL8lk6aMIxeZA_Shape,YpBx1HnQEL8lk6aMIxeZA
+qQ8CZf6wkbvSMMGKizEwd,Ground_Daily,Qalyoub Exit,1,qEF8eik78d4VbshO1Ciq0_Shape,qEF8eik78d4VbshO1Ciq0
+CTA_46,Ground_Daily,Masaken Helmeyet Al Zaitoun,1,CTA_46_R_Shape,CTA_46_R
+s2yaV54cOOS0xeyQpkTZl,Ground_Daily,Attaba,1,5gyw36cefu1VdJH5j8xRk_Shape,5gyw36cefu1VdJH5j8xRk
+P_O_14_GZ034,Ground_Daily,Imbaba,0,P_O_14_GZ034_O_Shape,P_O_14_GZ034_O
+CTA_987,Ground_Daily,Badrasheen,0,CTA_987_O_Shape,CTA_987_O
+Va6aQT0gwfU48MBTXdWwi,Ground_Daily,Maadi Metro,0,4XuaA3hKxjdzkZEB8_jZF_Shape,4XuaA3hKxjdzkZEB8_jZF
+y4xb6nE-WNerPhWcnvsM0,Ground_Daily,Qalyoub Exit,0,MR3BX9KprGUGSGoP74l3H_Shape,MR3BX9KprGUGSGoP74l3H
+s9b5Iic4NtV_eorQzj73e,Ground_Daily,Cairo Alexandria Agriculture Road,0,h15g_H31JAZgnoHG1Q2U__Shape,h15g_H31JAZgnoHG1Q2U_
+2GAYQWfWuEdIk5hhjFe2Q,Ground_Daily,Ahmed Helmy,0,lrxpSO2B-k1Nh3xuWuNjk_Shape,lrxpSO2B-k1Nh3xuWuNjk
+gWKGZfIReAwR3-_sXN468,Ground_Daily,Qalyoub Exit,0,TMPZgsTPhNXFxMUj2p9HB_Shape,TMPZgsTPhNXFxMUj2p9HB
+P_B_8_CA099,Ground_Daily,New Marg,1,P_B_8_CA099_R_Shape,P_B_8_CA099_R
+CTA_1134,Ground_Daily,Moneeb,0,CTA_1134_O_Shape,CTA_1134_O
+P_O_14_CA085,Ground_Daily,7th District (Nasr City),1,P_O_14_CA085_R_Shape,P_O_14_CA085_R
+KJH0c5fBJqypfRMmg6cgr,Ground_Daily,Nahda City,1,uOCmUvml31gJ95iLhLd6R_Shape,uOCmUvml31gJ95iLhLd6R
+CTA_321,Ground_Daily,Khanka,0,CTA_321_O_Shape,CTA_321_O
+CTA_1021,Ground_Daily,8th District (Nasr City) - Al tabba,1,CTA_1021_R_Shape,CTA_1021_R
+P_B_8_6O025,Ground_Daily,Al Mostaqbal Entrance,0,P_B_8_6O025_O_Shape,P_B_8_6O025_O
+P_O_14_GZ045,Ground_Daily,Imbaba,0,P_O_14_GZ045_O_Shape,P_O_14_GZ045_O
+FxOFHTgsZx0eekbWPaB7N,Ground_Daily,Nahda City,0,B_1U1Krc3ps8scXhqhDJe_Shape,B_1U1Krc3ps8scXhqhDJe
+CTA_530,Ground_Daily,Cairo Airport,1,CTA_530_R_Shape,CTA_530_R
+T7BWm7IBJwclTVfKGA8P-,Ground_Daily,Ramses,1,kPdmObifS9Cb85VcOncHz_Shape,kPdmObifS9Cb85VcOncHz
+nfTyUrX7ZdSJk5J-tHCx9,Ground_Daily,Badr City,0,9dm8A3ClaFrBFj912SpnH_Shape,9dm8A3ClaFrBFj912SpnH
+c3UcQoq3-K4VbxrHfMQ55,Ground_Daily,Orabi Bridge,1,PWHNHkKVCW88e-RGJt1eT_Shape,PWHNHkKVCW88e-RGJt1eT
+FxOFHTgsZx0eekbWPaB7N,Ground_Daily,Imbaba,1,WtH5XLvJ0jxQVjQuSvRTz_Shape,WtH5XLvJ0jxQVjQuSvRTz
+P_O_14_IG097,Ground_Daily,Al Sayeda Zeinab,1,P_O_14_IG097_R_Shape,P_O_14_IG097_R
+8zZN-__0-7PufjS2ZVRSA,Ground_Daily,Al-Salam (10th of Ramadan),0,0Fm3onI0q67oSDEGgEpGR_Shape,0Fm3onI0q67oSDEGgEpGR
+P_O_14_IC038,Ground_Daily,Sphinx Airport,0,P_O_14_IC038_O_Shape,P_O_14_IC038_O
+EhNM80xhORC_NDg_20VLW,Ground_Daily,Al-Salam (10th of Ramadan),0,axPSO1To68OR4Jkfo8GxA_Shape,axPSO1To68OR4Jkfo8GxA
+CBawsLpBIIydAXnIUEdNh,Ground_Daily,Al-Salam (10th of Ramadan),0,rAPkQsdKEX0YEc59cYA4s_Shape,rAPkQsdKEX0YEc59cYA4s
+Rq6lJWJ6BtMfkKyWFKuSv,Ground_Daily,Al-Salam (10th of Ramadan),0,6wDSekYvdJT45n3Z4nky7_Shape,6wDSekYvdJT45n3Z4nky7
+P_O_14_GZ021,Ground_Daily,Madinat Al Talaba (Imbaba),0,P_O_14_GZ021_O_Shape,P_O_14_GZ021_O
+kA8n--UIK-e5xqdLFPHKs,Ground_Daily,Al-Salam (10th of Ramadan),0,4Jdoe4DLJ3Q4kzicMKBEA_Shape,4Jdoe4DLJ3Q4kzicMKBEA
+GHSOgF6amUGK8ac9n6HDF,Ground_Daily,Al-Salam (10th of Ramadan),1,yFbsaN9ojpnav0eqgOsGA_Shape,yFbsaN9ojpnav0eqgOsGA
+DClfXOL0aW73BQGJeM5yZ,Ground_Daily,Al-Salam (10th of Ramadan),0,AloU0eAj5ugy_uwqaXv0r_Shape,AloU0eAj5ugy_uwqaXv0r
+5n-gry5iuNS4TUoZAFqXI,Ground_Daily,Al-Salam (10th of Ramadan),0,9hdds1Yh3c5qEaXF1FYdA_Shape,9hdds1Yh3c5qEaXF1FYdA
+VcyJ3Cygkrd6BpKY5hhzC,Ground_Daily,Maadi Metro,0,Ptr63w-CVFwMvcAiWiEzQ_Shape,Ptr63w-CVFwMvcAiWiEzQ
+P_O_14_CA126,Ground_Daily,Kilo 4 & Half,0,P_O_14_CA126_O_Shape,P_O_14_CA126_O
+dOSjy2LRc3erAam81oIco,Ground_Daily,Kerdasa,1,JbrdkL6vijLXNgis_i2E7_Shape,JbrdkL6vijLXNgis_i2E7
+dQV3G9JYKsRk7qTtx6qZF,Ground_Daily,Al-Salam (10th of Ramadan),1,LWkRhHittggLFENJ55eoc_Shape,LWkRhHittggLFENJ55eoc
+XdCl81relei_UyeDojycn,Ground_Daily,Masaken Zeinhom,0,VbrmzYpvyqK27lZzKYnlF_Shape,VbrmzYpvyqK27lZzKYnlF
+3tz5zeyxwhFrOyUkh7Ywp,Ground_Daily,Al-Salam (10th of Ramadan),0,JXo-xWRWB5_SfbcSvUU0N_Shape,JXo-xWRWB5_SfbcSvUU0N
+CTA_940S,Ground_Daily,Salam Alexandria,0,CTA_940S_O_Shape,CTA_940S_O
+P_B_8_NC015,Ground_Daily,Kattameya (Mahmoudeya),1,P_B_8_NC015_R_Shape,P_B_8_NC015_R
+CTA_1097,Ground_Daily,7th District (Nasr City),0,CTA_1097_O_Shape,CTA_1097_O
+TpYarSDEAgegRqTp_xFUV,Ground_Daily,Al-Salam (10th of Ramadan),1,ecGTFsfJDPcQZJfUzmOJm_Shape,ecGTFsfJDPcQZJfUzmOJm
+lwOCQWwxGYT5NrsJbZAqU,Ground_Daily,Al-Salam (10th of Ramadan),0,3xuzV6_p5BcJhEB_7TCv1_Shape,3xuzV6_p5BcJhEB_7TCv1
+CTA_1087,Ground_Daily,Abou Wafya,0,CTA_1087_O_Shape,CTA_1087_O
+wVSEsc9QL4aBYHVv-Spy9,Ground_Daily,Bulaq Al Dakrur,0,LyX97Y53j7hDUVamtamp3_Shape,LyX97Y53j7hDUVamtamp3
+CTA_3G,Ground_Daily,Darrasa,1,CTA_3G_R_Shape,CTA_3G_R
+CTA_342,Ground_Daily,Al Magzar (Mariouteya),0,CTA_342_O_Shape,CTA_342_O
+CTA_1047,Ground_Daily,Abd Al Moneim Riad,1,CTA_1047_R_Shape,CTA_1047_R
+P_O_14_IG044,Ground_Daily,New Marg,1,P_O_14_IG044_R_Shape,P_O_14_IG044_R
+0Ey4XgPAt58ikVvQZvr-a,Ground_Daily,Al-Salam (10th of Ramadan),1,Wum-kA4i9Rs343uAQCkvR_Shape,Wum-kA4i9Rs343uAQCkvR
+P_O_14_IC012,Ground_Daily,Zahraa Madinet Nasr,1,P_O_14_IC012_O_Shape,P_O_14_IC012_O
+DhUww9NFJ-S-MKhxVBuN7,Ground_Daily,Al-Salam (10th of Ramadan),0,4Jblqu8KB33UUHafLDyIV_Shape,4Jblqu8KB33UUHafLDyIV
+aLrT5j0aQaI9mR_I4nxYy,Ground_Daily,Mazallat,1,rMZqUrt7brTZ7bfJ_bItX_Shape,rMZqUrt7brTZ7bfJ_bItX
+P_O_14_CA161,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_CA161_O_Shape,P_O_14_CA161_O
+-pzqD_9pESIJi9DBe5yJq,Ground_Daily,Al-Salam (10th of Ramadan),0,XXo9AdW8osvE1i2g_9AT1_Shape,XXo9AdW8osvE1i2g_9AT1
+udOvMoeRiZwiZFRRbXCiq,Ground_Daily,New Marg,1,YCkaeQxiOx4jG5tgvgrxY_Shape,YCkaeQxiOx4jG5tgvgrxY
+CTA_507,Ground_Daily,Masaken Sheraton,1,CTA_507_R_Shape,CTA_507_R
+P_O_14_IG051,Ground_Daily,Remaya Square,1,P_O_14_IG051_R_Shape,P_O_14_IG051_R
+sK63J6jAOvBBc3IX-hjeh,Ground_Daily,Al-Salam (10th of Ramadan),1,CYb-eXrN-edFpW_Csvk4x_Shape,CYb-eXrN-edFpW_Csvk4x
+uhDYU4IhrHBkjjsbJNRx2,Ground_Daily,New Marg,0,rqv6KxE8qYSbJ-a4xcXsK_Shape,rqv6KxE8qYSbJ-a4xcXsK
+P_O_14_CA001,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA001_R_Shape,P_O_14_CA001_R
+yh9YPjdcnPYlRsZtyNbb5,Ground_Daily,Marioteya & Ring Rd,0,aR6HjyQtiUOyheCXMyzQF_Shape,aR6HjyQtiUOyheCXMyzQF
+P_O_14_CA126,Ground_Daily,Matareya Square,1,P_O_14_CA126_R_Shape,P_O_14_CA126_R
+CTA_370,Ground_Daily,Abbasseya,0,CTA_370_O_Shape,CTA_370_O
+K1dlRvEAwUViQaG-pJKjN,Ground_Daily,New Marg,1,MMgKmLZgT8vN9or1SGoWr_Shape,MMgKmLZgT8vN9or1SGoWr
+Ogi2rh_OlSM2h_wvvLGkk,Ground_Daily,Masaken Ain Shams,0,baZXV2ZAVAlV2IhH2uK3S_Shape,baZXV2ZAVAlV2IhH2uK3S
+GX87T1pzMtRxYekSSN02o,Ground_Daily,Moassasa,0,KhdzK1P9QSKguNs0YRHwz_Shape,KhdzK1P9QSKguNs0YRHwz
+8RI-aNmJq8pcth5IxMf8T,Ground_Daily,Abou Zaabal,0,DzqtW1Y1PsLSZzc-3mSi9_Shape,DzqtW1Y1PsLSZzc-3mSi9
+EhNM80xhORC_NDg_20VLW,Ground_Daily,Marioteya & Ring Rd,1,-TFICB3NfWClnQ-lrQ9pZ_Shape,-TFICB3NfWClnQ-lrQ9pZ
+P_B_8_NC010,Ground_Daily,Al Mostafa Mosque,0,P_B_8_NC010_O_Shape,P_B_8_NC010_O
+COOP_IG053,Ground_Daily,Ramses,0,COOP_IG053_O_Shape,COOP_IG053_O
+AkZ8btBfGZichKXXhgGwM,Ground_Daily,Haram Mashaal,1,VMKHW4YKdnDvRmHCBT69Z_Shape,VMKHW4YKdnDvRmHCBT69Z
+fyAW0vltVKbZBO8k2gEAB,Ground_Daily,Abou Zaabal,0,DGJ1HD3uZfKF47ayfFXqz_Shape,DGJ1HD3uZfKF47ayfFXqz
+nfTyUrX7ZdSJk5J-tHCx9,Ground_Daily,Moneeb,1,54ETU5hNfk6Een0ZbSprA_Shape,54ETU5hNfk6Een0ZbSprA
+CTA_1026,Ground_Daily,Abd Al Moneim Riad,1,CTA_1026_R_Shape,CTA_1026_R
+1mr8RU0a90VsX2pRB9Rfl,Ground_Daily,Moneeb,1,tU4dt8xP_IaGNlP3bdLTT_Shape,tU4dt8xP_IaGNlP3bdLTT
+sqx1SY5Zgo0LoyC1SMQf2,Ground_Daily,Moneeb,1,KffYzgUcFUTdv8tFf6lNO_Shape,KffYzgUcFUTdv8tFf6lNO
+lwOCQWwxGYT5NrsJbZAqU,Ground_Daily,Abou Zaabal,1,Ilkjj_Q4n9yDN_Lr1VI0N_Shape,Ilkjj_Q4n9yDN_Lr1VI0N
+NGTy9esRU6oo2uc86eEae,Ground_Daily,Al Qanatir Al Khayriyyah,0,UuVO-Ah0obn5O3ElJ2m0m_Shape,UuVO-Ah0obn5O3ElJ2m0m
+sK63J6jAOvBBc3IX-hjeh,Ground_Daily,Wizarat District - New Administrative Capital,0,zghtu5PbiGiRwTH85QR7w_Shape,zghtu5PbiGiRwTH85QR7w
+P_O_14_IC022,Ground_Daily,Helwan,0,P_O_14_IC022_O_Shape,P_O_14_IC022_O
+P_O_14_GZ034,Ground_Daily,Akher Faisal,1,P_O_14_GZ034_R_Shape,P_O_14_GZ034_R
+P_O_14_IC034,Ground_Daily,Shabab (Obour),1,P_O_14_IC034_R_Shape,P_O_14_IC034_R
+CTA_1022,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,CTA_1022_R_Shape,CTA_1022_R
+2EAwBcn3IACPZ0xefVHUM,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,fx61ki-EdJcaYRSrBrVB0_Shape,fx61ki-EdJcaYRSrBrVB0
+AWvboTfFAFIfUgBcz8N8_,Ground_Daily,Imbaba,1,XGBJm1ABL27hojGEP-vEx_Shape,XGBJm1ABL27hojGEP-vEx
+jtkYqK9oNBf7XcgtSYXPG,Ground_Daily,Nahda City,0,Dgx6dGHe-3I8OdrQsFt0M_Shape,Dgx6dGHe-3I8OdrQsFt0M
+P_B_8_6O014,Ground_Daily,10th District (6th of October),0,P_B_8_6O014_O_Shape,P_B_8_6O014_O
+Eib3Hm9Na_KFRfgk0ykjn,Ground_Daily,Alf Maskan,0,RBTtidlMK8LoHrPN8eMPo_Shape,RBTtidlMK8LoHrPN8eMPo
+P_B_8_NC018,Ground_Daily,New Cairo Academy,0,P_B_8_NC018_O_Shape,P_B_8_NC018_O
+CTA_1022,Ground_Daily,Giza Square,0,CTA_1022_O_Shape,CTA_1022_O
+P_O_14_CA091,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,P_O_14_CA091_O_Shape,P_O_14_CA091_O
+NQUMSYblUFR1PnVP2ve9q,Ground_Daily,Gas (Banks Area),1,RFmE9UnzDMEE6RZMLGxjB_Shape,RFmE9UnzDMEE6RZMLGxjB
+P_B_8_6O009,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,P_B_8_6O009_O_Shape,P_B_8_6O009_O
+6rW6IVn72lBoD0xzHhqZO,Ground_Daily,Nahda City,0,vTydYyKUddxY8sOcXpCLB_Shape,vTydYyKUddxY8sOcXpCLB
+P_B_8_6O027,Ground_Daily,Industrial Zone 3,1,P_B_8_6O027_R_Shape,P_B_8_6O027_R
+P_O_14_IG009,Ground_Daily,Isaaf,1,P_O_14_IG009_R_Shape,P_O_14_IG009_R
+BOX_6O016,Ground_Daily,Laylat Al Qadr,0,BOX_6O016_O_Shape,BOX_6O016_O
+CTA_1118,Ground_Daily,7th District (Nasr City),1,CTA_1118_R_Shape,CTA_1118_R
+YNiBQqmS39eoratamiEeJ,Ground_Daily,Mostorod Ring Rd,0,elRjo0kR26B6zIoagmn27_Shape,elRjo0kR26B6zIoagmn27
+COOP_QA005,Ground_Daily,Bahtim Square,1,COOP_QA005_R_Shape,COOP_QA005_R
+P_O_14_GZ016,Ground_Daily,Imbaba,0,P_O_14_GZ016_O_Shape,P_O_14_GZ016_O
+fyAW0vltVKbZBO8k2gEAB,Ground_Daily,Mostorod Ring Rd,1,-Y6urMh8I14rvtn_XKgSC_Shape,-Y6urMh8I14rvtn_XKgSC
+CTA_940S,Ground_Daily,Abd Al Moneim Riad,1,CTA_940S_R_Shape,CTA_940S_R
+P_O_14_IC090,Ground_Daily,Al Shorouq Academy,1,P_O_14_IC090_R_Shape,P_O_14_IC090_R
+CTA_1026,Ground_Daily,Hadaba Wosta (Moqattam),0,CTA_1026_O_Shape,CTA_1026_O
+P_O_14_IC007,Ground_Daily,Lebanon Square,0,P_O_14_IC007_O_Shape,P_O_14_IC007_O
+P_B_8_NC014,Ground_Daily,Al Shabab Entrance,1,P_B_8_NC014_R_Shape,P_B_8_NC014_R
+iMAKUgcl9tKwzLmwnFJLO,Ground_Daily,Hyper 1,0,raqVtDZgfPBiA3c5IJg4C_Shape,raqVtDZgfPBiA3c5IJg4C
+P_O_14_IG042,Ground_Daily,New Marg,1,P_O_14_IG042_R_Shape,P_O_14_IG042_R
+CTA_840,Ground_Daily,Al Sayeda Nafeesa,1,CTA_840_R_Shape,CTA_840_R
+P_O_14_CA143,Ground_Daily,Hadaek EL Kobba,1,P_O_14_CA143_R_Shape,P_O_14_CA143_R
+mACiG8_tUrwcPtvZXP8Od,Ground_Daily,Amr Ibn El Aas,1,Z2i2X5io2aUNPFgnPIwsx_Shape,Z2i2X5io2aUNPFgnPIwsx
+CTA_1024,Ground_Daily,Ahmed Helmy,1,CTA_1024_R_Shape,CTA_1024_R
+hdBN4uzpUjTGN0vKzf9kW,Ground_Daily,Giza Square,0,Fj4oR3vqySOLf11ya8xjt_Shape,Fj4oR3vqySOLf11ya8xjt
+189igEKLGNwIUDl8gfOwh,Ground_Daily,New Marg,1,ndsVZ0YrJv4lgDGakQj_D_Shape,ndsVZ0YrJv4lgDGakQj_D
+CTA_912-1048,Ground_Daily,Moneeb,0,CTA_912or1048_O_Shape,CTA_912or1048_O
+CTA_1144,Ground_Daily,Abageyah,1,CTA_1144_R_Shape,CTA_1144_R
+CTA_1024,Ground_Daily,Kattameya (Mahmoudeya),0,CTA_1024_O_Shape,CTA_1024_O
+P_O_14_CA152,Ground_Daily,Sharabeya,0,P_O_14_CA152_O_Shape,P_O_14_CA152_O
+P_O_14_CA049,Ground_Daily,Dar El Salam,0,P_O_14_CA049_O_Shape,P_O_14_CA049_O
+CTA_1,Ground_Daily,3rd Settlement  (New Cairo),1,CTA_1_R_Shape,CTA_1_R
+CTA_82,Ground_Daily,Abd Al Moneim Riad,1,CTA_82_R_Shape,CTA_82_R
+5QND291boJ53-oQki3hmz,Ground_Daily,Nahda City,1,fWiQzOVyd0UbeT7kh7h_W_Shape,fWiQzOVyd0UbeT7kh7h_W
+OoHDu3yHaG3yU2H8XPJWb,Ground_Daily,Remaya (New Mashaal),1,OoHDu3yHaG3yU2H8XPJWb_R_Shape,OoHDu3yHaG3yU2H8XPJWb_R
+P_O_14_CA031,Ground_Daily,Alf Maskan,1,P_O_14_CA031_R_Shape,P_O_14_CA031_R
+CTA_43,Ground_Daily,Attaba,1,CTA_43_R_Shape,CTA_43_R
+avm32oXuwPxCT17sZkBf2,Ground_Daily,Moneeb,1,o_tXDMxbGoDfpE0_0IPdx_Shape,o_tXDMxbGoDfpE0_0IPdx
+P_O_14_GZ052,Ground_Daily,Bashtil El Balad,1,P_O_14_GZ052_R_Shape,P_O_14_GZ052_R
+P_O_14_IG082,Ground_Daily,Orabi Bridge,0,P_O_14_IG082_O_Shape,P_O_14_IG082_O
+CTA_1136,Ground_Daily,Al Zawya Al Hamra,1,CTA_1136_R_Shape,CTA_1136_R
+ERyjQRx_H15I9oB9BX0gr,Ground_Daily,Remaya (New Mashaal),1,ERyjQRx_H15I9oB9BX0gr_R_Shape,ERyjQRx_H15I9oB9BX0gr_R
+P_O_14_GZ004,Ground_Daily,Haram Mashaal,1,P_O_14_GZ004_R_Shape,P_O_14_GZ004_R
+M72HU9kmUJZ6FhQHG_GpP,Ground_Daily,Al Sa'a Square,0,_DYfK1Qd253md2EgRUQhe_Shape,_DYfK1Qd253md2EgRUQhe
+P_O_14_GZ023,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ023_R_Shape,P_O_14_GZ023_R
+P_O_14_CA010,Ground_Daily,Nahda City,0,P_O_14_CA010_O_Shape,P_O_14_CA010_O
+c3UcQoq3-K4VbxrHfMQ55,Ground_Daily,Om Bayoumi (Mintay),0,eDQpPLpIxKX6KJR50Ej4x_Shape,eDQpPLpIxKX6KJR50Ej4x
+Y2QwurrDMngNWrnsgPUTv,Ground_Daily,Al-Salam (10th of Ramadan),1,nRQD6aGgzM5PWjXE2a_f4_Shape,nRQD6aGgzM5PWjXE2a_f4
+NrXQrpcK2JA_IC7xpHfNm,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,fvRXgndF-an0mGla0ao9B_Shape,fvRXgndF-an0mGla0ao9B
+_z3FcfxuY_8UZ1c35Kf_4,Ground_Daily,Remaya (New Mashaal),1,_z3FcfxuY_8UZ1c35Kf_4_R_Shape,_z3FcfxuY_8UZ1c35Kf_4_R
+udOvMoeRiZwiZFRRbXCiq,Ground_Daily,Al-Salam (10th of Ramadan),0,qvYu4slYGIuXee5QwEHoi_Shape,qvYu4slYGIuXee5QwEHoi
+wWMuRqPO_EzSkv3jCgnic,Ground_Daily,10th of Ramadan City,0,wWMuRqPO_EzSkv3jCgnic_O_Shape,wWMuRqPO_EzSkv3jCgnic_O
+F-oBh93OH6Ie4snCmxj8i,Ground_Daily,Ramses,1,Nq8xxnyCp-SdjuUEt2s0o_Shape,Nq8xxnyCp-SdjuUEt2s0o
+PWCFW_a8c-PDr7QO6PoJe,Ground_Daily,Qalyoub Exit,1,PWCFW_a8c-PDr7QO6PoJe_R_Shape,PWCFW_a8c-PDr7QO6PoJe_R
+wWMuRqPO_EzSkv3jCgnic,Ground_Daily,Qalyoub Exit,1,wWMuRqPO_EzSkv3jCgnic_R_Shape,wWMuRqPO_EzSkv3jCgnic_R
+COOP_GZ062,Ground_Daily,Giza Square,0,COOP_GZ062_O_Shape,COOP_GZ062_O
+ERyjQRx_H15I9oB9BX0gr,Ground_Daily,Qawmeya Arabeya,0,ERyjQRx_H15I9oB9BX0gr_O_Shape,ERyjQRx_H15I9oB9BX0gr_O
+P_B_8_CA099,Ground_Daily,El Warsha (Ezbet Al Nakhl),0,P_B_8_CA099_O_Shape,P_B_8_CA099_O
+CTA_982,Ground_Daily,Ahmed Helmy,1,CTA_982_R_Shape,CTA_982_R
+ZLIlRoH8mggg0j2DKqbhA,Ground_Daily,Al-Salam (10th of Ramadan),1,ZLIlRoH8mggg0j2DKqbhA_R_Shape,ZLIlRoH8mggg0j2DKqbhA_R
+P_O_14_CA163,Ground_Daily,Awwel Makram Ebeid,1,P_O_14_CA163_R_Shape,P_O_14_CA163_R
+tScPnAp_04aD4VwhGidx4,Ground_Daily,Al-Salam (10th of Ramadan),1,tScPnAp_04aD4VwhGidx4_R_Shape,tScPnAp_04aD4VwhGidx4_R
+OoHDu3yHaG3yU2H8XPJWb,Ground_Daily,Abboud,0,OoHDu3yHaG3yU2H8XPJWb_O_Shape,OoHDu3yHaG3yU2H8XPJWb_O
+P_O_14_CA063,Ground_Daily,Rabaah Al Adaweya Mosque,0,P_O_14_CA063_O_Shape,P_O_14_CA063_O
+CTA_1088,Ground_Daily,Abbasseya,0,CTA_1088_O_Shape,CTA_1088_O
+P_B_8_NC013,Ground_Daily,Al Hamd Square,0,P_B_8_NC013_O_Shape,P_B_8_NC013_O
+CTA_1097,Ground_Daily,Lebanon Square,1,CTA_1097_R_Shape,CTA_1097_R
+ZLIlRoH8mggg0j2DKqbhA,Ground_Daily,R2 - New Administrative Capital,0,ZLIlRoH8mggg0j2DKqbhA_O_Shape,ZLIlRoH8mggg0j2DKqbhA_O
+LneRsrKsi5-xujQOkQX66,Ground_Daily,Mabyadah Square - Rod El Farag,1,LneRsrKsi5-xujQOkQX66_R_Shape,LneRsrKsi5-xujQOkQX66_R
+A7O-x1J3WidCSxnV85H0s,Ground_Daily,Mostorod Ring Rd,1,VK80ClOadU7210qPr4uTV_Shape,VK80ClOadU7210qPr4uTV
+P_O_14_IC001,Ground_Daily,Al Sayeda Aisha,1,P_O_14_IC001_R_Shape,P_O_14_IC001_R
+P_B_8_NC018,Ground_Daily,Arabella Square,1,P_B_8_NC018_R_Shape,P_B_8_NC018_R
+P_O_14_GZ037,Ground_Daily,Barageel St,0,P_O_14_GZ037_O_Shape,P_O_14_GZ037_O
+P_O_14_GZ024,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ024_R_Shape,P_O_14_GZ024_R
+CTA_M_400,Ground_Daily,Isko,0,CTA_M_400_O_Shape,CTA_M_400_O
+P_O_14_GZ032,Ground_Daily,Nahia,0,P_O_14_GZ032_O_Shape,P_O_14_GZ032_O
+CTA_1063,Ground_Daily,Attaba,0,CTA_1063_O_Shape,CTA_1063_O
+P_O_14_IC029,Ground_Daily,Ommal Square,1,P_O_14_IC029_R_Shape,P_O_14_IC029_R
+P_O_14_CA082,Ground_Daily,Matareya Square,0,P_O_14_CA082_O_Shape,P_O_14_CA082_O
+P_O_14_CA030,Ground_Daily,Alf Maskan,1,P_O_14_CA030_R_Shape,P_O_14_CA030_R
+P_B_8_6O015,Ground_Daily,11th District (6th of October),0,P_B_8_6O015_O_Shape,P_B_8_6O015_O
+P_O_14_IG021,Ground_Daily,Abou Al Reesh,1,P_O_14_IG021_R_Shape,P_O_14_IG021_R
+P_O_14_GZ017,Ground_Daily,Giza Square,0,P_O_14_GZ017_O_Shape,P_O_14_GZ017_O
+5QND291boJ53-oQki3hmz,Ground_Daily,Al-Salam (10th of Ramadan),0,CgBpke4iXDdAf5PzDGIrq_Shape,CgBpke4iXDdAf5PzDGIrq
+CTA_44S-1042,Ground_Daily,Abd Al Moneim Riad,1,CTA_44Sor1042_R_Shape,CTA_44Sor1042_R
+P_O_14_GZ018,Ground_Daily,Moneeb,0,P_O_14_GZ018_O_Shape,P_O_14_GZ018_O
+MM_NA13,Ground_Weekdays,10th of Ramadan City,0,MM_NA13_O_Shape,MM_NA13_O
+P_O_14_GZ026,Ground_Daily,Nahia,0,P_O_14_GZ026_O_Shape,P_O_14_GZ026_O
+P_O_14_GZ045,Ground_Daily,Qawmeya Arabeya,1,P_O_14_GZ045_R_Shape,P_O_14_GZ045_R
+CTA_987,Ground_Daily,Ahmed Helmy,1,CTA_987_R_Shape,CTA_987_R
+CTA_910,Ground_Daily,Matbaa,1,CTA_910_R_Shape,CTA_910_R
+CTA_1161,Ground_Daily,1st Settlement (New Cairo),0,CTA_1161_O_Shape,CTA_1161_O
+CTA_M_302,Ground_Daily,1st Settlement (New Cairo),1,CTA_M_302_R_Shape,CTA_M_302_R
+CTA_M_201,Ground_Daily,Tagneed (Al Remaya),0,CTA_M_201_O_Shape,CTA_M_201_O
+P_O_14_GZ041,Ground_Daily,Badrasheen,1,P_O_14_GZ041_R_Shape,P_O_14_GZ041_R
+CTA_M_167,Ground_Daily,Lebanon Square,1,CTA_M_167_R_Shape,CTA_M_167_R
+CTA_M_180,Ground_Daily,1st Settlement (New Cairo),1,CTA_M_180_R_Shape,CTA_M_180_R
+CTA_M_3,Ground_Daily,Abd Al Moneim Riad,1,CTA_M_3_R_Shape,CTA_M_3_R
+n12_wD90lp64_mH8N3fRH,Ground_Daily,Al-Salam (10th of Ramadan),0,O0A107RhIgTZYPMe15jIn_Shape,O0A107RhIgTZYPMe15jIn
+P_O_14_IC045,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_IC045_O_Shape,P_O_14_IC045_O
+P_B_8_6O029,Ground_Daily,Laylat Al Qadr,0,P_B_8_6O029_O_Shape,P_B_8_6O029_O
+FI3sY62cvzwcF6qpLJTuV,Ground_Daily,Tibeen,1,87O6m6LEjD11KmE_2Pku4_Shape,87O6m6LEjD11KmE_2Pku4
+P_B_8_6O008,Ground_Daily,Hossary,1,P_B_8_6O008_R_Shape,P_B_8_6O008_R
+CTA_M_201,Ground_Daily,Al Warraq,1,CTA_M_201_R_Shape,CTA_M_201_R
+CTA_M_142,Ground_Daily,1st Settlement (New Cairo),1,CTA_M_142_R_Shape,CTA_M_142_R
+CTA_M_19,Ground_Daily,Abd Al Moneim Riad,1,CTA_M_19_R_Shape,CTA_M_19_R
+P_O_14_GZ010,Ground_Daily,Imbaba,0,P_O_14_GZ010_O_Shape,P_O_14_GZ010_O
+miikEkLkL-jQKBoSrb6mE,Ground_Daily,Al Sheikh Mansour,0,bi2f45d9OOLcWF_e77jXh_Shape,bi2f45d9OOLcWF_e77jXh
+P_B_8_NC002,Ground_Daily,Ommal Square,1,P_B_8_NC002_R_Shape,P_B_8_NC002_R
+XdCl81relei_UyeDojycn,Ground_Daily,Al Zawya Al Hamra,1,JsYvqlUc640aY2bu-X3Is_Shape,JsYvqlUc640aY2bu-X3Is
+6HiNrwyzAw5JGPUdaty-0,Ground_Daily,Imbaba,1,P9OUS7WEmxYLlk_1O8KV1_Shape,P9OUS7WEmxYLlk_1O8KV1
+P_B_8_CA021,Ground_Daily,Al Sayeda Aisha,1,P_B_8_CA021_R_Shape,P_B_8_CA021_R
+P_O_14_CA006,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA006_R_Shape,P_O_14_CA006_R
+P_B_8_NC006,Ground_Daily,Gas (Banks Area),0,P_B_8_NC006_O_Shape,P_B_8_NC006_O
+P_B_8_NC005,Ground_Daily,Gas (Banks Area),0,P_B_8_NC005_O_Shape,P_B_8_NC005_O
+COOP_QA003,Ground_Daily,Qalyoub El Balad,1,COOP_QA003_R_Shape,COOP_QA003_R
+_z3FcfxuY_8UZ1c35Kf_4,Ground_Daily,Kerdasa,0,_z3FcfxuY_8UZ1c35Kf_4_O_Shape,_z3FcfxuY_8UZ1c35Kf_4_O
+P_O_14_CA048,Ground_Daily,Ahmed Maher Hospital,0,P_O_14_CA048_O_Shape,P_O_14_CA048_O
+P_O_14_IG068,Ground_Daily,Ramses,1,P_O_14_IG068_R_Shape,P_O_14_IG068_R
+P_O_14_GZ040,Ground_Daily,Hawamdeyya,0,P_O_14_GZ040_O_Shape,P_O_14_GZ040_O
+wVSEsc9QL4aBYHVv-Spy9,Ground_Daily,Imbaba,1,yhan0PO7DkzjMYsj8IHuc_Shape,yhan0PO7DkzjMYsj8IHuc
+P_O_14_CA001,Ground_Daily,Darrasa,0,P_O_14_CA001_O_Shape,P_O_14_CA001_O
+P_O_14_IG097,Ground_Daily,Giza Square,0,P_O_14_IG097_O_Shape,P_O_14_IG097_O
+P_O_14_CA053,Ground_Daily,Zahraa Madinet Nasr,1,P_O_14_CA053_O_Shape,P_O_14_CA053_O
+DbgUPH8AHAnBT59Ux_FrC,Ground_Daily,Matbaa,0,sLMeDQQxjfwu3z-w6H5kQ_Shape,sLMeDQQxjfwu3z-w6H5kQ
+n4ilqcRQ9yJVFWs-xSz-D,Ground_Daily,Al Qanatir Al Khayriyyah,0,PoG5GbrPzeOTCB4FcMYYA_Shape,PoG5GbrPzeOTCB4FcMYYA
+P_O_14_CA017,Ground_Daily,Bab Al Shaaria Square,0,P_O_14_CA017_O_Shape,P_O_14_CA017_O
+P_O_14_CA047,Ground_Daily,Matbaa,0,P_O_14_CA047_O_Shape,P_O_14_CA047_O
+wGCNj9b51EYHmlNiQLQOJ,Ground_Daily,Masaken Al Shorouq,0,BIGdXrQ17s1eLCubhflMK_Shape,BIGdXrQ17s1eLCubhflMK
+CTA_1150,Ground_Daily,Giza Square,0,CTA_1150_O_Shape,CTA_1150_O
+P_O_14_CA027,Ground_Daily,Matareya Square,0,P_O_14_CA027_O_Shape,P_O_14_CA027_O
+rkJxL56Q3OKc76Ff6Pg8s,Ground_Daily,Darrasa,1,R4x9UhDKodD76B8M3YTih_Shape,R4x9UhDKodD76B8M3YTih
+d-Goa1xpnuFiRnI_5i9Uy,Ground_Daily,Kolleyet Al Zeraah (Cairo University),1,K42B__rhCvu6WmQt2uA71_Shape,K42B__rhCvu6WmQt2uA71
+QD4B-vIsagxeF82oSJvMs,Ground_Daily,Al Bassous,0,2H4tGIYU3faO0axmYnmaO_Shape,2H4tGIYU3faO0axmYnmaO
+P_O_14_IC071,Ground_Daily,15th of May,1,P_O_14_IC071_R_Shape,P_O_14_IC071_R
+CTA_1076,Ground_Daily,Attaba,1,CTA_1076_R_Shape,CTA_1076_R
+xHDTuKEcNGya_6TEqky9R,Ground_Daily,Al Qanatir Al Khayriyyah,1,omUwbCzgL87GsgQeEGTIV_Shape,omUwbCzgL87GsgQeEGTIV
+P_B_8_6O021,Ground_Daily,Al Motamayez,1,P_B_8_6O021_R_Shape,P_B_8_6O021_R
+P_B_8_6O029,Ground_Daily,Dolce,1,P_B_8_6O029_R_Shape,P_B_8_6O029_R
+CTA_M_180,Ground_Daily,Orabi Bridge,0,CTA_M_180_O_Shape,CTA_M_180_O
+MgUeZY5IH7DhXn9qFpvGl,Ground_Daily,Hadaek EL Kobba,0,duOxQcPZP8dTe9lKJ7r8r_Shape,duOxQcPZP8dTe9lKJ7r8r
+P_O_14_IC054,Ground_Daily,Badr City,0,P_O_14_IC054_O_Shape,P_O_14_IC054_O
+P_O_14_IG058,Ground_Daily,Qasr Al Einy,0,P_O_14_IG058_O_Shape,P_O_14_IG058_O
+CTA_M_117,Ground_Daily,Abd Al Moneim Riad,1,CTA_M_117_R_Shape,CTA_M_117_R
+P_O_14_CA015,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA015_R_Shape,P_O_14_CA015_R
+P_O_14_CA071,Ground_Daily,Al Zawya Al Hamra,1,P_O_14_CA071_R_Shape,P_O_14_CA071_R
+P_O_14_GZ005,Ground_Daily,Moneeb,0,P_O_14_GZ005_O_Shape,P_O_14_GZ005_O
+CTA_M_161,Ground_Daily,Orabi Bridge,1,CTA_M_161_R_Shape,CTA_M_161_R
+P_O_14_CA116,Ground_Daily,Manshiyat Nasser,0,P_O_14_CA116_O_Shape,P_O_14_CA116_O
+P_O_14_IG058,Ground_Daily,Kerdasa,1,P_O_14_IG058_R_Shape,P_O_14_IG058_R
+CTA_1010,Ground_Daily,Attaba,0,CTA_1010_O_Shape,CTA_1010_O
+CTA_M_100,Ground_Daily,Cairo Airport,0,CTA_M_100_O_Shape,CTA_M_100_O
+5l1G65qweO5GdBQpfy1EM,Ground_Daily,10th District (Nasr City),0,R2wAAhhxXbAnOVR3hyAXh_Shape,R2wAAhhxXbAnOVR3hyAXh
+rSzg2M_8gM0cX-PnDBpDS,Ground_Daily,Helwan Post Office,0,u9Mf7HsbQAiFsdXlNwGh__Shape,u9Mf7HsbQAiFsdXlNwGh_
+CTA_M_100,Ground_Daily,Lebanon Square,1,CTA_M_100_R_Shape,CTA_M_100_R
+P_B_8_CA021,Ground_Daily,Zahraa Metro,0,P_B_8_CA021_O_Shape,P_B_8_CA021_O
+P_O_14_CA014,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA014_R_Shape,P_O_14_CA014_R
+CTA_M_400,Ground_Daily,Laylat Al Qadr,1,CTA_M_400_R_Shape,CTA_M_400_R
+P_O_14_CA157,Ground_Daily,Abboud,0,P_O_14_CA157_O_Shape,P_O_14_CA157_O
+P_O_14_CA091,Ground_Daily,Masaken Sheraton,1,P_O_14_CA091_R_Shape,P_O_14_CA091_R
+mArLEgVOmRmk2qjpXCcyb,Ground_Daily,Abbasseya,1,Fjrhk0k9_JtBrtjs0DcNC_Shape,Fjrhk0k9_JtBrtjs0DcNC
+P_O_14_CA171,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_CA171_O_Shape,P_O_14_CA171_O
+COOP_IG064,Ground_Daily,Imbaba,0,COOP_IG064_O_Shape,COOP_IG064_O
+CTA_15,Ground_Daily,Saft Al Laban,0,CTA_15_O_Shape,CTA_15_O
+P_B_8_SZ013,Ground_Daily,Hyper 1,0,P_B_8_SZ013_O_Shape,P_B_8_SZ013_O
+P_B_8_CA094,Ground_Daily,Ezbet Al Nakhl,0,P_B_8_CA094_O_Shape,P_B_8_CA094_O
+P_B_8_SZ007,Ground_Daily,Hyper 1,0,P_B_8_SZ007_O_Shape,P_B_8_SZ007_O
+JFURIfkSZvjnSzWLlUZ65,Ground_Daily,Omraneyya,1,RSL1AHOXtJ5udax743ilV_Shape,RSL1AHOXtJ5udax743ilV
+CTA_1031,Ground_Daily,Imbaba,0,CTA_1031_O_Shape,CTA_1031_O
+CTA_M_606,Ground_Daily,Cairo Airport,0,CTA_M_606_O_Shape,CTA_M_606_O
+lzExfvE08FXIFTjkNJgv9,Ground_Daily,Saqr Quraish,1,5z5IS5JS6NvWMLdsqdMkh_Shape,5z5IS5JS6NvWMLdsqdMkh
+P_O_14_GZ060,Ground_Daily,Moneeb,0,P_O_14_GZ060_O_Shape,P_O_14_GZ060_O
+P_O_14_IC061,Ground_Daily,Gas (Banks Area),0,P_O_14_IC061_O_Shape,P_O_14_IC061_O
+CTA_M_606,Ground_Daily,Lebanon Square,1,CTA_M_606_R_Shape,CTA_M_606_R
+DbG-wNqeP6sqp4PmEoB9c,Ground_Daily,Abbasseya,0,3tmdwx3GaPJaiP7JBU1LY_Shape,3tmdwx3GaPJaiP7JBU1LY
+COOP_IC075,Ground_Daily,New Marg,1,COOP_IC075_R_Shape,COOP_IC075_R
+P_O_14_IC041,Ground_Daily,10th District (Nasr City),0,P_O_14_IC041_O_Shape,P_O_14_IC041_O
+CTA_1108,Ground_Daily,Hadaba Wosta (Moqattam),1,CTA_1108_R_Shape,CTA_1108_R
+CTA_M_161,Ground_Daily,Kilo 4 & Half,0,CTA_M_161_O_Shape,CTA_M_161_O
+CTA_M_3,Ground_Daily,Hegaz Square,0,CTA_M_3_O_Shape,CTA_M_3_O
+P_O_14_CA010,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA010_R_Shape,P_O_14_CA010_R
+P_B_8_NC016,Ground_Daily,Kattameya (Mahmoudeya),1,P_B_8_NC016_R_Shape,P_B_8_NC016_R
+CTA_532,Ground_Daily,Basateen,0,CTA_532_O_Shape,CTA_532_O
+P_O_14_IG036,Ground_Daily,Haram & Marioteya,1,P_O_14_IG036_R_Shape,P_O_14_IG036_R
+P_O_14_CA174,Ground_Daily,Fayda Kamel,1,P_O_14_CA174_R_Shape,P_O_14_CA174_R
+P_O_14_GZ041,Ground_Daily,Mazghuna,0,P_O_14_GZ041_O_Shape,P_O_14_GZ041_O
+P_B_8_NC006,Ground_Daily,FUE,1,P_B_8_NC006_R_Shape,P_B_8_NC006_R
+P_O_14_IG065,Ground_Daily,Ramses,1,P_O_14_IG065_R_Shape,P_O_14_IG065_R
+P_B_8_SZ005,Ground_Daily,Hyper 1,0,P_B_8_SZ005_O_Shape,P_B_8_SZ005_O
+NrOaoQJmSjyW5uQtfFt7p,Ground_Daily,Ramses,1,oEUcbeYU6xgPnS0Vs0rU1_Shape,oEUcbeYU6xgPnS0Vs0rU1
+sKigzosL3Acf4HBsP24lt,Ground_Daily,Alf Maskan,0,mRs43jeuFCcTDEdVDAltA_Shape,mRs43jeuFCcTDEdVDAltA
+NQUMSYblUFR1PnVP2ve9q,Ground_Daily,Alf Maskan,0,X0UZtZo3tGORZcyNJbuPG_Shape,X0UZtZo3tGORZcyNJbuPG
+P_O_14_IC059,Ground_Daily,Moneeb,0,P_O_14_IC059_O_Shape,P_O_14_IC059_O
+CTA_914,Ground_Daily,Dawaran Shubra,1,CTA_914_R_Shape,CTA_914_R
+P_O_14_CA115,Ground_Daily,Manshiyat Nasser,0,P_O_14_CA115_O_Shape,P_O_14_CA115_O
+P_B_8_CA149,Ground_Daily,Ezbet Al Nakhl,1,P_B_8_CA149_R_Shape,P_B_8_CA149_R
+P_B_8_GZ014,Ground_Daily,Haram & Marioteya,1,P_B_8_GZ014_R_Shape,P_B_8_GZ014_R
+BOX_6O006,Ground_Daily,Al Muluk,0,BOX_6O006_O_Shape,BOX_6O006_O
+P_O_14_CA068,Ground_Daily,Al Zawya Al Hamra,1,P_O_14_CA068_R_Shape,P_O_14_CA068_R
+CTA_915,Ground_Daily,Darrasa,1,CTA_915_R_Shape,CTA_915_R
+P_O_14_CA135,Ground_Daily,Helwan Post Office,1,P_O_14_CA135_R_Shape,P_O_14_CA135_R
+P_O_14_IC096,Ground_Daily,Haram Mashaal,0,P_O_14_IC096_O_Shape,P_O_14_IC096_O
+P_O_14_IC095,Ground_Daily,Moassasa,0,P_O_14_IC095_O_Shape,P_O_14_IC095_O
+P_O_14_GZ040,Ground_Daily,Badrasheen,1,P_O_14_GZ040_R_Shape,P_O_14_GZ040_R
+P_O_14_IC002,Ground_Daily,Al Sayeda Aisha,1,P_O_14_IC002_R_Shape,P_O_14_IC002_R
+P_B_8_CA095,Ground_Daily,Al Marg Police,0,P_B_8_CA095_O_Shape,P_B_8_CA095_O
+P_O_14_IC015,Ground_Daily,Hossary,1,P_O_14_IC015_R_Shape,P_O_14_IC015_R
+P_O_14_IC094,Ground_Daily,Laylat Al Qadr,1,P_O_14_IC094_R_Shape,P_O_14_IC094_R
+BOX_6O028,Ground_Daily,Al Mostaqbal Entrance,1,BOX_6O028_R_Shape,BOX_6O028_R
+P_O_14_IG020,Ground_Daily,Abou Al Reesh,1,P_O_14_IG020_R_Shape,P_O_14_IG020_R
+P_O_14_GZ035,Ground_Daily,Awsim,0,P_O_14_GZ035_O_Shape,P_O_14_GZ035_O
+P_O_14_CA137,Ground_Daily,Helwan Metro,1,P_O_14_CA137_R_Shape,P_O_14_CA137_R
+P_O_14_IG023,Ground_Daily,Awwel Makram Ebeid,0,P_O_14_IG023_O_Shape,P_O_14_IG023_O
+P_O_14_CA076,Ground_Daily,Helwan,1,P_O_14_CA076_R_Shape,P_O_14_CA076_R
+P_O_14_GZ057,Ground_Daily,Dokki,0,P_O_14_GZ057_O_Shape,P_O_14_GZ057_O
+P_O_14_IG078,Ground_Daily,Tibeen,0,P_O_14_IG078_O_Shape,P_O_14_IG078_O
+CTA_900,Ground_Daily,Abd Al Moneim Riad,1,CTA_900_R_Shape,CTA_900_R
+P_O_14_CA141,Ground_Daily,Helwan Metro,1,P_O_14_CA141_R_Shape,P_O_14_CA141_R
+P_B_8_GZ015,Ground_Daily,Haram & Marioteya,1,P_B_8_GZ015_R_Shape,P_B_8_GZ015_R
+COOP_QA003,Ground_Daily,Moassasa,0,COOP_QA003_O_Shape,COOP_QA003_O
+P_B_8_6O008,Ground_Daily,10th District (6th of October),0,P_B_8_6O008_O_Shape,P_B_8_6O008_O
+CTA_204,Ground_Daily,Abbasseya,1,CTA_204_R_Shape,CTA_204_R
+P_O_14_IC022,Ground_Daily,Gas (Banks Area),1,P_O_14_IC022_R_Shape,P_O_14_IC022_R
+P_O_14_CA072,Ground_Daily,Ahmed Helmy,1,P_O_14_CA072_R_Shape,P_O_14_CA072_R
+P_O_14_IC083,Ground_Daily,Qawmeya Arabeya,0,P_O_14_IC083_O_Shape,P_O_14_IC083_O
+P_O_14_IG021,Ground_Daily,Giza Square,0,P_O_14_IG021_O_Shape,P_O_14_IG021_O
+P_O_14_IC018,Ground_Daily,Hossary,1,P_O_14_IC018_R_Shape,P_O_14_IC018_R
+P_O_14_IG084,Ground_Daily,Mazghuna,0,P_O_14_IG084_O_Shape,P_O_14_IG084_O
+P_O_14_CA036,Ground_Daily,Alf Maskan,1,P_O_14_CA036_R_Shape,P_O_14_CA036_R
+P_O_14_IG041,Ground_Daily,Remaya Square,0,P_O_14_IG041_O_Shape,P_O_14_IG041_O
+P_O_14_CA007,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA007_R_Shape,P_O_14_CA007_R
+P_O_14_IC011,Ground_Daily,New Marg,0,P_O_14_IC011_O_Shape,P_O_14_IC011_O
+P_O_14_IC081,Ground_Daily,Hyper 1,1,P_O_14_IC081_R_Shape,P_O_14_IC081_R
+P_O_14_CA019,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA019_R_Shape,P_O_14_CA019_R
+kmJvmozOqYl95wRijRLnL,Ground_Daily,Dawaran Shubra,0,Aiq7p6R3Jnp6Bok0aX9Re_Shape,Aiq7p6R3Jnp6Bok0aX9Re
+P_O_14_IC086,Ground_Daily,Hyper 1,1,P_O_14_IC086_R_Shape,P_O_14_IC086_R
+P_O_14_IC017,Ground_Daily,Moneeb,0,P_O_14_IC017_O_Shape,P_O_14_IC017_O
+P_B_8_NC010,Ground_Daily,Gas (Banks Area),1,P_B_8_NC010_R_Shape,P_B_8_NC010_R
+MM_NS5,Ground_Weekdays,Al Shorouq Water,1,MM_NS5_R_Shape,MM_NS5_R
+MM_NS5,Ground_Weekdays,Abbasseya,0,MM_NS5_O_Shape,MM_NS5_O
+IYD6dwYtSHca6S9EV__lK,Ground_Daily,Mazallat,1,4NvKeh1iX4BuV9GXj7jQj_Shape,4NvKeh1iX4BuV9GXj7jQj
+P_O_14_CA133,Ground_Daily,Helwan Metro,0,P_O_14_CA133_O_Shape,P_O_14_CA133_O
+P_O_14_IG023,Ground_Daily,Haram Mashaal,1,P_O_14_IG023_R_Shape,P_O_14_IG023_R
+l-EKz6sq8PlM9bMdDXqUY,Ground_Daily,10th District (Nasr City),1,7FtEZSMO30FZlKhX7ykFP_Shape,7FtEZSMO30FZlKhX7ykFP
+5v34MuGjLYA0AFM7dhCCE,Ground_Daily,Abbasseya,1,RU5552HElMNpEvqPCN-8S_Shape,RU5552HElMNpEvqPCN-8S
+CTA_1088,Ground_Daily,15th of May,1,CTA_1088_R_Shape,CTA_1088_R
+P_O_14_IG018,Ground_Daily,Abd Al Moneim Riad,1,P_O_14_IG018_R_Shape,P_O_14_IG018_R
+P_B_8_NC017,Ground_Daily,Arabella Square,1,P_B_8_NC017_R_Shape,P_B_8_NC017_R
+OXsaA6ch0zWJIr-wsnU3M,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,UQVNsE7bqCSXYYt2AbyRR_Shape,UQVNsE7bqCSXYYt2AbyRR
+P_O_14_IC094,Ground_Daily,Imbaba,0,P_O_14_IC094_O_Shape,P_O_14_IC094_O
+CTA_26T,Ground_Daily,Amr Ibn El Aas,1,CTA_26T_R_Shape,CTA_26T_R
+P_O_14_GZ005,Ground_Daily,Haram Mashaal,1,P_O_14_GZ005_R_Shape,P_O_14_GZ005_R
+P_O_14_IC016,Ground_Daily,Hossary,1,P_O_14_IC016_R_Shape,P_O_14_IC016_R
+P_O_14_IC057,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_O_14_IC057_R_Shape,P_O_14_IC057_R
+P_O_14_IC097,Ground_Daily,Giza Square,0,P_O_14_IC097_O_Shape,P_O_14_IC097_O
+SI9aO3R9Vl4yBxUdPoO7K,Ground_Daily,Al Warraq,1,TaAqt-aC-7CWlKYx4zSl0_Shape,TaAqt-aC-7CWlKYx4zSl0
+BOX_6O004,Ground_Daily,Laylat Al Qadr,0,BOX_6O004_O_Shape,BOX_6O004_O
+P_O_14_CA162,Ground_Daily,8th District (Nasr City) - Al tabba,0,P_O_14_CA162_O_Shape,P_O_14_CA162_O
+CTA_1053,Ground_Daily,Masaken Al Wehda,0,CTA_1053_O_Shape,CTA_1053_O
+P_O_14_IC008,Ground_Daily,Helwan,0,P_O_14_IC008_O_Shape,P_O_14_IC008_O
+P_O_14_CA036,Ground_Daily,8th District (Nasr City) - Al tabba,0,P_O_14_CA036_O_Shape,P_O_14_CA036_O
+P_O_14_IG051,Ground_Daily,Ramses,0,P_O_14_IG051_O_Shape,P_O_14_IG051_O
+P_O_14_IC026,Ground_Daily,New Marg,0,P_O_14_IC026_O_Shape,P_O_14_IC026_O
+EwqAOaw248bX7cqrouzx3,Ground_Daily,Hadaek EL Kobba,1,1hhl6rLrvlT10bpEwevs2_Shape,1hhl6rLrvlT10bpEwevs2
+P_O_14_IG078,Ground_Daily,Badrasheen,1,P_O_14_IG078_R_Shape,P_O_14_IG078_R
+P_O_14_GZ033,Ground_Daily,Al Wehda Imbaba (Al Bohi),1,P_O_14_GZ033_R_Shape,P_O_14_GZ033_R
+P_B_8_CA107,Ground_Daily,Mazlaqan Ain Shams,0,P_B_8_CA107_O_Shape,P_B_8_CA107_O
+P_O_14_CA120,Ground_Daily,Mazlaqan Ain Shams,0,P_O_14_CA120_O_Shape,P_O_14_CA120_O
+1ZbDBsUQUJRub7iZYmHFI,Ground_Daily,Fayda Kamel,0,0kBVj_qpOsIrgBHvA34EX_Shape,0kBVj_qpOsIrgBHvA34EX
+P_O_14_IG037,Ground_Daily,Haram & Marioteya,1,P_O_14_IG037_R_Shape,P_O_14_IG037_R
+CTA_43,Ground_Daily,Bus Stop 43 (Matareya),0,CTA_43_O_Shape,CTA_43_O
+CTA_1123,Ground_Daily,Bulaq Al Dakrur,1,CTA_1123_R_Shape,CTA_1123_R
+CTA_1078,Ground_Daily,1st Settlement (New Cairo),1,CTA_1078_R_Shape,CTA_1078_R
+wefEKmjKPjq1ZbcWyQSwL,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,qS8cDVrGj4X-9Ylg6R-iQ_Shape,qS8cDVrGj4X-9Ylg6R-iQ
+P_O_14_GZ002,Ground_Daily,Remaya (New Mashaal),1,P_O_14_GZ002_R_Shape,P_O_14_GZ002_R
+P_B_8_NC015,Ground_Daily,Arabella Square,0,P_B_8_NC015_O_Shape,P_B_8_NC015_O
+P_O_14_IC044,Ground_Daily,Rehab - Gate 13 - 12,1,P_O_14_IC044_R_Shape,P_O_14_IC044_R
+P_O_14_IC095,Ground_Daily,Laylat Al Qadr,1,P_O_14_IC095_R_Shape,P_O_14_IC095_R
+VG85-qS5arY-IxZ4UXiop,Ground_Daily,Haram & Marioteya,1,HrIgrp0G06upXMX5xTVHL_Shape,HrIgrp0G06upXMX5xTVHL
+HgOOTYudP9JvGMJLgyyjz,Ground_Daily,Giza Square,1,LLH5CFMcY4B_yrieV6JD7_Shape,LLH5CFMcY4B_yrieV6JD7
+P_O_14_IC079,Ground_Daily,Megawra 3 (15th of May),0,P_O_14_IC079_O_Shape,P_O_14_IC079_O
+F-huxTOsiGcnkweRGwZg8,Ground_Daily,Al-Salam (10th of Ramadan),1,F-qa8NHvy7MY8TP0ZVgZN_Shape,F-qa8NHvy7MY8TP0ZVgZN
+P_O_14_CA116,Ground_Daily,Abbasseya,1,P_O_14_CA116_R_Shape,P_O_14_CA116_R
+CTA_1128,Ground_Daily,Asmarrat,1,CTA_1128_R_Shape,CTA_1128_R
+CgY1MncbobepPdQSZZ9dl,Ground_Daily,Mamaleek -Manial (Meqyas),1,BawBz0uRh_UJJiLQ6huC-_Shape,BawBz0uRh_UJJiLQ6huC-
+P_O_14_GZ014,Ground_Daily,Haram & Marioteya,1,P_O_14_GZ014_R_Shape,P_O_14_GZ014_R
+P_O_14_GZ010,Ground_Daily,Lebanon Square,1,P_O_14_GZ010_R_Shape,P_O_14_GZ010_R
+P_O_14_IC057,Ground_Daily,Ramses,0,P_O_14_IC057_O_Shape,P_O_14_IC057_O
+P_O_14_CA150,Ground_Daily,Ramses,1,P_O_14_CA150_R_Shape,P_O_14_CA150_R
+P_O_14_IG015,Ground_Daily,Faisal St & Ring Rd,0,P_O_14_IG015_O_Shape,P_O_14_IG015_O
+2eCfQDCqolqzBE6SOlWnJ,Ground_Daily,Mazlaqan Ain Shams,0,IG684TAymG_bL_hslhyGo_Shape,IG684TAymG_bL_hslhyGo
+P_O_14_IC023,Ground_Daily,Ramses,0,P_O_14_IC023_O_Shape,P_O_14_IC023_O
+P_B_8_6O026,Ground_Daily,Laylat Al Qadr,0,P_B_8_6O026_O_Shape,P_B_8_6O026_O
+BOX_6O022,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,BOX_6O022_R_Shape,BOX_6O022_R
+P_O_14_CA165,Ground_Daily,Abboud,0,P_O_14_CA165_O_Shape,P_O_14_CA165_O
+P_O_14_CA049,Ground_Daily,Abou Al Reesh,1,P_O_14_CA049_R_Shape,P_O_14_CA049_R
+P_O_14_CA160,Ground_Daily,Al Banhawi,1,P_O_14_CA160_R_Shape,P_O_14_CA160_R
+3JpAdi2uPwMtPTnRK6Jyp,Ground_Daily,Al Omraneyya Al Gadida,0,1vsBeLtLPgNSSnM5gWycm_Shape,1vsBeLtLPgNSSnM5gWycm
+P_O_14_CA084,Ground_Daily,7th District (Nasr City),1,P_O_14_CA084_R_Shape,P_O_14_CA084_R
+JlzozxxL918inEWQTu3iJ,Ground_Daily,Al Zawya Al Hamra,0,fj8SrDcSJO_LYo0-SFKkD_Shape,fj8SrDcSJO_LYo0-SFKkD
+P_O_14_CA154,Ground_Daily,Ramses,1,P_O_14_CA154_R_Shape,P_O_14_CA154_R
+CTA_2,Ground_Daily,Qism El Hadayek,0,CTA_2_O_Shape,CTA_2_O
+P_O_14_IC060,Ground_Daily,Giza Square,0,P_O_14_IC060_O_Shape,P_O_14_IC060_O
+ER0t9nxcaa0Md4Nm7r-oa,Ground_Daily,Qalaa,0,vkA9FTRV1Wks3bhJCg-6b_Shape,vkA9FTRV1Wks3bhJCg-6b
+P_O_14_IG012,Ground_Daily,Al Warraq,0,P_O_14_IG012_O_Shape,P_O_14_IG012_O
+P_O_14_QA006,Ground_Daily,Khanka,1,P_O_14_QA006_R_Shape,P_O_14_QA006_R
+P_O_14_IG006,Ground_Daily,Remaya (New Mashaal),0,P_O_14_IG006_R_Shape,P_O_14_IG006_R
+P_O_14_CA171,Ground_Daily,Manshiyat Nasser,1,P_O_14_CA171_R_Shape,P_O_14_CA171_R
+P_O_14_IG036,Ground_Daily,Nasr St,0,P_O_14_IG036_O_Shape,P_O_14_IG036_O
+P_O_14_IC014,Ground_Daily,Awwel Makram Ebeid,0,P_O_14_IC014_O_Shape,P_O_14_IC014_O
+yAI6yQ2LBxm7IO1KMcmR0,Ground_Daily,Warraq Al Arab (Cima),1,vBVkAtUbv-GMzHM_aVqtu_Shape,vBVkAtUbv-GMzHM_aVqtu
+P_B_8_6O027,Ground_Daily,Laylat Al Qadr,0,P_B_8_6O027_O_Shape,P_B_8_6O027_O
+CTA_1081,Ground_Daily,Isbiko,0,CTA_1081_O_Shape,CTA_1081_O
+P_O_14_GZ055,Ground_Daily,Moneeb,0,P_O_14_GZ055_O_Shape,P_O_14_GZ055_O
+P_O_14_GZ004,Ground_Daily,Abou Rawwash,0,P_O_14_GZ004_O_Shape,P_O_14_GZ004_O
+tScPnAp_04aD4VwhGidx4,Ground_Daily,Church (Kayan) - New Administrative Capital,0,tScPnAp_04aD4VwhGidx4_O_Shape,tScPnAp_04aD4VwhGidx4_O
+bBGSiORySswlj4oOCxk3H,Ground_Daily,Church (Kayan) - New Administrative Capital,0,bBGSiORySswlj4oOCxk3H_O_Shape,bBGSiORySswlj4oOCxk3H_O
+CTA_1081,Ground_Daily,Abd Al Moneim Riad,1,CTA_1081_R_Shape,CTA_1081_R
+COOP_IG045,Ground_Daily,Moassasa,0,COOP_IG045_O_Shape,COOP_IG045_O
+wXzxv5mG6pJgRBElFDWcQ,Ground_Daily,Moneeb,1,wXzxv5mG6pJgRBElFDWcQ_R_Shape,wXzxv5mG6pJgRBElFDWcQ_R
+P_O_14_CA022,Ground_Daily,Madinat Al Bo'oth Al Eslamyya,0,P_O_14_CA022_O_Shape,P_O_14_CA022_O
+QD4B-vIsagxeF82oSJvMs,Ground_Daily,Moassasa,1,I1qiAtU1epsYtvf6uolke_Shape,I1qiAtU1epsYtvf6uolke
+CTA_1150,Ground_Daily,15th of May,1,CTA_1150_R_Shape,CTA_1150_R
+M72HU9kmUJZ6FhQHG_GpP,Ground_Daily,Ibrahim Bek,1,nqIH_7WvK-6SXINmvGola_Shape,nqIH_7WvK-6SXINmvGola
+BOX_6O023,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,BOX_6O023_R_Shape,BOX_6O023_R
+PBikgVF29mTLslC7tpYmN,Ground_Daily,Khalafawy Square,0,-D2_WW54qJOAOUA0HlcHx_Shape,-D2_WW54qJOAOUA0HlcHx
+BOX_6O024,Ground_Daily,Daewoo,0,BOX_6O024_O_Shape,BOX_6O024_O
+tOuRwi8SSInQQJ7Kbq7O1,Ground_Daily,Dandy Mall,1,JqXH8MN1_K-5LWTY2BFqH_Shape,JqXH8MN1_K-5LWTY2BFqH
+P_O_14_IC038,Ground_Daily,Mehwar & Alex Desert Rd,1,P_O_14_IC038_R_Shape,P_O_14_IC038_R
+GxHvz209T3KnqSnTEacs-,Ground_Daily,Ahmed Helmy,0,TLPy9wUbywTabUSKxXrYx_Shape,TLPy9wUbywTabUSKxXrYx
+COOP_IC075,Ground_Daily,Al Hamd Square,0,COOP_IC075_O_Shape,COOP_IC075_O
+CTA_321,Ground_Daily,New Marg,1,CTA_321_R_Shape,CTA_321_R
+BOX_6O016,Ground_Daily,Total  (6th of October),1,BOX_6O016_R_Shape,BOX_6O016_R
+h2J_fjZiNjbt_8gzFSmzs,Ground_Daily,Lebanon Square,0,oacehl0X7OcJby1R4Oba0_Shape,oacehl0X7OcJby1R4Oba0
+P_O_14_CA067,Ground_Daily,Al Zawya Al Hamra,1,P_O_14_CA067_R_Shape,P_O_14_CA067_R
+oBfdc8gljJblvRbAa0dmX,Ground_Daily,10th District (Nasr City),0,2oLBLNHmgDTCcWxV8HM1k_Shape,2oLBLNHmgDTCcWxV8HM1k
+P_O_14_CA117,Ground_Daily,Masaken Ain Shams,0,P_O_14_CA117_O_Shape,P_O_14_CA117_O
+P_O_14_GZ057,Ground_Daily,Znen (Awwel Al Eshreen),1,P_O_14_GZ057_R_Shape,P_O_14_GZ057_R
+P_O_14_GZ021,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ021_R_Shape,P_O_14_GZ021_R
+UqNUrY5nD-HVKa4Wl0Fi3,Ground_Daily,Filfil Mosque (Bashtil),1,HTvQ1-in5zoKF0QdDIokq_Shape,HTvQ1-in5zoKF0QdDIokq
+P_O_14_CA017,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA017_R_Shape,P_O_14_CA017_R
+P_O_14_IC050,Ground_Daily,10th District (Nasr City),1,P_O_14_IC050_R_Shape,P_O_14_IC050_R
+P_O_14_CA174,Ground_Daily,Maadi Metro,0,P_O_14_CA174_O_Shape,P_O_14_CA174_O
+P_O_14_CA151,Ground_Daily,Ramses,1,P_O_14_CA151_R_Shape,P_O_14_CA151_R
+P_O_14_IC020,Ground_Daily,Gas (Banks Area),1,P_O_14_IC020_R_Shape,P_O_14_IC020_R
+CTA_975,Ground_Daily,Moassasa,0,CTA_975_O_Shape,CTA_975_O
+BJ5gu8S2fvtVIQNgi3LNC,Ground_Daily,Masaken Dahshour,1,FjqS5YZ_SsKiz5lnAETLT_Shape,FjqS5YZ_SsKiz5lnAETLT
+P_B_8_IC073,Ground_Daily,Moneeb Konayyesa,1,P_B_8_IC073_R_Shape,P_B_8_IC073_R
+CTA_M_302,Ground_Daily,Mamaleek -Manial (Meqyas),0,CTA_M_302_O_Shape,CTA_M_302_O
+P_O_14_CA027,Ground_Daily,Alf Maskan,1,P_O_14_CA027_R_Shape,P_O_14_CA027_R
+F-oBh93OH6Ie4snCmxj8i,Ground_Daily,Basrawy,0,zpmq3KxDh4NaJOQpDODit_Shape,zpmq3KxDh4NaJOQpDODit
+P_O_14_CA159,Ground_Daily,Mazlaqan Al Deweqa,0,P_O_14_CA159_O_Shape,P_O_14_CA159_O
+P_O_14_CA131,Ground_Daily,Al Banhawi,0,P_O_14_CA131_O_Shape,P_O_14_CA131_O
+CTA_531,Ground_Daily,Om Bayoumi (Mintay),0,CTA_531_O_Shape,CTA_531_O
+P_O_14_CA025,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,P_O_14_CA025_O_Shape,P_O_14_CA025_O
+P_O_14_CA175,Ground_Daily,Abboud,1,P_O_14_CA175_R_Shape,P_O_14_CA175_R
+P_O_14_SZ010,Ground_Daily,Zayed 2000,1,P_O_14_SZ010_R_Shape,P_O_14_SZ010_R
+CTA_1107,Ground_Daily,Kattameya (Mahmoudeya),1,CTA_1107_R_Shape,CTA_1107_R
+P_O_14_IC092,Ground_Daily,Al Shorouq Academy,1,P_O_14_IC092_R_Shape,P_O_14_IC092_R
+P_B_8_NC013,Ground_Daily,Gas (Banks Area),1,P_B_8_NC013_R_Shape,P_B_8_NC013_R
+P_O_14_CA118,Ground_Daily,Matareya Square,1,P_O_14_CA118_R_Shape,P_O_14_CA118_R
+P_O_14_IC047,Ground_Daily,Lebanon Square,1,P_O_14_IC047_R_Shape,P_O_14_IC047_R
+P_O_14_6O029,Ground_Daily,Dolce,1,P_O_14_6O029_R_Shape,P_O_14_6O029_R
+P_O_14_IC066,Ground_Daily,Al Hegaz (Obour Police ),1,P_O_14_IC066_R_Shape,P_O_14_IC066_R
+IYilQT6atGwqzRh7MNJHd,Ground_Daily,Badrasheen,1,pihBgGUpjHrq9axTka94b_Shape,pihBgGUpjHrq9axTka94b
+IQBYLZyf_eGY8fK3WVcR0,Ground_Daily,11th District (6th of October),0,yvMDk6teaiUaY2UxRDDer_Shape,yvMDk6teaiUaY2UxRDDer
+P_O_14_CA155,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_CA155_O_Shape,P_O_14_CA155_O
+P_O_14_GZ059,Ground_Daily,Mazghuna,1,P_O_14_GZ059_R_Shape,P_O_14_GZ059_R
+COOP_GZ019,Ground_Daily,Remaya Square,1,COOP_GZ019_R_Shape,COOP_GZ019_R
+f_ndpqhZbBLRF7rSyRerB,Ground_Daily,Haram Areesh (Sahl Hamza),0,yTbKE0MOB1k51v1dnqrIH_Shape,yTbKE0MOB1k51v1dnqrIH
+P_O_14_IC021,Ground_Daily,Saqr Quraish,0,P_O_14_IC021_O_Shape,P_O_14_IC021_O
+P_O_14_CA147,Ground_Daily,Awwel Al Zawya Al Hamra,1,P_O_14_CA147_R_Shape,P_O_14_CA147_R
+COOP_IC042,Ground_Daily,FUE,1,COOP_IC042_R_Shape,COOP_IC042_R
+P_O_14_IG031,Ground_Daily,7th District (Nasr City),1,P_O_14_IG031_R_Shape,P_O_14_IG031_R
+COOP_IC042,Ground_Daily,Al-Salam (10th of Ramadan),0,COOP_IC042_O_Shape,COOP_IC042_O
+COOP_IC084,Ground_Daily,Al-Salam (10th of Ramadan),1,COOP_IC084_O_Shape,COOP_IC084_O
+COOP_IC083,Ground_Daily,Hyper 1,1,COOP_IC083_R_Shape,COOP_IC083_R
+COOP_IG026,Ground_Daily,Qalyoub Exit,0,COOP_IG026_O_Shape,COOP_IG026_O
+PtTt3WzbrwwaHofgpaVMj,Ground_Daily,Mostorod,0,fIo6VbAn9oZ0MvD69dSGV_Shape,fIo6VbAn9oZ0MvD69dSGV
+foiu6unw8p8KJnIDFM5Xs,Ground_Daily,Moassasa,0,yIaK18BUQRWWrkqHnrpGr_Shape,yIaK18BUQRWWrkqHnrpGr
+P_O_14_CA004,Ground_Daily,Saqr Quraish,0,P_O_14_CA004_O_Shape,P_O_14_CA004_O
+COOP_IC077,Ground_Daily,New Cairo Academy,0,COOP_IC077_O_Shape,COOP_IC077_O
+U12iA-JAJn3HecabkdSeW,Ground_Daily,Imbaba,1,grqXIC1wSgIyOw8jtOn5w_Shape,grqXIC1wSgIyOw8jtOn5w
+O__qyKz6kCZCjrNB-7OYX,Ground_Daily,Tibeen,0,uExuHHG2kdBHjlUe0Z2kj_Shape,uExuHHG2kdBHjlUe0Z2kj
+MM_M21,Ground_Weekdays,Laylat Al Qadr,1,MM_M21_R_Shape,MM_M21_R
+MM_M21,Ground_Weekdays,Cairo University,0,MM_M21_O_Shape,MM_M21_O
+MM_618,Ground_Weekdays,7th District (Nasr City),1,MM_618_R_Shape,MM_618_R
+uPQepJdL4bjoI0R7J9XKz,Ground_Daily,Bulaq Al Dakrur,1,g_mggWd87YVAqzF7PFTls_Shape,g_mggWd87YVAqzF7PFTls
+P_O_14_CA169,Ground_Daily,Awwel Abbas,1,P_O_14_CA169_R_Shape,P_O_14_CA169_R
+COOP_IC077,Ground_Daily,New Marg,1,COOP_IC077_R_Shape,COOP_IC077_R
+P_B_8_NC012,Ground_Daily,Kattameya (Mahmoudeya),0,P_B_8_NC012_O_Shape,P_B_8_NC012_O
+EgKIe-2AnaMNxtDaRSfZi,Ground_Daily,Gas (Banks Area),0,XNpoAo_301r7_-bXlngR2_Shape,XNpoAo_301r7_-bXlngR2
+P_O_14_CA140,Ground_Daily,Tibeen,0,P_O_14_CA140_O_Shape,P_O_14_CA140_O
+r2vpERz_TL7ahX5F7dvh9,Ground_Daily,Qalaa,0,ua3Rsj_FOxVNvZ3Mffslp_Shape,ua3Rsj_FOxVNvZ3Mffslp
+P_O_14_IG010,Ground_Daily,Isaaf,1,P_O_14_IG010_R_Shape,P_O_14_IG010_R
+bn1tRMyVcFLKoJ48jSDDC,Ground_Daily,Ahmed Helmy,0,2Mz8m8AYyMTyawZGij79B_Shape,2Mz8m8AYyMTyawZGij79B
+PDlizFncn7JYVajF5DkR9,Ground_Daily,Shabramant,1,sQ84EiW5DGOU0MMop47zF_Shape,sQ84EiW5DGOU0MMop47zF
+P_O_14_CA005,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA005_R_Shape,P_O_14_CA005_R
+GKwSUuezWdV45Rd_Qtady,Ground_Daily,Faisal Tawabek,0,HYtx2XW2ic82887tSR3MJ_Shape,HYtx2XW2ic82887tSR3MJ
+BOX_6O003,Ground_Daily,Dolce,0,BOX_6O003_O_Shape,BOX_6O003_O
+IYD6dwYtSHca6S9EV__lK,Ground_Daily,Basrawy,0,RBt5BXosugRVLPo_360aY_Shape,RBt5BXosugRVLPo_360aY
+CTA_1134,Ground_Daily,Abbasseya,1,CTA_1134_R_Shape,CTA_1134_R
+iDpD8dsATU1Rs0Mdtlwor,Ground_Daily,Mostorod,0,E6Uoz2CnTV5NNTGElZgHQ_Shape,E6Uoz2CnTV5NNTGElZgHQ
+P_O_14_IC003,Ground_Daily,New Cairo Court,0,P_O_14_IC003_O_Shape,P_O_14_IC003_O
+CTA_M_167,Ground_Daily,Zahraa Madinet Nasr,0,CTA_M_167_O_Shape,CTA_M_167_O
+P_O_14_CA129,Ground_Daily,Masaken Ain Shams,1,P_O_14_CA129_R_Shape,P_O_14_CA129_R
+CTA_982,Ground_Daily,Hawamdeyya,0,CTA_982_O_Shape,CTA_982_O
+P_O_14_IG092,Ground_Daily,Al-Salam (10th of Ramadan),1,P_O_14_IG092_R_Shape,P_O_14_IG092_R
+MM_M11,Ground_Weekdays,Hadayek AL Ahram (Second Gate),1,MM_M11_R_Shape,MM_M11_R
+EgKIe-2AnaMNxtDaRSfZi,Ground_Daily,Gas (Banks Area),1,50I7g-NeO6UVVAitQBYHK_Shape,50I7g-NeO6UVVAitQBYHK
+FBT0F0L0nZP2Z5ICmHls-,Ground_Daily,Giza Square,1,AKuYGzCeEfDCBUMS3RuiK_Shape,AKuYGzCeEfDCBUMS3RuiK
+P_O_14_IG010,Ground_Daily,Al Wehda Imbaba (Al Bohi),0,P_O_14_IG010_O_Shape,P_O_14_IG010_O
+CTA_1140,Ground_Daily,Imbaba,1,CTA_1140_R_Shape,CTA_1140_R
+P_O_14_IG089,Ground_Daily,Qasr Al Einy,1,P_O_14_IG089_R_Shape,P_O_14_IG089_R
+RSdIAdQiV_sN5aWHuOSsc,Ground_Daily,Amiriya,0,awsb7ORmKj1A-XgP5bl6-_Shape,awsb7ORmKj1A-XgP5bl6-
+P_O_14_CA112,Ground_Daily,Masaken Ain Shams,0,P_O_14_CA112_O_Shape,P_O_14_CA112_O
+CTA_M_158,Ground_Daily,Abd Al Moneim Riad,1,CTA_M_158_R_Shape,CTA_M_158_R
+G3SanxHficxx5Wx3Kfnn0,Ground_Daily,Hyper 1,0,rGpYGyH9PCR2Ao0o4Zq0Z_Shape,rGpYGyH9PCR2Ao0o4Zq0Z
+P_O_14_IC056,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_O_14_IC056_R_Shape,P_O_14_IC056_R
+fwS4JbFtp5dtGtwMGqXBH,Ground_Daily,Al Sayeda Aisha,1,sP0bWf6FAAxkO9XtSIUU-_Shape,sP0bWf6FAAxkO9XtSIUU-
+P_O_14_IC003,Ground_Daily,Al Sayeda Aisha,1,P_O_14_IC003_R_Shape,P_O_14_IC003_R
+P_O_14_IC074,Ground_Daily,New Marg,1,P_O_14_IC074_R_Shape,P_O_14_IC074_R
+CTA_342,Ground_Daily,Qalaa,1,CTA_342_R_Shape,CTA_342_R
+dGZEosc821pSF0MGiNb76,Ground_Daily,Alf Maskan,1,gDtlsPkrJeYqI5rcllGrG_Shape,gDtlsPkrJeYqI5rcllGrG
+P_O_14_GZ042,Ground_Daily,Badrasheen,1,P_O_14_GZ042_R_Shape,P_O_14_GZ042_R
+P_O_14_IC020,Ground_Daily,10th District (Nasr City),0,P_O_14_IC020_O_Shape,P_O_14_IC020_O
+G78c4G-oy20XNbcMYCzxY,Ground_Daily,Orabi Bridge,1,VOzBhvL9Yj-5M10S2hfp__Shape,VOzBhvL9Yj-5M10S2hfp_
+P_O_14_CA159,Ground_Daily,Nahda City,1,P_O_14_CA159_R_Shape,P_O_14_CA159_R
+P_O_14_CA005,Ground_Daily,Hadaba Wosta (Moqattam),0,P_O_14_CA005_O_Shape,P_O_14_CA005_O
+P_O_14_IC059,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_O_14_IC059_R_Shape,P_O_14_IC059_R
+EbtM_hQ0jhsQyuGc5GCpz,Ground_Daily,Hyper 1,1,dukmQyH3Bq7wPLZxObjYA_Shape,dukmQyH3Bq7wPLZxObjYA
+P_O_14_IC037,Ground_Daily,Alf Maskan,1,P_O_14_IC037_R_Shape,P_O_14_IC037_R
+P_O_14_IG031,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IG031_O_Shape,P_O_14_IG031_O
+JyWtn3ABwFi8HtnOdZir3,Ground_Daily,Ard El Lewaa,1,OSHP1oY4xkiEQJO4Oe5Tt_Shape,OSHP1oY4xkiEQJO4Oe5Tt
+CTA_833,Ground_Daily,Motseian,1,CTA_833_R_Shape,CTA_833_R
+HZd1EesltJ445uu9I6wbH,Ground_Daily,Awwel Al Zawya Al Hamra,0,WnbKuRHQM3BfQvqG2hMfL_Shape,WnbKuRHQM3BfQvqG2hMfL
+Eq5DUhwePKrivC_r5EyAz,Ground_Daily,Imbaba,1,Q9q-whcYskJPP78-Zhcon_Shape,Q9q-whcYskJPP78-Zhcon
+P_O_14_IG073,Ground_Daily,Filfil Mosque (Bashtil),0,P_O_14_IG073_O_Shape,P_O_14_IG073_O
+30QI2WFsvNrXncGOrD-Yl,Ground_Daily,Masaken Betcho,1,T54onFGMOCluFq178GHtj_Shape,T54onFGMOCluFq178GHtj
+LpiM9b8bL-w2_OYYAi9OZ,Ground_Daily,Bohooth (Al Kobri Al Khashab),0,WWbeYBPLhRHOj72_O1pEg_Shape,WWbeYBPLhRHOj72_O1pEg
+MfH-pfpTAl0OVRoWJgzRH,Ground_Daily,Attaba,0,VvvGXzP3weW3Phvjx4BiF_Shape,VvvGXzP3weW3Phvjx4BiF
+EN8O17ndwKGdqbV4Vemgm,Ground_Daily,Moneeb,1,FFK0IKfH-kucfPhPWooUU_Shape,FFK0IKfH-kucfPhPWooUU
+P_O_14_CA115,Ground_Daily,Abbasseya,1,P_O_14_CA115_R_Shape,P_O_14_CA115_R
+CTA_828,Ground_Daily,Masaken Ain Shams,0,CTA_828_O_Shape,CTA_828_O
+P_O_14_IG039,Ground_Daily,Attaba,0,P_O_14_IG039_O_Shape,P_O_14_IG039_O
+CTA_1145,Ground_Daily,Mazallat,0,CTA_1145_O_Shape,CTA_1145_O
+BOX_6O003,Ground_Daily,10th District (6th of October),1,BOX_6O003_R_Shape,BOX_6O003_R
+P_O_14_IC076,Ground_Daily,Laylat Al Qadr,1,P_O_14_IC076_O_Shape,P_O_14_IC076_O
+P_O_14_CA142,Ground_Daily,Helwan Metro,1,P_O_14_CA142_R_Shape,P_O_14_CA142_R
+P_O_14_CA160,Ground_Daily,Salam Alexandria,0,P_O_14_CA160_O_Shape,P_O_14_CA160_O
+hdBN4uzpUjTGN0vKzf9kW,Ground_Daily,Al Sayeda Aisha,1,uTBstBNJIGFsx-MTz-_p__Shape,uTBstBNJIGFsx-MTz-_p_
+aJY-YEz8s6i0ojLZgEitA,Ground_Daily,Kilo 4 & Half,0,1CVc7raPnIXvjdgIQv2wA_Shape,1CVc7raPnIXvjdgIQv2wA
+P_B_8_GZ060,Ground_Daily,Marioteya & Ring Rd,1,P_B_8_GZ060_R_Shape,P_B_8_GZ060_R
+OV9c3M2XEp7fizUlcqY26,Ground_Daily,Alf Maskan,1,M3avEE_ALoxL2TOJi69Vo_Shape,M3avEE_ALoxL2TOJi69Vo
+wefEKmjKPjq1ZbcWyQSwL,Ground_Daily,New Marg,1,wVlRt-nutiLBrjAOozwe1_Shape,wVlRt-nutiLBrjAOozwe1
+P_O_14_IC068,Ground_Daily,Moneeb,0,P_O_14_IC068_O_Shape,P_O_14_IC068_O
+CTA_M_142,Ground_Daily,Mazallat,0,CTA_M_142_O_Shape,CTA_M_142_O
+uW2y9jwwdAHo_waEy2qex,Ground_Daily,Cairo Alexandria Agriculture Road,0,JCPiG-iikHSYZMr2lcfF2_Shape,JCPiG-iikHSYZMr2lcfF2
+P_O_14_IC001,Ground_Daily,Gas (Banks Area),0,P_O_14_IC001_O_Shape,P_O_14_IC001_O
+67VWfBwz-LVqC7OxaN5Cj,Ground_Daily,Haram & Marioteya,0,3z3gUc3I9juRxrcHkQfug_Shape,3z3gUc3I9juRxrcHkQfug
+P_O_14_6O021,Ground_Daily,Laylat Al Qadr,0,P_O_14_6O021_O_Shape,P_O_14_6O021_O
+tChScy_qLlcoN-TeOox9G,Ground_Daily,Ain Shams Metro,0,pMESo9uHgEYtySBK81vFt_Shape,pMESo9uHgEYtySBK81vFt
+KmVdHOhRfUX8cw29qR_Vo,Ground_Daily,Kerdasa,1,Q-7s5Cr9SpCAlbEmxvTP-_Shape,Q-7s5Cr9SpCAlbEmxvTP-
+8TSoqsVo41bExi7Jg16qQ,Ground_Daily,Ramses,0,xDeSeOj8pWNU2XgE8tUHa_Shape,xDeSeOj8pWNU2XgE8tUHa
+rdpn6hzcA1xgiqwViabDy,Ground_Daily,New Marg,0,qreRDURlt-7127-4ceEHw_Shape,qreRDURlt-7127-4ceEHw
+utymBvr8ZF897oTW9pDue,Ground_Daily,Abd Al Moneim Riad,1,3FKb-93AIxiKSHGTPQqn1_Shape,3FKb-93AIxiKSHGTPQqn1
+P_B_8_CA095,Ground_Daily,New Marg,1,P_B_8_CA095_R_Shape,P_B_8_CA095_R
+P_O_14_IC004,Ground_Daily,Kattameya Church,0,P_O_14_IC004_O_Shape,P_O_14_IC004_O
+CTA_80,Ground_Daily,10th District (Nasr City),0,CTA_80_O_Shape,CTA_80_O
+CTA_794,Ground_Daily,Giza Square,0,CTA_794_O_Shape,CTA_794_O
+ejAVozyP784n-DqXuiW2U,Ground_Daily,Basateen,0,QGctwhccrMIzOjwKZdbNm_Shape,QGctwhccrMIzOjwKZdbNm
+P_O_14_CA084,Ground_Daily,Hadaba Wosta (Moqattam),0,P_O_14_CA084_O_Shape,P_O_14_CA084_O
+CTA_M_117,Ground_Daily,1st Settlement (New Cairo),0,CTA_M_117_O_Shape,CTA_M_117_O
+aJY-YEz8s6i0ojLZgEitA,Ground_Daily,Alf Maskan,1,EP89QlXCJ86yS1iidQCWJ_Shape,EP89QlXCJ86yS1iidQCWJ
+P_O_14_CA130,Ground_Daily,Masaken Ain Shams,1,P_O_14_CA130_R_Shape,P_O_14_CA130_R
+eZRgIovK0tJAVzmhR85GR,Ground_Daily,Remaya (New Mashaal),0,EbW9mj9Kh_iHOsFZ7iHoi_Shape,EbW9mj9Kh_iHOsFZ7iHoi
+P_O_14_IC050,Ground_Daily,Al Shabab Entrance,0,P_O_14_IC050_O_Shape,P_O_14_IC050_O
+P_B_8_CA106,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,P_B_8_CA106_R_Shape,P_B_8_CA106_R
+6Qg43sT3Clqienri3AXm7,Ground_Daily,Al-Salam (10th of Ramadan),0,CQjC1LpNpSw3k5peqHgzk_Shape,CQjC1LpNpSw3k5peqHgzk
+P_B_8_CA106,Ground_Daily,Masaken Ain Shams,0,P_B_8_CA106_O_Shape,P_B_8_CA106_O
+c9cUCbuNGMusHnHEIT34g,Ground_Daily,Bulaq Al Dakrur,1,cNb0nc-7qY4etZkIAleyi_Shape,cNb0nc-7qY4etZkIAleyi
+CTA_1148,Ground_Daily,Abd Al Moneim Riad,0,CTA_1148_O_Shape,CTA_1148_O
+CTA_1147,Ground_Daily,Obour,0,CTA_1147_O_Shape,CTA_1147_O
+CTA_46,Ground_Daily,Masaken Zeinhom,0,CTA_46_O_Shape,CTA_46_O
+CTA_69,Ground_Daily,Attaba,0,CTA_69_O_Shape,CTA_69_O
+P_O_14_IG096,Ground_Daily,Fayda Kamel,1,P_O_14_IG096_R_Shape,P_O_14_IG096_R
+P_O_14_IC100,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IC100_O_Shape,P_O_14_IC100_O
+P_O_14_IG044,Ground_Daily,Mostorod Ring Rd,0,P_O_14_IG044_O_Shape,P_O_14_IG044_O
+COOP_GZ029,Ground_Daily,Giza Square,0,COOP_GZ029_O_Shape,COOP_GZ029_O
+P_O_14_IC089,Ground_Daily,Moneeb,0,P_O_14_IC089_O_Shape,P_O_14_IC089_O
+CTA_31S,Ground_Daily,Giza Square,0,CTA_31S_O_Shape,CTA_31S_O
+CTA_M_19,Ground_Daily,1st Settlement (New Cairo),0,CTA_M_19_O_Shape,CTA_M_19_O
+CTA_82,Ground_Daily,Masarra,0,CTA_82_O_Shape,CTA_82_O
+P_O_14_IC002,Ground_Daily,Ommal Square,0,P_O_14_IC002_O_Shape,P_O_14_IC002_O
+P_O_14_CA040,Ground_Daily,Al Sheikh Mansour,0,P_O_14_CA040_O_Shape,P_O_14_CA040_O
+COOP_IG048,Ground_Daily,Qalyoub,1,COOP_IG048_R_Shape,COOP_IG048_R
+P_O_14_CA032,Ground_Daily,Ain Shams Metro,0,P_O_14_CA032_O_Shape,P_O_14_CA032_O
+CTA_1161,Ground_Daily,Moneeb,1,CTA_1161_R_Shape,CTA_1161_R
+P_B_8_NC017,Ground_Daily,Al Hamd Square,0,P_B_8_NC017_O_Shape,P_B_8_NC017_O
+P_O_14_SZ010,Ground_Daily,Hyper 1,0,P_O_14_SZ010_O_Shape,P_O_14_SZ010_O
+P_O_14_IG056,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IG056_O_Shape,P_O_14_IG056_O
+BOX_6O028,Ground_Daily,Masaken Othman (6th of October),0,BOX_6O028_O_Shape,BOX_6O028_O
+P_O_14_IC071,Ground_Daily,Helwan Metro,0,P_O_14_IC071_O_Shape,P_O_14_IC071_O
+FBT0F0L0nZP2Z5ICmHls-,Ground_Daily,Matbaa,0,MDC8D_uCr3dk--ZCf6ddk_Shape,MDC8D_uCr3dk--ZCf6ddk
+P_O_14_IC013,Ground_Daily,Hossary,1,P_O_14_IC013_R_Shape,P_O_14_IC013_R
+P_O_14_IC034,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_IC034_O_Shape,P_O_14_IC034_O
+P_O_14_CA155,Ground_Daily,Ramses,1,P_O_14_CA155_R_Shape,P_O_14_CA155_R
+tywNfVmg7Vw0gAzy8NLvu,Ground_Daily,Haram & Marioteya,1,HncQsqpAyu_K2d7hHOjn5_Shape,HncQsqpAyu_K2d7hHOjn5
+wt6gx-bxKC-Iyl7o604Vq,Ground_Daily,7th District (Nasr City),0,wt6gx-bxKC-Iyl7o604Vq_O_Shape,wt6gx-bxKC-Iyl7o604Vq_O
+22jIZH2MmWm88pZ3MORG_,Ground_Daily,Obour,0,22jIZH2MmWm88pZ3MORG__O_Shape,22jIZH2MmWm88pZ3MORG__O
+LneRsrKsi5-xujQOkQX66,Ground_Daily,Obour,0,LneRsrKsi5-xujQOkQX66_O_Shape,LneRsrKsi5-xujQOkQX66_O
+CTA_69,Ground_Daily,1st Settlement (New Cairo),1,CTA_69_R_Shape,CTA_69_R
+aLrT5j0aQaI9mR_I4nxYy,Ground_Daily,Matareya Square,0,x2xDi2dmpLUTyAooRdb8J_Shape,x2xDi2dmpLUTyAooRdb8J
+-VhmbIy80una-3ZcYAtuQ,Ground_Daily,Barageel St,1,8ye8MRqs-Bmz18Vcxttpj_Shape,8ye8MRqs-Bmz18Vcxttpj
+0mQ8cT0ZE81ogwfFKHdrc,Ground_Daily,Arab Maadi,0,nsQXWU6BjZCW1SNH0DaKf_Shape,nsQXWU6BjZCW1SNH0DaKf
+m9IKw8bdVfTvbKv5OgLgV,Ground_Daily,Roxy,0,UTuafEhn7Xk7Aq_b4hodm_Shape,UTuafEhn7Xk7Aq_b4hodm
+30QI2WFsvNrXncGOrD-Yl,Ground_Daily,Carrefour - Maadi,0,V64cQ-K6tX5SQ_8fKKdXb_Shape,V64cQ-K6tX5SQ_8fKKdXb
+wXzxv5mG6pJgRBElFDWcQ,Ground_Daily,10th of Ramadan City,0,wXzxv5mG6pJgRBElFDWcQ_O_Shape,wXzxv5mG6pJgRBElFDWcQ_O
+lERFh__deEcw2uO7KdOxv,Ground_Daily,Moneeb,0,_oKIdcJxXUGButLDz7SnW_Shape,_oKIdcJxXUGButLDz7SnW
+CTA_250,Ground_Daily,Attaba,0,CTA_250_O_Shape,CTA_250_O
+P_O_14_IC018,Ground_Daily,Giza Square,0,P_O_14_IC018_O_Shape,P_O_14_IC018_O
+CTA_910,Ground_Daily,Imbaba,0,CTA_910_O_Shape,CTA_910_O
+P_O_14_CA011,Ground_Daily,Al Banhawi,0,P_O_14_CA011_O_Shape,P_O_14_CA011_O
+49Lt1kKFfGCSPZKc8R4LQ,Ground_Daily,Qalyoub Exit,1,49Lt1kKFfGCSPZKc8R4LQ_R_Shape,49Lt1kKFfGCSPZKc8R4LQ_R
+bBGSiORySswlj4oOCxk3H,Ground_Daily,Qalyoub Exit,1,bBGSiORySswlj4oOCxk3H_R_Shape,bBGSiORySswlj4oOCxk3H_R
+jZkmaAxA5oIPfa38GBCb4,Ground_Daily,Awwel Makram Ebeid,0,jZkmaAxA5oIPfa38GBCb4_O_Shape,jZkmaAxA5oIPfa38GBCb4_O
+egjPD6593CKn95Mk98b1K,Ground_Daily,Masaken Othman (Ezbet El Nakhl),1,lF4qwsHmyaVAFCKHrTn49_Shape,lF4qwsHmyaVAFCKHrTn49
+u02rskAm9s9jHxaOs9NhQ,Ground_Daily,8th District (Nasr City) - Al tabba,1,SaVo51Bdi05jCmQbJocaI_Shape,SaVo51Bdi05jCmQbJocaI
+OV9c3M2XEp7fizUlcqY26,Ground_Daily,10th District (Nasr City),0,4FcZAbT6YiNCIQLNkKvd3_Shape,4FcZAbT6YiNCIQLNkKvd3
+MXkuS2j7tp4MjRSbo-Q6f,Ground_Daily,Salam Alexandria,1,ik5tzEa7hhd7KxVoQCkFR_Shape,ik5tzEa7hhd7KxVoQCkFR
+22jIZH2MmWm88pZ3MORG_,Ground_Daily,Imbaba,1,22jIZH2MmWm88pZ3MORG__R_Shape,22jIZH2MmWm88pZ3MORG__R
+CTA_1144,Ground_Daily,Ibrahim Bek,0,CTA_1144_O_Shape,CTA_1144_O
+CTA_970-1051,Ground_Daily,Moassasa,0,CTA_970or1051_O_Shape,CTA_970or1051_O
+wt6gx-bxKC-Iyl7o604Vq,Ground_Daily,Moassasa,1,wt6gx-bxKC-Iyl7o604Vq_R_Shape,wt6gx-bxKC-Iyl7o604Vq_R
+CTA_915,Ground_Daily,Moassasa,0,CTA_915_O_Shape,CTA_915_O
+P_O_14_6O021,Ground_Daily,Al Motamayez,1,P_O_14_6O021_R_Shape,P_O_14_6O021_R
+P_O_14_IG082,Ground_Daily,Mazallat,1,P_O_14_IG082_R_Shape,P_O_14_IG082_R
+DbgUPH8AHAnBT59Ux_FrC,Ground_Daily,Abbasseya,1,MICwitlNCVr30ld8VbVLI_Shape,MICwitlNCVr30ld8VbVLI
+iPmb6Kx9epuWwMHetjCnF,Ground_Daily,Rabaah Al Adaweya Mosque,0,bBlepxQIGx5znx2OtsAhP_Shape,bBlepxQIGx5znx2OtsAhP
+CTA_1009,Ground_Daily,Masaken Betcho,0,CTA_1009_O_Shape,CTA_1009_O
+P_O_14_CA081,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,P_O_14_CA081_O_Shape,P_O_14_CA081_O
+CTA_M_158,Ground_Daily,Cairo Airport,0,CTA_M_158_O_Shape,CTA_M_158_O
+CTA_1078,Ground_Daily,Matbaa,0,CTA_1078_O_Shape,CTA_1078_O
+Ci3EuISJ24C8rXJIGK05p,Ground_Daily,New Marg,1,eF_3QgmOzK3xExrK6_Oba_Shape,eF_3QgmOzK3xExrK6_Oba
+P_O_14_IG060,Ground_Daily,Ramses,1,P_O_14_IG060_R_Shape,P_O_14_IG060_R
+CTA_1123,Ground_Daily,Qism El Hadayek,0,CTA_1123_O_Shape,CTA_1123_O
+P_O_14_IC063,Ground_Daily,Megawra 11 (15th of May),0,P_O_14_IC063_O_Shape,P_O_14_IC063_O
+P_O_14_CA097,Ground_Daily,Mohagreen (Ezbet Al Nakhl),0,P_O_14_CA097_O_Shape,P_O_14_CA097_O
+CTA_507,Ground_Daily,Giza Square,0,CTA_507_O_Shape,CTA_507_O
+P_O_14_CA162,Ground_Daily,Awwel Makram Ebeid,1,P_O_14_CA162_R_Shape,P_O_14_CA162_R
+BamKiGYQ3P_xZETsNX1a5,Ground_Daily,Znen (Awwel Al Eshreen),1,f6-9Wcb-CMDV1r8jAFLkQ_Shape,f6-9Wcb-CMDV1r8jAFLkQ
+P_O_14_CA019,Ground_Daily,Al Malek Al Saleh,0,P_O_14_CA019_O_Shape,P_O_14_CA019_O
+2eCfQDCqolqzBE6SOlWnJ,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,KHcngevQOr4Uw_ISBtSWC_Shape,KHcngevQOr4Uw_ISBtSWC
+Y-YHy-wjklAYFa_6LghGz,Ground_Daily,Moassasa,1,49h4pJT38FRny2vJv82K8_Shape,49h4pJT38FRny2vJv82K8
+P_O_14_IG024,Ground_Daily,Moassasa,0,P_O_14_IG024_O_Shape,P_O_14_IG024_O
+ADJZbj6QAtiHt8lqBibnV,Ground_Daily,Isko,0,brgM19Q_1N79BhOpUEqNE_Shape,brgM19Q_1N79BhOpUEqNE
+lXqxNN6vXSyk0IYiGiSVf,Ground_Daily,New Marg,1,k_Q0V11XaGYRfrt1k__GP_Shape,k_Q0V11XaGYRfrt1k__GP
+P_B_8_6O017,Ground_Daily,Al Motamayez,0,P_B_8_6O017_O_Shape,P_B_8_6O017_O
+8RI-aNmJq8pcth5IxMf8T,Ground_Daily,New Marg,1,XEYfS9oqkOQ9DP3tzD2-Q_Shape,XEYfS9oqkOQ9DP3tzD2-Q
+CTA_99SS,Ground_Daily,Imbaba,0,CTA_99SS_O_Shape,CTA_99SS_O
+P_O_14_CA072,Ground_Daily,Arab Maadi,0,P_O_14_CA072_O_Shape,P_O_14_CA072_O
+P_O_14_IG022,Ground_Daily,Ramses,0,P_O_14_IG022_O_Shape,P_O_14_IG022_O
+CTA_1,Ground_Daily,New Marg,0,CTA_1_O_Shape,CTA_1_O
+n12_wD90lp64_mH8N3fRH,Ground_Daily,Isbiko,1,-SkSq-8QNitoR_XVaPXZ1_Shape,-SkSq-8QNitoR_XVaPXZ1
+Tpa0A12goEVH-sdvNU4pa,Ground_Daily,Matbaa,0,Pm6vFBVJIXhbgUN0wbI_1_Shape,Pm6vFBVJIXhbgUN0wbI_1
+Vdn0kVuba4a9LxwlhEGiJ,Ground_Daily,Ibrahim Bek,1,DEy5EmRXe9tbg4cO-Hzki_Shape,DEy5EmRXe9tbg4cO-Hzki
+PBikgVF29mTLslC7tpYmN,Ground_Daily,Al Zawya Al Hamra,1,91TdOM76gDeed07t4CXBJ_Shape,91TdOM76gDeed07t4CXBJ
+zB2dG9TMv7AhP64pVaI2B,Ground_Daily,Zahraa Madinet Nasr,0,NLhnFN-AZLG1wVpotyGX4_Shape,NLhnFN-AZLG1wVpotyGX4
+X58kvJ659-Gn2oLWjTaD4,Ground_Daily,Zahraa Madinet Nasr,0,ZueH3ABn8G0oY9CWJql2u_Shape,ZueH3ABn8G0oY9CWJql2u
+-VhmbIy80una-3ZcYAtuQ,Ground_Daily,Ard El Lewaa,0,k8Dhm6jURcy623yg3NhAh_Shape,k8Dhm6jURcy623yg3NhAh
+P_O_14_IC086,Ground_Daily,Moneeb,0,P_O_14_IC086_O_Shape,P_O_14_IC086_O
+P_O_14_CA077,Ground_Daily,Helwan,1,P_O_14_CA077_R_Shape,P_O_14_CA077_R
+NUilWKiUS6Kx6c0X5hCYF,Ground_Daily,Roxy,0,_fJrDuDXygbVx7SFuh6lr_Shape,_fJrDuDXygbVx7SFuh6lr
+OOILmjleFc1XPBnUjoK58,Ground_Daily,Bashtil El Balad,0,qJtkJNXpVmRcZ1Q53KsDk_Shape,qJtkJNXpVmRcZ1Q53KsDk
+P_B_8_6O010,Ground_Daily,Dolce,0,P_B_8_6O010_O_Shape,P_B_8_6O010_O
+P_B_8_6O012,Ground_Daily,Laylat Al Qadr,0,P_B_8_6O012_O_Shape,P_B_8_6O012_O
+P_O_14_IG034,Ground_Daily,Haram & Marioteya,1,P_O_14_IG034_R_Shape,P_O_14_IG034_R
+P_O_14_IC043,Ground_Daily,Moneeb,0,P_O_14_IC043_O_Shape,P_O_14_IC043_O
+P_O_14_IC007,Ground_Daily,Hossary,1,P_O_14_IC007_R_Shape,P_O_14_IC007_R
+EbtM_hQ0jhsQyuGc5GCpz,Ground_Daily,CIC,0,Iy4nkqGgiwFLuHDCpdQvg_Shape,Iy4nkqGgiwFLuHDCpdQvg
+dZLGvivIWt6t7VSFtbMB9,Ground_Daily,Ahmed Helmy,1,Qt3lixxGn_P1pFB3aT7LO_Shape,Qt3lixxGn_P1pFB3aT7LO
+HRKfVI0GjLKHq6o9ulFba,Ground_Daily,Mazlaqan Al Deweqa,0,aaee-vekfz_--Z1WL3nIm_Shape,aaee-vekfz_--Z1WL3nIm
+j7UPthklnvwZzR-_G5yRe,Ground_Daily,Orabi Bridge,0,LGELGZ3gJdpi1fcXoj0PR_Shape,LGELGZ3gJdpi1fcXoj0PR
+h8hJSqxjvR_DV1rkw2S5k,Ground_Daily,Bulaq Al Dakrur,1,xODvGh5m1gysIDOicFZsr_Shape,xODvGh5m1gysIDOicFZsr
+eMaHcYlisvFxLtiCbDGRM,Ground_Daily,Amiriya,0,3WNQfQ6dHtvxSGuvG_JmS_Shape,3WNQfQ6dHtvxSGuvG_JmS
+MfH-pfpTAl0OVRoWJgzRH,Ground_Daily,Moassasa,1,LDmZOvKjdNLEphnMfbYi0_Shape,LDmZOvKjdNLEphnMfbYi0
+yAI6yQ2LBxm7IO1KMcmR0,Ground_Daily,Imbaba,0,wyeHqikfy4PJwBNSaF7o7_Shape,wyeHqikfy4PJwBNSaF7o7
+ZqF0hj3CyZzVwb8YwhrN3,Ground_Daily,New Marg,0,LpK-flmIqdO66IXYHR5kH_Shape,LpK-flmIqdO66IXYHR5kH
+oVLz5uMkzuzBcOtlii3MM,Ground_Daily,Hadaek EL Kobba,0,QLfeOMwt17Mn12It_kDc-_Shape,QLfeOMwt17Mn12It_kDc-
+6snbHgT_od7Wcobjy2M68,Ground_Daily,Ramses,1,3yvTD4lqn_XxmPtScZ6tC_Shape,3yvTD4lqn_XxmPtScZ6tC
+k_9mWTTJJol46IWykMhrV,Ground_Daily,Abbasseya,1,E-UH2aYp6e238lGf4dCE4_Shape,E-UH2aYp6e238lGf4dCE4
+RSdIAdQiV_sN5aWHuOSsc,Ground_Daily,Hadaek EL Kobba,1,mJjQ7Tr5D7Vuxr1ZUiIaJ_Shape,mJjQ7Tr5D7Vuxr1ZUiIaJ
+vvE6l7VzFeki_7IJpH25B,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,5e-DlR5b_B2VyWhwrwwZZ_Shape,5e-DlR5b_B2VyWhwrwwZZ
+AkZ8btBfGZichKXXhgGwM,Ground_Daily,Hyper 1,0,UCI0j4bRusr_2bzst5aP1_Shape,UCI0j4bRusr_2bzst5aP1
+bn1tRMyVcFLKoJ48jSDDC,Ground_Daily,Lebanon Square,1,mBTMuFp0D7E8_SDm91nuF_Shape,mBTMuFp0D7E8_SDm91nuF
+MUrGLjBAM0T83fv3U3Mqa,Ground_Daily,Haram Areesh (Sahl Hamza),0,0XH65TTO7WRUIai9uQs54_Shape,0XH65TTO7WRUIai9uQs54
+m9IKw8bdVfTvbKv5OgLgV,Ground_Daily,Al Sawah Square,1,WtEBQq5EdkGx4y_UQ7ew9_Shape,WtEBQq5EdkGx4y_UQ7ew9
+db_dOwMf5RFl45eluXu_7,Ground_Daily,Qalaa,0,tG4t7DCG8aRlRpB6t566W_Shape,tG4t7DCG8aRlRpB6t566W
+iCZTu5NQScawKNksGO9uH,Ground_Daily,New Marg,1,lkYTEIXpxUcOo05gN5lgu_Shape,lkYTEIXpxUcOo05gN5lgu
+P_O_14_IG065,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IG065_O_Shape,P_O_14_IG065_O
+CTA_204,Ground_Daily,Khosous,0,CTA_204_O_Shape,CTA_204_O
+Rh-QBHyvCmHYpwBY-voEg,Ground_Daily,Al-Salam (10th of Ramadan),0,kzBtoIhF4PDJHOZCtqG9b_Shape,kzBtoIhF4PDJHOZCtqG9b
+P_O_14_IG012,Ground_Daily,Abd Al Moneim Riad,1,P_O_14_IG012_R_Shape,P_O_14_IG012_R
+P_O_14_IC005,Ground_Daily,Smart Village,1,P_O_14_IC005_R_Shape,P_O_14_IC005_R
+fhoRkkZP1LuBccGcQ-lPf,Ground_Daily,Bigam,0,QPEPsQ5_o5R_F1vPNrHRq_Shape,QPEPsQ5_o5R_F1vPNrHRq
+PtTt3WzbrwwaHofgpaVMj,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),1,jWl6Q_wMOcOLnU7kaKiet_Shape,jWl6Q_wMOcOLnU7kaKiet
+P_O_14_CA071,Ground_Daily,Abboud,0,P_O_14_CA071_O_Shape,P_O_14_CA071_O
+BOX_6O024,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,BOX_6O024_R_Shape,BOX_6O024_R
+NUilWKiUS6Kx6c0X5hCYF,Ground_Daily,Alf Maskan,1,xAJGyQhxA6TMxLphKroaV_Shape,xAJGyQhxA6TMxLphKroaV
+189igEKLGNwIUDl8gfOwh,Ground_Daily,Abboud,0,2DDOTu4ngQ7a4DBGEgI0T_Shape,2DDOTu4ngQ7a4DBGEgI0T
+P_O_14_GZ030,Ground_Daily,Akher Faisal,0,P_O_14_GZ030_O_Shape,P_O_14_GZ030_O
+UYpQshWZml8TRw8pbOOWx,Ground_Daily,Al Magzar (Mariouteya),0,VEE2OBal25115dXxx5NcX_Shape,VEE2OBal25115dXxx5NcX
+P_O_14_GZ026,Ground_Daily,Bulaq Al Dakrur,1,P_O_14_GZ026_R_Shape,P_O_14_GZ026_R
+P_O_14_GZ048,Ground_Daily,Nahia,0,P_O_14_GZ048_O_Shape,P_O_14_GZ048_O
+SijHB3MvvH7y5f_lh6hO3,Ground_Daily,Giza Square,0,aiMUSjS1wNYQnL9zk1jkq_Shape,aiMUSjS1wNYQnL9zk1jkq
+BOX_6O002,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,BOX_6O002_O_Shape,BOX_6O002_O
+P_O_14_CA120,Ground_Daily,Matareya Square,1,P_O_14_CA120_R_Shape,P_O_14_CA120_R
+CTA_99SS,Ground_Daily,Al Sayeda Aisha,1,CTA_99SS_R_Shape,CTA_99SS_R
+XHoe5oRTlC1Ihm0e712t_,Ground_Daily,Imbaba,1,8e-6h021We0DW6e_B_oGe_Shape,8e-6h021We0DW6e_B_oGe
+j0B0wGsqFxUkOptBjcLvx,Ground_Daily,Isko,0,rg2pc3Wd_HwP6ONhYX8-V_Shape,rg2pc3Wd_HwP6ONhYX8-V
+5v34MuGjLYA0AFM7dhCCE,Ground_Daily,Moneeb,0,_nTLBimPnTnsYV-lPplvB_Shape,_nTLBimPnTnsYV-lPplvB
+P_O_14_IC028,Ground_Daily,Mehwar & Alex Desert Rd,0,P_O_14_IC028_O_Shape,P_O_14_IC028_O
+G78c4G-oy20XNbcMYCzxY,Ground_Daily,Dawaran Shubra,0,wW_LIR9Nyv-x6L4U61qMo_Shape,wW_LIR9Nyv-x6L4U61qMo
+P_O_14_IC053,Ground_Daily,Gas (Banks Area),0,P_O_14_IC053_O_Shape,P_O_14_IC053_O
+Fuoze4mwamBt6aoqW-wJH,Ground_Daily,Roxy,0,IFcu1WgTeKY4-7lIhGgk7_Shape,IFcu1WgTeKY4-7lIhGgk7
+pVHOF8IJskNhngPjJTJY5,Ground_Daily,Al Wehda Imbaba (Al Bohi),0,pk6x7udBBk48P0rK6Fyk3_Shape,pk6x7udBBk48P0rK6Fyk3
+UydKv2gM1kSDyx7u4jZIV,Ground_Daily,7th District (Nasr City),1,z9gx841vfS2A9uZY5UwNs_Shape,z9gx841vfS2A9uZY5UwNs
+eZRgIovK0tJAVzmhR85GR,Ground_Daily,Moneeb,1,UaumqoRb2fXVALoiDElqP_Shape,UaumqoRb2fXVALoiDElqP
+kv8R2uui-Di2K3gVwZO78,Ground_Daily,Giza Square,0,yKDA-pdMJtQtqSuAXlWim_Shape,yKDA-pdMJtQtqSuAXlWim
+P_O_14_IC056,Ground_Daily,Hyper 1,0,P_O_14_IC056_O_Shape,P_O_14_IC056_O
+Ml8Z5Ycxg-taVluDdj9eh,Ground_Daily,Giza Square,1,B8Ssg6Uzzk7HCuvn1SJgz_Shape,B8Ssg6Uzzk7HCuvn1SJgz
+8RzwcHgdiBJrQow3-bGIj,Ground_Daily,Haram Areesh (Sahl Hamza),0,obq20-MPiO9xlEJ1He0sm_Shape,obq20-MPiO9xlEJ1He0sm
+lnb3vDxVc9ZLbejDbwGIm,Ground_Daily,Abd Al Moneim Riad,1,oOeeggno6HlGrWXpopaoQ_Shape,oOeeggno6HlGrWXpopaoQ
+P_O_14_IC092,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_IC092_O_Shape,P_O_14_IC092_O
+yjnyYheH7FsPkAk-gppMs,Ground_Daily,Abbasseya,1,KG0o9c_odmGwL8Qjgyh05_Shape,KG0o9c_odmGwL8Qjgyh05
+24kdxuuUjA0qtjg6P-OPh,Ground_Daily,Qalyoub,0,WqQGCqNmjUiM_aA6RZ-Vg_Shape,WqQGCqNmjUiM_aA6RZ-Vg
+-lI1f278TKfnCnumdD48V,Ground_Daily,Znen (Awwel Al Eshreen),0,u2kCvkJhyUAQnnu8Sj6SO_Shape,u2kCvkJhyUAQnnu8Sj6SO
+kBtm-qZ0NnQ1idoAL_yfA,Ground_Daily,Imbaba,1,ujI21qlha-l4SQcMquVUA_Shape,ujI21qlha-l4SQcMquVUA
+mwUKKpciQEKn_H2kOT4BD,Ground_Daily,Giza Square,0,qiO9Oe6mmaDzEjw8Wqw58_Shape,qiO9Oe6mmaDzEjw8Wqw58
+P_O_14_CA090,Ground_Daily,Abboud,0,P_O_14_CA090_O_Shape,P_O_14_CA090_O
+P_O_14_IG020,Ground_Daily,Cairo University,0,P_O_14_IG020_O_Shape,P_O_14_IG020_O
+vPxZODNW0MlX1OZFVTl8e,Ground_Daily,Ramses,1,yRVB1BSHWY6usbj1A6-5-_Shape,yRVB1BSHWY6usbj1A6-5-
+t-VkUnvixIVORTzsevcAZ,Ground_Daily,Amr Ibn El Aas,0,CireAw80O5zvwMHo5fUVo_Shape,CireAw80O5zvwMHo5fUVo
+8X8gLBYp6o4Z9Dc0_MySn,Ground_Daily,Hyper 1,1,8uTcYxpTFUHljpSlh852K_Shape,8uTcYxpTFUHljpSlh852K
+ldy3O2UlQPWYA4Jj8vJgN,Ground_Daily,Saqr Quraish,1,TUSD_EZa8I3dzm0ZTy6lc_Shape,TUSD_EZa8I3dzm0ZTy6lc
+fI_k2RnEr3Kvx-feFgZpe,Ground_Daily,Haram & Marioteya,0,BNVenia-Y--aebUDo3QuH_Shape,BNVenia-Y--aebUDo3QuH
+ivXdrHhB3_jqwPHGsvb9r,Ground_Daily,Ain Shams Metro,0,YBoJorWqe3UUpEMG_YY4z_Shape,YBoJorWqe3UUpEMG_YY4z
+4P_RC_FgHuWtFC8yoCbgz,Ground_Daily,Giza Square,0,UBRs_c9yHSPX1L2xzIbva_Shape,UBRs_c9yHSPX1L2xzIbva
+lXqxNN6vXSyk0IYiGiSVf,Ground_Daily,Kafr Al Shurafa,0,U5Ks0x5yj4x_-4ugm208__Shape,U5Ks0x5yj4x_-4ugm208_
+UkiuAl8JoV2LRVvfwCXZF,Ground_Daily,Al-Salam (10th of Ramadan),0,qtKykoxnOP3o3b9njseBH_Shape,qtKykoxnOP3o3b9njseBH
+CT0zYWqMQPGAbKnQfzLyJ,Ground_Daily,Masaken Almaza,0,vRYQxm7XTLc_hDDRfO8Gk_Shape,vRYQxm7XTLc_hDDRfO8Gk
+COOP_GZ009,Ground_Daily,Lebanon Square,1,COOP_GZ009_R_Shape,COOP_GZ009_R
+P_O_14_CA030,Ground_Daily,Mazlaqan Ain Shams,0,P_O_14_CA030_O_Shape,P_O_14_CA030_O
+P_B_8_6O020,Ground_Daily,Al Motamayez,1,P_B_8_6O020_R_Shape,P_B_8_6O020_R
+79A4DBdhOZXDQqFQNdq_5,Ground_Daily,Zahraa Metro,1,3cX2E05Lngf1Zdt5rKkJ2_Shape,3cX2E05Lngf1Zdt5rKkJ2
+P_O_14_IC045,Ground_Daily,Rehab - Gate 13 - 12,1,P_O_14_IC045_R_Shape,P_O_14_IC045_R
+COOP_GZ028,Ground_Daily,Bulaq Al Dakrur,1,COOP_GZ028_R_Shape,COOP_GZ028_R
+ne9Df9bfGqa0RrCaPqNTA,Ground_Daily,Moneeb,1,qfv24AYekPZ1ipKgkznXc_Shape,qfv24AYekPZ1ipKgkznXc
+IcpqTJSZNZXngGCgzW0-u,Ground_Daily,Saqr Quraish,1,nFaa7e0Ke-yFd9c4o8LBm_Shape,nFaa7e0Ke-yFd9c4o8LBm
+2nunj7L0d16GI8GHhNASo,Ground_Daily,Al-Salam (10th of Ramadan),1,4Jva7dB93sfvFZfma6i4R_Shape,4Jva7dB93sfvFZfma6i4R
+P_O_14_CA082,Ground_Daily,Al Sa'a Square,1,P_O_14_CA082_R_Shape,P_O_14_CA082_R
+zRAXMgMRMVRhmAULPLo0R,Ground_Daily,Saad Zaghloul Metro,0,xuz21JDEiZ2tTT1dkM07U_Shape,xuz21JDEiZ2tTT1dkM07U
+a857emSd0Eg9_C49Uly1i,Ground_Daily,Shabab (Obour),0,fTfoesL1QULM1sZ8e2DyH_Shape,fTfoesL1QULM1sZ8e2DyH
+blJ-Wh52qAtvzY4CZegdj,Ground_Daily,Moneeb,0,LJ6y7KJbOBiNQtvVL9jWB_Shape,LJ6y7KJbOBiNQtvVL9jWB
+XXk6QOM27EiINNJVOjcue,Ground_Daily,Giza Square,0,XACz5qoNDLV14BAgE_vl5_Shape,XACz5qoNDLV14BAgE_vl5
+P_O_14_IC091,Ground_Daily,Awwel Makram Ebeid,0,P_O_14_IC091_O_Shape,P_O_14_IC091_O
+P_O_14_CA119,Ground_Daily,Awwel Al Zawya Al Hamra,0,P_O_14_CA119_O_Shape,P_O_14_CA119_O
+P_B_8_NC002,Ground_Daily,Gas (Banks Area),0,P_B_8_NC002_O_Shape,P_B_8_NC002_O
+P_O_14_CA053,Ground_Daily,10th District (Nasr City),0,P_O_14_CA053_R_Shape,P_O_14_CA053_R
+P_O_14_GZ018,Ground_Daily,Remaya Square,1,P_O_14_GZ018_R_Shape,P_O_14_GZ018_R
+COOP_QA007,Ground_Daily,Abou Zaabal,0,COOP_QA007_O_Shape,COOP_QA007_O
+CTA_31S,Ground_Daily,Al Zawya Al Hamra,1,CTA_31S_R_Shape,CTA_31S_R
+dZLGvivIWt6t7VSFtbMB9,Ground_Daily,Amiriya,0,653grZvwrOa-5PEi-WGpF_Shape,653grZvwrOa-5PEi-WGpF
+dbjKnrgfrSA1JY3LJPYuQ,Ground_Daily,Koleyet Al Banat - Azhar University,1,GNifRImGUCdeA0LMUD7mk_Shape,GNifRImGUCdeA0LMUD7mk
+21kZwsX6wTR98GRcou2yw,Ground_Daily,Kilo 4 & Half,0,arUAc3-tCLjv_qW3u1t-j_Shape,arUAc3-tCLjv_qW3u1t-j
+P_O_14_IC082,Ground_Daily,Hyper 1,1,P_O_14_IC082_R_Shape,P_O_14_IC082_R
+dbjKnrgfrSA1JY3LJPYuQ,Ground_Daily,Ramses,0,-38V-1462AQjnOZ3KLF_u_Shape,-38V-1462AQjnOZ3KLF_u
+yiVgiNyYpe2oH4ZTN0Baq,Ground_Daily,Rehab - Gate 13 - 12,0,y5feKtj6efSUh1nDNMi8P_Shape,y5feKtj6efSUh1nDNMi8P
+GXDzdgrpKw9Tm5MLKMFPP,Ground_Daily,Qasr Al Einy,0,Ig8hSt_0_c7ljQghcG-BU_Shape,Ig8hSt_0_c7ljQghcG-BU
+QORyzDKyscDKk9XRt8ZYZ,Ground_Daily,Isbiko,1,XXwlOdTrkzvMhH8PP2vjT_Shape,XXwlOdTrkzvMhH8PP2vjT
+GxHvz209T3KnqSnTEacs-,Ground_Daily,Moassasa,1,DIoBM3F9Ku5qGmjcLZsyd_Shape,DIoBM3F9Ku5qGmjcLZsyd
+CTA_104S,Ground_Daily,Attaba,1,CTA_104S_R_Shape,CTA_104S_R
+yjnyYheH7FsPkAk-gppMs,Ground_Daily,Awwel Makram Ebeid,0,PpyEPWBlnvlyLUWlypr4-_Shape,PpyEPWBlnvlyLUWlypr4-
+KmVdHOhRfUX8cw29qR_Vo,Ground_Daily,Saft Al Laban,0,fxIa5LLDISWY-wGsx_EH7_Shape,fxIa5LLDISWY-wGsx_EH7
+P_O_14_CA164,Ground_Daily,Ahmed Maher Hospital,1,P_O_14_CA164_R_Shape,P_O_14_CA164_R
+6K4_YEnZjlrZGldv7Yl2T,Ground_Daily,Imbaba,0,v5lkpeOumWpQYlnx1iKCe_Shape,v5lkpeOumWpQYlnx1iKCe
+rN_2eW65vTEH6zLEx4HC1,Ground_Daily,Alf Maskan,1,42SqVS4RO0a3IptK1IyHu_Shape,42SqVS4RO0a3IptK1IyHu
+P_O_14_GZ017,Ground_Daily,Al Warraq,1,P_O_14_GZ017_R_Shape,P_O_14_GZ017_R
+xniqp9cSgkWVk0k63CbZl,Ground_Daily,Ibrahim Bek,0,FZoKZoIsJRV1fv_Btbt_9_Shape,FZoKZoIsJRV1fv_Btbt_9
+COOP_IG081,Ground_Daily,Bab Al Shaaria Square,0,COOP_IG081_O_Shape,COOP_IG081_O
+HRKfVI0GjLKHq6o9ulFba,Ground_Daily,Abbasseya,1,Ru7r7jA1oEddPP1dkD5t2_Shape,Ru7r7jA1oEddPP1dkD5t2
+3WAtjq7S69P9s8WhLOr4f,Ground_Daily,Abd Al Moneim Riad,1,2NVjzzHBIo_-XLsBN4KYh_Shape,2NVjzzHBIo_-XLsBN4KYh
+YlvolLQ1uzaw8eiT89HI2,Ground_Daily,Abbasseya,1,u18RYU3TdDuvnGiFuEdsd_Shape,u18RYU3TdDuvnGiFuEdsd
+T9Z1u1IkkEycKE6B_nakJ,Ground_Daily,Alf Maskan,1,JxgC8Ukjc-heTCPZ3OYLE_Shape,JxgC8Ukjc-heTCPZ3OYLE
+MSR_Ms4,Ground_Weekdays,Ramses,0,MSR_Ms4_O_Shape,MSR_Ms4_O
+P_B_8_IC068,Ground_Daily,Moneeb,0,P_B_8_IC068_O_Shape,P_B_8_IC068_O
+P_O_14_IG084,Ground_Daily,Tibeen,1,P_O_14_IG084_R_Shape,P_O_14_IG084_R
+P_B_8_6O019,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_B_8_6O019_R_Shape,P_B_8_6O019_R
+eMaHcYlisvFxLtiCbDGRM,Ground_Daily,Abd Al Moneim Riad,1,1tCbcB4StJaSs744BP-B3_Shape,1tCbcB4StJaSs744BP-B3
+blJ-Wh52qAtvzY4CZegdj,Ground_Daily,Giza Square,1,C6B6Rzoeoh3Ko8GSTaHa7_Shape,C6B6Rzoeoh3Ko8GSTaHa7
+w9djMYsSD5gf7qz9VLvjn,Ground_Daily,Hadaba Wosta (Moqattam),0,rJT0XVJGSt1y7dr-z6X4P_Shape,rJT0XVJGSt1y7dr-z6X4P
+e1xAb2o6cgzGY9iNvA5aG,Ground_Daily,Abd Al Moneim Riad,0,udcu_jh6ECxSLcRwqw0aw_Shape,udcu_jh6ECxSLcRwqw0aw
+oBfdc8gljJblvRbAa0dmX,Ground_Daily,7th District (Nasr City),1,-Qv5s0L9pTwdXzlcBGSMV_Shape,-Qv5s0L9pTwdXzlcBGSMV
+BamKiGYQ3P_xZETsNX1a5,Ground_Daily,Al Sayeda Aisha,0,F0Zrl6iNm72PrpaV9hcox_Shape,F0Zrl6iNm72PrpaV9hcox
+h7v0GKemY5eE-eh4q1KCJ,Ground_Daily,Abd Al Moneim Riad,1,EOrX00Zf9SoPIjbiMkqOT_Shape,EOrX00Zf9SoPIjbiMkqOT
+pVHOF8IJskNhngPjJTJY5,Ground_Daily,Abd Al Moneim Riad,1,3w9sXzlnZy8jK4ohty72l_Shape,3w9sXzlnZy8jK4ohty72l
+P_O_14_IG057,Ground_Daily,Attaba,0,P_O_14_IG057_O_Shape,P_O_14_IG057_O
+P_O_14_CA108,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,P_O_14_CA108_R_Shape,P_O_14_CA108_R
+CTA_1108,Ground_Daily,Giza Square,0,CTA_1108_O_Shape,CTA_1108_O
+YiqckBVvySeTMxSuhIb93,Ground_Daily,Arab Maadi,1,O0E4CumLHr4ctE0E7mYqg_Shape,O0E4CumLHr4ctE0E7mYqg
+BOX_6O023,Ground_Daily,Hamada Emam,0,BOX_6O023_O_Shape,BOX_6O023_O
+dM98F5uCHLC-eVa5-BvJZ,Ground_Daily,Saqr Quraish,1,CFxbx3cZqNpQ0ud-zGQdb_Shape,CFxbx3cZqNpQ0ud-zGQdb
+YOUm7rdzNVY6LFG9JKpHr,Ground_Daily,Helwan,1,MASmEqi5RlMFqeeHkXfX2_Shape,MASmEqi5RlMFqeeHkXfX2
+QeibrVPEcAQDuGbYNqK3W,Ground_Daily,Alf Maskan,0,cECNnnVEZxUoHZJUIx_1R_Shape,cECNnnVEZxUoHZJUIx_1R
+CTA_828,Ground_Daily,Abd Al Moneim Riad,1,CTA_828_R_Shape,CTA_828_R
+P_O_14_IC004,Ground_Daily,Al Sayeda Aisha,1,P_O_14_IC004_R_Shape,P_O_14_IC004_R
+CTA_1162,Ground_Daily,Zahraa Madinet Nasr,0,CTA_1162_O_Shape,CTA_1162_O
+CTA_1162,Ground_Daily,Moneeb,1,CTA_1162_R_Shape,CTA_1162_R
+zhdTDeTPdK8yAT1I8NTLw,Ground_Daily,Ahmed Helmy,0,09hOSmerSa3bjVLPijabA_Shape,09hOSmerSa3bjVLPijabA
+CTA_1147,Ground_Daily,Attaba,1,CTA_1147_R_Shape,CTA_1147_R
+CTA_83,Ground_Daily,Om Bayoumi (Mintay),0,CTA_83_O_Shape,CTA_83_O
+67VWfBwz-LVqC7OxaN5Cj,Ground_Daily,Kerdasa,1,WApaQAelLum_mv0NOioxv_Shape,WApaQAelLum_mv0NOioxv
+deuSL4GElipbqZ1Ys9lLE,Ground_Daily,Imbaba,1,Hi7nYBrwYqqsX4t3fzVse_Shape,Hi7nYBrwYqqsX4t3fzVse
+fKnTlCkWALIgjxXU63NNV,Ground_Daily,Shabramant,0,WsYcWvIy1KsmM6MWP4vnx_Shape,WsYcWvIy1KsmM6MWP4vnx
+vvE6l7VzFeki_7IJpH25B,Ground_Daily,Attaba,1,mzSgjxpENz9QPWRlG_KyU_Shape,mzSgjxpENz9QPWRlG_KyU
+eNaYFATGV4nFM2ODEQGb5,Ground_Daily,Al Wehda Imbaba (Al Bohi),0,U0EtbRjwg0wPrhwntA0QZ_Shape,U0EtbRjwg0wPrhwntA0QZ
+GXDzdgrpKw9Tm5MLKMFPP,Ground_Daily,Moneeb,1,QVQQtdil46u_kG48xX2g4_Shape,QVQQtdil46u_kG48xX2g4
+CTA_580,Ground_Daily,Manshiyat Nasser,0,CTA_580_O_Shape,CTA_580_O
+COOP_IG069,Ground_Daily,Bab Al Shaaria Square,0,COOP_IG069_O_Shape,COOP_IG069_O
+dOSjy2LRc3erAam81oIco,Ground_Daily,Applied Arts - Cairo University,0,54Ubh3NbYxMMgcUb5cXhC_Shape,54Ubh3NbYxMMgcUb5cXhC
+3waGFbKHjbGyHsGw8XnY4,Ground_Daily,Giza Square,0,-nIIIT_qpGw61x8Mh1x_w_Shape,-nIIIT_qpGw61x8Mh1x_w
+MM_111,Ground_Weekdays,Dawaran Shubra,1,MM_111_R_Shape,MM_111_R
+P_O_14_CA086,Ground_Daily,7th District (Nasr City),1,P_O_14_CA086_R_Shape,P_O_14_CA086_R
+a4gnGzOuEjFFXiOYfTYg9,Ground_Daily,8th District (Nasr City) - Al tabba,0,7aMxUfLp2VxjDksgQ8xTQ_Shape,7aMxUfLp2VxjDksgQ8xTQ
+Sw7KMUZPTGb_ZDHt4D-yr,Ground_Daily,Abd Al Moneim Riad,1,TeVDN0LwdXht0GjKRhahd_Shape,TeVDN0LwdXht0GjKRhahd
+7K3l-wUpwMqCltVD6bzOd,Ground_Daily,Imbaba,0,oKlQRkAker1axINGwCsfr_Shape,oKlQRkAker1axINGwCsfr
+P_O_14_CA089,Ground_Daily,7th District (Nasr City),1,P_O_14_CA089_R_Shape,P_O_14_CA089_R
+P_O_14_CA031,Ground_Daily,Ezbet Al Nakhl,0,P_O_14_CA031_O_Shape,P_O_14_CA031_O
+VjYEpD99WGuBFvH5Dw-gV,Ground_Daily,Masaken Al Wehda,1,4egnbQR463tGyxjv8V4KI_Shape,4egnbQR463tGyxjv8V4KI
+rumnfrVLyA8ZA3JpTI5Ef,Ground_Daily,Bulaq Al Dakrur,0,CatJwOOwZ8DIWUp2j2d_d_Shape,CatJwOOwZ8DIWUp2j2d_d
+9HZEMuRNsQzN9flynqhET,Ground_Daily,Matbaa,1,yE0Blir39F_TBRhILhb6r_Shape,yE0Blir39F_TBRhILhb6r
+AsoLzlPVywndjqDIeorpb,Ground_Daily,Masaken Ain Shams,1,1RZbZO-ADFtsczgne9xow_Shape,1RZbZO-ADFtsczgne9xow
+mVQ0zufyJ93lZbi9DOTdP,Ground_Daily,7th District (Nasr City),0,3r27aoIM6vBSMWGBbmD_6_Shape,3r27aoIM6vBSMWGBbmD_6
+czcD_GDbPM3RYT-b_E4GE,Ground_Daily,Lebanon Square,1,fjxYlM6-6rngjKgpdA16E_Shape,fjxYlM6-6rngjKgpdA16E
+X7OUnQkaUhlNHC3RmAKjb,Ground_Daily,Awwel Makram Ebeid,0,VJTgwLjEgKtrFD2d-OVjt_Shape,VJTgwLjEgKtrFD2d-OVjt
+KZbzaf9cmgAB7KuFCo1MM,Ground_Daily,Zahraa Madinet Nasr,1,IWaNk-8_tVZr30Q_kz6mi_Shape,IWaNk-8_tVZr30Q_kz6mi
+8TSoqsVo41bExi7Jg16qQ,Ground_Daily,Bulaq Al Dakrur,1,qAWJncNf-LHicfrRPrhQ9_Shape,qAWJncNf-LHicfrRPrhQ9
+RNWAMpjdKYvRHnfD_wR27,Ground_Daily,Abd Al Moneim Riad,1,N821RZVxA3LXa8r64tqMR_Shape,N821RZVxA3LXa8r64tqMR
+9j2ux9o5-KraQgcDFxC0H,Ground_Daily,Attaba,1,6oMSoOwDuzkY-s0jPFQcj_Shape,6oMSoOwDuzkY-s0jPFQcj
+P_O_14_6O029,Ground_Daily,Laylat Al Qadr,0,P_O_14_6O029_O_Shape,P_O_14_6O029_O
+GT_lXm70bMWn54RrTwB2R,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,ZSRkaq_0r1DNRk9zjxSM8_Shape,ZSRkaq_0r1DNRk9zjxSM8
+P_B_8_6O017,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_B_8_6O017_R_Shape,P_B_8_6O017_R
+kchlu_YSoCWiXIfcmzM2n,Ground_Daily,Rawda Mosque  (Obour),0,Qn-etYs2SkkvvnvPmk49u_Shape,Qn-etYs2SkkvvnvPmk49u
+26Q9q9X6pYG2gBMg7IWKk,Ground_Daily,Moneeb,1,EixLOm-eVXKTXF3zcWkHv_Shape,EixLOm-eVXKTXF3zcWkHv
+hnRdMePAiavyLNXrgXpgd,Ground_Daily,Basateen,0,HcN6FkLgm7_Xn_vrR2Gia_Shape,HcN6FkLgm7_Xn_vrR2Gia
+GT_lXm70bMWn54RrTwB2R,Ground_Daily,Ramses,0,OlTe86xvEwrOAYtnFll7G_Shape,OlTe86xvEwrOAYtnFll7G
+Zl9qxNlqnCCOTNhz07iZt,Ground_Daily,Bulaq Al Dakrur,1,yzWLorlKX3aNOXFKJCjJM_Shape,yzWLorlKX3aNOXFKJCjJM
+RsaOPeERsjGuuC6Q-S_FU,Ground_Daily,Matareya Square,0,beyCiULGcW2r-s5F1lYdO_Shape,beyCiULGcW2r-s5F1lYdO
+79A4DBdhOZXDQqFQNdq_5,Ground_Daily,Carrefour - Maadi,0,N8muDfuBqCH1dvUe_rIL__Shape,N8muDfuBqCH1dvUe_rIL_
+Dnad46KxSgtz6WrdlQUHY,Ground_Daily,Asmarrat,0,C3FfxGuwB5ZRuWVUlWSiQ_Shape,C3FfxGuwB5ZRuWVUlWSiQ
+26Q9q9X6pYG2gBMg7IWKk,Ground_Daily,Mazlaqan Al Deweqa,0,GSLjXjv5rt3M4hoNTHID8_Shape,GSLjXjv5rt3M4hoNTHID8
+fhoRkkZP1LuBccGcQ-lPf,Ground_Daily,Moassasa,1,1lif0yYnvYLeSXzzrLvEl_Shape,1lif0yYnvYLeSXzzrLvEl
+COOP_IG081,Ground_Daily,Khosous,1,COOP_IG081_R_Shape,COOP_IG081_R
+P_O_14_CA002,Ground_Daily,Saqr Quraish,0,P_O_14_CA002_O_Shape,P_O_14_CA002_O
+1hy6BzswcfezL07nZtvGZ,Ground_Daily,Matareya Square,0,44EE1ZHo5XzvZO74R2H9Y_Shape,44EE1ZHo5XzvZO74R2H9Y
+P_O_14_IC068,Ground_Daily,Gas (Banks Area),1,P_O_14_IC068_R_Shape,P_O_14_IC068_R
+jH8jIzX99Uq4NH-UZS5XF,Ground_Daily,Rehab - Gate 6,1,mO39IGaUjz0Zs0QjBKT89_Shape,mO39IGaUjz0Zs0QjBKT89
+4E_NzHWE6SBBt9WiSwera,Ground_Daily,10th of Ramadan City,0,0q6B55QFqE7VPO9hLDC0N_Shape,0q6B55QFqE7VPO9hLDC0N
+FI3sY62cvzwcF6qpLJTuV,Ground_Daily,Helwan Post Office,0,s16N6yR3eOye8YiH9_2wo_Shape,s16N6yR3eOye8YiH9_2wo
+dJf-9v2Gx-4ypC7DPKMUc,Ground_Daily,Amiriya,1,uhS3faGDtS5WxB3WselV7_Shape,uhS3faGDtS5WxB3WselV7
+EdxCXX3s8ILq_VMt8162G,Ground_Daily,Imbaba,1,NcuYrGCa-ZwKaQ_d4yjGh_Shape,NcuYrGCa-ZwKaQ_d4yjGh
+lERFh__deEcw2uO7KdOxv,Ground_Daily,Faisal St & Ring Rd,1,6mvVdm7jGJugVxf4ASsU8_Shape,6mvVdm7jGJugVxf4ASsU8
+wMjyQ7gRXkx7VXHzsFwCf,Ground_Daily,Matareya Square,1,ZrXtaOTCebjZnXZtSNRfp_Shape,ZrXtaOTCebjZnXZtSNRfp
+VjYEpD99WGuBFvH5Dw-gV,Ground_Daily,Bulaq Al Dakrur,0,TIpXjt8PYQ0hFfQwCh_wm_Shape,TIpXjt8PYQ0hFfQwCh_wm
+ijoblexYmIYN_Bo_iD_Wg,Ground_Daily,Masaken Al Wehda,0,Cm7fUZSwL5lqkaF3tlgtM_Shape,Cm7fUZSwL5lqkaF3tlgtM
+YC8mSQwzG7-Amd9rDuPR1,Ground_Daily,Kit Kat Square,1,pUptgmoTw1CdCtPIeENEq_Shape,pUptgmoTw1CdCtPIeENEq
+9JtrrWplRidMq_w6-6Bs8,Ground_Daily,Al Warraq,0,jpKiP4OETsNxgS90sQsmq_Shape,jpKiP4OETsNxgS90sQsmq
+aWV3f3TuFNL4Wo6tZP7KU,Ground_Daily,Lebanon Square,0,o9wXFy0vwOjhYJaXowXyW_Shape,o9wXFy0vwOjhYJaXowXyW
+bPAOgrQbVCQOI58hPq8M2,Ground_Daily,Zahraa Madinet Nasr,1,94Iz9QKo-zHK5qNkwPYBu_Shape,94Iz9QKo-zHK5qNkwPYBu
+DClfXOL0aW73BQGJeM5yZ,Ground_Daily,1st Settlement (New Cairo),1,AadFx0yoQ0FplDqx8U7dH_Shape,AadFx0yoQ0FplDqx8U7dH
+miikEkLkL-jQKBoSrb6mE,Ground_Daily,New Marg,1,CwRQtJXZ9mVxinNnwuGiH_Shape,CwRQtJXZ9mVxinNnwuGiH
+pHXU8x5lS5GcVfRS1nUfp,Ground_Daily,8th District (Nasr City) - Al tabba,0,AKMdMoRR1v8XE5LAO8_es_Shape,AKMdMoRR1v8XE5LAO8_es
+r2vpERz_TL7ahX5F7dvh9,Ground_Daily,Al Warraq,1,G008xMGQAqLcxPqhaQk8o_Shape,G008xMGQAqLcxPqhaQk8o
+A7O-x1J3WidCSxnV85H0s,Ground_Daily,New Marg,0,ugUKz5Dd0eJ1kfWlCUykP_Shape,ugUKz5Dd0eJ1kfWlCUykP
+AK9Xq6-wtWH9sbUvuMUdZ,Ground_Daily,Al Omraneyya Al Gadida,1,_hL-sICA8F0-4trd5N_EU_Shape,_hL-sICA8F0-4trd5N_EU
+TpYarSDEAgegRqTp_xFUV,Ground_Daily,Al Shorouq Water,0,GjmUC-iK7EbbVwenpBjfT_Shape,GjmUC-iK7EbbVwenpBjfT
+ETX2nqBxCzv_fCv4LLihL,Ground_Daily,Qalyoub,0,gOaiPIWorrzo9t3Kfbion_Shape,gOaiPIWorrzo9t3Kfbion
+Plpoxm6EKpqHluA67UbO1,Ground_Daily,Qalyoub,1,dXMfFAVn8KlcD3uzZ0UJH_Shape,dXMfFAVn8KlcD3uzZ0UJH
+XJQVWOM0aIFhA0CTFaprI,Ground_Daily,Moassasa,0,4kUUjaQdVfi7L95EEjEST_Shape,4kUUjaQdVfi7L95EEjEST
+-lI1f278TKfnCnumdD48V,Ground_Daily,Cairo University Metro,1,B8_j9Uh_HlbVrMmbErUD9_Shape,B8_j9Uh_HlbVrMmbErUD9
+P_B_8_CA097,Ground_Daily,Mohagreen (Ezbet Al Nakhl),0,P_B_8_CA097_O_Shape,P_B_8_CA097_O
+1ZbDBsUQUJRub7iZYmHFI,Ground_Daily,Dar El Salam,1,R2g31SYTBfGXA06132fCH_Shape,R2g31SYTBfGXA06132fCH
+P_O_14_CA167,Ground_Daily,Rabaah Al Adaweya Mosque,1,P_O_14_CA167_R_Shape,P_O_14_CA167_R
+P_B_8_6O001,Ground_Daily,10th District (6th of October),1,P_B_8_6O001_R_Shape,P_B_8_6O001_R
+P_B_8_6O010,Ground_Daily,Hossary,1,P_B_8_6O010_R_Shape,P_B_8_6O010_R
+COOP_IG064,Ground_Daily,Ramses,1,COOP_IG064_R_Shape,COOP_IG064_R
+15BSVKWwvsIQTR_rWUxzo,Ground_Daily,Darrasa,1,S-KfbzAVJK7M-SRte4UPQ_Shape,S-KfbzAVJK7M-SRte4UPQ
+CTA_104S,Ground_Daily,Bashtil,0,CTA_104S_O_Shape,CTA_104S_O
+FCAAr3fes-LcOKbkahMq-,Ground_Daily,Mostorod,0,GiazH46CHwSRSOR_UZQmA_Shape,GiazH46CHwSRSOR_UZQmA
+ORbU8y-2u8NYD8VDwA_c2,Ground_Daily,Warraq Al Arab (Cima),1,eLj4Hn_Jk8uYM9RIEkUom_Shape,eLj4Hn_Jk8uYM9RIEkUom
+4cp78uINFpGWUO3lvHpAX,Ground_Daily,Awwel Makram Ebeid,0,htTEG9kPkn5YD_oWsMjjp_Shape,htTEG9kPkn5YD_oWsMjjp
+deuSL4GElipbqZ1Ys9lLE,Ground_Daily,Al Sayeda Aisha,0,cpEtOPLM6svf4sYdtkK8k_Shape,cpEtOPLM6svf4sYdtkK8k
+ghUS4XUgfmpDNLCwwFfTq,Ground_Daily,8th District (Nasr City) - Al tabba,1,JIUbxgkQsoB7jaumrjlFS_Shape,JIUbxgkQsoB7jaumrjlFS
+vffeFh9VQdtrf4m7w-fNP,Ground_Daily,Ibrahim Bek,0,V2UerBlEMxwJw6jVQNOt6_Shape,V2UerBlEMxwJw6jVQNOt6
+DbG-wNqeP6sqp4PmEoB9c,Ground_Daily,Lebanon Square,1,Q6JULNQe-Q6EwqL-aeZRZ_Shape,Q6JULNQe-Q6EwqL-aeZRZ
+YOeG87a61PuMMNWtTAVCS,Ground_Daily,Warraq Al Arab (Cima),1,go5kRh5JQhAYRuAnofKdR_Shape,go5kRh5JQhAYRuAnofKdR
+jAkc2JP8TWQ7cm1sx3V2V,Ground_Daily,Attaba,0,MdP0i7RLgQU23SnJ1dLtE_Shape,MdP0i7RLgQU23SnJ1dLtE
+whPhZJOh0ITe1RuUOEZX2,Ground_Daily,Darrasa,0,VX9dZ5U6Sms4LhiB7ooh4_Shape,VX9dZ5U6Sms4LhiB7ooh4
+YlvolLQ1uzaw8eiT89HI2,Ground_Daily,Warraq Al Arab (Cima),0,qguOof3JdFHL6fXaQt7IT_Shape,qguOof3JdFHL6fXaQt7IT
+XHoe5oRTlC1Ihm0e712t_,Ground_Daily,Abd Al Moneim Riad,0,DIxJLy_V2RUJr15mF0bJ__Shape,DIxJLy_V2RUJr15mF0bJ_
+ORbU8y-2u8NYD8VDwA_c2,Ground_Daily,Abageyah,0,2a6jerEJEDkSnqHOtkXCQ_Shape,2a6jerEJEDkSnqHOtkXCQ
+vzaclNhp7UH-JW9CUKVZf,Ground_Daily,Bashtil,1,jYDoUTPj12iS8LrPwE4nP_Shape,jYDoUTPj12iS8LrPwE4nP
+XEvmtqv39IKsFQIslODQ_,Ground_Daily,Obour Market,0,esmSbqnusJSaoYyMLnWrW_Shape,esmSbqnusJSaoYyMLnWrW
+Y2QwurrDMngNWrnsgPUTv,Ground_Daily,Moassaset Al Zakah,0,ooHweOWxZIodk8abGIza4_Shape,ooHweOWxZIodk8abGIza4
+0A3pcPjwLEpq7hwveYoyO,Ground_Daily,Al-Salam (10th of Ramadan),1,mgHuDNQf43eKuKph9wyQl_Shape,mgHuDNQf43eKuKph9wyQl
+vzaclNhp7UH-JW9CUKVZf,Ground_Daily,Darrasa,0,dMwyz2hfNR1JmXHcRuvv3_Shape,dMwyz2hfNR1JmXHcRuvv3
+AraWFRXUDKxtJaQwJRzX3,Ground_Daily,Lebanon Square,1,bz6Z4_t6-hdUubQ_nCldI_Shape,bz6Z4_t6-hdUubQ_nCldI
+GZtwE0__sVe5sfdM8Hq45,Ground_Daily,Al Sayeda Aisha,1,xgzptu0hSpMjx6bbkeHAA_Shape,xgzptu0hSpMjx6bbkeHAA
+krefFO7pEgU4JkYMwWveO,Ground_Daily,Al-Salam (10th of Ramadan),0,F28xPtcYSFoy-do0mU3_6_Shape,F28xPtcYSFoy-do0mU3_6
+6rjmU4VqdB1ooUUa9jZiN,Ground_Daily,Al-Salam (10th of Ramadan),0,AMsIXpOpBgSEwkI88NCS8_Shape,AMsIXpOpBgSEwkI88NCS8
+UfIjTN8B9qEE30WQYajlo,Ground_Daily,Al-Salam (10th of Ramadan),0,BYxNzGB9xXg7WdQ2muK9R_Shape,BYxNzGB9xXg7WdQ2muK9R
+B31s4JolfJ0z-HLdNoXCR,Ground_Daily,Abou Wafya,0,jnsdDHu8xwsxf6NNDFXLz_Shape,jnsdDHu8xwsxf6NNDFXLz
+NQ9Wqx8QvnYzPFWEsHHiM,Ground_Daily,Hossary,1,GmdZRfsIit-cb-CBYetcB_Shape,GmdZRfsIit-cb-CBYetcB
+AraWFRXUDKxtJaQwJRzX3,Ground_Daily,Masaken Al Wehda,0,tESS0W8SIM7Cmzo2Ze3qU_Shape,tESS0W8SIM7Cmzo2Ze3qU
+P_O_14_CA086,Ground_Daily,Ramses,0,P_O_14_CA086_O_Shape,P_O_14_CA086_O
+c9cUCbuNGMusHnHEIT34g,Ground_Daily,Attaba,0,J_6BqjK5XPmvpWbYg7cGo_Shape,J_6BqjK5XPmvpWbYg7cGo
+YOeG87a61PuMMNWtTAVCS,Ground_Daily,Abbasseya,0,AluLwcCfruAl-qffNIubs_Shape,AluLwcCfruAl-qffNIubs
+YIHTQhZhY68hR2EQjvlF-,Ground_Daily,Moneeb,1,ROTjQQjLk57S9iPaE_CL2_Shape,ROTjQQjLk57S9iPaE_CL2
+3Yvct3Jc-AgCLWnx8iJb-,Ground_Daily,Al Sa'a Square,0,1LP9Vk7ezEV1L_xsceq2e_Shape,1LP9Vk7ezEV1L_xsceq2e
+Z2RSwdOqb-nYzFdq9dXUL,Ground_Daily,Al Warraq,0,Bpw2An5flj4qtK38NncK7_Shape,Bpw2An5flj4qtK38NncK7
+K1dlRvEAwUViQaG-pJKjN,Ground_Daily,Al-Salam (10th of Ramadan),0,JSFumlErTEvcMBWlVGx8J_Shape,JSFumlErTEvcMBWlVGx8J
+kchlu_YSoCWiXIfcmzM2n,Ground_Daily,Al-Salam (10th of Ramadan),1,XeO4cic0Rb8AP30eBLqMW_Shape,XeO4cic0Rb8AP30eBLqMW
+aPqU-5Zq_31ywCFAxL2wE,Ground_Daily,Awwel Makram Ebeid,0,SN1khuvdRJpma28pcj80z_Shape,SN1khuvdRJpma28pcj80z
+CTA_532,Ground_Daily,Abbasseya,1,CTA_532_R_Shape,CTA_532_R
+Zl9qxNlqnCCOTNhz07iZt,Ground_Daily,Moneeb,0,0CQ7Vyyu0F25tb_fbXe0P_Shape,0CQ7Vyyu0F25tb_fbXe0P
+P_O_14_IG018,Ground_Daily,Moassasa,0,P_O_14_IG018_O_Shape,P_O_14_IG018_O
+P_O_14_CA047,Ground_Daily,Abou Al Reesh,1,P_O_14_CA047_R_Shape,P_O_14_CA047_R
+P_O_14_IC039,Ground_Daily,Remaya Square,0,P_O_14_IC039_O_Shape,P_O_14_IC039_O
+CTA_103-1094,Ground_Daily,Attaba,0,CTA_103or1094_O_Shape,CTA_103or1094_O
+P_B_8_IC068,Ground_Daily,Gas (Banks Area),1,P_B_8_IC068_R_Shape,P_B_8_IC068_R
+CTA_1136,Ground_Daily,1st Settlement (New Cairo),0,CTA_1136_O_Shape,CTA_1136_O
+P_B_8_IC067,Ground_Daily,Zahraa Metro,0,P_B_8_IC067_O_Shape,P_B_8_IC067_O
+YyMVnpFACm_b2uotE7GjR,Ground_Daily,Al-Salam (10th of Ramadan),1,zINeOh341AZPB_5xPfy-b_Shape,zINeOh341AZPB_5xPfy-b
+P_O_14_CA130,Ground_Daily,Korba,0,P_O_14_CA130_O_Shape,P_O_14_CA130_O
+P_O_14_IG015,Ground_Daily,Abd Al Moneim Riad,1,P_O_14_IG015_R_Shape,P_O_14_IG015_R
+X7OUnQkaUhlNHC3RmAKjb,Ground_Daily,Al Sayeda Aisha,1,J1Zhl7GUs1nhQZmEkmxy1_Shape,J1Zhl7GUs1nhQZmEkmxy1
+P_B_8_NC005,Ground_Daily,Traffic Department  (Kattameya),1,P_B_8_NC005_R_Shape,P_B_8_NC005_R
+U1qTC-v8kA9-Rkit2YfDm,Ground_Daily,Alf Maskan,1,P6NJEDcV-vrd7Rysr83Nz_Shape,P6NJEDcV-vrd7Rysr83Nz
+JyWtn3ABwFi8HtnOdZir3,Ground_Daily,Imbaba,0,BuENdU5C43Xw5GOnBynOx_Shape,BuENdU5C43Xw5GOnBynOx
+P_O_14_CA087,Ground_Daily,Ramses,0,P_O_14_CA087_O_Shape,P_O_14_CA087_O
+hnRdMePAiavyLNXrgXpgd,Ground_Daily,Al Sayeda Aisha,1,CmcapwzH_8ty-XTW5ZB5C_Shape,CmcapwzH_8ty-XTW5ZB5C
+CTA_306,Ground_Daily,Giza Square,0,CTA_306_O_Shape,CTA_306_O
+CTA_3G,Ground_Daily,Koleyet Al Banat - Azhar University,0,CTA_3G_O_Shape,CTA_3G_O
+AsoLzlPVywndjqDIeorpb,Ground_Daily,Ramses,0,K6vIvSvQTdp2oEbU8SI9A_Shape,K6vIvSvQTdp2oEbU8SI9A
+P_O_14_CA119,Ground_Daily,Matareya Square,1,P_O_14_CA119_R_Shape,P_O_14_CA119_R
+P_O_14_IG083,Ground_Daily,Mazallat,1,P_O_14_IG083_R_Shape,P_O_14_IG083_R
+CTA_24T,Ground_Daily,Darrasa,1,CTA_24T_R_Shape,CTA_24T_R
+P_B_8_IC073,Ground_Daily,Al Hamd Square,0,P_B_8_IC073_O_Shape,P_B_8_IC073_O
+CTA_15,Ground_Daily,Abd Al Moneim Riad,1,CTA_15_R_Shape,CTA_15_R
+CTA_26T,Ground_Daily,Abbasseya,0,CTA_26T_O_Shape,CTA_26T_O
+P_O_14_CA092,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_CA092_O_Shape,P_O_14_CA092_O
+P_O_14_CA081,Ground_Daily,Al Sa'a Square,1,P_O_14_CA081_R_Shape,P_O_14_CA081_R
+P_O_14_CA088,Ground_Daily,Ghamra,0,P_O_14_CA088_O_Shape,P_O_14_CA088_O
+AsBiwEEcVj3jrx8lh9jms,Ground_Daily,Attaba,1,X6z4v3fIsz2_sJpSPSrCk_Shape,X6z4v3fIsz2_sJpSPSrCk
+P_O_14_IC085,Ground_Daily,Hyper 1,1,P_O_14_IC085_R_Shape,P_O_14_IC085_R
+CTA_1087,Ground_Daily,Masaken Sheraton,1,CTA_1087_R_Shape,CTA_1087_R
+P_O_14_IC005,Ground_Daily,Mehwar & Alex Desert Rd,0,P_O_14_IC005_O_Shape,P_O_14_IC005_O
+P_O_14_CA009,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA009_R_Shape,P_O_14_CA009_R
+P_O_14_CA117,Ground_Daily,Matareya Square,1,P_O_14_CA117_R_Shape,P_O_14_CA117_R
+P_O_14_GZ030,Ground_Daily,Abou Rawwash,1,P_O_14_GZ030_R_Shape,P_O_14_GZ030_R
+P_O_14_IG092,Ground_Daily,Moassasa,0,P_O_14_IG092_O_Shape,P_O_14_IG092_O
+P_O_14_CA063,Ground_Daily,Saqr Quraish,1,P_O_14_CA063_R_Shape,P_O_14_CA063_R
+BOX_6O004,Ground_Daily,10th District (6th of October),1,BOX_6O004_R_Shape,BOX_6O004_R
+COOP_IC044,Ground_Daily,New Marg,0,COOP_IC044_O_Shape,COOP_IC044_O
+P_O_14_IG028,Ground_Daily,Saqr Quraish,1,P_O_14_IG028_R_Shape,P_O_14_IG028_R
+P_O_14_QA006,Ground_Daily,Abou Zaabal,0,P_O_14_QA006_O_Shape,P_O_14_QA006_O
+CTA_568,Ground_Daily,Attaba,0,CTA_568_O_Shape,CTA_568_O
+CTA_318,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,CTA_318_R_Shape,CTA_318_R
+P_O_14_GZ055,Ground_Daily,Shabramant,1,P_O_14_GZ055_R_Shape,P_O_14_GZ055_R
+P_B_8_CA046,Ground_Daily,Masaken Zeinhom,0,P_B_8_CA046_O_Shape,P_B_8_CA046_O
+ZqF0hj3CyZzVwb8YwhrN3,Ground_Daily,Awwel Al Zawya Al Hamra,1,t3Xd78G-nX2dBltV0RX-3_Shape,t3Xd78G-nX2dBltV0RX-3
+P_O_14_CA088,Ground_Daily,7th District (Nasr City),1,P_O_14_CA088_R_Shape,P_O_14_CA088_R
+P_O_14_CA085,Ground_Daily,Hadaek EL Kobba,0,P_O_14_CA085_O_Shape,P_O_14_CA085_O
+P_B_8_6O012,Ground_Daily,Hossary,1,P_B_8_6O012_R_Shape,P_B_8_6O012_R
+P_O_14_CA163,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_CA163_O_Shape,P_O_14_CA163_O
+P_O_14_IG034,Ground_Daily,Arab Maadi,0,P_O_14_IG034_O_Shape,P_O_14_IG034_O
+P_O_14_IG027,Ground_Daily,Moneeb,0,P_O_14_IG027_O_Shape,P_O_14_IG027_O
+P_B_8_NC011,Ground_Daily,Gas (Banks Area),1,P_B_8_NC011_R_Shape,P_B_8_NC011_R
+P_O_14_GZ049,Ground_Daily,Faisal Tawabek,1,P_O_14_GZ049_R_Shape,P_O_14_GZ049_R
+P_O_14_IC090,Ground_Daily,10th of Ramadan City,0,P_O_14_IC090_O_Shape,P_O_14_IC090_O
+ezg_t81DPrRfiBGLI9GbE,Ground_Daily,Matareya Square,0,Mq4cLFIjsqrG6MQyXUEYs_Shape,Mq4cLFIjsqrG6MQyXUEYs
+P_O_14_IC072,Ground_Daily,Helwan Metro,0,P_O_14_IC072_O_Shape,P_O_14_IC072_O
+P_O_14_GZ042,Ground_Daily,Moneeb,0,P_O_14_GZ042_O_Shape,P_O_14_GZ042_O
+P_B_8_SZ006,Ground_Daily,Zayed (MM),0,P_B_8_SZ006_O_Shape,P_B_8_SZ006_O
+BOX_6O002,Ground_Daily,10th District (6th of October),1,BOX_6O002_R_Shape,BOX_6O002_R
+P_O_14_CA154,Ground_Daily,Awwel Abbas,0,P_O_14_CA154_O_Shape,P_O_14_CA154_O
+P_O_14_IG088,Ground_Daily,Bab Al Shaaria Square,1,P_O_14_IG088_R_Shape,P_O_14_IG088_R
+dJf-9v2Gx-4ypC7DPKMUc,Ground_Daily,Masaken Zeinhom,0,CMbyy7VA8yliqjgWkrzOU_Shape,CMbyy7VA8yliqjgWkrzOU
+P_B_8_IC052,Ground_Daily,10th District (Nasr City),1,P_B_8_IC052_R_Shape,P_B_8_IC052_R
+P_O_14_CA067,Ground_Daily,Ghamra,0,P_O_14_CA067_O_Shape,P_O_14_CA067_O
+P_B_8_6O025,Ground_Daily,7th District (6th of October),1,P_B_8_6O025_R_Shape,P_B_8_6O025_R
+7K3l-wUpwMqCltVD6bzOd,Ground_Daily,Giza Square,1,1O98xIgi9lUnIlb_m2V-u_Shape,1O98xIgi9lUnIlb_m2V-u
+CTA_531,Ground_Daily,Attaba,1,CTA_531_R_Shape,CTA_531_R
+P_B_8_IC070,Ground_Daily,1st Settlement (New Cairo),1,P_B_8_IC070_R_Shape,P_B_8_IC070_R
+P_O_14_CA097,Ground_Daily,New Marg,1,P_O_14_CA097_R_Shape,P_O_14_CA097_R
+P_O_14_CA118,Ground_Daily,Mostorod,0,P_O_14_CA118_O_Shape,P_O_14_CA118_O
+P_O_14_GZ022,Ground_Daily,Faisal St & Ring Rd,0,P_O_14_GZ022_O_Shape,P_O_14_GZ022_O
+P_O_14_CA139,Ground_Daily,Hadayeq Helwan,0,P_O_14_CA139_O_Shape,P_O_14_CA139_O
+P_O_14_IC049,Ground_Daily,10th District (Nasr City),1,P_O_14_IC049_R_Shape,P_O_14_IC049_R
+P_O_14_GZ033,Ground_Daily,Kit Kat Square,0,P_O_14_GZ033_O_Shape,P_O_14_GZ033_O
+CTA_970-1051,Ground_Daily,Cairo Airport,1,CTA_970or1051_R_Shape,CTA_970or1051_R
+COOP_IC065,Ground_Daily,Al Warraq,1,COOP_IC065_R_Shape,COOP_IC065_R
+P_O_14_IC028,Ground_Daily,Remaya (New Mashaal),1,P_O_14_IC028_R_Shape,P_O_14_IC028_R
+P_O_14_CA009,Ground_Daily,Attaba,0,P_O_14_CA009_O_Shape,P_O_14_CA009_O
+P_O_14_GZ037,Ground_Daily,Kit Kat Square,1,P_O_14_GZ037_R_Shape,P_O_14_GZ037_R
+MM_NS7,Ground_Weekdays,Saray Al Qobba,0,MM_NS7_O_Shape,MM_NS7_O
+P_B_8_6O001,Ground_Daily,Hossary,0,P_B_8_6O001_O_Shape,P_B_8_6O001_O
+P_O_14_CA175,Ground_Daily,Roxy,0,P_O_14_CA175_O_Shape,P_O_14_CA175_O
+P_B_8_GZ015,Ground_Daily,Giza Square,0,P_B_8_GZ015_O_Shape,P_B_8_GZ015_O
+Fuoze4mwamBt6aoqW-wJH,Ground_Daily,Matareya Square,1,ysYRAd5ereUdyHm6Z2Yea_Shape,ysYRAd5ereUdyHm6Z2Yea
+CTA_568,Ground_Daily,Lebanon Square,1,CTA_568_R_Shape,CTA_568_R
+P_O_14_CA146,Ground_Daily,Awwel Al Zawya Al Hamra,1,P_O_14_CA146_R_Shape,P_O_14_CA146_R
+P_O_14_IC040,Ground_Daily,Moassasa,0,P_O_14_IC040_O_Shape,P_O_14_IC040_O
+P_O_14_GZ035,Ground_Daily,Kit Kat Square,1,P_O_14_GZ035_R_Shape,P_O_14_GZ035_R
+P_O_14_CA083,Ground_Daily,Ramses,0,P_O_14_CA083_O_Shape,P_O_14_CA083_O
+P_B_8_GZ047,Ground_Daily,Moneeb,0,P_B_8_GZ047_O_Shape,P_B_8_GZ047_O
+P_B_8_6O020,Ground_Daily,Dolce,0,P_B_8_6O020_O_Shape,P_B_8_6O020_O
+P_O_14_CA156,Ground_Daily,Ramses,1,P_O_14_CA156_R_Shape,P_O_14_CA156_R
+COOP_IG045,Ground_Daily,New Marg,1,COOP_IG045_R_Shape,COOP_IG045_R
+P_O_14_IC029,Ground_Daily,10th District (Nasr City),0,P_O_14_IC029_O_Shape,P_O_14_IC029_O
+P_O_14_CA164,Ground_Daily,Dar El Salam,0,P_O_14_CA164_O_Shape,P_O_14_CA164_O
+P_O_14_CA061,Ground_Daily,Saqr Quraish,1,P_O_14_CA061_R_Shape,P_O_14_CA061_R
+P_O_14_CA058,Ground_Daily,Saqr Quraish,1,P_O_14_CA058_R_Shape,P_O_14_CA058_R
+P_B_8_6O015,Ground_Daily,Magda Square,1,P_B_8_6O015_R_Shape,P_B_8_6O015_R
+CTA_80,Ground_Daily,Darrasa,1,CTA_80_R_Shape,CTA_80_R
+CTA_250,Ground_Daily,Warraq Al Arab (Cima),1,CTA_250_R_Shape,CTA_250_R
+P_O_14_CA032,Ground_Daily,Alf Maskan,1,P_O_14_CA032_R_Shape,P_O_14_CA032_R
+CTA_318,Ground_Daily,Cairo Airport,0,CTA_318_O_Shape,CTA_318_O
+COOP_GZ062,Ground_Daily,Ard El Lewaa,1,COOP_GZ062_R_Shape,COOP_GZ062_R
+P_O_14_IG028,Ground_Daily,Haram & Marioteya,0,P_O_14_IG028_O_Shape,P_O_14_IG028_O
+P_O_14_GZ024,Ground_Daily,Ard El Lewaa,0,P_O_14_GZ024_O_Shape,P_O_14_GZ024_O
+CTA_914,Ground_Daily,Abbasseya,0,CTA_914_O_Shape,CTA_914_O
+CTA_580,Ground_Daily,Asmarrat,1,CTA_580_R_Shape,CTA_580_R
+P_O_14_CA109,Ground_Daily,Nahda City,0,P_O_14_CA109_O_Shape,P_O_14_CA109_O
+P_O_14_IC079,Ground_Daily,Abbasseya,1,P_O_14_IC079_R_Shape,P_O_14_IC079_R
+P_O_14_CA066,Ground_Daily,Hadaek EL Kobba,0,P_O_14_CA066_O_Shape,P_O_14_CA066_O
+P_O_14_IC082,Ground_Daily,Ramses,0,P_O_14_IC082_O_Shape,P_O_14_IC082_O
+CTA_24T,Ground_Daily,7th District (Nasr City),0,CTA_24T_O_Shape,CTA_24T_O
+OXsaA6ch0zWJIr-wsnU3M,Ground_Daily,Moassaset Al Zakah,1,8X3K2M4j9c92HivoUCHtW_Shape,8X3K2M4j9c92HivoUCHtW
+P_O_14_CA173,Ground_Daily,Helmeyet El Zaitoun Metro,1,P_O_14_CA173_R_Shape,P_O_14_CA173_R
+CTA_833,Ground_Daily,Mazallat,0,CTA_833_O_Shape,CTA_833_O
+P_O_14_IG039,Ground_Daily,Al Warraq,1,P_O_14_IG039_R_Shape,P_O_14_IG039_R
+P_B_8_CA149,Ground_Daily,Abdullah El Refaey,0,P_B_8_CA149_O_Shape,P_B_8_CA149_O
+COOP_QA001,Ground_Daily,Qalyoub,1,COOP_QA001_R_Shape,COOP_QA001_R
+CTA_103-1094,Ground_Daily,Motseian,1,CTA_103or1094_R_Shape,CTA_103or1094_R
+P_O_14_CA006,Ground_Daily,Abbasseya,0,P_O_14_CA006_O_Shape,P_O_14_CA006_O
+P_O_14_IC041,Ground_Daily,FUE,1,P_O_14_IC041_R_Shape,P_O_14_IC041_R
+P_O_14_IC040,Ground_Daily,Mehwar & Alex Desert Rd,1,P_O_14_IC040_R_Shape,P_O_14_IC040_R
+P_O_14_GZ043,Ground_Daily,26th of July & Ring Rd,1,P_O_14_GZ043_R_Shape,P_O_14_GZ043_R
+P_O_14_GZ022,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ022_R_Shape,P_O_14_GZ022_R
+P_B_8_IC067,Ground_Daily,Gas (Banks Area),1,P_B_8_IC067_R_Shape,P_B_8_IC067_R
+P_O_14_CA002,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA002_R_Shape,P_O_14_CA002_R
+P_O_14_IG083,Ground_Daily,Imbaba,0,P_O_14_IG083_O_Shape,P_O_14_IG083_O
+P_O_14_IG061,Ground_Daily,Warraq Al Arab (Cima),0,P_O_14_IG061_O_Shape,P_O_14_IG061_O
+C6RjvuOaE6Jy7WRZtUxaM,Ground_Daily,Abbasseya,0,qNLl4_jWKENhijCSE-GGP_Shape,qNLl4_jWKENhijCSE-GGP
+COOP_IG048,Ground_Daily,Mazallat,0,COOP_IG048_O_Shape,COOP_IG048_O
+MSR_Ms4,Ground_Weekdays,Masaken Dahshour,1,MSR_Ms4_R_Shape,MSR_Ms4_R
+GRN_G2,Ground_Weekdays,Masaken Dahshour,1,GRN_G2_R_Shape,GRN_G2_R
+GRN_G1,Ground_Weekdays,Masaken Dahshour,1,GRN_G1_R_Shape,GRN_G1_R
+d-Goa1xpnuFiRnI_5i9Uy,Ground_Daily,Tagneed (Al Remaya),0,Jl1-13XqPRVM4o6Ajrz6a_Shape,Jl1-13XqPRVM4o6Ajrz6a
+P_O_14_IG090,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_IG090_O_Shape,P_O_14_IG090_O
+P_O_14_CA092,Ground_Daily,New Marg,1,P_O_14_CA092_R_Shape,P_O_14_CA092_R
+P_O_14_IC066,Ground_Daily,Al-Salam (10th of Ramadan),0,P_O_14_IC066_O_Shape,P_O_14_IC066_O
+CTA_130,Ground_Daily,Abd Al Moneim Riad,0,CTA_130_O_Shape,CTA_130_O
+CTA_130,Ground_Daily,Masaken Helmeyet Al Zaitoun,1,CTA_130_R_Shape,CTA_130_R
+CTA_65,Ground_Daily,Amr Ibn El Aas,1,CTA_65_R_Shape,CTA_65_R
+MM_NS7,Ground_Weekdays,Al Shorouq Water,1,MM_NS7_R_Shape,MM_NS7_R
+CTA_67,Ground_Daily,Koleyet Al Banat - Azhar University,0,CTA_67_O_Shape,CTA_67_O
+CTA_73,Ground_Daily,Qism El Hadayek,0,CTA_73_O_Shape,CTA_73_O
+CTA_67,Ground_Daily,Masallah Al Gadeda (Matareyya),1,CTA_67_R_Shape,CTA_67_R
+MM_M8,Ground_Weekdays,Lotus  (5th Settlement),1,MM_M8_R_Shape,MM_M8_R
+CTA_73,Ground_Daily,Manshiyat Nasser,1,CTA_73_R_Shape,CTA_73_R
+ioDO0LtWeYfrWrZ16TFr5,Ground_Daily,8th District (Nasr City) - Al tabba,0,HtnDSxl_VDYO7nAf1JQEP_Shape,HtnDSxl_VDYO7nAf1JQEP
+ryPRB8CSZ4RJjvfbdXDC1,Ground_Daily,Moneeb,1,Oebyhzd0pncNbQjd6E0gC_Shape,Oebyhzd0pncNbQjd6E0gC
+8e41N39_w9qPLPFGgB8Hq,Ground_Daily,New Marg,1,VBxMKoOHtMwASBLfot8ej_Shape,VBxMKoOHtMwASBLfot8ej
+JlzozxxL918inEWQTu3iJ,Ground_Daily,Moneeb,1,0yopLpAb3pZW2IOBct96R_Shape,0yopLpAb3pZW2IOBct96R
+mVZQtFYsUCVuagT7jiTQ-,Ground_Daily,8th District (Nasr City) - Al tabba,0,YXJ-Z6GxkkjFJ3B9uTHqG_Shape,YXJ-Z6GxkkjFJ3B9uTHqG
+mNM0sR-uI_A_mqV5u7U0n,Ground_Daily,Abageyah,0,LcoMAGsc-AtlM_ljKTZ9S_Shape,LcoMAGsc-AtlM_ljKTZ9S
+avm32oXuwPxCT17sZkBf2,Ground_Daily,Qism El Hadayek,0,NJv7t_tCFGAPfBb5nzWD8_Shape,NJv7t_tCFGAPfBb5nzWD8
+zhdTDeTPdK8yAT1I8NTLw,Ground_Daily,Masallah Al Gadeda (Matareyya),1,6zW5Bpa7hoj6UU_keV_0X_Shape,6zW5Bpa7hoj6UU_keV_0X
+P_O_14_GZ059,Ground_Daily,Moneeb,0,P_O_14_GZ059_O_Shape,P_O_14_GZ059_O
+9vBFhlX-T17hM_HD2xuxr,Ground_Daily,Tagneed (Al Remaya),1,7ntVHJkxR29SIUwlfI8RG_Shape,7ntVHJkxR29SIUwlfI8RG
+mNM0sR-uI_A_mqV5u7U0n,Ground_Daily,Amiriya,1,gmqbvTOUMs_xv1DG9ueqF_Shape,gmqbvTOUMs_xv1DG9ueqF
+y2pNkYKdwmq-DYYWpGD5I,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,aW-ts050IFscqq8Kkdm_w_Shape,aW-ts050IFscqq8Kkdm_w
+r3Rn-Eht_A27WHh3b8Zn0,Ground_Daily,Bashtil,0,RscPaOA60W9hNlnS9ERxv_Shape,RscPaOA60W9hNlnS9ERxv
+hXNe26POoDE0MSAUxW0W_,Ground_Daily,Koleyet Al Banat - Ain Shams University,0,3tcyQVgc16XYPT4uMGMoQ_Shape,3tcyQVgc16XYPT4uMGMoQ
+IMRynqA53QmU-orlgoLIj,Ground_Daily,Roxy,1,oa7qYicqdBLo9Y-EoML1O_Shape,oa7qYicqdBLo9Y-EoML1O
+mVZQtFYsUCVuagT7jiTQ-,Ground_Daily,Masaken Al Wehda,1,hFoSw0jAlkqRhbVioqay-_Shape,hFoSw0jAlkqRhbVioqay-
+bPAOgrQbVCQOI58hPq8M2,Ground_Daily,Abou Wafya,0,TbK9tZmuNGW4v2jHKyAwI_Shape,TbK9tZmuNGW4v2jHKyAwI
+ioDO0LtWeYfrWrZ16TFr5,Ground_Daily,Al Omraneyya Al Gadida,1,gpH-MB6hz_X1o-u4hi6hh_Shape,gpH-MB6hz_X1o-u4hi6hh
+P_B_8_CA107,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,P_B_8_CA107_R_Shape,P_B_8_CA107_R
+8e41N39_w9qPLPFGgB8Hq,Ground_Daily,7th District (Nasr City),0,nhXRp_p6tDx7U5MLHeDbd_Shape,nhXRp_p6tDx7U5MLHeDbd
+ky6MXHGj0HKPAoqxgFyyp,Ground_Daily,Lebanon Square,1,bb0vvkYr4yj-fPhtc6Cg5_Shape,bb0vvkYr4yj-fPhtc6Cg5
+ky6MXHGj0HKPAoqxgFyyp,Ground_Daily,7th District (Nasr City),0,c2NjHWq9fzpTrP1H1WjOy_Shape,c2NjHWq9fzpTrP1H1WjOy
+fwS4JbFtp5dtGtwMGqXBH,Ground_Daily,Haram & Marioteya,0,_hB-lwV9KADdBkv-YpYtE_Shape,_hB-lwV9KADdBkv-YpYtE
+ryPRB8CSZ4RJjvfbdXDC1,Ground_Daily,8th District (Nasr City) - Al tabba,0,ZlXcxH5KUrvthCyPBewW0_Shape,ZlXcxH5KUrvthCyPBewW0
+NQ9Wqx8QvnYzPFWEsHHiM,Ground_Daily,Masaken Dahshour,0,Hn1YSFxBPYpWP25-rDJ-a_Shape,Hn1YSFxBPYpWP25-rDJ-a
+KRWhc98g65P9U2MM4fs0A,Ground_Daily,Mazallat,1,PAWG7f9ucF3A2M7a7TMjO_Shape,PAWG7f9ucF3A2M7a7TMjO
+wYawpUlAxZrHlVxizOLid,Ground_Daily,Jazirat Mohamed,0,9tL9O3Kpon-DlgKYwToF-_Shape,9tL9O3Kpon-DlgKYwToF-
+J_PqoU-hjIL1h8F626aNF,Ground_Daily,Al-Salam (10th of Ramadan),1,YcqvbKZDU_v8ILe-rKNdv_Shape,YcqvbKZDU_v8ILe-rKNdv
+PDlizFncn7JYVajF5DkR9,Ground_Daily,Abou El Numrus,0,Ez0c-0NNuySK2f8At-M_Q_Shape,Ez0c-0NNuySK2f8At-M_Q
+vLtVl__J6Y88JxSMUbq9e,Ground_Daily,Moassasa,1,d5BbvGOQjOK51QlLrFnzc_Shape,d5BbvGOQjOK51QlLrFnzc
+hzSgTxcnjIdeldzq3BHu1,Ground_Daily,Attaba,0,bVYx2wzlINWlT3VxrSOa5_Shape,bVYx2wzlINWlT3VxrSOa5
+3JpAdi2uPwMtPTnRK6Jyp,Ground_Daily,Darrasa,1,qkX394OF4gANduyF4yLN9_Shape,qkX394OF4gANduyF4yLN9
+Hu_E85mwGGhJHvFmWrLch,Ground_Daily,Al Toub Al Ramly,0,ISqkUNDqF5DvKN9CHy58K_Shape,ISqkUNDqF5DvKN9CHy58K
+vLtVl__J6Y88JxSMUbq9e,Ground_Daily,Isbiko,0,l_nwbkoYA4Ex8yOcPPxfg_Shape,l_nwbkoYA4Ex8yOcPPxfg
+luITCTGk3nUs1odvaqf3p,Ground_Daily,Qalyoub El Balad,1,QKcEm_pAarQ1q6UoXj6zn_Shape,QKcEm_pAarQ1q6UoXj6zn
+ADJZbj6QAtiHt8lqBibnV,Ground_Daily,Darrasa,1,nFIrfqHk5j5oQ4H70Bg7v_Shape,nFIrfqHk5j5oQ4H70Bg7v
+h2J_fjZiNjbt_8gzFSmzs,Ground_Daily,Smart Village,1,T2r8Obs1qiEqRPcGqhAAW_Shape,T2r8Obs1qiEqRPcGqhAAW
+dX4GI-MLWfQt63dbt9LNY,Ground_Daily,3rd Settlement  (New Cairo),0,-K5xbYCncmsJtPgF87FPh_Shape,-K5xbYCncmsJtPgF87FPh
+mQ36caejcbeqdwPrBveqE,Ground_Daily,Moassasa,1,zGVOYRXlU4wjQ0Ug3XnG0_Shape,zGVOYRXlU4wjQ0Ug3XnG0
+wjw5IKW5tGSh5Qf2OIk5Y,Ground_Daily,Obour,0,kHw1--vVgS_nbrhd4WodQ_Shape,kHw1--vVgS_nbrhd4WodQ
+nhJyCrgCzEnJX58NfGuFk,Ground_Daily,Znen (Awwel Al Eshreen),1,KDuMiBZRY2iSrNnlXCsua_Shape,KDuMiBZRY2iSrNnlXCsua
+kBtm-qZ0NnQ1idoAL_yfA,Ground_Daily,Darrasa,0,6-jq-EnpefcYXM12q7YsQ_Shape,6-jq-EnpefcYXM12q7YsQ
+JktuaW0f3dvlZcs7mDGGu,Ground_Daily,Cairo Airport,0,hLLYwro_URVUJIc0h9fcW_Shape,hLLYwro_URVUJIc0h9fcW
+JktuaW0f3dvlZcs7mDGGu,Ground_Daily,Moassasa,1,OG9hXc2j6ii6x89W9E4mV_Shape,OG9hXc2j6ii6x89W9E4mV
+MgUVI0pvMFijJFql58iLt,Ground_Daily,Koleyet Al Banat - Ain Shams University,0,P8UdZxy7-E8fJwZva3RMk_Shape,P8UdZxy7-E8fJwZva3RMk
+wjw5IKW5tGSh5Qf2OIk5Y,Ground_Daily,Moassasa,1,SE4-BnMV1aPA6o0eC4rjM_Shape,SE4-BnMV1aPA6o0eC4rjM
+kv8R2uui-Di2K3gVwZO78,Ground_Daily,Hawamdeyya,1,OUaWM6rgmTRAalUGoG5CF_Shape,OUaWM6rgmTRAalUGoG5CF
+mQ36caejcbeqdwPrBveqE,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,QeLOwI9Ks71JCqgnF84dZ_Shape,QeLOwI9Ks71JCqgnF84dZ
+ctcoGGvDNd93MT5czSIi7,Ground_Daily,Al Warraq,1,aBQdy7wXbDVhLP_6vOpS4_Shape,aBQdy7wXbDVhLP_6vOpS4
+AflV7b-3AGXaMj90ZBio9,Ground_Daily,Masaken Ain Shams,1,6O7jDNMm_x-advT2yLqAH_Shape,6O7jDNMm_x-advT2yLqAH
+AflV7b-3AGXaMj90ZBio9,Ground_Daily,Bashtil,0,25icSlpda9SQy1Ni48qk__Shape,25icSlpda9SQy1Ni48qk_
+K9zBV4fj5NavAGCuGFD2i,Ground_Daily,Ahmed Helmy,0,eVKd5Tn-m8ZgehvJMowea_Shape,eVKd5Tn-m8ZgehvJMowea
+RpY93UNxhi5boOQu37j_C,Ground_Daily,Ahmed Helmy,1,5V0MCmeKu8N6V0UxsE4eL_Shape,5V0MCmeKu8N6V0UxsE4eL
+c_zrdXjQmBwztXf6Nw7jP,Ground_Daily,Moneeb,0,s95rYNPKIQZZgEHMT180x_Shape,s95rYNPKIQZZgEHMT180x
+9utw1A6O1TUOZSdVJXnIN,Ground_Daily,Cairo Airport,1,ebNtAKdGkQA97KUdwr9VV_Shape,ebNtAKdGkQA97KUdwr9VV
+h8hJSqxjvR_DV1rkw2S5k,Ground_Daily,Ramses,0,mEGbQLrsosBmQK5E0TDbM_Shape,mEGbQLrsosBmQK5E0TDbM
+cSajDgx0bM1XDy4LLTYL4,Ground_Daily,Koleyet Al Banat - Azhar University,0,-jbwsmTuJT-18PrtIZiVg_Shape,-jbwsmTuJT-18PrtIZiVg
+Tpa0A12goEVH-sdvNU4pa,Ground_Daily,Abbasseya,1,i52gMCYV6bi1sZEz-pjxq_Shape,i52gMCYV6bi1sZEz-pjxq
+hXNe26POoDE0MSAUxW0W_,Ground_Daily,Mazallat,1,SQS0ky8kX6fEx2QV_csPL_Shape,SQS0ky8kX6fEx2QV_csPL
+CgY1MncbobepPdQSZZ9dl,Ground_Daily,Ibrahim Bek,0,cwQN0Q63gFZy8c_0Z2Uo8_Shape,cwQN0Q63gFZy8c_0Z2Uo8
+MgUVI0pvMFijJFql58iLt,Ground_Daily,Al Omraneyya Al Gadida,1,Ru1pfzZ37YGSeHc3Ud2e0_Shape,Ru1pfzZ37YGSeHc3Ud2e0
+c7dsOrHcVJ5TLsMxuO3XG,Ground_Daily,Amr Ibn El Aas,1,ffTUYGhm01sKvxu-VppEb_Shape,ffTUYGhm01sKvxu-VppEb
+BJ5gu8S2fvtVIQNgi3LNC,Ground_Daily,Remaya (New Mashaal),0,Ky9dknZ3NMv0B_gtN6mPL_Shape,Ky9dknZ3NMv0B_gtN6mPL
+UIbJAHRCDRcPVxtylKdP1,Ground_Daily,Helwan Post Office,1,ijkvYEit5Ak15IcYiDi5R_Shape,ijkvYEit5Ak15IcYiDi5R
+YwAwwkJqjET3Y_3C9x3AO,Ground_Daily,Warraq Al Arab (Cima),1,lzycP_PIN1ZKQ7ekhL2Ds_Shape,lzycP_PIN1ZKQ7ekhL2Ds
+dX4GI-MLWfQt63dbt9LNY,Ground_Daily,Moassasa,1,CEjD9ra2sGsqpb-3TlkHu_Shape,CEjD9ra2sGsqpb-3TlkHu
+nhJyCrgCzEnJX58NfGuFk,Ground_Daily,Masaken Ain Shams,0,5-uXnV_YMj-7tj-mclLA4_Shape,5-uXnV_YMj-7tj-mclLA4
+hzSgTxcnjIdeldzq3BHu1,Ground_Daily,Moneeb,1,SQcfOYLs-Baq7hUHA-Lop_Shape,SQcfOYLs-Baq7hUHA-Lop
+BBlbsema50qEzicPBcriq,Ground_Daily,8th District (Nasr City) - Al tabba,1,p7tQNNRJWVX68daP1y085_Shape,p7tQNNRJWVX68daP1y085
+zdqlYRVdftBHIeoVbaRin,Ground_Daily,Al Wehda Imbaba (Al Bohi),1,xEFogdY2Xyy-6XneviQSd_Shape,xEFogdY2Xyy-6XneviQSd
+fIX2H6I2zopxdtQs4KTWy,Ground_Daily,Basateen,1,kPHY6vaQOcBz6i5UdmjtB_Shape,kPHY6vaQOcBz6i5UdmjtB
+CTA_370,Ground_Daily,Badr (Sheikh Zayed),1,CTA_370_R_Shape,CTA_370_R
+JEYUgjN4DNooJRg88uMnU,Ground_Daily,Attaba,0,Ip-qafpQBx6pGr-vunYeP_Shape,Ip-qafpQBx6pGr-vunYeP
+Bp6VC-w4hVf07QNNC-TUQ,Ground_Daily,Al Omraneyya Al Gadida,1,hDx8-PygFVGfuCJaR9t-a_Shape,hDx8-PygFVGfuCJaR9t-a
+BTapayFKafajyYHQLI30g,Ground_Daily,Saqr Quraish,1,iqL3eAD_kERL3kW7ME049_Shape,iqL3eAD_kERL3kW7ME049
+A45ex-5A-EQJSEd1EPD_K,Ground_Daily,Masaken Ain Shams,1,MNHWXe0rNlVKqIDdybIQu_Shape,MNHWXe0rNlVKqIDdybIQu
+6K4_YEnZjlrZGldv7Yl2T,Ground_Daily,Moassasa,1,ZGMlEUk0w-JDetqL9Rbg1_Shape,ZGMlEUk0w-JDetqL9Rbg1
+BBlbsema50qEzicPBcriq,Ground_Daily,Masaken Betcho,0,9pzzm54xvp0KSQ_wXsokI_Shape,9pzzm54xvp0KSQ_wXsokI
+K9zBV4fj5NavAGCuGFD2i,Ground_Daily,Can Can 12th District  (6th of October),1,oJV0VP9BbdlYP0FUTX3kL_Shape,oJV0VP9BbdlYP0FUTX3kL
+PNtTPVJcmDWclAFZdvYD2,Ground_Daily,Alf Maskan,1,54vCgH7kUj2xjYCmiaGU9_Shape,54vCgH7kUj2xjYCmiaGU9
+zZOoW5YGvB9BYblSit-KB,Ground_Daily,Rehab - Gate 6,0,gnXeLqi14ElNOzxzWvAa1_Shape,gnXeLqi14ElNOzxzWvAa1
+P_B_8_6O019,Ground_Daily,Laylat Al Qadr,0,P_B_8_6O019_O_Shape,P_B_8_6O019_O
+P_O_14_IC093,Ground_Daily,Laylat Al Qadr,1,P_O_14_IC093_R_Shape,P_O_14_IC093_R
+NCUBbHH_QGjf1q-0X1YC-,Ground_Daily,Amiriya,1,HsuQKD9O5JGykbPNHP8YI_Shape,HsuQKD9O5JGykbPNHP8YI
+4oru4f3TseNYYICmUR910,Ground_Daily,Manshiyat Nasser,1,5-etov7E27X0Ygqv6bA25_Shape,5-etov7E27X0Ygqv6bA25
+lvMyRSGX-pAwdUcOqYZqG,Ground_Daily,Athar Al Naby,0,hfFkmcERIMMI2rg6hD3Oj_Shape,hfFkmcERIMMI2rg6hD3Oj
+IQBYLZyf_eGY8fK3WVcR0,Ground_Daily,Hossary,1,U1nTOikCb_V8OWUB4IVt1_Shape,U1nTOikCb_V8OWUB4IVt1
+ktpntHMzg1dBhqPWG7ifu,Ground_Daily,Matbaa,1,DAmgOfI1Qjuv8Fag9fURC_Shape,DAmgOfI1Qjuv8Fag9fURC
+GZtwE0__sVe5sfdM8Hq45,Ground_Daily,Ramses,0,jFbPFY6bIpjxLpEdccEjh_Shape,jFbPFY6bIpjxLpEdccEjh
+hWB-y-hCqfdmkq-zh_JuY,Ground_Daily,Matbaa,1,sVLjQqeGzl6qcdkCewmBA_Shape,sVLjQqeGzl6qcdkCewmBA
+UIbJAHRCDRcPVxtylKdP1,Ground_Daily,Abd Al Moneim Riad,0,fYwTMkgl5Nh4I8tpdWS0p_Shape,fYwTMkgl5Nh4I8tpdWS0p
+BV3Lpd-u_IqoQTTAGrXsT,Ground_Daily,Tagneed (Al Remaya),1,buENjSeigoJzgROmbs1xz_Shape,buENjSeigoJzgROmbs1xz
+hWB-y-hCqfdmkq-zh_JuY,Ground_Daily,Kattameya (Mahmoudeya),0,CdtCBDpc8H1wIAh3gL7F9_Shape,CdtCBDpc8H1wIAh3gL7F9
+ktpntHMzg1dBhqPWG7ifu,Ground_Daily,Masaken Ain Shams,0,pCFy1IddUrv10qXzIg1jC_Shape,pCFy1IddUrv10qXzIg1jC
+YIHTQhZhY68hR2EQjvlF-,Ground_Daily,Basateen,0,JAed0wXZ1UEMmJ7YNkHx7_Shape,JAed0wXZ1UEMmJ7YNkHx7
+4oru4f3TseNYYICmUR910,Ground_Daily,Hadaba Wosta (Moqattam),0,DGZ4qJvolGBMlaIluQu7f_Shape,DGZ4qJvolGBMlaIluQu7f
+fIX2H6I2zopxdtQs4KTWy,Ground_Daily,Arab Al Tawaila,0,AxVsnzMFluHCAPK2oONyf_Shape,AxVsnzMFluHCAPK2oONyf
+czcD_GDbPM3RYT-b_E4GE,Ground_Daily,Bohooth (Al Kobri Al Khashab),0,abjuVl6P3Zefcgjb3771L_Shape,abjuVl6P3Zefcgjb3771L
+yCzCB9uoQWDH4YDGoPa9W,Ground_Daily,New Marg,1,anFCqncCxfR2PyJKJhBwT_Shape,anFCqncCxfR2PyJKJhBwT
+3dezhf9N-kKXYX4egwMmg,Ground_Daily,Imbaba,1,bJ4Z68be2_W1uBrooHul5_Shape,bJ4Z68be2_W1uBrooHul5
+DafSYVkgsDYBZs729kZGD,Ground_Daily,Can Can 12th District  (6th of October),0,2mVMurkCEL_lpYUvnDS0B_Shape,2mVMurkCEL_lpYUvnDS0B
+I0McnHOUOXtn5nXDvkIuT,Ground_Daily,Saft Al Laban,0,9ACmII9WrSEIvaUvgDXsn_Shape,9ACmII9WrSEIvaUvgDXsn
+21kZwsX6wTR98GRcou2yw,Ground_Daily,Moassasa,1,5T4mETzJz8YMVWMoNB7Av_Shape,5T4mETzJz8YMVWMoNB7Av
+NvJsbLXSZ_OQTMe4A0Re6,Ground_Daily,Al Magzar (Mariouteya),0,8yxAFuYBKWB0_1jRz1pKC_Shape,8yxAFuYBKWB0_1jRz1pKC
+UydKv2gM1kSDyx7u4jZIV,Ground_Daily,Darrasa,0,PfDkP_eBNm1toQLnnuKjz_Shape,PfDkP_eBNm1toQLnnuKjz
+ctcoGGvDNd93MT5czSIi7,Ground_Daily,Masaken Al Shorouq,0,9JcaU1omV6ritEDLM7Nt4_Shape,9JcaU1omV6ritEDLM7Nt4
+3dezhf9N-kKXYX4egwMmg,Ground_Daily,Mosheer Ahmed Ismail (Sheraton),0,0aCIFc27lpFi-ZB9v0i5p_Shape,0aCIFc27lpFi-ZB9v0i5p
+LpiM9b8bL-w2_OYYAi9OZ,Ground_Daily,Bulaq Al Dakrur,1,oh5QdEhlMfv9RI2IlguZe_Shape,oh5QdEhlMfv9RI2IlguZe
+DafSYVkgsDYBZs729kZGD,Ground_Daily,Imbaba,1,7F9RE9IUMUS4JcjLHMmiv_Shape,7F9RE9IUMUS4JcjLHMmiv
+Eq5DUhwePKrivC_r5EyAz,Ground_Daily,Al Sayeda Aisha,0,g5kXyh6_XLNV93KHZWnNX_Shape,g5kXyh6_XLNV93KHZWnNX
+zXpyM9xY7G9LBl-J7BFVC,Ground_Daily,Badr City,1,RAygMdWnAqmBwsth59qfg_Shape,RAygMdWnAqmBwsth59qfg
+T9Z1u1IkkEycKE6B_nakJ,Ground_Daily,Korba,0,Jlkez6-eua1fGPpruzYB9_Shape,Jlkez6-eua1fGPpruzYB9
+JZOWZGUVIlsyln-SJhGeB,Ground_Daily,10th District (Nasr City),0,63OIVr7xvfBkzVbGCppQx_Shape,63OIVr7xvfBkzVbGCppQx
+eWiEGCcCP5bsCA6uPr2nY,Ground_Daily,Moneeb,1,lA1cWJPbQ3AC6-gUyV_BZ_Shape,lA1cWJPbQ3AC6-gUyV_BZ
+CTA_92-1050,Ground_Daily,Hegaz Square,1,CTA_92or1050_R_Shape,CTA_92or1050_R
+xkcfLc0qC3yXgkL3QkYzS,Ground_Daily,Zahraa Ain Shams,1,DuB-SpMaKMN4bF2JfFZrg_Shape,DuB-SpMaKMN4bF2JfFZrg
+P_O_14_CA152,Ground_Daily,Ramses,1,P_O_14_CA152_R_Shape,P_O_14_CA152_R
+eWiEGCcCP5bsCA6uPr2nY,Ground_Daily,Alf Masnaa,0,jVnpedrBEsYkrnKGjvgFm_Shape,jVnpedrBEsYkrnKGjvgFm
+MgUeZY5IH7DhXn9qFpvGl,Ground_Daily,Qism El Hadayek,1,Bdl1wVURvHT6n_Nao9mGM_Shape,Bdl1wVURvHT6n_Nao9mGM
+gwG-fhicbKS4E3iMRQz6P,Ground_Daily,Isko,0,Au0slpngpwQoN1yzQL6oh_Shape,Au0slpngpwQoN1yzQL6oh
+9j2ux9o5-KraQgcDFxC0H,Ground_Daily,Al Qanatir Al Khayriyyah,0,sGEL2zX7feVBeuteoGqHZ_Shape,sGEL2zX7feVBeuteoGqHZ
+eyQjmu5-Lb_ghG2yj7OUr,Ground_Daily,Kilo 4 & Half,0,xhcIrkrc8dkF64fPkAi1i_Shape,xhcIrkrc8dkF64fPkAi1i
+3Yvct3Jc-AgCLWnx8iJb-,Ground_Daily,Helmeyet El Zaitoun Metro,1,kk1Pa0L52hu0n6GnNopuF_Shape,kk1Pa0L52hu0n6GnNopuF
+xkcfLc0qC3yXgkL3QkYzS,Ground_Daily,Al Sayeda Aisha,0,jQvQeuzZvizIahX3ItCAC_Shape,jQvQeuzZvizIahX3ItCAC
+fI_k2RnEr3Kvx-feFgZpe,Ground_Daily,Matbaa,1,FzDktTuMAJK8T4AsFe72u_Shape,FzDktTuMAJK8T4AsFe72u
+AK9Xq6-wtWH9sbUvuMUdZ,Ground_Daily,Al Zawya Al Hamra,0,ZxbjsJraMSo6iclelbk6b_Shape,ZxbjsJraMSo6iclelbk6b
+ER0t9nxcaa0Md4Nm7r-oa,Ground_Daily,Zahraa Ain Shams,1,uhlLE3UsJqXgSLCa5JubQ_Shape,uhlLE3UsJqXgSLCa5JubQ
+ZGjX3QoD_ctqk3lvYrKDL,Ground_Daily,Kilo 4 & Half,0,TiSeI2ON7AM35jU0zBHPV_Shape,TiSeI2ON7AM35jU0zBHPV
+P_O_14_CA022,Ground_Daily,Al Sayeda Aisha,1,P_O_14_CA022_R_Shape,P_O_14_CA022_R
+5CqnnGEDncnHS7HZkkGTj,Ground_Daily,Al Omraneyya Al Gadida,1,GdLE5LHKdZ3zncP8aLZ04_Shape,GdLE5LHKdZ3zncP8aLZ04
+G3SanxHficxx5Wx3Kfnn0,Ground_Daily,Lebanon Square,1,0MD41jZ0fALq1U7ATpERn_Shape,0MD41jZ0fALq1U7ATpERn
+NSy3ZsEBK5pZrZIyk51VL,Ground_Daily,Kolleyet Al Zeraah (Cairo University),1,S7Cs5a6jLa7FbdO08cL_7_Shape,S7Cs5a6jLa7FbdO08cL_7
+whPhZJOh0ITe1RuUOEZX2,Ground_Daily,Bulaq Al Dakrur,1,xIfVW5_AdJo-tCm6iYU84_Shape,xIfVW5_AdJo-tCm6iYU84
+nOJ9PATzYJARWxEfkqu5L,Ground_Daily,Al Sayeda Nafeesa,1,82kndFLQ75MFJVK20-GAf_Shape,82kndFLQ75MFJVK20-GAf
+egjPD6593CKn95Mk98b1K,Ground_Daily,Darrasa,0,yX0EyQSRTAjFv3nD1f2x7_Shape,yX0EyQSRTAjFv3nD1f2x7
+zXpyM9xY7G9LBl-J7BFVC,Ground_Daily,Ramses,0,1KmmBT_GnN6ycwowtIWi2_Shape,1KmmBT_GnN6ycwowtIWi2
+uPQepJdL4bjoI0R7J9XKz,Ground_Daily,Athar Al Naby,0,bWxzd5HNZj-XKNVwcPdAQ_Shape,bWxzd5HNZj-XKNVwcPdAQ
+xolg4JwSJogcCGeExbjKu,Ground_Daily,Giza Square,1,0K7QW8KOkL-9Hqf7aGDeX_Shape,0K7QW8KOkL-9Hqf7aGDeX
+IK0lxgoOk-xJleJOgnUIP,Ground_Daily,Haram Mashaal,0,21XFqItT8ozHWSVS5-v55_Shape,21XFqItT8ozHWSVS5-v55
+nOJ9PATzYJARWxEfkqu5L,Ground_Daily,Isko,0,ojeBAcJlaMYZw8lIcLZgF_Shape,ojeBAcJlaMYZw8lIcLZgF
+WcBUjkdX_6SJfXXGp00S-,Ground_Daily,Abd Al Moneim Riad,0,LJd_crWPf8yZnjDfLGQak_Shape,LJd_crWPf8yZnjDfLGQak
+QAtNnDbICPuNWmtoKicmy,Ground_Daily,Al Sayeda Nafeesa,1,JL79Wuqgn8gTXIc9VEmLY_Shape,JL79Wuqgn8gTXIc9VEmLY
+3k65ONadSSpqWJMm7jv4a,Ground_Daily,Al Sayeda Nafeesa,1,0uI5Wr3pJc0NdmQU1cqfv_Shape,0uI5Wr3pJc0NdmQU1cqfv
+CTA_900,Ground_Daily,Tagneed (Al Remaya),0,CTA_900_O_Shape,CTA_900_O
+4E_NzHWE6SBBt9WiSwera,Ground_Daily,Al-Salam (10th of Ramadan),1,dmacRZFr7jSMiZ_0mtLsI_Shape,dmacRZFr7jSMiZ_0mtLsI
+Ml8Z5Ycxg-taVluDdj9eh,Ground_Daily,Ibrahim Bek,0,35JvLLZYnkWHAvAJj5qD6_Shape,35JvLLZYnkWHAvAJj5qD6
+ynTk2w8k0i45iT5CkTzX-,Ground_Daily,El Kafr (Birak Al Khiyam),1,Do6CfRwo1pyW8kCsHcQg2_Shape,Do6CfRwo1pyW8kCsHcQg2
+foiu6unw8p8KJnIDFM5Xs,Ground_Daily,Qalyoub El Balad,1,zvbzjRXKLBtpYm0CpnU4s_Shape,zvbzjRXKLBtpYm0CpnU4s
+0yN0f3emwwLcW287INPnm,Ground_Daily,Masaken Al Shorouq,1,NosOaRbVP_STv2D41mBMn_Shape,NosOaRbVP_STv2D41mBMn
+8X8gLBYp6o4Z9Dc0_MySn,Ground_Daily,Remaya (New Mashaal),0,qYbzlP9GNoHX_BPP4i_3v_Shape,qYbzlP9GNoHX_BPP4i_3v
+Imw9VlP3uLpN1-7pXr_Qe,Ground_Daily,Masaken Al Shorouq,1,Bv7YzPxAWRuofjShaRCu4_Shape,Bv7YzPxAWRuofjShaRCu4
+j0B0wGsqFxUkOptBjcLvx,Ground_Daily,Al Sayeda Nafeesa,1,Bwe4YuydKF5qLZx7Myh8N_Shape,Bwe4YuydKF5qLZx7Myh8N
+0ij9-cfVgid7IW1oTQKdT,Ground_Daily,Mazallat,0,0jXLhzjwqCIz6DOThb9bW_Shape,0jXLhzjwqCIz6DOThb9bW
+gwG-fhicbKS4E3iMRQz6P,Ground_Daily,Giza Square,1,WCBEGJtgPlF9fqLbTVpFA_Shape,WCBEGJtgPlF9fqLbTVpFA
+lzExfvE08FXIFTjkNJgv9,Ground_Daily,Maadi Metro,0,WGFyD5320CsVpfY1E06bZ_Shape,WGFyD5320CsVpfY1E06bZ
+3k65ONadSSpqWJMm7jv4a,Ground_Daily,El Warsha (Ezbet Al Nakhl),0,aqBMRnqivCa01PTVN_2Rl_Shape,aqBMRnqivCa01PTVN_2Rl
+YDYZfl3PqeB6Fo4Ji9dpx,Ground_Daily,Al-Salam (10th of Ramadan),1,6sImMNL5daXkM9Af6Hfto_Shape,6sImMNL5daXkM9Af6Hfto
+QAtNnDbICPuNWmtoKicmy,Ground_Daily,Khosous,0,i6G03L0pCL-gufJqOikEz_Shape,i6G03L0pCL-gufJqOikEz
+xolg4JwSJogcCGeExbjKu,Ground_Daily,Masallah Al Gadeda (Matareyya),0,IOmDLJi3LUZCfND_scmti_Shape,IOmDLJi3LUZCfND_scmti
+Dnad46KxSgtz6WrdlQUHY,Ground_Daily,Manshiyat Nasser,1,M4ewegTPJnhphvXipU9Dv_Shape,M4ewegTPJnhphvXipU9Dv
+eyQjmu5-Lb_ghG2yj7OUr,Ground_Daily,Imbaba,1,YN7f_eVfPgHRvO5t0U2Df_Shape,YN7f_eVfPgHRvO5t0U2Df
+mrJT7Y9lx0AZq-7wl66cW,Ground_Daily,Al Qanatir Al Khayriyyah,1,qV3pJnznj0Utd1I7Z6_b1_Shape,qV3pJnznj0Utd1I7Z6_b1
+LJ8W8lrawIvi_HQ_N_fRD,Ground_Daily,Moneeb,0,x8gNPLXq4hMEaP3rgn9-a_Shape,x8gNPLXq4hMEaP3rgn9-a
+O__qyKz6kCZCjrNB-7OYX,Ground_Daily,Helwan Metro,1,w0OuP-qXbkDEvdfnmfIVY_Shape,w0OuP-qXbkDEvdfnmfIVY
+YC8mSQwzG7-Amd9rDuPR1,Ground_Daily,Bashtil El Balad,0,fdh7xAiMWXVvvGtAAwcSh_Shape,fdh7xAiMWXVvvGtAAwcSh
+0XAvSntelgtvUQzvAfLqW,Ground_Daily,Moassasa,0,6OO3Yz8p0IlmViZn-DJ0O_Shape,6OO3Yz8p0IlmViZn-DJ0O
+FXHbwS2tr2kd-8DtfhIgo,Ground_Daily,Matbaa,1,ePNQk9H2GgQ-Cbow7POH4_Shape,ePNQk9H2GgQ-Cbow7POH4
+LJ8W8lrawIvi_HQ_N_fRD,Ground_Daily,Al-Salam (10th of Ramadan),1,gGEeyz1Rc1g1-OLFaUMlC_Shape,gGEeyz1Rc1g1-OLFaUMlC
+TIlnDqafo-e2AVr35QCtj,Ground_Daily,10th District (Nasr City),0,_hM2HjnJGjIeTJwgHqUcQ_Shape,_hM2HjnJGjIeTJwgHqUcQ
+XJQVWOM0aIFhA0CTFaprI,Ground_Daily,Obour Market,1,2bmBOEvijWTXMFDjfS415_Shape,2bmBOEvijWTXMFDjfS415
+v3r7iBOk8eP_u6GCz6kpD,Ground_Daily,Ramses,0,7hdM1gLSGRbXJ_NtSAOUR_Shape,7hdM1gLSGRbXJ_NtSAOUR
+CA6mMAtKLFlrTaQ4BiGcJ,Ground_Daily,Qism El Hadayek,1,B85fmYpvtN19OgiXZYkSA_Shape,B85fmYpvtN19OgiXZYkSA
+r_aM8g8hbeCg_QnsOQXZh,Ground_Daily,Masaken Al Wehda,1,Zu_U7Vqjv9PObkdL6LAZk_Shape,Zu_U7Vqjv9PObkdL6LAZk
+6KGSCH_P7m-jw7W1PR0Ht,Ground_Daily,New Cairo Court,0,jfALFuqiIGj49H0Xns6Hz_Shape,jfALFuqiIGj49H0Xns6Hz
+iCZTu5NQScawKNksGO9uH,Ground_Daily,Khanka,0,aPV8CMG23hGEhTIdtARth_Shape,aPV8CMG23hGEhTIdtARth
+CTA_840,Ground_Daily,Qism El Hadayek,0,CTA_840_O_Shape,CTA_840_O
+0XAvSntelgtvUQzvAfLqW,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,GHXROZgHgUSD5C_2XIVOV_Shape,GHXROZgHgUSD5C_2XIVOV
+uVXNDIyKAilRBZ3n92UQo,Ground_Daily,Moassasa,1,yAJGUTvlAeFjyUl8ECX1J_Shape,yAJGUTvlAeFjyUl8ECX1J
+rIW1na7aSBeUGKSkhuuGI,Ground_Daily,Awwel Makram Ebeid,1,G9tGmEx13yvfzIbpTjyra_Shape,G9tGmEx13yvfzIbpTjyra
+1mr8RU0a90VsX2pRB9Rfl,Ground_Daily,Abou El Numrus,0,m7T3lM3YGSYQQcZxIwjll_Shape,m7T3lM3YGSYQQcZxIwjll
+bvWwmlVRmaOh17E4NPADx,Ground_Daily,Bashtil,0,VgmxUeccLtlPXl33oR3uz_Shape,VgmxUeccLtlPXl33oR3uz
+dM98F5uCHLC-eVa5-BvJZ,Ground_Daily,Zahraa Madinet Nasr,0,aeeUpPyOJmTePFL9TcU20_Shape,aeeUpPyOJmTePFL9TcU20
+7FCzhO02lSZAAW-JhYn9s,Ground_Daily,Isko,1,JYZxC6PIo6O1Kdo31McUV_Shape,JYZxC6PIo6O1Kdo31McUV
+f3VyvIsE1IEeM5gDkzXhN,Ground_Daily,Ahmed Helmy,0,rkiwLf4VrNOFvVH6Qj7TF_Shape,rkiwLf4VrNOFvVH6Qj7TF
+EJJbs0wpO3klUlJZZvU3J,Ground_Daily,Masaken Betcho,1,SWLzsZCswC4DFa3IgbLXs_Shape,SWLzsZCswC4DFa3IgbLXs
+XXk6QOM27EiINNJVOjcue,Ground_Daily,Tagneed (Al Remaya),1,atE8aTd-luR-Vh-66z_Nm_Shape,atE8aTd-luR-Vh-66z_Nm
+7S_gkEV2bsYICm8FcrJRV,Ground_Daily,Matbaa,0,gGLlt81P1SJDpLE0xHtoH_Shape,gGLlt81P1SJDpLE0xHtoH
+9JtrrWplRidMq_w6-6Bs8,Ground_Daily,Ramses,1,irk4Y_jUw3RquhZKqS0gc_Shape,irk4Y_jUw3RquhZKqS0gc
+ht0GgjSAbF0kdmnExj5Yz,Ground_Daily,Masaken Al Wehda,0,neose4dIu0D5xc-3-CAy3_Shape,neose4dIu0D5xc-3-CAy3
+L461chwDYnuXmkCJbl1Zk,Ground_Daily,Abou Al Reesh,1,WxLiScbau6q2jneg5Qnr0_Shape,WxLiScbau6q2jneg5Qnr0
+YyMVnpFACm_b2uotE7GjR,Ground_Daily,Matareya Square,0,KL3K4ZT8vYZkEp2mHT09d_Shape,KL3K4ZT8vYZkEp2mHT09d
+7S_gkEV2bsYICm8FcrJRV,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,V8f_EIo16ogzSvrgRo1nv_Shape,V8f_EIo16ogzSvrgRo1nv
+vPxZODNW0MlX1OZFVTl8e,Ground_Daily,Awwel Makram Ebeid,0,qPjU9ZMhtmRQz_6kl-FU0_Shape,qPjU9ZMhtmRQz_6kl-FU0
+ezg_t81DPrRfiBGLI9GbE,Ground_Daily,Arab Al Tawaila,1,KJgtoJxkqkbdGc7WFVKQp_Shape,KJgtoJxkqkbdGc7WFVKQp
+7FCzhO02lSZAAW-JhYn9s,Ground_Daily,Matbaa,0,aJyaGlt127vYP5trgvXPH_Shape,aJyaGlt127vYP5trgvXPH
+FCAAr3fes-LcOKbkahMq-,Ground_Daily,Mazallat,1,OvZKKMCpwNrcGHmsapadY_Shape,OvZKKMCpwNrcGHmsapadY
+9WQz2Uku_lDLfa9xlAq6e,Ground_Daily,Abbasseya,1,h7o_iGGtRPoftw9ZviPBy_Shape,h7o_iGGtRPoftw9ZviPBy
+THrQu8qlfqIVjyIOU9nsp,Ground_Daily,Al Sayeda Aisha,0,RBDu3u_mXme8IFWiTwlXU_Shape,RBDu3u_mXme8IFWiTwlXU
+tVSIeyuK_trcKCgwVwM1B,Ground_Daily,Hawamdeyya,0,sQuTKFWF9VgK6PteDZAvU_Shape,sQuTKFWF9VgK6PteDZAvU
+0ij9-cfVgid7IW1oTQKdT,Ground_Daily,Basateen,1,yYSuQjfqt4hPg1Qc5ulVk_Shape,yYSuQjfqt4hPg1Qc5ulVk
+FXHbwS2tr2kd-8DtfhIgo,Ground_Daily,Ahmed Maher Hospital,0,TnxdfTNGoloPBPxsVd3z7_Shape,TnxdfTNGoloPBPxsVd3z7
+Nt3X7K8xH9fN8xUI0jtsl,Ground_Daily,Giza Square,1,exfpfXw6EEor0LqWw7Rj0_Shape,exfpfXw6EEor0LqWw7Rj0
+NSy3ZsEBK5pZrZIyk51VL,Ground_Daily,Kilo 4 & Half,0,0RfTmJg98tv9ff6iEU5jz_Shape,0RfTmJg98tv9ff6iEU5jz
+xHDTuKEcNGya_6TEqky9R,Ground_Daily,Moassasa,0,ppQe-HI7vaMvKdlmrf502_Shape,ppQe-HI7vaMvKdlmrf502
+TwtquEbhxXg7lLUiammd0,Ground_Daily,Helwan,1,3BG0ugeueX0tKvlHUAA5k_Shape,3BG0ugeueX0tKvlHUAA5k
+IMRynqA53QmU-orlgoLIj,Ground_Daily,Mazallat,0,rRONLaRkLCQj_ZXgl0Vgf_Shape,rRONLaRkLCQj_ZXgl0Vgf
+rSzg2M_8gM0cX-PnDBpDS,Ground_Daily,Giza Square,1,F2dyoro1POGK4max-3X5n_Shape,F2dyoro1POGK4max-3X5n
+mArLEgVOmRmk2qjpXCcyb,Ground_Daily,Matareya Square,0,CofXlb7DLIH6g0yDS7u3__Shape,CofXlb7DLIH6g0yDS7u3_
+NpVyB3A8oXLi3GfGFKSwW,Ground_Daily,Imbaba,1,x0eKiz8tiJP9vQkYBcMkl_Shape,x0eKiz8tiJP9vQkYBcMkl
+NvP4fRLg68f35n6CvEdEj,Ground_Daily,Manshiyat Nasser,0,o8doF07FUO8XRBrT9pX7q_Shape,o8doF07FUO8XRBrT9pX7q
+rIW1na7aSBeUGKSkhuuGI,Ground_Daily,10th District (Nasr City),0,tBH4Lv8OCuq7-A1LRttyZ_Shape,tBH4Lv8OCuq7-A1LRttyZ
+bIbrbTpxCAep4mS2L2FoJ,Ground_Daily,Moassasa,1,2PeXca8QJ6kY751cc_yVk_Shape,2PeXca8QJ6kY751cc_yVk
+xQ-gNexveTXTu9hyB09su,Ground_Daily,Kilo 4 & Half,0,EhUbWaFLWRwjRg07u5_Ub_Shape,EhUbWaFLWRwjRg07u5_Ub
+THrQu8qlfqIVjyIOU9nsp,Ground_Daily,Awwel Faisal,1,I9feZrZq6yKe_m0_I-689_Shape,I9feZrZq6yKe_m0_I-689
+Ytv0dFG7V3erHcHr8CQG8,Ground_Daily,Basateen,1,x9quLdHSjKblAHxqcF1nu_Shape,x9quLdHSjKblAHxqcF1nu
+HgOOTYudP9JvGMJLgyyjz,Ground_Daily,Kit Kat Square,0,H2Qx0H5UVgktNnPfM9xib_Shape,H2Qx0H5UVgktNnPfM9xib
+JHK6gWh4wxS5zteB3hxbW,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,AVCXwJ2Tg3kjWIiTfzzS-_Shape,AVCXwJ2Tg3kjWIiTfzzS-
+Ytv0dFG7V3erHcHr8CQG8,Ground_Daily,Abou Wafya,0,08ojBRs9Q5XKETiSBt1k6_Shape,08ojBRs9Q5XKETiSBt1k6
+OZAAPeChjNCYfhRh0ytYa,Ground_Daily,Kattameya (Mahmoudeya),0,day82Pfd85xiYO966Yb8C_Shape,day82Pfd85xiYO966Yb8C
+a857emSd0Eg9_C49Uly1i,Ground_Daily,Alf Maskan,1,u96d06x_3vTZAroZHRd1f_Shape,u96d06x_3vTZAroZHRd1f
+r3Rn-Eht_A27WHh3b8Zn0,Ground_Daily,Attaba,1,9BuuxT88-Dcg8AlvLYTRN_Shape,9BuuxT88-Dcg8AlvLYTRN
+xP2sjSYD1lMXW6ZUlUVOe,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,lmZ_etblkHVTzg08N7gUQ_Shape,lmZ_etblkHVTzg08N7gUQ
+EdxCXX3s8ILq_VMt8162G,Ground_Daily,Al Zawya Al Hamra,0,ym9_XmxykVxrE1E7jtcic_Shape,ym9_XmxykVxrE1E7jtcic
+nPQFHmEKjUVtIvFp4H1KK,Ground_Daily,Moassasa,0,OKObb7PcF-AeiovAyBSM8_Shape,OKObb7PcF-AeiovAyBSM8
+24kdxuuUjA0qtjg6P-OPh,Ground_Daily,Abd Al Moneim Riad,1,1gC5vWE8urH5UYMQ_e-ll_Shape,1gC5vWE8urH5UYMQ_e-ll
+B31s4JolfJ0z-HLdNoXCR,Ground_Daily,Al Sayeda Nafeesa,1,urELcGmnycy2EpzGi895Q_Shape,urELcGmnycy2EpzGi895Q
+C6RjvuOaE6Jy7WRZtUxaM,Ground_Daily,Moassasa,1,BHRVWFr9jn6rq_ljQhSz4_Shape,BHRVWFr9jn6rq_ljQhSz4
+n4ilqcRQ9yJVFWs-xSz-D,Ground_Daily,Abd Al Moneim Riad,1,NfAznBDxjdRYqjTlm4Zyl_Shape,NfAznBDxjdRYqjTlm4Zyl
+ne9Df9bfGqa0RrCaPqNTA,Ground_Daily,Al Sayeda Aisha,0,l4MLv4Hej9iNDZ-u8WHYj_Shape,l4MLv4Hej9iNDZ-u8WHYj
+lFki0psvWKrqJWc6Qz6PR,Ground_Daily,FUE,1,hadD4w1LLAz3bc-jTVCWe_Shape,hadD4w1LLAz3bc-jTVCWe
+YOUm7rdzNVY6LFG9JKpHr,Ground_Daily,Saqr Quraish,0,MMbfE9xrpiB3vmgVMNitp_Shape,MMbfE9xrpiB3vmgVMNitp
+BTapayFKafajyYHQLI30g,Ground_Daily,Ahmed Helmy,0,01ZcX73Vgf4WrcQXQ6ZQj_Shape,01ZcX73Vgf4WrcQXQ6ZQj
+4AnLqrfTx4EzrhVcahl7F,Ground_Daily,Bulaq Al Dakrur,1,1qAG7g39ik2OqfT0WZCnm_Shape,1qAG7g39ik2OqfT0WZCnm
+2kavxuzVoPAIs0Zo7SkfI,Ground_Daily,Hossary,1,VWUclOqbBjPJ7zFG1bgeC_Shape,VWUclOqbBjPJ7zFG1bgeC
+ijoblexYmIYN_Bo_iD_Wg,Ground_Daily,Abageyah,1,wEmdNwndhzvYQzDBCZ1o5_Shape,wEmdNwndhzvYQzDBCZ1o5
+PNtTPVJcmDWclAFZdvYD2,Ground_Daily,Arab Al Tawaila,0,vrKqTKPidIDI58EoJ_spD_Shape,vrKqTKPidIDI58EoJ_spD
+VcyJ3Cygkrd6BpKY5hhzC,Ground_Daily,Basateen,1,CN0kmKUS1dHSp_ap_lI3P_Shape,CN0kmKUS1dHSp_ap_lI3P
+GKwSUuezWdV45Rd_Qtady,Ground_Daily,Abd Al Moneim Riad,1,WJ4ganTpgxWl5-4vcZ3d9_Shape,WJ4ganTpgxWl5-4vcZ3d9
+IcpqTJSZNZXngGCgzW0-u,Ground_Daily,Fayda Kamel,0,n--UfRcvqEhMLsCNKTKE8_Shape,n--UfRcvqEhMLsCNKTKE8
+e1xAb2o6cgzGY9iNvA5aG,Ground_Daily,Hossary,1,NCbDiEZ88oCvZdxkIc492_Shape,NCbDiEZ88oCvZdxkIc492
+f_ndpqhZbBLRF7rSyRerB,Ground_Daily,Ramses,1,xsEfng8Qu4Ek_2fU4RNR0_Shape,xsEfng8Qu4Ek_2fU4RNR0
+CBxRb0VoXyLWRjw97cRXJ,Ground_Daily,Kilo 4 & Half,1,U5H-hQidWhNZjyh4O8aK-_Shape,U5H-hQidWhNZjyh4O8aK-
+YiqckBVvySeTMxSuhIb93,Ground_Daily,Abd Al Moneim Riad,0,_tV6xU_RcUPDBM0zhynR8_Shape,_tV6xU_RcUPDBM0zhynR8
+HRIoKLqyzSuLF2TLVXtja,Ground_Daily,Al-Salam (10th of Ramadan),0,wnyUaZjrk2YzxRE9-xn9c_Shape,wnyUaZjrk2YzxRE9-xn9c
+5l1G65qweO5GdBQpfy1EM,Ground_Daily,Ramses,1,Pn-VAAtVdJ1tehS1UDfpj_Shape,Pn-VAAtVdJ1tehS1UDfpj
+LwkV1eodv1ID5E0MVkEGV,Ground_Daily,Giza Square,1,PgkyTc840aSiHy6cn5bzA_Shape,PgkyTc840aSiHy6cn5bzA
+ldy3O2UlQPWYA4Jj8vJgN,Ground_Daily,Abd Al Moneim Riad,0,1Jxp2htELubmmtlyac8dW_Shape,1Jxp2htELubmmtlyac8dW
+Nt3X7K8xH9fN8xUI0jtsl,Ground_Daily,Dar El Salam,0,RR7tSjbcXnx-ZGXWLsWQs_Shape,RR7tSjbcXnx-ZGXWLsWQs
+4AnLqrfTx4EzrhVcahl7F,Ground_Daily,Abboud,0,-rLtDuwe-jHpFTH7LttYe_Shape,-rLtDuwe-jHpFTH7LttYe
+nQKW52Ox3zlyelPVrnuvw,Ground_Daily,1st Settlement (New Cairo),1,vMFfUxGiz7B-eiVXVk75X_Shape,vMFfUxGiz7B-eiVXVk75X
+CA6mMAtKLFlrTaQ4BiGcJ,Ground_Daily,Al Omraneyya Al Gadida,0,bAygrkb2Zh4ZhGFu0JA_r_Shape,bAygrkb2Zh4ZhGFu0JA_r
+LwkV1eodv1ID5E0MVkEGV,Ground_Daily,Magda Square,0,wpR35m8PHRlNTRwVRQush_Shape,wpR35m8PHRlNTRwVRQush
+ejAVozyP784n-DqXuiW2U,Ground_Daily,Abd Al Moneim Riad,1,3n_ieHlUgg-uK6HmOIw6O_Shape,3n_ieHlUgg-uK6HmOIw6O
+ej2ohQ-P0kTk-y-6MwMbM,Ground_Daily,Awwel Makram Ebeid,0,XDF0baRIyaul7_Mjbo3KD_Shape,XDF0baRIyaul7_Mjbo3KD
+t-VkUnvixIVORTzsevcAZ,Ground_Daily,Bulaq Al Dakrur,1,Fcp3AEvsIKnq8tJhYZeZU_Shape,Fcp3AEvsIKnq8tJhYZeZU
+VP-_HJndaq3LK1Y8sWnFm,Ground_Daily,Abou Wafya,0,80xPbuEg8AcH6C46jxaJo_Shape,80xPbuEg8AcH6C46jxaJo
+IRzkagIluHAKgsFxr9c_Z,Ground_Daily,Abageyah,1,PPRq64MRutZS3etkfhj9b_Shape,PPRq64MRutZS3etkfhj9b
+Hu_E85mwGGhJHvFmWrLch,Ground_Daily,Masaken Ain Shams,1,f8JcyFtAyk9JQBdi-A-uz_Shape,f8JcyFtAyk9JQBdi-A-uz
+TIlnDqafo-e2AVr35QCtj,Ground_Daily,Hadaba Wosta (Moqattam),1,9YDdjnLGgMJDo96lvs5sZ_Shape,9YDdjnLGgMJDo96lvs5sZ
+Ogi2rh_OlSM2h_wvvLGkk,Ground_Daily,Alf Maskan,1,FEJV0ei4pBoMi3F3JOV-s_Shape,FEJV0ei4pBoMi3F3JOV-s
+oq0Kd02t351SYBTGRu4mX,Ground_Daily,Bigam,0,fwYPyGH9hzSl5AawPRwG7_Shape,fwYPyGH9hzSl5AawPRwG7
+pHXU8x5lS5GcVfRS1nUfp,Ground_Daily,Abd Al Moneim Riad,1,odKIseXtA1rprKflMEUWB_Shape,odKIseXtA1rprKflMEUWB
+2NGKDEeZqTOn-h078Hniy,Ground_Daily,Zahraa Madinet Nasr,1,-q8jjwom1iFvWy114rFYc_Shape,-q8jjwom1iFvWy114rFYc
+HRIoKLqyzSuLF2TLVXtja,Ground_Daily,Abd Al Moneim Riad,1,i0vRkxxnTK4XVRh5Q2555_Shape,i0vRkxxnTK4XVRh5Q2555
+_kGwgRC-pycvUmse6VVvU,Ground_Daily,Kilo 4 & Half,0,rvcDHlYhapIPA6aUAv9Kv_Shape,rvcDHlYhapIPA6aUAv9Kv
+2nunj7L0d16GI8GHhNASo,Ground_Daily,Al Sayeda Aisha,0,UdF78EpkrbmefPoUXomBc_Shape,UdF78EpkrbmefPoUXomBc
+e8XSHfUauPfbEm5GI8uZB,Ground_Daily,Kilo 4 & Half,1,I3gbZdiRMk-p3Hm8S9an-_Shape,I3gbZdiRMk-p3Hm8S9an-
+iSJquE4a-hnmErov1zOQm,Ground_Daily,Bulaq Al Dakrur,1,Lc-sTQ-uc85unzCrt7jNw_Shape,Lc-sTQ-uc85unzCrt7jNw
+fPRBf1K3K_qq6lfyMtz0d,Ground_Daily,Ahmed Helmy,1,2QK3lPoKoxq-nN_7yRJp2_Shape,2QK3lPoKoxq-nN_7yRJp2
+_kGwgRC-pycvUmse6VVvU,Ground_Daily,Znen (Awwel Al Eshreen),1,MI7-31n22skIweKwhs3ho_Shape,MI7-31n22skIweKwhs3ho
+EvrZ1dQ_nxwknC6nlhifj,Ground_Daily,Mazlaqan Ain Shams,0,ZW6zZnvhl8dJiWWeEwuur_Shape,ZW6zZnvhl8dJiWWeEwuur
+NZajXqCpAk_GgbEGzIBG1,Ground_Daily,Remaya (New Mashaal),1,NZajXqCpAk_GgbEGzIBG1_R_Shape,NZajXqCpAk_GgbEGzIBG1_R
+tr5C-Vao_XTCqFPXm-mE5,Ground_Daily,Kilo 4 & Half,0,ItlHgwtRp_pEZHqjqlMnz_Shape,ItlHgwtRp_pEZHqjqlMnz
+T7BWm7IBJwclTVfKGA8P-,Ground_Daily,Abboud,0,FrAn7rOiw-PJSklEUYBI__Shape,FrAn7rOiw-PJSklEUYBI_
+2NGKDEeZqTOn-h078Hniy,Ground_Daily,Haram & Marioteya,0,UG2KPxE7nLePrFlgDcVGZ_Shape,UG2KPxE7nLePrFlgDcVGZ
+31lxQf5nIa80ffeAkBjMH,Ground_Daily,Al Sa'a Square,0,zkByv3jb7leciDKjt6veb_Shape,zkByv3jb7leciDKjt6veb
+ZGjX3QoD_ctqk3lvYrKDL,Ground_Daily,Bulaq Al Dakrur,1,xiglU4oSrkjAFasd9-s6j_Shape,xiglU4oSrkjAFasd9-s6j
+XEvmtqv39IKsFQIslODQ_,Ground_Daily,Al-Salam (10th of Ramadan),1,aXiXSSoYt_6UbYkuMmSCR_Shape,aXiXSSoYt_6UbYkuMmSCR
+Imw9VlP3uLpN1-7pXr_Qe,Ground_Daily,Isko,0,aNyLiJylPqOHlEuRAyDsa_Shape,aNyLiJylPqOHlEuRAyDsa
+CTA_1025,Ground_Daily,Abd Al Moneim Riad,1,CTA_1025_R_Shape,CTA_1025_R
+tr5C-Vao_XTCqFPXm-mE5,Ground_Daily,Bulaq Al Dakrur,1,1h5xuYUvFWRQlx_QOZ8yL_Shape,1h5xuYUvFWRQlx_QOZ8yL
+6HiNrwyzAw5JGPUdaty-0,Ground_Daily,Ramses,0,JH_UY8_LL3OIjuHL6uSJs_Shape,JH_UY8_LL3OIjuHL6uSJs
+mrJT7Y9lx0AZq-7wl66cW,Ground_Daily,Abd Al Moneim Riad,0,5Wa445Wmd9tgkdDCVA4mj_Shape,5Wa445Wmd9tgkdDCVA4mj
+Hjh1uRXEyzV0t-_S0vjaF,Ground_Daily,Abbasseya,0,xYEMld5Ls_0xn6qhze5rw_Shape,xYEMld5Ls_0xn6qhze5rw
+5KspV5Hlbm-No0kYZeowS,Ground_Daily,Haram Mashaal,0,5ctGy1IaXPQHAc-7fyrFp_Shape,5ctGy1IaXPQHAc-7fyrFp
+NrOaoQJmSjyW5uQtfFt7p,Ground_Daily,Moneeb,0,3F2AsTWibqhxpkTKCzZna_Shape,3F2AsTWibqhxpkTKCzZna
+mNmLsNHPMlBfFhZRjrgK2,Ground_Daily,1st Settlement (New Cairo),1,TTa25Eb4vxhkpJD1HSwrU_Shape,TTa25Eb4vxhkpJD1HSwrU
+fuicPDe5V7A7QVMdRss5o,Ground_Daily,Moassasa,0,EAD7ESvO8AGn7Gdb9m7Iu_Shape,EAD7ESvO8AGn7Gdb9m7Iu
+rkJxL56Q3OKc76Ff6Pg8s,Ground_Daily,10th District (Nasr City),0,Y-Bx0w7ERNonpeDIxRtrE_Shape,Y-Bx0w7ERNonpeDIxRtrE
+-6XpwB9WWYaBpVKpKkJAA,Ground_Daily,1st Settlement (New Cairo),1,_gyb4P-bdhA2bWbQwlXkk_Shape,_gyb4P-bdhA2bWbQwlXkk
+VGaQYovXuVb6WPYilc6D0,Ground_Daily,Saqr Quraish,1,nEtvgzLMvdvALOBpRiYiS_Shape,nEtvgzLMvdvALOBpRiYiS
+ObwRVHlKZ6bJ0sY57ADgV,Ground_Daily,New Marg,1,Y-XGhVvjDNvCOf_YoVmql_Shape,Y-XGhVvjDNvCOf_YoVmql
+AYG5Jeb5RQthuAg3x6gL_,Ground_Daily,Masaken Ain Shams,1,f3vDFBgnyGBn--Z5Ybiwz_Shape,f3vDFBgnyGBn--Z5Ybiwz
+I30E1wTMc3MAmoOQniW3h,Ground_Daily,New Cairo Court,0,mZYHH1M2uUEptijtmx29O_Shape,mZYHH1M2uUEptijtmx29O
+qF9eq082_adr4tlPXHbat,Ground_Daily,Kilo 4 & Half,1,8HMykSUNo6PuV3wNpROdZ_Shape,8HMykSUNo6PuV3wNpROdZ
+koG8Hv7ojxwoLFo8eXvTW,Ground_Daily,Isko,1,WLnBbiPOi9Z3Kw5nRwB_H_Shape,WLnBbiPOi9Z3Kw5nRwB_H
+nfGw_AtUWg704oRknN6oJ,Ground_Daily,Mazallat,0,FETCG69F_utmDPGSMFUHn_Shape,FETCG69F_utmDPGSMFUHn
+fuicPDe5V7A7QVMdRss5o,Ground_Daily,1st Settlement (New Cairo),1,CdCXFk8LVRPlEdcAsybM4_Shape,CdCXFk8LVRPlEdcAsybM4
+jAkc2JP8TWQ7cm1sx3V2V,Ground_Daily,Om Bayoumi (Mintay),1,Zgd5CAbnKqm2PwtYLOrkH_Shape,Zgd5CAbnKqm2PwtYLOrkH
+ZpjJfGT2XablwK9bPaDxE,Ground_Daily,AUC Bus,0,3tXApVGeyyN33i4Fupq4K_Shape,3tXApVGeyyN33i4Fupq4K
+5KspV5Hlbm-No0kYZeowS,Ground_Daily,Ramses,1,kZsbf6-UA3RHv2D_ly5mO_Shape,kZsbf6-UA3RHv2D_ly5mO
+ynTk2w8k0i45iT5CkTzX-,Ground_Daily,Bulaq Al Dakrur,0,m3BcDJ7p6yiu8rRM-PESM_Shape,m3BcDJ7p6yiu8rRM-PESM
+vWaavZmYB5sbQzR2d-U_U,Ground_Daily,1st Settlement (New Cairo),1,63uKuFd-SbgPG0aB0Ki1S_Shape,63uKuFd-SbgPG0aB0Ki1S
+D2cZnF4D57su9lDHL4c-h,Ground_Daily,1st Settlement (New Cairo),1,OSW9WVW28-_drSmwh_mCm_Shape,OSW9WVW28-_drSmwh_mCm
+D2cZnF4D57su9lDHL4c-h,Ground_Daily,Matbaa,0,MlWRR0CjMvgyhbkrf57cZ_Shape,MlWRR0CjMvgyhbkrf57cZ
+FugP1Vj46_hKrrCUcBN5G,Ground_Daily,Isko,0,9gfr3HuSMcJ96Y9sPRvSA_Shape,9gfr3HuSMcJ96Y9sPRvSA
+W4XrYxIpaEVrO-aOQjYMS,Ground_Daily,Abd Al Moneim Riad,0,hOPmxPVOL-qdcvjjSaYcO_Shape,hOPmxPVOL-qdcvjjSaYcO
+15BSVKWwvsIQTR_rWUxzo,Ground_Daily,Arab Al Tawaila,0,kZoNiOUMltRRIe7TBhLkA_Shape,kZoNiOUMltRRIe7TBhLkA
+FugP1Vj46_hKrrCUcBN5G,Ground_Daily,1st Settlement (New Cairo),1,DdLVstcMX5x3efywlpfpi_Shape,DdLVstcMX5x3efywlpfpi
+vWaavZmYB5sbQzR2d-U_U,Ground_Daily,Mostorod,0,2ESrUNxmari9t54H8t7Lw_Shape,2ESrUNxmari9t54H8t7Lw
+wTMLwyykgGKLFW3yYaNnx,Ground_Daily,Masaken Al Wehda,0,zqMkBfJYbPKGtd_2JakbW_Shape,zqMkBfJYbPKGtd_2JakbW
+2GAYQWfWuEdIk5hhjFe2Q,Ground_Daily,Bigam,1,zJwXqlXqvol3FU31WNF8__Shape,zJwXqlXqvol3FU31WNF8_
+mFhgyri40omCemrCH5KSb,Ground_Daily,AUC Bus,0,wj9LBMz4vfzunNVGSJX7U_Shape,wj9LBMz4vfzunNVGSJX7U
+2tYSJSKAX45ZXdXge4fde,Ground_Daily,Abd Al Moneim Riad,0,LydLx1TCca8jr-nEg2Ori_Shape,LydLx1TCca8jr-nEg2Ori
+CS3b3rHHRUxTf_IncW5DA,Ground_Daily,Haram & Marioteya,1,nllc6stUxtM6y6BL4K5M7_Shape,nllc6stUxtM6y6BL4K5M7
+fKnTlCkWALIgjxXU63NNV,Ground_Daily,Haram & Marioteya,1,fIWajvgRPdwKzPg8CzL4y_Shape,fIWajvgRPdwKzPg8CzL4y
+NCUBbHH_QGjf1q-0X1YC-,Ground_Daily,Moneeb,0,r-AQ_Ey5mFi3G3VYGNAI-_Shape,r-AQ_Ey5mFi3G3VYGNAI-
+a4gnGzOuEjFFXiOYfTYg9,Ground_Daily,Abd Al Moneim Riad,1,lsiqOn-caRFiMWWc6U38E_Shape,lsiqOn-caRFiMWWc6U38E
+qF9eq082_adr4tlPXHbat,Ground_Daily,Al Warraq,0,CblL4jR7hcRvXnQ2kBZPT_Shape,CblL4jR7hcRvXnQ2kBZPT
+JiIqBjX2_cEbIJ6DrqtzH,Ground_Daily,Amr Ibn El Aas,1,2LPBg8JF7GOnEJqGOrjjG_Shape,2LPBg8JF7GOnEJqGOrjjG
+2tYSJSKAX45ZXdXge4fde,Ground_Daily,1st Settlement (New Cairo),1,RE_ReXlH3ohJbyGnr1MnS_Shape,RE_ReXlH3ohJbyGnr1MnS
+bxHMMd-JyQtEEVzZqhYxF,Ground_Daily,Qawmeya Arabeya,0,wFWcU3kNp5irSDOtTH2cC_Shape,wFWcU3kNp5irSDOtTH2cC
+eVbAOGbA9hx7lvF6qbJse,Ground_Daily,Moassaset Al Zakah,0,3omwXBNIXFwmsOp6t0g0f_Shape,3omwXBNIXFwmsOp6t0g0f
+h7v0GKemY5eE-eh4q1KCJ,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,Nf8B6B77dg12dS27lEiV2_Shape,Nf8B6B77dg12dS27lEiV2
+-6XpwB9WWYaBpVKpKkJAA,Ground_Daily,Mazallat,0,EM-ECppQ3G2ccKgFkSWTD_Shape,EM-ECppQ3G2ccKgFkSWTD
+OZAAPeChjNCYfhRh0ytYa,Ground_Daily,Al Sayeda Aisha,1,BnID8iWBWoG-ZjnxK2Ffi_Shape,BnID8iWBWoG-ZjnxK2Ffi
+gD54eeIS5drTlju1bVuOq,Ground_Daily,Saqr Quraish,1,J4WU8i97y8oINQihRmGHg_Shape,J4WU8i97y8oINQihRmGHg
+gD54eeIS5drTlju1bVuOq,Ground_Daily,Masaken Sheraton,0,nGTvUNK4amdBNB1oemjuU_Shape,nGTvUNK4amdBNB1oemjuU
+9HZEMuRNsQzN9flynqhET,Ground_Daily,Al Malek Al Saleh,0,AzjuVB6PMRxrUnOC5Tmj8_Shape,AzjuVB6PMRxrUnOC5Tmj8
+YFvdbCU6C-OUVsvdiECzT,Ground_Daily,Asmarrat,0,llRiZXAXldDykBwsd7Qo-_Shape,llRiZXAXldDykBwsd7Qo-
+WcBUjkdX_6SJfXXGp00S-,Ground_Daily,Awwel Makram Ebeid,1,XX4NxlWyLg1-CE1pGItb5_Shape,XX4NxlWyLg1-CE1pGItb5
+RRrzHlEEvrgMUl0VtGTmU,Ground_Daily,1st Settlement (New Cairo),0,RVsC3nQfzEh0ZzJ0RSgqm_Shape,RVsC3nQfzEh0ZzJ0RSgqm
+W4XrYxIpaEVrO-aOQjYMS,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,ERuUN7nuXzKBmsivdACRh_Shape,ERuUN7nuXzKBmsivdACRh
+lnb3vDxVc9ZLbejDbwGIm,Ground_Daily,Khosous,0,opKtkd2aHX2hJuF9DlykN_Shape,opKtkd2aHX2hJuF9DlykN
+DC_H6AbB75qp51RmOSCrt,Ground_Daily,Abd Al Moneim Riad,1,URY2R02UBH2bQu4Ne9j_a_Shape,URY2R02UBH2bQu4Ne9j_a
+vffeFh9VQdtrf4m7w-fNP,Ground_Daily,Ibrahim Bek,1,w3-wy3D0M6Q4jeGSXzO92_Shape,w3-wy3D0M6Q4jeGSXzO92
+4xLmOtIrO8HsH5BVeVgIZ,Ground_Daily,Abd Al Moneim Riad,0,TQCZCoKKDsdyZ66caCDGa_Shape,TQCZCoKKDsdyZ66caCDGa
+4xLmOtIrO8HsH5BVeVgIZ,Ground_Daily,3rd Settlement  (New Cairo),1,a5D6XZCNvcBg7tpfTpb3s_Shape,a5D6XZCNvcBg7tpfTpb3s
+JHK6gWh4wxS5zteB3hxbW,Ground_Daily,Arab Al Tawaila,1,MOLkNlZtWL1sCLPO1wr6K_Shape,MOLkNlZtWL1sCLPO1wr6K
+Sox8uyw7SKydjtBoCTZlF,Ground_Daily,1st Settlement (New Cairo),0,qWwmhv2u2xzJ-ImVcNQwx_Shape,qWwmhv2u2xzJ-ImVcNQwx
+aCYYi5ZrCwjmU6CuJ-peQ,Ground_Daily,1st Settlement (New Cairo),0,vJDdUp5JayRhbSGb4srb5_Shape,vJDdUp5JayRhbSGb4srb5
+58ec_pyCB_Gbm8WqhvAx2,Ground_Daily,Dawaran Shubra,1,a4aHmJRQLKhD78Ennl22G_Shape,a4aHmJRQLKhD78Ennl22G
+dGZEosc821pSF0MGiNb76,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,uagnaEHnKUeUtdMMMUg5-_Shape,uagnaEHnKUeUtdMMMUg5-
+0mQ8cT0ZE81ogwfFKHdrc,Ground_Daily,Al Zawya Al Hamra,1,G6XOXoFBJ7xi2VUtpO9Ox_Shape,G6XOXoFBJ7xi2VUtpO9Ox
+tywNfVmg7Vw0gAzy8NLvu,Ground_Daily,Hossary,0,c1m66lclF5C8HpFbtJ4VN_Shape,c1m66lclF5C8HpFbtJ4VN
+jIXHYKt1q-bq46OpP9z9c,Ground_Daily,Abd Al Moneim Riad,1,DrQRMyEqf8ANl11qH5Ncc_Shape,DrQRMyEqf8ANl11qH5Ncc
+tVSIeyuK_trcKCgwVwM1B,Ground_Daily,Moneeb,1,Aj1rbd1-3YLYNUzgfS6p0_Shape,Aj1rbd1-3YLYNUzgfS6p0
+DC_H6AbB75qp51RmOSCrt,Ground_Daily,1st Settlement (New Cairo),0,HGs03aH05nrZ6AUOdL72G_Shape,HGs03aH05nrZ6AUOdL72G
+k_9mWTTJJol46IWykMhrV,Ground_Daily,Alf Maskan,0,Q3S0pwhELtTmataUU3kc3_Shape,Q3S0pwhELtTmataUU3kc3
+JiIqBjX2_cEbIJ6DrqtzH,Ground_Daily,1st Settlement (New Cairo),0,L7zgWTYV464TdBwPhBOii_Shape,L7zgWTYV464TdBwPhBOii
+RNWAMpjdKYvRHnfD_wR27,Ground_Daily,Moneeb,0,sJJTutUxwZ53Zyd6yZr3e_Shape,sJJTutUxwZ53Zyd6yZr3e
+cWtZ4nvWgHX7RWH24OAA1,Ground_Daily,1st Settlement (New Cairo),0,Xe7lCzhenPzeO_oGwGv_j_Shape,Xe7lCzhenPzeO_oGwGv_j
+nf1dT47KvJP9Y2TD0As54,Ground_Daily,Saqr Quraish,1,QEVZnuIYBDbKv2mQ2uGmc_Shape,QEVZnuIYBDbKv2mQ2uGmc
+yonpH4_SVRs1MuN6Ixc7i,Ground_Daily,Kafr Tohormos,0,d6UAZAxs98z-2niYdb7x3_Shape,d6UAZAxs98z-2niYdb7x3
+Hjh1uRXEyzV0t-_S0vjaF,Ground_Daily,Saqr Quraish,1,aJn6u7n2wbEPgYGi_9W0__Shape,aJn6u7n2wbEPgYGi_9W0_
+-nJDno82fXTeOuqXP8Q3H,Ground_Daily,Ahmed Helmy,1,5XnNiz8iMKA-hl_lUmg92_Shape,5XnNiz8iMKA-hl_lUmg92
+mFhgyri40omCemrCH5KSb,Ground_Daily,New Marg,1,ek2c7gokR1CLCHXA346Rj_Shape,ek2c7gokR1CLCHXA346Rj
+vPervgwLcUBlBEEYI5p7Q,Ground_Daily,Rabaah Al Adaweya Mosque,1,VFf30tRbv39tJEYmQw8-x_Shape,VFf30tRbv39tJEYmQw8-x
+x0MiBbZzr0WNjON4yraWL,Ground_Daily,New Marg,1,w3kC8JsK5HtkOHkrw21St_Shape,w3kC8JsK5HtkOHkrw21St
+RrZM9uyp0vcL4KFiRiurP,Ground_Daily,Khanka,1,u_dZFI0POW6ygsLhGxUp6_Shape,u_dZFI0POW6ygsLhGxUp6
+3WAtjq7S69P9s8WhLOr4f,Ground_Daily,Cairo Airport,0,rFly2bIxtK4yRtF-VqziX_Shape,rFly2bIxtK4yRtF-VqziX
+Sw7KMUZPTGb_ZDHt4D-yr,Ground_Daily,Masaken Al Shorouq,0,fNXjF2K1dN77-TxNLV8VX_Shape,fNXjF2K1dN77-TxNLV8VX
+BV3Lpd-u_IqoQTTAGrXsT,Ground_Daily,Attaba,0,jRDhTxsMAs31NbeO1aHo2_Shape,jRDhTxsMAs31NbeO1aHo2
+0jLSq_tyEzhc61dHzdRo5,Ground_Daily,Masaken Othman (Ezbet El Nakhl),1,hWSZ5DsJq6Wox6TPFzfV7_Shape,hWSZ5DsJq6Wox6TPFzfV7
+_MAgxE7pFZU2v4vAiDGuz,Ground_Daily,Cairo Airport,0,xzT9OAvHEeCRz7ANZBL54_Shape,xzT9OAvHEeCRz7ANZBL54
+l-EKz6sq8PlM9bMdDXqUY,Ground_Daily,Al-Salam (10th of Ramadan),0,GY3S9MzFko-sJmJBeNYFt_Shape,GY3S9MzFko-sJmJBeNYFt
+PWCFW_a8c-PDr7QO6PoJe,Ground_Daily,Badr City,0,PWCFW_a8c-PDr7QO6PoJe_O_Shape,PWCFW_a8c-PDr7QO6PoJe_O
+NZajXqCpAk_GgbEGzIBG1,Ground_Daily,Al-Salam (10th of Ramadan),0,NZajXqCpAk_GgbEGzIBG1_O_Shape,NZajXqCpAk_GgbEGzIBG1_O
+YFvdbCU6C-OUVsvdiECzT,Ground_Daily,Abd Al Moneim Riad,1,dGP_IcdyO9AUOP_bXq3ji_Shape,dGP_IcdyO9AUOP_bXq3ji
+aCYYi5ZrCwjmU6CuJ-peQ,Ground_Daily,Abou Wafya,1,e1ahxcmYistI7jUCXYl5J_Shape,e1ahxcmYistI7jUCXYl5J
+zRAXMgMRMVRhmAULPLo0R,Ground_Daily,Al Sayeda Aisha,1,tQ3iDcY0bqwmVYpKNz-60_Shape,tQ3iDcY0bqwmVYpKNz-60
+dzCVUSS3MpR4QRQ6vLCn5,Ground_Daily,Hadaba Wosta (Moqattam),1,svdt369UUMdqvfIYxnJlO_Shape,svdt369UUMdqvfIYxnJlO
+RrZM9uyp0vcL4KFiRiurP,Ground_Daily,Al-Salam (10th of Ramadan),0,5yPxq4c1oEhnCojw_2H21_Shape,5yPxq4c1oEhnCojw_2H21
+oq0Kd02t351SYBTGRu4mX,Ground_Daily,Masaken Al Shorouq,1,jJjuAoxnGvBiE3TKD10jq_Shape,jJjuAoxnGvBiE3TKD10jq
+VP-_HJndaq3LK1Y8sWnFm,Ground_Daily,Saqr Quraish,1,wOR2QvQundEK8qPPQY50t_Shape,wOR2QvQundEK8qPPQY50t
+e38x78tDVvSYikf-K2XLZ,Ground_Daily,New Marg,1,VSV_8wc2eg-I9SHkbTtLy_Shape,VSV_8wc2eg-I9SHkbTtLy
+Rid3J784c156sibqnTGhS,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,JC34KjGW4vzFzA_DFvHgl_Shape,JC34KjGW4vzFzA_DFvHgl
+wz-ZLxXwobCpZlLGOs-nJ,Ground_Daily,Bulaq Al Dakrur,1,Bdg0oI7dsEs1r4UwzdXPR_Shape,Bdg0oI7dsEs1r4UwzdXPR
+j7UPthklnvwZzR-_G5yRe,Ground_Daily,Kilo 4 & Half,1,QVqv80pkYwvIBuXDmKDjF_Shape,QVqv80pkYwvIBuXDmKDjF
+yonpH4_SVRs1MuN6Ixc7i,Ground_Daily,7th District (Nasr City),1,c8d_hG9iMWGKaITvnGiqr_Shape,c8d_hG9iMWGKaITvnGiqr
+p3-8qu3UivDvTp0cckEVG,Ground_Daily,Kafr Tohormos,0,KTNeRW7xWuvACku1TBi1-_Shape,KTNeRW7xWuvACku1TBi1-
+tOuRwi8SSInQQJ7Kbq7O1,Ground_Daily,Remaya (New Mashaal),0,SK_wgvXiQH2VHPIUE0H1__Shape,SK_wgvXiQH2VHPIUE0H1_
+wz-ZLxXwobCpZlLGOs-nJ,Ground_Daily,Hadaba Wosta (Moqattam),0,5DN5z1DAF7nF8ysc1fcCW_Shape,5DN5z1DAF7nF8ysc1fcCW
+qQ8CZf6wkbvSMMGKizEwd,Ground_Daily,Al-Salam (10th of Ramadan),0,38FXDgfsyDDl48Vzg959a_Shape,38FXDgfsyDDl48Vzg959a
+Sox8uyw7SKydjtBoCTZlF,Ground_Daily,Dawaran Shubra,1,6m3RIufh_VhnQrRYquye2_Shape,6m3RIufh_VhnQrRYquye2
+lXdhO5SFzPueut3URDvPn,Ground_Daily,Abbasseya,0,ouZGfbp2Z9fCZI3BGmeVi_Shape,ouZGfbp2Z9fCZI3BGmeVi
+DfiU0lrz_ql4vTYVNSlmz,Ground_Daily,Al Omraneyya Al Gadida,0,G52JhmtjT9d0dqveWSe17_Shape,G52JhmtjT9d0dqveWSe17
+3Dt_GqyHPoLGPo1ZegcTc,Ground_Daily,Zahraa Madinet Nasr,1,tXP_1b7LJAYvdQE4F2OFW_Shape,tXP_1b7LJAYvdQE4F2OFW
+utymBvr8ZF897oTW9pDue,Ground_Daily,Om Bayoumi (Mintay),0,tJUo9wgh1vQN_8ZBfRuxU_Shape,tJUo9wgh1vQN_8ZBfRuxU
+cSajDgx0bM1XDy4LLTYL4,Ground_Daily,Moneeb,1,Ouem3kI2tS-gmZN1_xldM_Shape,Ouem3kI2tS-gmZN1_xldM
+db_dOwMf5RFl45eluXu_7,Ground_Daily,Moassasa,1,bQnE9B2RwrA9Kl_VDKS6B_Shape,bQnE9B2RwrA9Kl_VDKS6B
+wGCNj9b51EYHmlNiQLQOJ,Ground_Daily,Mazallat,1,28pnT_4PS_mR8FzYKXWmR_Shape,28pnT_4PS_mR8FzYKXWmR
+aWV3f3TuFNL4Wo6tZP7KU,Ground_Daily,Saqr Quraish,1,nO92jw7XzkAWKEpXoiMEP_Shape,nO92jw7XzkAWKEpXoiMEP
+VGaQYovXuVb6WPYilc6D0,Ground_Daily,Bashtil,0,FQiiduNPxuPUovDMssCy3_Shape,FQiiduNPxuPUovDMssCy3
+lXdhO5SFzPueut3URDvPn,Ground_Daily,Hadaba Wosta (Moqattam),1,Bm-gITeH4nMcm28YeHW6p_Shape,Bm-gITeH4nMcm28YeHW6p
+L1rMkXC2KSeHo-lMhLN3w,Ground_Daily,Kattameya (Mahmoudeya),1,hs19oq5j_YpLzemQPLK97_Shape,hs19oq5j_YpLzemQPLK97
+0yN0f3emwwLcW287INPnm,Ground_Daily,Dawaran Shubra,0,jqUOPwQ04nQ8o-2CiF1bk_Shape,jqUOPwQ04nQ8o-2CiF1bk
+CS3b3rHHRUxTf_IncW5DA,Ground_Daily,Helwan,0,XwdpK4l1rg3JsMTm-8Jhz_Shape,XwdpK4l1rg3JsMTm-8Jhz
+mVQ0zufyJ93lZbi9DOTdP,Ground_Daily,Alf Maskan,1,QbXIEPPwJmii8VBXIvah8_Shape,QbXIEPPwJmii8VBXIvah8
+Y-YHy-wjklAYFa_6LghGz,Ground_Daily,Abu Al Houl St,0,w1JK6fJH-UVkmE5qFE0tM_Shape,w1JK6fJH-UVkmE5qFE0tM
+nf1dT47KvJP9Y2TD0As54,Ground_Daily,Awwel Makram Ebeid,0,2FE2bdXteCUn7b_5KXZJ4_Shape,2FE2bdXteCUn7b_5KXZJ4
+jIXHYKt1q-bq46OpP9z9c,Ground_Daily,1st Settlement (New Cairo),0,Oo2n1UutWDau_J_pbRhcm_Shape,Oo2n1UutWDau_J_pbRhcm
+L1rMkXC2KSeHo-lMhLN3w,Ground_Daily,Imbaba,0,VoIIbJbbz9WiACiS6e5Rx_Shape,VoIIbJbbz9WiACiS6e5Rx
+fS9OIlGI6L05UA_VqIaSd,Ground_Daily,Ahmed Helmy,1,NPrAWNNTrd4iPWIxq7ZkU_Shape,NPrAWNNTrd4iPWIxq7ZkU
+cWtZ4nvWgHX7RWH24OAA1,Ground_Daily,Dawaran Shubra,1,qllgFm9Qi_8mfukN9NPDI_Shape,qllgFm9Qi_8mfukN9NPDI
+58ec_pyCB_Gbm8WqhvAx2,Ground_Daily,1st Settlement (New Cairo),0,BC-O_uPozEjkWPDoe1s7r_Shape,BC-O_uPozEjkWPDoe1s7r
+AYG5Jeb5RQthuAg3x6gL_,Ground_Daily,1st Settlement (New Cairo),0,dt7nQ_PR4fJuO2dnwIjv__Shape,dt7nQ_PR4fJuO2dnwIjv_
+LpHLg1FZnH9OcBTFfVwEs,Ground_Daily,Isbiko,1,DBv2n5htZ_4Z123BEos8s_Shape,DBv2n5htZ_4Z123BEos8s
+nQKW52Ox3zlyelPVrnuvw,Ground_Daily,Al Zawya Al Hamra,0,1prom-u8OBc3WEzCI8AMa_Shape,1prom-u8OBc3WEzCI8AMa
+uSqPGMEHwN2LcA-Dx8IDf,Ground_Daily,Bashtil,0,7330Sv9EE8aUoGz6vWd68_Shape,7330Sv9EE8aUoGz6vWd68
+y2pNkYKdwmq-DYYWpGD5I,Ground_Daily,Dawaran Shubra,1,dBK-UX2u5779shJ6_VX2k_Shape,dBK-UX2u5779shJ6_VX2k
+Llp_ydR2tscD940jXryQU,Ground_Daily,Moneeb Konayyesa,1,aXyVHICYwIgTULE7Qmk1L_Shape,aXyVHICYwIgTULE7Qmk1L
+CT0zYWqMQPGAbKnQfzLyJ,Ground_Daily,Abd Al Moneim Riad,1,y43fKdy7gRwH5SnkNQb40_Shape,y43fKdy7gRwH5SnkNQb40
+ghUS4XUgfmpDNLCwwFfTq,Ground_Daily,Attaba,0,l-NGxC0Mflsw9NCGYiHz4_Shape,l-NGxC0Mflsw9NCGYiHz4
+sIt6Ay8Ghb65PsqmDHyii,Ground_Daily,Madinat Al Talaba (Imbaba),0,J3kXMMBcVr8GZNZikyAJN_Shape,J3kXMMBcVr8GZNZikyAJN
+IRzkagIluHAKgsFxr9c_Z,Ground_Daily,Warraq Al Arab (Cima),0,5amEUAf4ze-KNUOhGFnOu_Shape,5amEUAf4ze-KNUOhGFnOu
+wTMLwyykgGKLFW3yYaNnx,Ground_Daily,Saqr Quraish,1,MHIAQinHwCVfiacaxqZ5K_Shape,MHIAQinHwCVfiacaxqZ5K
+Z2RSwdOqb-nYzFdq9dXUL,Ground_Daily,Moassasa,1,6c8ffUpkd6rRFm0lAlXmq_Shape,6c8ffUpkd6rRFm0lAlXmq
+_u0ElwgPPD4gErsOC9Dtq,Ground_Daily,Matbaa,0,J4CmDIvSgpMPx0vJjX0nI_Shape,J4CmDIvSgpMPx0vJjX0nI
+KZbzaf9cmgAB7KuFCo1MM,Ground_Daily,Ahmed Helmy,0,Jh7tooXsPHItxzD9Pax3x_Shape,Jh7tooXsPHItxzD9Pax3x
+Llp_ydR2tscD940jXryQU,Ground_Daily,10th District (Nasr City),0,BmeHxNoi0Z6gtjKsbyNDi_Shape,BmeHxNoi0Z6gtjKsbyNDi
+rumnfrVLyA8ZA3JpTI5Ef,Ground_Daily,Om Bayoumi (Mintay),1,HHmYYWpQXjzMEEUKI19UK_Shape,HHmYYWpQXjzMEEUKI19UK
+uVXNDIyKAilRBZ3n92UQo,Ground_Daily,Haram Mashaal,0,wKCjmWRhXfU5yq0WrUONI_Shape,wKCjmWRhXfU5yq0WrUONI
+NsRadhTyf0r3kiWFf6VpA,Ground_Daily,Al Sayeda Aisha,0,6W7Zww4IJB-R_VmOfLXpu_Shape,6W7Zww4IJB-R_VmOfLXpu
+L461chwDYnuXmkCJbl1Zk,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),0,caEMDaSlrXAqIjvYKy1nY_Shape,caEMDaSlrXAqIjvYKy1nY
+RpY93UNxhi5boOQu37j_C,Ground_Daily,Cairo Airport,0,QQ1oW1Hu1PGu8wDHMHaUL_Shape,QQ1oW1Hu1PGu8wDHMHaUL
+3Dt_GqyHPoLGPo1ZegcTc,Ground_Daily,Lebanon Square,0,0B1DaW_i9wMshGIpzWxit_Shape,0B1DaW_i9wMshGIpzWxit
+r_aM8g8hbeCg_QnsOQXZh,Ground_Daily,Al Magzar (Mariouteya),0,Od_bQMuApDiGb3x3AWiyi_Shape,Od_bQMuApDiGb3x3AWiyi
+_u0ElwgPPD4gErsOC9Dtq,Ground_Daily,Ahmed Helmy,1,bGY49myuqtPgCFzIUbs-f_Shape,bGY49myuqtPgCFzIUbs-f
+e8XSHfUauPfbEm5GI8uZB,Ground_Daily,Madinat Al Talaba (Imbaba),0,7-2Hus9cSXr_MvlsOJ1uA_Shape,7-2Hus9cSXr_MvlsOJ1uA
+u02rskAm9s9jHxaOs9NhQ,Ground_Daily,Ahmed Helmy,0,Ia-SRa63JctSsUmEsAVSj_Shape,Ia-SRa63JctSsUmEsAVSj
+sIt6Ay8Ghb65PsqmDHyii,Ground_Daily,8th District (Nasr City) - Al tabba,1,DAprpxbTBk8LTOBECI66W_Shape,DAprpxbTBk8LTOBECI66W
+_MAgxE7pFZU2v4vAiDGuz,Ground_Daily,Abd Al Moneim Riad,1,9liiiYp0bZ1vqrAp0Iemr_Shape,9liiiYp0bZ1vqrAp0Iemr
+7rXRm-ODpC-4pUd0AdZcX,Ground_Daily,Rehab - Gate 6,0,sZIK8H3UBAXDqk8H0Cj2V_Shape,sZIK8H3UBAXDqk8H0Cj2V
+NrXQrpcK2JA_IC7xpHfNm,Ground_Daily,Haram & Marioteya,1,AN--oCv1A9-cEROJmBV2__Shape,AN--oCv1A9-cEROJmBV2_
+NvJsbLXSZ_OQTMe4A0Re6,Ground_Daily,7th District (Nasr City),1,fUOkEcx34fhZ7fzAELZ8T_Shape,fUOkEcx34fhZ7fzAELZ8T
+JEYUgjN4DNooJRg88uMnU,Ground_Daily,Arab Al Tawaila,1,NQyI__L2TYlwrXqo77JFl_Shape,NQyI__L2TYlwrXqo77JFl
+e38x78tDVvSYikf-K2XLZ,Ground_Daily,Attaba,0,XyZH_k7oZvO0FW8qGK3BX_Shape,XyZH_k7oZvO0FW8qGK3BX
+NsWlr8t2byZcKwm7hf7UI,Ground_Daily,Attaba,1,eQw5UvJMkC4-QX3UeZKDD_Shape,eQw5UvJMkC4-QX3UeZKDD
+LpHLg1FZnH9OcBTFfVwEs,Ground_Daily,Abd Al Moneim Riad,0,Ba3VPw5sUNskeh453kfh8_Shape,Ba3VPw5sUNskeh453kfh8
+xniqp9cSgkWVk0k63CbZl,Ground_Daily,Masaken Sheraton,1,J-ANHH61ZvezKbLDilCqH_Shape,J-ANHH61ZvezKbLDilCqH
+9utw1A6O1TUOZSdVJXnIN,Ground_Daily,Dawaran Shubra,0,Gr7VaNh69SiPX2Ldjha50_Shape,Gr7VaNh69SiPX2Ldjha50
+N6IzAQa5E4U9mP-CLry9g,Ground_Daily,Mazallat,1,YtenriD4isMdShj-EkfzO_Shape,YtenriD4isMdShj-EkfzO
+I0McnHOUOXtn5nXDvkIuT,Ground_Daily,8th District (Nasr City) - Al tabba,1,6GFHECCVw6gN59S71EAm3_Shape,6GFHECCVw6gN59S71EAm3
+yCzCB9uoQWDH4YDGoPa9W,Ground_Daily,3rd Settlement  (New Cairo),0,z2KFEFUGddGOUWapFeib2_Shape,z2KFEFUGddGOUWapFeib2
+nPQFHmEKjUVtIvFp4H1KK,Ground_Daily,Magda Square,1,XdtRQxInrrw5jH6el3WRR_Shape,XdtRQxInrrw5jH6el3WRR
+4cp78uINFpGWUO3lvHpAX,Ground_Daily,Ghamra,1,c8skzDxRQOYsuhzIHxaBh_Shape,c8skzDxRQOYsuhzIHxaBh
+bvWwmlVRmaOh17E4NPADx,Ground_Daily,Masaken Zeinhom,1,1a_PppQFM_WxUB1rEXPcN_Shape,1a_PppQFM_WxUB1rEXPcN
+CBxRb0VoXyLWRjw97cRXJ,Ground_Daily,Giza Square,0,HHiQbe_uI9evPrIeovzWb_Shape,HHiQbe_uI9evPrIeovzWb
+VG85-qS5arY-IxZ4UXiop,Ground_Daily,Saqqara Traffic Office,0,LUxsm7L_u4wOEZE29SsH5_Shape,LUxsm7L_u4wOEZE29SsH5
+7ZNJgilomPVVQdSvyInsq,Ground_Daily,Moassasa,0,fgmB0Jb5ua1RuhXXQ42P7_Shape,fgmB0Jb5ua1RuhXXQ42P7
+oVLz5uMkzuzBcOtlii3MM,Ground_Daily,Matareya Square,1,CJfSrJecEHuxJ-j3w7FGk_Shape,CJfSrJecEHuxJ-j3w7FGk
+x0MiBbZzr0WNjON4yraWL,Ground_Daily,Ahmed Helmy,0,DhDfpAfmxqyXCGWI10HX8_Shape,DhDfpAfmxqyXCGWI10HX8
+mACiG8_tUrwcPtvZXP8Od,Ground_Daily,Mazallat,0,oELNmpgtOUikS4UQefiVl_Shape,oELNmpgtOUikS4UQefiVl
+Rq-eMK7w1Ht-mDd-Q_JC8,Ground_Daily,Abd Al Moneim Riad,0,PpXf7z2Vp8goFxhYDosJx_Shape,PpXf7z2Vp8goFxhYDosJx
+EvrZ1dQ_nxwknC6nlhifj,Ground_Daily,Ahmed Helmy,1,bScfTI9xVV9lS1cvkOOYS_Shape,bScfTI9xVV9lS1cvkOOYS
+igaGwMdEQ1Rm4tT_CEE2b,Ground_Daily,Attaba,0,8I0wOD3PC6LrPZHFBlPO5_Shape,8I0wOD3PC6LrPZHFBlPO5
+kmJvmozOqYl95wRijRLnL,Ground_Daily,Masaken Sheraton,1,3ZA9yhKgNaHbbYLy2R_Ch_Shape,3ZA9yhKgNaHbbYLy2R_Ch
+BV6LVVgDgSW-cSt6IkTzS,Ground_Daily,Athar Al Naby,1,tXULKwYEaQWK_iJNXyfL3_Shape,tXULKwYEaQWK_iJNXyfL3
+igaGwMdEQ1Rm4tT_CEE2b,Ground_Daily,Masaken Sheraton,1,YW7kHHRpjoLOGxVAJxLjS_Shape,YW7kHHRpjoLOGxVAJxLjS
+KRWhc98g65P9U2MM4fs0A,Ground_Daily,Masaken Sheraton,0,-XaPZ2UTDjX-eYOqI-vza_Shape,-XaPZ2UTDjX-eYOqI-vza
+L6PArmxc9NFPD2d0aCCTb,Ground_Daily,Masaken Sheraton,1,vwdGb319PO3_8gflsBJV1_Shape,vwdGb319PO3_8gflsBJV1
+DtLLG0DY2SgylTir-e5kd,Ground_Daily,Amr Ibn El Aas,1,1jADGznxxrt4K2snqmy05_Shape,1jADGznxxrt4K2snqmy05
+gcVLDRuFTONiBOvli2aQ8,Ground_Daily,Abou Al Reesh,1,44HUJqvTyivVY_pA0XF9A_Shape,44HUJqvTyivVY_pA0XF9A
+L6PArmxc9NFPD2d0aCCTb,Ground_Daily,Bigam,0,ZcHjMwJDXmK_bCRlUqW99_Shape,ZcHjMwJDXmK_bCRlUqW99
+yyGnaQQgQqV2mgxb-3iuX,Ground_Daily,Saqqara,1,z9gMU2rbSGj8okrDsKHUw_Shape,z9gMU2rbSGj8okrDsKHUw
+yyGnaQQgQqV2mgxb-3iuX,Ground_Daily,Badrasheen,0,j4iB31CyOamYx0HeHQb67_Shape,j4iB31CyOamYx0HeHQb67
+BV6LVVgDgSW-cSt6IkTzS,Ground_Daily,Asmarrat,0,F0WxbJgwrmfSJZBkeLaRm_Shape,F0WxbJgwrmfSJZBkeLaRm
+WOzJvSlqkyu7lDJGuDjA2,Ground_Daily,Al Omraneyya Al Gadida,0,lV983xHAzryrLUVm-15EJ_Shape,lV983xHAzryrLUVm-15EJ
+Vdn0kVuba4a9LxwlhEGiJ,Ground_Daily,Attaba,0,ZIq5fdBbA2XjWhdtDkKLG_Shape,ZIq5fdBbA2XjWhdtDkKLG
+epRYw8BYwgHH-RcYG5VZR,Ground_Daily,Qism El Hadayek,0,mNRMKX69fLb4F8RGPUnzG_Shape,mNRMKX69fLb4F8RGPUnzG
+AsBiwEEcVj3jrx8lh9jms,Ground_Daily,Om Bayoumi (Mintay),0,Y9HINyTl_BL58J8fRgiQO_Shape,Y9HINyTl_BL58J8fRgiQO
+epRYw8BYwgHH-RcYG5VZR,Ground_Daily,Al Omraneyya Al Gadida,1,oRN0dFG2NCZZWYsULox8b_Shape,oRN0dFG2NCZZWYsULox8b
+F-huxTOsiGcnkweRGwZg8,Ground_Daily,Attaba,0,NkBnSW7rYbsy19gpQwtS8_Shape,NkBnSW7rYbsy19gpQwtS8
+jChkkQK1HtN-5QMYcjlUu,Ground_Daily,Awwel Makram Ebeid,0,BYj9wsCxxFHAHlmFtnpCC_Shape,BYj9wsCxxFHAHlmFtnpCC
+LTPSVqGzJYucn9U0WTWQz,Ground_Daily,Zahraa Madinet Nasr,1,_jY9ahrq-ha2SWrnoH5qD_Shape,_jY9ahrq-ha2SWrnoH5qD
+GxpEPsh9nVdgjod-tsOkv,Ground_Daily,Helwan Metro,1,0_YigmbN6W4IoQ5ioOmYR_Shape,0_YigmbN6W4IoQ5ioOmYR
+dzCVUSS3MpR4QRQ6vLCn5,Ground_Daily,Mazallat,0,9majbh4pA5EyI6LSjq7Ex_Shape,9majbh4pA5EyI6LSjq7Ex
+nfGw_AtUWg704oRknN6oJ,Ground_Daily,1st Settlement (New Cairo),1,e6awGIIw2y5SAdHpqsRFL_Shape,e6awGIIw2y5SAdHpqsRFL
+N6IzAQa5E4U9mP-CLry9g,Ground_Daily,Cairo Airport,0,V-llUqCL9mQSFOsZ6CjrB_Shape,V-llUqCL9mQSFOsZ6CjrB
+v3r7iBOk8eP_u6GCz6kpD,Ground_Daily,Manshiyat Nasser,1,wnEdKCOutD6wzUh69fI3J_Shape,wnEdKCOutD6wzUh69fI3J
+luITCTGk3nUs1odvaqf3p,Ground_Daily,Mazallat,0,-UQXjwQF811B-lvfw9buo_Shape,-UQXjwQF811B-lvfw9buo
+WOzJvSlqkyu7lDJGuDjA2,Ground_Daily,Amiriya,1,PT5CjI7rFYrPtlvk80P3q_Shape,PT5CjI7rFYrPtlvk80P3q
+UqNUrY5nD-HVKa4Wl0Fi3,Ground_Daily,Isaaf,0,c2v7n8la6FJhi86yS6yAg_Shape,c2v7n8la6FJhi86yS6yAg
+Rq-eMK7w1Ht-mDd-Q_JC8,Ground_Daily,Isbiko,1,l8YRJ8jaFGuPbKHlwtNU7_Shape,l8YRJ8jaFGuPbKHlwtNU7
+OjdWYHiltgq6kjdcreFCA,Ground_Daily,Isko,0,8QG6Sv0aboPwEHaQeQUqb_Shape,8QG6Sv0aboPwEHaQeQUqb
+tg7Ig_oSMPD5Nr6tlRuK4,Ground_Daily,Kattameya (Mahmoudeya),0,jHN4S7UC1PmoEq-2ahfN2_Shape,jHN4S7UC1PmoEq-2ahfN2
+zoG2ixCLqw8Ytm3UpbKCp,Ground_Daily,Mamaleek -Manial (Meqyas),0,IJLkKfXP85J2xWkxFx4Gc_Shape,IJLkKfXP85J2xWkxFx4Gc
+OjdWYHiltgq6kjdcreFCA,Ground_Daily,Masaken Sheraton,1,jeVQ0xSwgg7a17HZsVR3K_Shape,jeVQ0xSwgg7a17HZsVR3K
+Rid3J784c156sibqnTGhS,Ground_Daily,Attaba,1,_9gMaobsdLhoWF0uTwgK9_Shape,_9gMaobsdLhoWF0uTwgK9
+Ad2qtlLVDY6f99l6Ca-O6,Ground_Daily,Isbiko,0,oCjPi9B5ZvVSRzKI5MOD__Shape,oCjPi9B5ZvVSRzKI5MOD_
+S7vV1gLrYMRDA3sRxXeNY,Ground_Daily,Moneeb,1,zf2nNhz4x0fj7vjM8MNd9_Shape,zf2nNhz4x0fj7vjM8MNd9
+Ad2qtlLVDY6f99l6Ca-O6,Ground_Daily,Attaba,1,WOREYqLbGCO0c3xeWHZI9_Shape,WOREYqLbGCO0c3xeWHZI9
+DfiU0lrz_ql4vTYVNSlmz,Ground_Daily,Attaba,1,-NOS8NtkEQr3MguOx2Xk1_Shape,-NOS8NtkEQr3MguOx2Xk1
+tg7Ig_oSMPD5Nr6tlRuK4,Ground_Daily,Dawaran Shubra,1,KJPhq-gzUq6_LofPGuaaP_Shape,KJPhq-gzUq6_LofPGuaaP
+2Wxf2h2nrj2e5sjOpMram,Ground_Daily,Masaken Sheraton,0,uOmpDsDqNvPF-NeqgxiIq_Shape,uOmpDsDqNvPF-NeqgxiIq
+PnnpvX60X8WaRSAtq6_q1,Ground_Daily,Cairo Airport,0,Z9j_ig-cCuFQZ_rNYmA7h_Shape,Z9j_ig-cCuFQZ_rNYmA7h
+PnnpvX60X8WaRSAtq6_q1,Ground_Daily,Bulaq Al Dakrur,1,TInSQmO4h7hg_rupwW67x_Shape,TInSQmO4h7hg_rupwW67x
+iSJquE4a-hnmErov1zOQm,Ground_Daily,Qism El Hadayek,0,3QaRurjjRUQOV0SPOzIiu_Shape,3QaRurjjRUQOV0SPOzIiu
+MM_NA15,Ground_Weekdays,10th of Ramadan City,0,MM_NA15_O_Shape,MM_NA15_O
+2Wxf2h2nrj2e5sjOpMram,Ground_Daily,Bulaq Al Dakrur,1,CiEZhVNG7bgeLNi27Vk2m_Shape,CiEZhVNG7bgeLNi27Vk2m
+9vBFhlX-T17hM_HD2xuxr,Ground_Daily,Moassasa,0,pY_W1zU54lMtSzbN-R39I_Shape,pY_W1zU54lMtSzbN-R39I
+EN8O17ndwKGdqbV4Vemgm,Ground_Daily,Amiriya,0,ZYYlTiPYpNZRbgLSmbRU-_Shape,ZYYlTiPYpNZRbgLSmbRU-
+zoG2ixCLqw8Ytm3UpbKCp,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,6N1dyCnjE0oqNdrr8M3vI_Shape,6N1dyCnjE0oqNdrr8M3vI
+y-_-0L2mPQ5hq9U3U_Nk3,Ground_Daily,Hegaz Square,0,pJ29xhgSF_AfGAEuXKesn_Shape,pJ29xhgSF_AfGAEuXKesn
+E5kbHujl_1NdyyZVDIILb,Ground_Daily,Bulaq Al Dakrur,1,1JAWqfuPYO9izvbREVsLR_Shape,1JAWqfuPYO9izvbREVsLR
+MM_M7,Ground_Weekdays,Abd Al Moneim Riad,1,MM_M7_R_Shape,MM_M7_R
+x_4y4YL3AYRZ74nIC-NQV,Ground_Daily,Abboud,0,3OI3dziHyM5hX409c96le_Shape,3OI3dziHyM5hX409c96le
+2teNSAc0dVegVu5GOxcn-,Ground_Daily,1st Settlement (New Cairo),1,UkGwXH9zTpUeUmJr5owZB_Shape,UkGwXH9zTpUeUmJr5owZB
+y-_-0L2mPQ5hq9U3U_Nk3,Ground_Daily,Tagneed (Al Remaya),1,CYQKUgb7TgSlNxqrgjhz3_Shape,CYQKUgb7TgSlNxqrgjhz3
+GRN_G2,Ground_Weekdays,Koleyet Al Banat - Ain Shams University,0,GRN_G2_O_Shape,GRN_G2_O
+GRN_G1,Ground_Weekdays,7th District (Nasr City),0,GRN_G1_O_Shape,GRN_G1_O
+MM_M7,Ground_Weekdays,Hadayek AL Ahram (Second Gate),0,MM_M7_O_Shape,MM_M7_O
+zZOoW5YGvB9BYblSit-KB,Ground_Daily,Amiriya,1,OTYWuiCFsh6jQA6G2W0ut_Shape,OTYWuiCFsh6jQA6G2W0ut
+JFURIfkSZvjnSzWLlUZ65,Ground_Daily,Giza Square,0,ZV7iwXJ4A2DZA_XGIhDlP_Shape,ZV7iwXJ4A2DZA_XGIhDlP
+E5kbHujl_1NdyyZVDIILb,Ground_Daily,Al Toub Al Ramly,0,vEHBIDP4sqPTJT68YN6Mf_Shape,vEHBIDP4sqPTJT68YN6Mf
+PcRD7pWWkA7PIAqxPtQKe,Ground_Daily,Abbasseya,1,0RdMGJUnmo4j87OKEJbKv_Shape,0RdMGJUnmo4j87OKEJbKv
+J_PqoU-hjIL1h8F626aNF,Ground_Daily,Kafr Tohormos,0,kLv16sL-8RlDpMvWTyDCm_Shape,kLv16sL-8RlDpMvWTyDCm
+x_4y4YL3AYRZ74nIC-NQV,Ground_Daily,Helwan,1,6Fvd0f5TMeMCZtmVxENP5_Shape,6Fvd0f5TMeMCZtmVxENP5
+H0VZrZgURbduJqQJM_OjZ,Ground_Daily,Ahmed Helmy,1,3QC2up47RNLPCI1uQ-7_y_Shape,3QC2up47RNLPCI1uQ-7_y
+-nJDno82fXTeOuqXP8Q3H,Ground_Daily,Asmarrat,0,FHbiEDyaXcBlkC2TuwRdA_Shape,FHbiEDyaXcBlkC2TuwRdA
+H0VZrZgURbduJqQJM_OjZ,Ground_Daily,Badr (Sheikh Zayed),0,2JJL6fknWMvn_4KD7wU7N_Shape,2JJL6fknWMvn_4KD7wU7N
+fS9OIlGI6L05UA_VqIaSd,Ground_Daily,Cairo Airport,0,tW_JhKj9h4kUYQ9HR_3Xy_Shape,tW_JhKj9h4kUYQ9HR_3Xy
+PcRD7pWWkA7PIAqxPtQKe,Ground_Daily,Mazallat,0,IEZEdez6WYD7HQ4NPVG9o_Shape,IEZEdez6WYD7HQ4NPVG9o
+uSqPGMEHwN2LcA-Dx8IDf,Ground_Daily,Al-Salam (10th of Ramadan),1,WqGztPVJ3dzZ7U43w-jsg_Shape,WqGztPVJ3dzZ7U43w-jsg
+J5A7VH01y0jYe8-oy58XV,Ground_Daily,Madinat Al Solb  (Al Tibeen),0,mAFV_cnn2vCl-FSRE-Svy_Shape,mAFV_cnn2vCl-FSRE-Svy
+GxpEPsh9nVdgjod-tsOkv,Ground_Daily,Attaba,0,5lAgNo83JBisjYdeAaxD9_Shape,5lAgNo83JBisjYdeAaxD9
+8Evj6WpZuMv4pgAH6uHVo,Ground_Daily,Imbaba,1,0UylJA7JV_Z7UWAX9gj8E_Shape,0UylJA7JV_Z7UWAX9gj8E
+MM_M20,Ground_Weekdays,Cairo University,1,MM_M20_R_Shape,MM_M20_R
+MM_M20,Ground_Weekdays,Zayed (MM),0,MM_M20_O_Shape,MM_M20_O
+MM_M11,Ground_Weekdays,City Stars,0,MM_M11_O_Shape,MM_M11_O
+MM_M10,Ground_Weekdays,Abd Al Moneim Riad,1,MM_M10_R_Shape,MM_M10_R
+MM_M10,Ground_Weekdays,October (MM),0,MM_M10_O_Shape,MM_M10_O
+MM_618,Ground_Weekdays,Obour,0,MM_618_O_Shape,MM_618_O
+MM_381,Ground_Weekdays,Cairo Airport,1,MM_381_R_Shape,MM_381_R
+MM_381,Ground_Weekdays,Bulaq Al Dakrur,0,MM_381_O_Shape,MM_381_O
+MM_111,Ground_Weekdays,Cairo Airport,0,MM_111_O_Shape,MM_111_O
+MM_NS9,Ground_Weekdays,Al Shorouq Water,0,MM_NS9_O_Shape,MM_NS9_O
+MM_NS9,Ground_Weekdays,1st Settlement (New Cairo),1,MM_NS9_R_Shape,MM_NS9_R
+MM_NA18,Ground_Weekdays,10th of Ramadan City,0,MM_NA18_O_Shape,MM_NA18_O
+MM_M9,Ground_Weekdays,Lotus  (5th Settlement),1,MM_M9_R_Shape,MM_M9_R
+MM_M9,Ground_Weekdays,El Itihad Square (Maadi),0,MM_M9_O_Shape,MM_M9_O
+MM_M8,Ground_Weekdays,Giza Square,0,MM_M8_O_Shape,MM_M8_O
+MM_M6,Ground_Weekdays,Lotus  (5th Settlement),1,MM_M6_R_Shape,MM_M6_R
+MM_M6,Ground_Weekdays,Saray Al Qobba,0,MM_M6_O_Shape,MM_M6_O
+MM_M5,Ground_Weekdays,Abd Al Moneim Riad,1,MM_M5_R_Shape,MM_M5_R
+MM_M5,Ground_Weekdays,Lotus  (5th Settlement),0,MM_M5_O_Shape,MM_M5_O
+J5A7VH01y0jYe8-oy58XV,Ground_Daily,Ramses,1,VZzinQNaheUwu237-IBpl_Shape,VZzinQNaheUwu237-IBpl
+2teNSAc0dVegVu5GOxcn-,Ground_Daily,1st Settlement (New Cairo),0,VmyRsey9yIJ1hsvFGkidI_Shape,VmyRsey9yIJ1hsvFGkidI
+NsRadhTyf0r3kiWFf6VpA,Ground_Daily,Khosous,1,-0XeoEQggxpwaPjZ-nJm2_Shape,-0XeoEQggxpwaPjZ-nJm2
+Bp6VC-w4hVf07QNNC-TUQ,Ground_Daily,Ibrahim Bek,0,D1WOB23QBx0xcHv6uRkNj_Shape,D1WOB23QBx0xcHv6uRkNj
+wYawpUlAxZrHlVxizOLid,Ground_Daily,Qalaa,1,HIET5EgfCtT6iqke6Xu___Shape,HIET5EgfCtT6iqke6Xu__
+lvMyRSGX-pAwdUcOqYZqG,Ground_Daily,8th District (Nasr City) - Al tabba,1,JOJp9AiZfsP2uH9OLnaz__Shape,JOJp9AiZfsP2uH9OLnaz_
+mNmLsNHPMlBfFhZRjrgK2,Ground_Daily,Imbaba,0,RCVKHObIvN-uKPbI1OfI-_Shape,RCVKHObIvN-uKPbI1OfI-
+7rXRm-ODpC-4pUd0AdZcX,Ground_Daily,Znen (Awwel Al Eshreen),1,J9oWOKuOwjcbk17DpRb9B_Shape,J9oWOKuOwjcbk17DpRb9B
+LTPSVqGzJYucn9U0WTWQz,Ground_Daily,Mazallat,0,w2dv8iEyBBY_iMV0hmyHY_Shape,w2dv8iEyBBY_iMV0hmyHY
+ObwRVHlKZ6bJ0sY57ADgV,Ground_Daily,10th District (Nasr City),0,_peqBMBwH_m6idXiwZvLN_Shape,_peqBMBwH_m6idXiwZvLN
+63Gw347SsNx2agQWusD3h,Ground_Daily,Abou Al Reesh,0,X1W1CCm1QPk6-FFMD_dPF_Shape,X1W1CCm1QPk6-FFMD_dPF
+63Gw347SsNx2agQWusD3h,Ground_Daily,1st Settlement (New Cairo),1,GCxUlkelfmotgfq1XhPRp_Shape,GCxUlkelfmotgfq1XhPRp
+5CqnnGEDncnHS7HZkkGTj,Ground_Daily,Kilo 4 & Half,0,dGYK60hLqeN5KQ6fMp-Ez_Shape,dGYK60hLqeN5KQ6fMp-Ez
+jH8jIzX99Uq4NH-UZS5XF,Ground_Daily,10th District (Nasr City),0,KM3cZ0E24eTs6egvHQOej_Shape,KM3cZ0E24eTs6egvHQOej
+4P_RC_FgHuWtFC8yoCbgz,Ground_Daily,Moassasa,1,eMC5jGCqHPHRdJDUVzA8V_Shape,eMC5jGCqHPHRdJDUVzA8V
+SI9aO3R9Vl4yBxUdPoO7K,Ground_Daily,Al Omraneyya Al Gadida,0,SxWnslFxbdSz470DgIlEP_Shape,SxWnslFxbdSz470DgIlEP
+-jATAbzzhiwEzrFjPHt6K,Ground_Daily,Shabab (Obour),0,F2KXA3Lb3EOudrfkR86y0_Shape,F2KXA3Lb3EOudrfkR86y0
+GHSOgF6amUGK8ac9n6HDF,Ground_Daily,Cairo Airport,0,sD3J5mX1r4dpaZGnnM6Qo_Shape,sD3J5mX1r4dpaZGnnM6Qo
+KJH0c5fBJqypfRMmg6cgr,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,8RZXwbhLCV-pWpGvkw_C3_Shape,8RZXwbhLCV-pWpGvkw_C3
+koG8Hv7ojxwoLFo8eXvTW,Ground_Daily,Moassasa,0,5BISHCym9pcfOz6JPEg9S_Shape,5BISHCym9pcfOz6JPEg9S
+jZkmaAxA5oIPfa38GBCb4,Ground_Daily,Remaya (New Mashaal),1,jZkmaAxA5oIPfa38GBCb4_R_Shape,jZkmaAxA5oIPfa38GBCb4_R
+Gqw2d9u5JudgWrjkgqYyp,Ground_Daily,Badr City,0,B0ZkhrSuaaPBXXIs8bDZD_Shape,B0ZkhrSuaaPBXXIs8bDZD
+mNGL6lCQQ9K06QNEu7j30,Ground_Daily,Badr City,1,7iYpqwhdq0PGUjw7jpi2g_Shape,7iYpqwhdq0PGUjw7jpi2g
+Gqw2d9u5JudgWrjkgqYyp,Ground_Daily,Ahmed Helmy,1,Zs_kyS6kAazmZO4Xea-LQ_Shape,Zs_kyS6kAazmZO4Xea-LQ
+vIZc_NqGmEsfVnt_8xfJk,Ground_Daily,Al Nozha Al Gadida (Gesr El Suez Garage),1,wFJLFv1DNVkv6qcwNspYa_Shape,wFJLFv1DNVkv6qcwNspYa
+9QEgiYRqSJG3yn7EsBdHn,Ground_Daily,Abd Al Moneim Riad,0,GutCXPzlQhGKhaAJnHDTs_Shape,GutCXPzlQhGKhaAJnHDTs
+yViPvJ7FZshnCp-M3BzAp,Ground_Daily,Abd Al Moneim Riad,0,NwA4uhoGFb4DqDDMhw12k_Shape,NwA4uhoGFb4DqDDMhw12k
+UhZhDEe_pYSBJb1XmUdHn,Ground_Daily,Ring Rd Exit to Khosous,0,H8CrHZ5kTDc97fpHQGpaG_Shape,H8CrHZ5kTDc97fpHQGpaG
+su06bTr5aMUAnkdk3YTAJ,Ground_Daily,Ring Rd Exit to Khosous,1,fBLJdaHxf5gpiYgjt9-TZ_Shape,fBLJdaHxf5gpiYgjt9-TZ
+vIZc_NqGmEsfVnt_8xfJk,Ground_Daily,AUC Bus,0,Cy2rV_BRB3PfJEgiazMtI_Shape,Cy2rV_BRB3PfJEgiazMtI
+9QEgiYRqSJG3yn7EsBdHn,Ground_Daily,AUC Bus,1,EJQEvXNu4xzrf0raoeY8a_Shape,EJQEvXNu4xzrf0raoeY8a
+UhZhDEe_pYSBJb1XmUdHn,Ground_Daily,AUC Bus,1,XpXsQQ1fm5A6jj8ZKwoPX_Shape,XpXsQQ1fm5A6jj8ZKwoPX
+su06bTr5aMUAnkdk3YTAJ,Ground_Daily,AUC Bus,0,cGCjWACEI93MBIW0wcbmU_Shape,cGCjWACEI93MBIW0wcbmU
+yViPvJ7FZshnCp-M3BzAp,Ground_Daily,Al Shorouq,1,fvqs8K9ltdvQL36HY1Uj1_Shape,fvqs8K9ltdvQL36HY1Uj1
+SCvq5Y3ce2b14_12Ytq5U,Ground_Daily,Al Shorouq,0,xrrAOV6qHyx5GAOHzZHP-_Shape,xrrAOV6qHyx5GAOHzZHP-
+SCvq5Y3ce2b14_12Ytq5U,Ground_Daily,Dawaran Shubra,1,QjjKi6Rl772q6ZM6MKoDr_Shape,QjjKi6Rl772q6ZM6MKoDr
+mNGL6lCQQ9K06QNEu7j30,Ground_Daily,Qism El Hadayek,0,Ehmb5a_-A_Ujy2Nb9gq6H_Shape,Ehmb5a_-A_Ujy2Nb9gq6H
+NAT_L1,Ground_Daily,New El-Marg,0,NAT_L1_FWD_Shape,NAT_L1_FWD
+NAT_L1,Ground_Daily,Helwan,1,NAT_L1_BWD_Shape,NAT_L1_BWD
+NAT_L2,Ground_Daily,El-Mounib,0,NAT_L2_FWD_Shape,NAT_L2_FWD
+NAT_L2,Ground_Daily,Shubra El-Kheima,1,NAT_L2_BWD_Shape,NAT_L2_BWD
+NAT_L3,Ground_Daily,Rod El-Farag Corridor,0,NAT_L3A_FWD_Shape,NAT_L3A_FWD
+NAT_L3,Ground_Daily,Adly Mansour,1,NAT_L3A_BWD_Shape,NAT_L3A_BWD
+NAT_L3,Ground_Daily,Cairo University,0,NAT_L3B_FWD_Shape,NAT_L3B_FWD
+NAT_L3,Ground_Daily,Adly Mansour,1,NAT_L3B_BWD_Shape,NAT_L3B_BWD
+GOV_MIN_4,Ground_Daily,Mamaleek (Al Manial),0,,GOV_MIN_4_0
+GOV_MIN_4,Ground_Daily,El Haykestep,1,,GOV_MIN_4_1
+GOV_MIN_8,Ground_Daily,Rehab Square,0,,GOV_MIN_8_0
+GOV_MIN_8,Ground_Daily,Amiriyyah,1,,GOV_MIN_8_1
+GOV_MIN_9,Ground_Daily,Al Geish Square,0,,GOV_MIN_9_0
+GOV_MIN_9,Ground_Daily,Salam Station (10th of Ramadan Station),1,,GOV_MIN_9_1
+GOV_MIN_10,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_10_0
+GOV_MIN_10,Ground_Daily,Ibrahim Bek,1,,GOV_MIN_10_1
+GOV_MIN_17,Ground_Daily,Al Sayeda Nafeesa,0,,GOV_MIN_17_0
+GOV_MIN_17,Ground_Daily,Moasasset Al Zakah,1,,GOV_MIN_17_1
+GOV_MIN_26,Ground_Daily,Masaken Al Shrouq,0,,GOV_MIN_26_0
+GOV_MIN_26,Ground_Daily,15th of May,1,,GOV_MIN_26_1
+GOV_MIN_37,Ground_Daily,Elecrticity Hospital (Suez Rd),0,,GOV_MIN_37_0
+GOV_MIN_37,Ground_Daily,Kafr Tuhurmis,1,,GOV_MIN_37_1
+GOV_MIN_44,Ground_Daily,Al Nozha Al Gadida,0,,GOV_MIN_44_0
+GOV_MIN_44,Ground_Daily,Matbaa,1,,GOV_MIN_44_1
+GOV_MIN_52,Ground_Daily,Al Mazallaat ( Shubra),0,,GOV_MIN_52_0
+GOV_MIN_52,Ground_Daily,Saft Al Laban,1,,GOV_MIN_52_1
+GOV_MIN_53,Ground_Daily,Masaken Almaza,0,,GOV_MIN_53_0
+GOV_MIN_53,Ground_Daily,Saft Al Laban,1,,GOV_MIN_53_1
+GOV_MIN_57,Ground_Daily,8th District (Nasr City),0,,GOV_MIN_57_0
+GOV_MIN_57,Ground_Daily,Saft Al Laban,1,,GOV_MIN_57_1
+GOV_MIN_74,Ground_Daily,Boulak El-Dakrour,0,,GOV_MIN_74_0
+GOV_MIN_74,Ground_Daily,Suez Bridge Entrance to Ring Road,1,,GOV_MIN_74_1
+GOV_MIN_79,Ground_Daily,Basateen,0,,GOV_MIN_79_0
+GOV_MIN_79,Ground_Daily,Arab Tuweila,1,,GOV_MIN_79_1
+GOV_MIN_80,Ground_Daily,Al Darraasa,0,,GOV_MIN_80_0
+GOV_MIN_80,Ground_Daily,Isko,1,,GOV_MIN_80_1
+GOV_MIN_81,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_81_0
+GOV_MIN_81,Ground_Daily,Kobry Orabi,1,,GOV_MIN_81_1
+GOV_MIN_101,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_101_0
+GOV_MIN_101,Ground_Daily,Rod Al Farag Metro Station,1,,GOV_MIN_101_1
+GOV_MIN_106,Ground_Daily,Attaba,0,,GOV_MIN_106_0
+GOV_MIN_106,Ground_Daily,Salam Station (10th of Ramadan Station),1,,GOV_MIN_106_1
+GOV_MIN_115,Ground_Daily,8th District (Nasr City),0,,GOV_MIN_115_0
+GOV_MIN_115,Ground_Daily,Amiriyyah,1,,GOV_MIN_115_1
+GOV_MIN_125,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_125_0
+GOV_MIN_125,Ground_Daily,Lebanon Square,1,,GOV_MIN_125_1
+GOV_MIN_131,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_MIN_131_0
+GOV_MIN_131,Ground_Daily,Rod Al Farag Metro Station,1,,GOV_MIN_131_1
+GOV_MIN_136,Ground_Daily,Al Sayeda Nafeesa,0,,GOV_MIN_136_0
+GOV_MIN_136,Ground_Daily,Naguib Mahfouz Square (1st Settlement),1,,GOV_MIN_136_1
+GOV_MIN_137,Ground_Daily,Qawmeya Arabeya,0,,GOV_MIN_137_0
+GOV_MIN_137,Ground_Daily,Higher Institute For Hotels & Tourism (Sheraton),1,,GOV_MIN_137_1
+GOV_MIN_138,Ground_Daily,Al Nozha Al Gadida,0,,GOV_MIN_138_0
+GOV_MIN_138,Ground_Daily,Helwan Metro,1,,GOV_MIN_138_1
+GOV_MIN_139,Ground_Daily,Al Sayeda Zeinab,0,,GOV_MIN_139_0
+GOV_MIN_139,Ground_Daily,El-Qawmia,1,,GOV_MIN_139_1
+GOV_MIN_140,Ground_Daily,Rehab Square,0,,GOV_MIN_140_0
+GOV_MIN_140,Ground_Daily,Mohamed Naguib Metro Station,1,,GOV_MIN_140_1
+GOV_MIN_145,Ground_Daily,Al Toob Al Ramly,0,,GOV_MIN_145_0
+GOV_MIN_145,Ground_Daily,Moasasset Al Zakah,1,,GOV_MIN_145_1
+GOV_MIN_149,Ground_Daily,Basateen,0,,GOV_MIN_149_0
+GOV_MIN_149,Ground_Daily,El-Qawmia,1,,GOV_MIN_149_1
+GOV_MIN_153,Ground_Daily,10th District (Nasr City),0,,GOV_MIN_153_0
+GOV_MIN_153,Ground_Daily,Zahraa Ain Shams,1,,GOV_MIN_153_1
+GOV_MIN_202,Ground_Daily,Al Darraasa,0,,GOV_MIN_202_0
+GOV_MIN_202,Ground_Daily,Arab Tuweila,1,,GOV_MIN_202_1
+GOV_MIN_203,Ground_Daily,Al Omraneyya,0,,GOV_MIN_203_0
+GOV_MIN_203,Ground_Daily,Abbassia,1,,GOV_MIN_203_1
+GOV_MIN_211,Ground_Daily,Suez Bridge Entrance to Ring Road,0,,GOV_MIN_211_0
+GOV_MIN_211,Ground_Daily,Kafr Tuhurmis,1,,GOV_MIN_211_1
+GOV_MIN_220,Ground_Daily,Al Ismailiya Square,0,,GOV_MIN_220_0
+GOV_MIN_220,Ground_Daily,Rehab Square,1,,GOV_MIN_220_1
+GOV_MIN_226,Ground_Daily,Al Ahly Sporting Club,0,,GOV_MIN_226_0
+GOV_MIN_226,Ground_Daily,Lebanon Square,1,,GOV_MIN_226_1
+GOV_MIN_255,Ground_Daily,Ramses,0,,GOV_MIN_255_0
+GOV_MIN_255,Ground_Daily,Abou Zaabal,1,,GOV_MIN_255_1
+GOV_MIN_303,Ground_Daily,Mamaleek (Al Manial),0,,GOV_MIN_303_0
+GOV_MIN_303,Ground_Daily,Moasasset Al Zakah,1,,GOV_MIN_303_1
+GOV_MIN_314,Ground_Daily,Rehab Square,0,,GOV_MIN_314_0
+GOV_MIN_314,Ground_Daily,Rod Al Farag Metro Station,1,,GOV_MIN_314_1
+GOV_MIN_333,Ground_Daily,Port Said Square (Maadi),0,,GOV_MIN_333_0
+GOV_MIN_333,Ground_Daily,Al Kahraba St. (Nasr City),1,,GOV_MIN_333_1
+GOV_MIN_355,Ground_Daily,Al Khanka (Al Salam Rd.),0,,GOV_MIN_355_0
+GOV_MIN_355,Ground_Daily,Ataba,1,,GOV_MIN_355_1
+GOV_MIN_404,Ground_Daily,Bashtil (Ring Rd.),0,,GOV_MIN_404_0
+GOV_MIN_404,Ground_Daily,Al Gezira (Al Moqattam),1,,GOV_MIN_404_1
+GOV_MIN_424,Ground_Daily,Al Omraneyya,0,,GOV_MIN_424_0
+GOV_MIN_424,Ground_Daily,Al Zawya Al Hamra,1,,GOV_MIN_424_1
+GOV_MIN_505,Ground_Daily,Ard Al Lewa Steps (26th of July Corridor),0,,GOV_MIN_505_0
+GOV_MIN_505,Ground_Daily,Military Academy Stadium (Sheraton),1,,GOV_MIN_505_1
+GOV_MIN_606,Ground_Daily,Waha Garage (Nasr City),0,,GOV_MIN_606_0
+GOV_MIN_606,Ground_Daily,Al Habib Mosque (Al Barageel),1,,GOV_MIN_606_1
+GOV_MIN_616,Ground_Daily,Kobry Al Qobba,0,,GOV_MIN_616_0
+GOV_MIN_616,Ground_Daily,Al Mothalath (Ahmed Al Zomor St.),1,,GOV_MIN_616_1
+GOV_MIN_700,Ground_Daily,Zewail Rd. (Wahat Rd.),0,,GOV_MIN_700_0
+GOV_MIN_700,Ground_Daily,Al Qanater Al Khayriya,1,,GOV_MIN_700_1
+GOV_MIN_702,Ground_Daily,Ahmed Helmy,0,,GOV_MIN_702_0
+GOV_MIN_702,Ground_Daily,Haram & Marioteya,1,,GOV_MIN_702_1
+GOV_MIN_755,Ground_Daily,Saqr Quraish,0,,GOV_MIN_755_0
+GOV_MIN_755,Ground_Daily,Om Bayoumi,1,,GOV_MIN_755_1
+GOV_MIN_2002,Ground_Daily,Hadabet Al Ahram,0,,GOV_MIN_2002_0
+GOV_MIN_2002,Ground_Daily,Shubra El-Kheima,1,,GOV_MIN_2002_1
+GOV_MIN_2003,Ground_Daily,Misr University for Sciences and Technology (MUST),0,,GOV_MIN_2003_0
+GOV_MIN_2003,Ground_Daily,Qalyub,1,,GOV_MIN_2003_1
+GOV_MIN_7 M,Ground_Daily,Abd Al Moneim Riad,0,,GOV_MIN_7 M_0
+GOV_MIN_7 M,Ground_Daily,Mankaraa Gate (Hadayek Al Ahram),1,,GOV_MIN_7 M_1
+GOV_CTA_123,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_123_0
+GOV_CTA_123,Ground_Daily,Mazlaqan Om Khinan (Al Hawamdeyya),1,,GOV_CTA_123_1
+GOV_CTA_160/,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_160/_0
+GOV_CTA_160/,Ground_Daily,Saqr Quraish,1,,GOV_CTA_160/_1
+GOV_CTA_222,Ground_Daily,Amiriyyah,0,,GOV_CTA_222_0
+GOV_CTA_222,Ground_Daily,Al Warraq,1,,GOV_CTA_222_1
+GOV_CTA_366,Ground_Daily,Ahmed Helmy,0,,GOV_CTA_366_0
+GOV_CTA_366,Ground_Daily,Cairo Airport,1,,GOV_CTA_366_1
+GOV_CTA_573,Ground_Daily,Gardenia (Cairo Suez Rd.),0,,GOV_CTA_573_0
+GOV_CTA_573,Ground_Daily,Moneeb Station,1,,GOV_CTA_573_1
+GOV_CTA_582,Ground_Daily,Al Shaheed Corridor,0,,GOV_CTA_582_0
+GOV_CTA_582,Ground_Daily,Ahmed Saaed Bridge Exit,1,,GOV_CTA_582_1
+GOV_CTA_912,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_CTA_912_0
+GOV_CTA_912,Ground_Daily,Giza Square,1,,GOV_CTA_912_1
+GOV_CTA_955,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_955_0
+GOV_CTA_955,Ground_Daily,El Haykestep,1,,GOV_CTA_955_1
+GOV_CTA_988,Ground_Daily,Ramses,0,,GOV_CTA_988_0
+GOV_CTA_988,Ground_Daily,Badrashen,1,,GOV_CTA_988_1
+GOV_CTA_997,Ground_Daily,Port Said St. (Al Sawah),0,,GOV_CTA_997_0
+GOV_CTA_997,Ground_Daily,Al Kahraba St. (Nasr City),1,,GOV_CTA_997_1
+GOV_CTA_13 - 25,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_13 - 25_0
+GOV_CTA_13 - 25,Ground_Daily,Abbassia,1,,GOV_CTA_13 - 25_1
+GOV_CTA_1011,Ground_Daily,Moneeb Station,0,,GOV_CTA_1011_0
+GOV_CTA_1011,Ground_Daily,Masaken Almaza,1,,GOV_CTA_1011_1
+GOV_CTA_1017,Ground_Daily,Shubra El-Kheima,0,,GOV_CTA_1017_0
+GOV_CTA_1017,Ground_Daily,Ard Al Lewa Steps (26th of July Corridor),1,,GOV_CTA_1017_1
+GOV_CTA_1031,Ground_Daily,Imbaba,0,,GOV_CTA_1031_0
+GOV_CTA_1031,Ground_Daily,Masaken Betcho,1,,GOV_CTA_1031_1
+GOV_CTA_1035,Ground_Daily,Abbaseya,0,,GOV_CTA_1035_0
+GOV_CTA_1035,Ground_Daily,Shubra El-Kheima,1,,GOV_CTA_1035_1
+GOV_CTA_1052,Ground_Daily,Al Mazallaat ( Shubra),0,,GOV_CTA_1052_0
+GOV_CTA_1052,Ground_Daily,Al Qanater Al Khayriya,1,,GOV_CTA_1052_1
+GOV_CTA_1085,Ground_Daily,Bulaq Al Dakrur,0,,GOV_CTA_1085_0
+GOV_CTA_1085,Ground_Daily,Al Gezira (Al Moqattam),1,,GOV_CTA_1085_1
+GOV_CTA_1103,Ground_Daily,Naguib Mahfouz Square (1st Settlement),0,,GOV_CTA_1103_0
+GOV_CTA_1103,Ground_Daily,Shubra El-Kheima,1,,GOV_CTA_1103_1
+GOV_CTA_1125,Ground_Daily,Abbassia,0,,GOV_CTA_1125_0
+GOV_CTA_1125,Ground_Daily,Warraq Al Arab,1,,GOV_CTA_1125_1
+GOV_CTA_1127,Ground_Daily,3rd Settlement Station,0,,GOV_CTA_1127_0
+GOV_CTA_1127,Ground_Daily,Bulaq Al Dakrur,1,,GOV_CTA_1127_1
+GOV_CTA_1142,Ground_Daily,Giza Square,0,,GOV_CTA_1142_0
+GOV_CTA_1142,Ground_Daily,Asmarat,1,,GOV_CTA_1142_1
+GOV_CTA_1145,Ground_Daily,Al Mazallaat ( Shubra),0,,GOV_CTA_1145_0
+GOV_CTA_1145,Ground_Daily,Al Kahraba St. (Nasr City),1,,GOV_CTA_1145_1
+GOV_CTA_1153,Ground_Daily,Abd Al Moneim Riad,0,,GOV_CTA_1153_0
+GOV_CTA_1153,Ground_Daily,Helwan Metro,1,,GOV_CTA_1153_1
+RL_MONO_EN,Ground_Daily,Justice City,0,,RL_MONO_EN_D0
+RL_MONO_EN,Ground_Daily,Cairo Stadium,1,,RL_MONO_EN_D1
+RL_LRT_CAP,Ground_Daily,Arts and Culture City,0,,RL_LRT_CAP_D0
+RL_LRT_CAP,Ground_Daily,Adly Mansour,1,,RL_LRT_CAP_D1
+RL_LRT_RAM,Ground_Daily,Knowledge City,0,,RL_LRT_RAM_D0
+RL_LRT_RAM,Ground_Daily,Adly Mansour,1,,RL_LRT_RAM_D1
+RL_APM,Ground_Daily,TB2 & TB3,0,,RL_APM_D0
+RL_APM,Ground_Daily,TB1,1,,RL_APM_D1

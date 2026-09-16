@@ -1,0 +1,1091 @@
+route_id,agency_id,route_long_name,route_short_name,route_type,continuous_pickup,continuous_drop_off
+P_O_14_IG076,P_O_14,Moassasa - Nahda City,Microbus,3,0,0
+p3-8qu3UivDvTp0cckEVG,P_O_14,Haram Talbeya - Kafr Tohormos,Microbus,3,0,0
+CTA_M_112,CTA_M,Abou Al Reesh - Masaken Sheraton,Minibus 112,3,1,1
+P_O_14_CA033,P_O_14,Alf Maskan - Nahda City,Microbus,3,0,0
+P_O_14_IC008,P_O_14,Helwan - Hossary,Microbus,3,0,0
+P_B_8_NC011,P_B_8,Al Shabab Entrance - Gas (Banks Area),Tomnaya,3,0,0
+FptsKvc-vW3cBoVWdYDUL,CTA,Ahmed Helmy - Akher Tersa,CTA 8s,3,1,1
+COOP_IC024,COOP,Al-Salam (10th of Ramadan) - Gas (Banks Area),Minibus,3,0,0
+yW2PB6nRIGF3AW92oa9Kq,P_B_8,Hyper 1 - Sheikh Zayed General Hospital,Tomnaya,3,0,0
+5uY9vir47u3ABX4ON8Tf3,P_O_14,Ahmed Helmy - Moassasa,Microbus,3,0,0
+P_O_14_GZ016,P_O_14,Al Warraq - Imbaba,Microbus,3,0,0
+P_O_14_GZ032,P_O_14,Kerdasa - Nahia,Microbus,3,0,0
+iPmb6Kx9epuWwMHetjCnF,P_O_14,Al-Salam (10th of Ramadan) - Rabaah Al Adaweya Mosque,Microbus,3,0,0
+P_O_14_IC023,P_O_14,Gas (Banks Area) - Ramses,Microbus,3,0,0
+P_O_14_IC051,P_O_14,10th District (Nasr City) - New Cairo Court,Microbus,3,0,0
+s9b5Iic4NtV_eorQzj73e,P_O_14,Al-Salam (10th of Ramadan) - Cairo Alexandria Agriculture Road,Microbus,3,0,0
+LNhgToq2DsZoXTXPK8G9d,P_O_14,Bulaq Al Dakrur - Nahda City,Microbus,3,0,0
+WiQa8bXpeSlLhEC1SUwGb,P_O_14,Al-Salam (10th of Ramadan) - Al Sawah Square,Microbus,3,0,0
+COOP_IG080,COOP,Al Shari' Al Gadeed  (Bahteem) - Bab Al Shaaria Square,Minibus,3,0,0
+I30E1wTMc3MAmoOQniW3h,P_O_14,10th District (Nasr City) - Al Hamd Square,Microbus,3,0,0
+P_O_14_IG066,P_O_14,Moassasa - Ramses,Microbus,3,0,0
+Ci3EuISJ24C8rXJIGK05p,P_O_14,Nahda City - New Marg,Microbus,3,0,0
+CTA_1145,CTA,Mazallat - Tagneed (Al Remaya),CTA 1145,3,1,1
+WLDxjQ-KCsznJV1tiaAUM,P_O_14,Al Qanatir Al Khayriyyah - Mazallat,Microbus,3,0,0
+kRpR7tVa5mkJF71MQgxHN,P_O_14,Al-Salam (10th of Ramadan) - Hadaba Wosta (Moqattam),Microbus,3,0,0
+P_B_8_CA148,P_B_8,Al Marg Police - Ezbet Al Nakhl,Tomnaya,3,0,0
+CTA_1025,CTA,15th of May - Abd Al Moneim Riad,CTA 1025,3,1,1
+CTA_317,CTA,Al-Salam (10th of Ramadan) - Badr City,CTA 317,3,1,1
+CTA_1107,CTA,Imbaba - Kattameya (Mahmoudeya),CTA 1107,3,1,1
+P_B_8_6O026,P_B_8,7th District (6th of October) - Laylat Al Qadr,Tomnaya,3,0,0
+CYBtB1fCo1hBspOu6rrgm,P_O_14,Al-Salam (10th of Ramadan) - Rehab - Gate 13 - 12,Microbus,3,0,0
+Eib3Hm9Na_KFRfgk0ykjn,P_O_14,Alf Maskan - Gas (Banks Area),Microbus,3,0,0
+BOX_6O006,BOX,Al Muluk - Hossary,Box,3,0,0
+CTA_1018,CTA,3rd Settlement  (New Cairo) - Ahmed Helmy,CTA 1018,3,1,1
+2EAwBcn3IACPZ0xefVHUM,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - New Marg,Microbus,3,0,0
+CTA_1009,CTA,Attaba - Masaken Betcho,CTA 1009,3,1,1
+CTA_912-1048,CTA,7th District (Nasr City) - Moneeb,CTA 1048,3,1,1
+wMjyQ7gRXkx7VXHzsFwCf,P_O_14,Al Shari' Al Gadeed  (Bahteem) - Matareya Square,Microbus,3,0,0
+P_O_14_GZ007,P_O_14,Dandy Mall - Lebanon Square,Microbus,3,0,0
+P_O_14_CA011,P_O_14,Al Banhawi - Al Sayeda Aisha,Microbus,3,0,0
+3tz5zeyxwhFrOyUkh7Ywp,P_O_14,Al-Salam (10th of Ramadan) - Hossary,Microbus,3,0,0
+CTA_794,CTA,Giza Square - Masaken Sheraton,CTA 794,3,1,1
+CTA_1005,CTA,Dawaran Shubra - Obour Market,CTA 1005,3,1,1
+mwUKKpciQEKn_H2kOT4BD,P_O_14,Giza Square - Znen (Awwel Al Eshreen),Microbus,3,0,0
+1FhB0pHnV9BOvKm0Ob-wB,P_O_14,Hossary - New Marg,Microbus,3,0,0
+EwqAOaw248bX7cqrouzx3,P_O_14,Hadaek EL Kobba - Masallah Al Gadeda (Matareyya),Microbus,3,0,0
+6rjmU4VqdB1ooUUa9jZiN,COOP,Al-Salam (10th of Ramadan) - Al Shorouq,Minibus,3,0,0
+dJMk38hnkQqjWUx8GExQu,P_O_14,New Marg - Rawda Mosque  (Obour),Microbus,3,0,0
+ZDNaajF6Sze97Dcd-UimA,COOP,10th District (Nasr City) - Al-Salam (10th of Ramadan),Minibus,3,0,0
+dQV3G9JYKsRk7qTtx6qZF,P_O_14,Al-Salam (10th of Ramadan) - Remaya (New Mashaal),Microbus,3,0,0
+CTA_1073,CTA,Amr Ibn El Aas - Moassasa,CTA 1073,3,1,1
+eNaYFATGV4nFM2ODEQGb5,P_O_14,Al Wehda Imbaba (Al Bohi) - Attaba,Microbus,3,0,0
+GX87T1pzMtRxYekSSN02o,P_O_14,Moassasa - Shabab (Obour),Microbus,3,0,0
+P_O_14_IG089,P_O_14,Qasr Al Einy - Znen (Awwel Al Eshreen),Microbus,3,0,0
+CTA_65,CTA,8th District (Nasr City) - Al tabba - Amr Ibn El Aas,CTA 65,3,1,1
+s2yaV54cOOS0xeyQpkTZl,CTA,3rd Settlement  (New Cairo) - Attaba,CTA 1064,3,1,1
+BOX_6O022,BOX,6th District - 6th of October (Al Souq Al Qadeem) - Industrial Zone 3,Box,3,0,0
+49Lt1kKFfGCSPZKc8R4LQ,P_O_14,Qalyoub Exit - Wizarat District - New Administrative Capital,Microbus,3,0,0
+Dy5kofrNjrAu73mDsw5Vk,P_O_14,10th District (Nasr City) - Helwan,Microbus,3,0,0
+CTA_1083,CTA,Abd Al Moneim Riad - Obour,CTA 1083,3,1,1
+CTA_990,CTA,Masaken Ain Shams - Motseian,CTA 990,3,1,1
+CTA_1063,CTA,Attaba - Zahraa Ain Shams,CTA 1063,3,1,1
+CTA_1053,CTA,7th District (Nasr City) - Masaken Al Wehda,CTA 1053,3,1,1
+aPqU-5Zq_31ywCFAxL2wE,P_O_14,Alf Maskan - Awwel Makram Ebeid,Microbus,3,0,0
+8zZN-__0-7PufjS2ZVRSA,P_O_14,Al-Salam (10th of Ramadan) - Saqr Quraish,Microbus,3,0,0
+S7vV1gLrYMRDA3sRxXeNY,CTA,Ahmed Helmy - Moneeb,CTA 888,3,1,1
+krefFO7pEgU4JkYMwWveO,P_O_14,Al-Salam (10th of Ramadan) - Rehab - Gate 6,Microbus,3,0,0
+5n-gry5iuNS4TUoZAFqXI,COOP,Al-Salam (10th of Ramadan) - Rehab - Gate 6,Minibus,3,0,0
+INAVDyd7BcSqbkwQ6JoJO,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - New Marg,Microbus,3,0,0
+CTA_1019,CTA,1st Settlement (New Cairo) - Masaken Zeinhom,CTA 1019,3,1,1
+CTA_1047,CTA,Abd Al Moneim Riad - Badr (Sheikh Zayed),CTA 1047,3,1,1
+COOP_QA005,COOP,Bahtim Square - Moassasa,Minibus,3,0,0
+CTA_1021,CTA,8th District (Nasr City) - Al tabba - Imbaba,CTA 1021,3,1,1
+CTA_975,CTA,Hegaz Square - Moassasa,CTA 975,3,1,1
+CTA_44S-1042,CTA,Abd Al Moneim Riad - Zahraa Ain Shams,CTA 1042,3,1,1
+P_O_14_CA139,P_O_14,Hadayeq Helwan - Helwan Metro,Microbus,3,0,0
+ht0GgjSAbF0kdmnExj5Yz,P_O_14,Kolleyet Al Zeraah (Ain Shams University) - Masaken Al Wehda,Microbus,3,0,0
+PqnyKZvgBfy2DlGQ-9usu,P_O_14,Helwan - Zahraa Madinet Nasr,Microbus,3,0,0
+CTA_1118,CTA,7th District (Nasr City) - Tagneed (Al Remaya),CTA 1118,3,1,1
+P_O_14_GZ052,P_O_14,Ard El Lewaa - Bashtil El Balad,Microbus,3,0,0
+CTA_1148,CTA,Abd Al Moneim Riad - Isbiko,CTA 1148,3,1,1
+0Ey4XgPAt58ikVvQZvr-a,P_O_14,Al-Salam (10th of Ramadan) - Helwan,Microbus,3,0,0
+CTA_530,CTA,Cairo Airport - Qalyoub,CTA 530,3,1,1
+1uALlQYE7WZs28gRvdky_,P_O_14,Cairo Alexandria Agriculture Road - Gas (Banks Area),Microbus,3,0,0
+COOP_GZ028,COOP,Bulaq Al Dakrur - Giza Square,Minibus,3,0,0
+8jTTZgEIrhAYkvpLjD0fe,COOP,Al-Salam (10th of Ramadan) - Gas (Banks Area),Minibus,3,0,0
+y4xb6nE-WNerPhWcnvsM0,COOP,Cairo Alexandria Agriculture Road - Gas (Banks Area),Minibus,3,0,0
+vUkl6qQJBMrkeq2TumXP0,P_O_14,Al-Salam (10th of Ramadan) - Moneeb Konayyesa,Microbus,3,0,0
+CTA_945-1082,CTA,Amr Ibn El Aas - Masaken Ain Shams,CTA 1082,3,1,1
+yh9YPjdcnPYlRsZtyNbb5,P_O_14,Marioteya & Ring Rd - New Marg,Microbus,3,0,0
+fPRBf1K3K_qq6lfyMtz0d,CTA,Ahmed Helmy - New Marg,CTA 1055,3,1,1
+CTA_92-1050,CTA,Hegaz Square - Imbaba,CTA 1050,3,1,1
+CTA_306,CTA,Amiriya - Giza Square,CTA 306,3,1,1
+P_O_14_IG068,P_O_14,Giza Square - Ramses,Microbus,3,0,0
+CTA_1128,CTA,Asmarrat - Mazallat,CTA 1128,3,1,1
+-jATAbzzhiwEzrFjPHt6K,P_O_14,New Marg - Shabab (Obour),Microbus,3,0,0
+sqx1SY5Zgo0LoyC1SMQf2,P_O_14,Moneeb - Zahraa Madinet Nasr,Microbus,3,0,0
+sX7EyGGLBt2OzYRcGGO74,P_O_14,New Marg - Remaya (New Mashaal),Microbus,3,0,0
+U12iA-JAJn3HecabkdSeW,COOP,Al Warraq - Imbaba,Minibus,3,0,0
+Zy8zeMtNXeBpZrtvM4kDl,COOP,Al Sheikh Mansour - Matareya Square,Minibus,3,0,0
+gIGWDwJ1h2hbMhbXxMgt-,P_O_14,Laylat Al Qadr - New Marg,Microbus,3,0,0
+ezpn_pLZwURzLcKbgLGqy,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Isbiko,Microbus,3,0,0
+hRA5S5Z-BPCDxu2DCpfVS,CTA,AUC Bus - New Marg,CTA 505,3,1,1
+COOP_GZ006,COOP,Giza Square - Haram Mashaal,Minibus,3,0,0
+COOP_GZ011,COOP,Giza Square - Lebanon Square,Minibus,3,0,0
+zdqlYRVdftBHIeoVbaRin,P_O_14,Al Wehda Imbaba (Al Bohi) - Ramses,Microbus,3,0,0
+31lxQf5nIa80ffeAkBjMH,P_O_14,Al Sa'a Square - Al-Salam (10th of Ramadan),Microbus,3,0,0
+l45Z_rte2W7zMPDfJsvgF,P_O_14,Al-Salam (10th of Ramadan) - Hadaba Wosta (Moqattam),Microbus,3,0,0
+AWvboTfFAFIfUgBcz8N8_,P_O_14,Imbaba - Isaaf,Microbus,3,0,0
+YNiBQqmS39eoratamiEeJ,P_O_14,Al-Salam (10th of Ramadan) - Mostorod Ring Rd,Microbus,3,0,0
+sKigzosL3Acf4HBsP24lt,P_O_14,Alf Maskan - Al Hamd Square,Microbus,3,0,0
+UfIjTN8B9qEE30WQYajlo,COOP,Al Hamd Square - Al-Salam (10th of Ramadan),Minibus,3,0,0
+qQ8CZf6wkbvSMMGKizEwd,COOP,Al-Salam (10th of Ramadan) - Qalyoub Exit,Minibus,3,0,0
+CTA_46,CTA,Masaken Helmeyet Al Zaitoun - Masaken Zeinhom,CTA 46,3,1,1
+P_O_14_GZ034,P_O_14,Akher Faisal - Imbaba,Microbus,3,0,0
+CTA_987,CTA,Ahmed Helmy - Badrasheen,CTA 987,3,1,1
+Va6aQT0gwfU48MBTXdWwi,P_O_14,Arab Maadi - Maadi Metro,Microbus,3,0,0
+2GAYQWfWuEdIk5hhjFe2Q,P_O_14,Ahmed Helmy - Bigam,Microbus,3,0,0
+gWKGZfIReAwR3-_sXN468,COOP,Al Hamd Square - Qalyoub Exit,Minibus,3,0,0
+P_B_8_CA099,P_B_8,El Warsha (Ezbet Al Nakhl) - New Marg,Tomnaya,3,0,0
+CTA_1134,CTA,Abbasseya - Moneeb,CTA 1134,3,1,1
+P_O_14_CA085,P_O_14,7th District (Nasr City) - Hadaek EL Kobba,Microbus,3,0,0
+KJH0c5fBJqypfRMmg6cgr,P_O_14,Moassasa - Nahda City,Microbus,3,0,0
+CTA_321,CTA,Khanka - New Marg,CTA 321,3,1,1
+P_B_8_6O025,P_B_8,7th District (6th of October) - Al Mostaqbal Entrance,Tomnaya,3,0,0
+P_O_14_GZ045,P_O_14,Imbaba - Qawmeya Arabeya,Microbus,3,0,0
+FxOFHTgsZx0eekbWPaB7N,P_O_14,Imbaba - Nahda City,Microbus,3,0,0
+T7BWm7IBJwclTVfKGA8P-,P_O_14,Abboud - Ramses,Microbus,3,0,0
+nfTyUrX7ZdSJk5J-tHCx9,P_O_14,Badr City - Moneeb,Microbus,3,0,0
+c3UcQoq3-K4VbxrHfMQ55,P_O_14,Om Bayoumi (Mintay) - Orabi Bridge,Microbus,3,0,0
+P_O_14_IG097,P_O_14,Al Sayeda Zeinab - Giza Square,Microbus,3,0,0
+P_O_14_IC038,P_O_14,Mehwar & Alex Desert Rd - Sphinx Airport,Microbus,3,0,0
+EhNM80xhORC_NDg_20VLW,P_O_14,Al-Salam (10th of Ramadan) - Marioteya & Ring Rd,Microbus,3,0,0
+CBawsLpBIIydAXnIUEdNh,P_O_14,Al-Salam (10th of Ramadan) - Al Sawah Square,Microbus,3,0,0
+Rq6lJWJ6BtMfkKyWFKuSv,P_O_14,Al-Salam (10th of Ramadan) - Hyper 1,Microbus,3,0,0
+P_O_14_GZ021,P_O_14,Bohooth (Al Kobri Al Khashab) - Madinat Al Talaba (Imbaba),Microbus,3,0,0
+kA8n--UIK-e5xqdLFPHKs,COOP,Al-Salam (10th of Ramadan) - Hyper 1,Minibus,3,0,0
+GHSOgF6amUGK8ac9n6HDF,P_B_8,Al-Salam (10th of Ramadan) - Cairo Airport,Tomnaya,3,0,0
+DClfXOL0aW73BQGJeM5yZ,P_O_14,1st Settlement (New Cairo) - Al-Salam (10th of Ramadan),Microbus,3,0,0
+VcyJ3Cygkrd6BpKY5hhzC,P_O_14,Basateen - Maadi Metro,Microbus,3,0,0
+P_O_14_CA126,P_O_14,Kilo 4 & Half - Matareya Square,Microbus,3,0,0
+dOSjy2LRc3erAam81oIco,P_O_14,Applied Arts - Cairo University - Kerdasa,Microbus,3,0,0
+XdCl81relei_UyeDojycn,CTA,Al Zawya Al Hamra - Masaken Zeinhom,CTA 831,3,1,1
+CTA_940S,CTA,Abd Al Moneim Riad - Salam Alexandria,CTA 940s,3,1,1
+P_B_8_NC015,P_B_8,Arabella Square - Kattameya (Mahmoudeya),Tomnaya,3,0,0
+CTA_1097,CTA,7th District (Nasr City) - Lebanon Square,CTA 1097,3,1,1
+TpYarSDEAgegRqTp_xFUV,P_O_14,Al-Salam (10th of Ramadan) - Al Shorouq Water,Microbus,3,0,0
+lwOCQWwxGYT5NrsJbZAqU,P_O_14,Abou Zaabal - Al-Salam (10th of Ramadan),Microbus,3,0,0
+CTA_1087,CTA,Abou Wafya - Masaken Sheraton,CTA 1087,3,1,1
+wVSEsc9QL4aBYHVv-Spy9,P_O_14,Al Wehda Imbaba (Al Bohi) - Bulaq Al Dakrur,Microbus,3,0,0
+CTA_3G,CTA,Darrasa - Koleyet Al Banat - Azhar University,CTA 3g,3,1,1
+CTA_342,CTA,Al Magzar (Mariouteya) - Qalaa,CTA 342,3,1,1
+P_O_14_IG044,P_O_14,Mostorod Ring Rd - New Marg,Microbus,3,0,0
+P_O_14_IC012,P_O_14,Hossary - Zahraa Madinet Nasr,Microbus,3,0,0
+DhUww9NFJ-S-MKhxVBuN7,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Al-Salam (10th of Ramadan),Microbus,3,0,0
+aLrT5j0aQaI9mR_I4nxYy,P_O_14,Matareya Square - Mazallat,Microbus,3,0,0
+P_O_14_CA161,P_O_14,Al Banhawi - Al-Salam (10th of Ramadan),Microbus,3,0,0
+-pzqD_9pESIJi9DBe5yJq,P_O_14,Al-Salam (10th of Ramadan) - Laylat Al Qadr,Microbus,3,0,0
+udOvMoeRiZwiZFRRbXCiq,P_O_14,Al-Salam (10th of Ramadan) - New Marg,Microbus,3,0,0
+CTA_507,CTA,Giza Square - Masaken Sheraton,CTA 507,3,1,1
+P_O_14_IG051,P_O_14,Ramses - Remaya Square,Microbus,3,0,0
+sK63J6jAOvBBc3IX-hjeh,P_O_14,Al-Salam (10th of Ramadan) - Wizarat District - New Administrative Capital,Microbus,3,0,0
+uhDYU4IhrHBkjjsbJNRx2,P_O_14,Cairo Alexandria Agriculture Road - New Marg,Microbus,3,0,0
+P_O_14_CA001,P_O_14,Al Sayeda Aisha - Darrasa,Microbus,3,0,0
+CTA_370,CTA,Abbasseya - Badr (Sheikh Zayed),CTA 370,3,1,1
+K1dlRvEAwUViQaG-pJKjN,P_B_8,Al-Salam (10th of Ramadan) - New Marg,Tomnaya,3,0,0
+Ogi2rh_OlSM2h_wvvLGkk,P_O_14,Alf Maskan - Masaken Ain Shams,Microbus,3,0,0
+8RI-aNmJq8pcth5IxMf8T,P_O_14,Abou Zaabal - New Marg,Microbus,3,0,0
+P_B_8_NC010,P_B_8,Al Mostafa Mosque - Gas (Banks Area),Tomnaya,3,0,0
+COOP_IG053,COOP,Bulaq Al Dakrur - Ramses,Minibus,3,0,0
+AkZ8btBfGZichKXXhgGwM,P_O_14,Haram Mashaal - Hyper 1,Microbus,3,0,0
+fyAW0vltVKbZBO8k2gEAB,P_O_14,Abou Zaabal - Mostorod Ring Rd,Microbus,3,0,0
+CTA_1026,CTA,Abd Al Moneim Riad - Hadaba Wosta (Moqattam),CTA 1026,3,1,1
+1mr8RU0a90VsX2pRB9Rfl,P_O_14,Abou El Numrus - Moneeb,Microbus,3,0,0
+NGTy9esRU6oo2uc86eEae,P_O_14,Al Qanatir Al Khayriyyah - Cairo Alexandria Agriculture Road,Microbus,3,0,0
+P_O_14_IC022,P_O_14,Gas (Banks Area) - Helwan,Microbus,3,0,0
+P_O_14_IC034,P_O_14,Al-Salam (10th of Ramadan) - Shabab (Obour),Microbus,3,0,0
+CTA_1022,CTA,6th District - 6th of October (Al Souq Al Qadeem) - Giza Square,CTA 1022,3,1,1
+jtkYqK9oNBf7XcgtSYXPG,P_O_14,Imbaba - Nahda City,Microbus,3,0,0
+P_B_8_6O014,P_B_8,10th District (6th of October) - Magda Square,Tomnaya,3,0,0
+P_B_8_NC018,P_B_8,Arabella Square - New Cairo Academy,Tomnaya,3,0,0
+P_O_14_CA091,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Masaken Sheraton,Microbus,3,0,0
+NQUMSYblUFR1PnVP2ve9q,P_O_14,Alf Maskan - Gas (Banks Area),Microbus,3,0,0
+P_B_8_6O009,P_B_8,6th District - 6th of October (Al Souq Al Qadeem) - Hossary,Tomnaya,3,0,0
+6rW6IVn72lBoD0xzHhqZO,P_O_14,Bulaq Al Dakrur - Nahda City,Microbus,3,0,0
+P_B_8_6O027,P_B_8,Industrial Zone 3 - Laylat Al Qadr,Tomnaya,3,0,0
+P_O_14_IG009,P_O_14,Bulaq Al Dakrur - Isaaf,Microbus,3,0,0
+BOX_6O016,BOX,Laylat Al Qadr - Total  (6th of October),Box,3,0,0
+P_O_14_IC090,P_O_14,10th of Ramadan City - Al Shorouq Academy,Microbus,3,0,0
+P_O_14_IC007,P_O_14,Hossary - Lebanon Square,Microbus,3,0,0
+P_B_8_NC014,P_B_8,Al Shabab Entrance - Kattameya (Mahmoudeya),Tomnaya,3,0,0
+iMAKUgcl9tKwzLmwnFJLO,P_O_14,Giza Square - Hyper 1,Microbus,3,0,0
+P_O_14_IG042,P_O_14,New Marg - Qalyoub Exit,Microbus,3,0,0
+CTA_840,CTA,Al Sayeda Nafeesa - Qism El Hadayek,CTA 840,3,1,1
+P_O_14_CA143,P_O_14,Awwel Al Zawya Al Hamra - Hadaek EL Kobba,Microbus,3,0,0
+mACiG8_tUrwcPtvZXP8Od,CTA,Amr Ibn El Aas - Mazallat,CTA 134,3,1,1
+CTA_1024,CTA,Ahmed Helmy - Kattameya (Mahmoudeya),CTA 1024,3,1,1
+hdBN4uzpUjTGN0vKzf9kW,P_O_14,Al Sayeda Aisha - Giza Square,Microbus,3,0,0
+189igEKLGNwIUDl8gfOwh,P_O_14,Abboud - New Marg,Microbus,3,0,0
+CTA_1144,CTA,Abageyah - Ibrahim Bek,CTA 1144,3,1,1
+P_O_14_CA152,P_O_14,Ramses - Sharabeya,Microbus,3,0,0
+P_O_14_CA049,P_O_14,Abou Al Reesh - Dar El Salam,Microbus,3,0,0
+CTA_1,CTA,3rd Settlement  (New Cairo) - New Marg,CTA 1,3,1,1
+CTA_82,CTA,Abd Al Moneim Riad - Masarra,CTA 82,3,1,1
+5QND291boJ53-oQki3hmz,P_O_14,Al-Salam (10th of Ramadan) - Nahda City,Microbus,3,0,0
+OoHDu3yHaG3yU2H8XPJWb,P_O_14,Abboud - Remaya (New Mashaal),Microbus,3,0,0
+P_O_14_CA031,P_O_14,Alf Maskan - Ezbet Al Nakhl,Microbus,3,0,0
+CTA_43,CTA,Attaba - Bus Stop 43 (Matareya),CTA 43,3,1,1
+avm32oXuwPxCT17sZkBf2,CTA,Moneeb - Qism El Hadayek,CTA 1046,3,1,1
+P_O_14_IG082,P_O_14,Mazallat - Orabi Bridge,Microbus,3,0,0
+CTA_1136,CTA,1st Settlement (New Cairo) - Al Zawya Al Hamra,CTA 1136,3,1,1
+ERyjQRx_H15I9oB9BX0gr,P_O_14,Qawmeya Arabeya - Remaya (New Mashaal),Microbus,3,0,0
+P_O_14_GZ004,P_O_14,Abou Rawwash - Haram Mashaal,Microbus,3,0,0
+M72HU9kmUJZ6FhQHG_GpP,CTA,Al Sa'a Square - Ibrahim Bek,CTA 11,3,1,1
+P_O_14_GZ023,P_O_14,Bohooth (Al Kobri Al Khashab) - Imbaba,Microbus,3,0,0
+P_O_14_CA010,P_O_14,Al Sayeda Aisha - Nahda City,Microbus,3,0,0
+Y2QwurrDMngNWrnsgPUTv,P_O_14,Al-Salam (10th of Ramadan) - Moassaset Al Zakah,Microbus,3,0,0
+NrXQrpcK2JA_IC7xpHfNm,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Haram & Marioteya,Microbus,3,0,0
+_z3FcfxuY_8UZ1c35Kf_4,P_O_14,Kerdasa - Remaya (New Mashaal),Microbus,3,0,0
+wWMuRqPO_EzSkv3jCgnic,P_O_14,10th of Ramadan City - Qalyoub Exit,Microbus,3,0,0
+F-oBh93OH6Ie4snCmxj8i,P_O_14,Basrawy - Ramses,Microbus,3,0,0
+PWCFW_a8c-PDr7QO6PoJe,P_O_14,Badr City - Qalyoub Exit,Microbus,3,0,0
+COOP_GZ062,COOP,Ard El Lewaa - Giza Square,Minibus,3,0,0
+CTA_982,CTA,Ahmed Helmy - Hawamdeyya,CTA 982,3,1,1
+ZLIlRoH8mggg0j2DKqbhA,P_O_14,Al-Salam (10th of Ramadan) - R2 - New Administrative Capital,Microbus,3,0,0
+P_O_14_CA163,P_O_14,Al-Salam (10th of Ramadan) - Awwel Makram Ebeid,Microbus,3,0,0
+tScPnAp_04aD4VwhGidx4,P_O_14,Al-Salam (10th of Ramadan) - Church (Kayan) - New Administrative Capital,Microbus,3,0,0
+P_O_14_CA063,P_O_14,Rabaah Al Adaweya Mosque - Saqr Quraish,Microbus,3,0,0
+CTA_1088,CTA,15th of May - Abbasseya,CTA 1088,3,1,1
+P_B_8_NC013,P_B_8,Al Hamd Square - Gas (Banks Area),Tomnaya,3,0,0
+LneRsrKsi5-xujQOkQX66,P_O_14,Mabyadah Square - Rod El Farag - Obour,Microbus,3,0,0
+A7O-x1J3WidCSxnV85H0s,P_B_8,Mostorod Ring Rd - New Marg,Tomnaya,3,0,0
+P_O_14_IC001,P_O_14,Al Sayeda Aisha - Gas (Banks Area),Microbus,3,0,0
+P_O_14_GZ037,P_O_14,Barageel St - Kit Kat Square,Microbus,3,0,0
+P_O_14_GZ024,P_O_14,Ard El Lewaa - Bohooth (Al Kobri Al Khashab),Microbus,3,0,0
+CTA_M_400,CTA_M,Isko - Laylat Al Qadr,Minibus 400,3,1,1
+P_O_14_IC029,P_O_14,10th District (Nasr City) - Ommal Square,Microbus,3,0,0
+P_O_14_CA082,P_O_14,Al Sa'a Square - Matareya Square,Microbus,3,0,0
+P_O_14_CA030,P_O_14,Alf Maskan - Mazlaqan Ain Shams,Microbus,3,0,0
+P_B_8_6O015,P_B_8,11th District (6th of October) - Magda Square,Tomnaya,3,0,0
+P_O_14_IG021,P_O_14,Abou Al Reesh - Giza Square,Microbus,3,0,0
+P_O_14_GZ017,P_O_14,Al Warraq - Giza Square,Microbus,3,0,0
+P_O_14_GZ018,P_O_14,Moneeb - Remaya Square,Microbus,3,0,0
+MM_NA13,MM,10th of Ramadan City - 10th of Ramadan City,MM NA13,3,1,1
+P_O_14_GZ026,P_O_14,Bulaq Al Dakrur - Nahia,Microbus,3,0,0
+CTA_910,CTA,Imbaba - Matbaa,CTA 910,3,1,1
+CTA_1161,CTA,1st Settlement (New Cairo) - Moneeb,CTA 1161,3,1,1
+CTA_M_302,CTA_M,1st Settlement (New Cairo) - Mamaleek -Manial (Meqyas),Minibus 302,3,1,1
+CTA_M_201,CTA_M,Al Warraq - Tagneed (Al Remaya),Minibus 201,3,1,1
+P_O_14_GZ041,P_O_14,Badrasheen - Mazghuna,Microbus,3,0,0
+CTA_M_167,CTA_M,Lebanon Square - Zahraa Madinet Nasr,Minibus 167,3,1,1
+CTA_M_180,CTA_M,1st Settlement (New Cairo) - Orabi Bridge,Minibus 180,3,1,1
+CTA_M_3,CTA_M,Abd Al Moneim Riad - Hegaz Square,Minibus 3,3,1,1
+n12_wD90lp64_mH8N3fRH,P_O_14,Al-Salam (10th of Ramadan) - Isbiko,Microbus,3,0,0
+P_O_14_IC045,P_O_14,Rehab - Gate 13 - 12 - Zahraa Madinet Nasr,Microbus,3,0,0
+P_B_8_6O029,P_B_8,Dolce - Laylat Al Qadr,Tomnaya,3,0,0
+FI3sY62cvzwcF6qpLJTuV,P_O_14,Helwan - Tibeen,Microbus,3,0,0
+P_B_8_6O008,P_B_8,10th District (6th of October) - Hossary,Tomnaya,3,0,0
+CTA_M_142,CTA_M,1st Settlement (New Cairo) - Mazallat,Minibus 142,3,1,1
+CTA_M_19,CTA_M,1st Settlement (New Cairo) - Abd Al Moneim Riad,Minibus 19,3,1,1
+P_O_14_GZ010,P_O_14,Imbaba - Lebanon Square,Microbus,3,0,0
+miikEkLkL-jQKBoSrb6mE,P_O_14,Al Sheikh Mansour - New Marg,Microbus,3,0,0
+P_B_8_NC002,P_B_8,Gas (Banks Area) - Ommal Square,Tomnaya,3,0,0
+6HiNrwyzAw5JGPUdaty-0,P_O_14,Imbaba - Ramses,Microbus,3,0,0
+P_B_8_CA021,P_B_8,Al Sayeda Aisha - Zahraa Metro,Tomnaya,3,0,0
+P_O_14_CA006,P_O_14,Abbasseya - Al Sayeda Aisha,Microbus,3,0,0
+P_B_8_NC006,P_B_8,FUE - Gas (Banks Area),Tomnaya,3,0,0
+P_B_8_NC005,P_B_8,Gas (Banks Area) - Traffic Department  (Kattameya),Tomnaya,3,0,0
+COOP_QA003,COOP,Moassasa - Qalyoub El Balad,Minibus,3,0,0
+P_O_14_CA048,P_O_14,Abou Al Reesh - Ahmed Maher Hospital,Microbus,3,0,0
+P_O_14_GZ040,P_O_14,Badrasheen - Hawamdeyya,Microbus,3,0,0
+P_O_14_CA053,P_O_14,10th District (Nasr City) - Zahraa Madinet Nasr,Microbus,3,0,0
+DbgUPH8AHAnBT59Ux_FrC,CTA,Abbasseya - Matbaa,CTA 1037,3,1,1
+n4ilqcRQ9yJVFWs-xSz-D,CTA,Abd Al Moneim Riad - Al Qanatir Al Khayriyyah,CTA 953,3,1,1
+P_O_14_CA017,P_O_14,Al Sayeda Aisha - Bab Al Shaaria Square,Microbus,3,0,0
+P_O_14_CA047,P_O_14,Abou Al Reesh - Matbaa,Microbus,3,0,0
+wGCNj9b51EYHmlNiQLQOJ,CTA_M,Masaken Al Shorouq - Mazallat,Minibus 72,3,1,1
+CTA_1150,CTA,15th of May - Giza Square,CTA 1150,3,1,1
+P_O_14_CA027,P_O_14,Alf Maskan - Matareya Square,Microbus,3,0,0
+rkJxL56Q3OKc76Ff6Pg8s,CTA,10th District (Nasr City) - Darrasa,CTA 80s,3,1,1
+d-Goa1xpnuFiRnI_5i9Uy,COOP,Kolleyet Al Zeraah (Cairo University) - Tagneed (Al Remaya),Minibus,3,0,0
+QD4B-vIsagxeF82oSJvMs,P_O_14,Al Bassous - Moassasa,Microbus,3,0,0
+P_O_14_IC071,P_O_14,15th of May - Helwan Metro,Microbus,3,0,0
+CTA_1076,CTA,Attaba - Moassaset Al Zakah,CTA 1076,3,1,1
+xHDTuKEcNGya_6TEqky9R,P_O_14,Al Qanatir Al Khayriyyah - Moassasa,Microbus,3,0,0
+P_B_8_6O021,P_B_8,Al Motamayez - Laylat Al Qadr,Tomnaya,3,0,0
+MgUeZY5IH7DhXn9qFpvGl,P_O_14,Hadaek EL Kobba - Qism El Hadayek,Microbus,3,0,0
+P_O_14_IC054,P_O_14,Ahmed Helmy - Badr City,Microbus,3,0,0
+P_O_14_IG058,P_O_14,Kerdasa - Qasr Al Einy,Microbus,3,0,0
+CTA_M_117,CTA_M,1st Settlement (New Cairo) - Abd Al Moneim Riad,Minibus 117,3,1,1
+P_O_14_CA015,P_O_14,Al Sayeda Aisha - Salam Alexandria,Microbus,3,0,0
+P_O_14_CA071,P_O_14,Abboud - Al Zawya Al Hamra,Microbus,3,0,0
+P_O_14_GZ005,P_O_14,Haram Mashaal - Moneeb,Microbus,3,0,0
+CTA_M_161,CTA_M,Kilo 4 & Half - Orabi Bridge,Minibus 161,3,1,1
+P_O_14_CA116,P_O_14,Abbasseya - Manshiyat Nasser,Microbus,3,0,0
+CTA_1010,CTA,1st Settlement (New Cairo) - Attaba,CTA 1010,3,1,1
+CTA_M_100,CTA_M,Cairo Airport - Lebanon Square,Minibus 100,3,1,1
+5l1G65qweO5GdBQpfy1EM,P_O_14,10th District (Nasr City) - Ramses,Microbus,3,0,0
+rSzg2M_8gM0cX-PnDBpDS,P_O_14,Giza Square - Helwan Post Office,Microbus,3,0,0
+P_O_14_CA014,P_O_14,Al Sayeda Aisha - Awwel Abbas,Microbus,3,0,0
+P_O_14_CA157,P_O_14,Abboud - Ramses,Microbus,3,0,0
+mArLEgVOmRmk2qjpXCcyb,P_O_14,Abbasseya - Matareya Square,Microbus,3,0,0
+P_O_14_CA171,P_O_14,Al-Salam (10th of Ramadan) - Manshiyat Nasser,Microbus,3,0,0
+COOP_IG064,COOP,Imbaba - Ramses,Minibus,3,0,0
+CTA_15,CTA,Abd Al Moneim Riad - Saft Al Laban,CTA 15,3,1,1
+P_B_8_SZ013,P_B_8,Hyper 1 - Zayed (MM),Tomnaya,3,0,0
+P_B_8_CA094,P_B_8,Ezbet Al Nakhl - New Marg,Tomnaya,3,0,0
+P_B_8_SZ007,P_B_8,Badr (Sheikh Zayed) - Hyper 1,Tomnaya,3,0,0
+JFURIfkSZvjnSzWLlUZ65,P_O_14,Giza Square - Omraneyya,Microbus,3,0,0
+CTA_1031,CTA,Imbaba - Masaken Betcho,CTA 1031,3,1,1
+CTA_M_606,CTA_M,Cairo Airport - Lebanon Square,Minibus 606,3,1,1
+lzExfvE08FXIFTjkNJgv9,P_O_14,Maadi Metro - Saqr Quraish,Microbus,3,0,0
+P_O_14_GZ060,P_O_14,Marioteya & Ring Rd - Moneeb,Microbus,3,0,0
+P_O_14_IC061,P_O_14,Gas (Banks Area) - Haram & Marioteya,Microbus,3,0,0
+DbG-wNqeP6sqp4PmEoB9c,CTA,Abbasseya - Lebanon Square,CTA 1068,3,1,1
+COOP_IC075,COOP,New Cairo Court - New Marg,Minibus,3,0,0
+P_O_14_IC041,P_O_14,10th District (Nasr City) - FUE,Microbus,3,0,0
+CTA_1108,CTA,Giza Square - Hadaba Wosta (Moqattam),CTA 1108,3,1,1
+P_B_8_NC016,P_B_8,Kattameya (Mahmoudeya) - New Cairo Academy,Tomnaya,3,0,0
+CTA_532,CTA,Abbasseya - Basateen,CTA 532,3,1,1
+P_O_14_IG036,P_O_14,Haram & Marioteya - Nasr St,Microbus,3,0,0
+P_O_14_CA174,P_O_14,Fayda Kamel - Maadi Metro,Microbus,3,0,0
+P_O_14_IG065,P_O_14,Kolleyet Al Zeraah (Ain Shams University) - Ramses,Microbus,3,0,0
+P_B_8_SZ005,P_B_8,Hyper 1 - Sheikh Zayed General Hospital,Tomnaya,3,0,0
+NrOaoQJmSjyW5uQtfFt7p,P_O_14,Moneeb - Ramses,Microbus,3,0,0
+P_O_14_IC059,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Moneeb,Microbus,3,0,0
+CTA_914,CTA,Abbasseya - Dawaran Shubra,CTA 914,3,1,1
+P_O_14_CA115,P_O_14,Abbasseya - Manshiyat Nasser,Microbus,3,0,0
+P_B_8_CA149,P_B_8,Abdullah El Refaey - Ezbet Al Nakhl,Tomnaya,3,0,0
+P_B_8_GZ014,P_B_8,Haram & Marioteya - Moneeb,Tomnaya,3,0,0
+P_O_14_CA068,P_O_14,Al Zawya Al Hamra - Mazallat,Microbus,3,0,0
+CTA_915,CTA,Darrasa - Moassasa,CTA 915,3,1,1
+P_O_14_CA135,P_O_14,Helwan Post Office - Ramses,Microbus,3,0,0
+P_O_14_IC096,P_O_14,Haram Mashaal - Laylat Al Qadr,Microbus,3,0,0
+P_O_14_IC095,P_O_14,Laylat Al Qadr - Moassasa,Microbus,3,0,0
+P_O_14_IC002,P_O_14,Al Sayeda Aisha - Ommal Square,Microbus,3,0,0
+P_B_8_CA095,P_B_8,Al Marg Police - New Marg,Tomnaya,3,0,0
+P_O_14_IC015,P_O_14,Hossary - Imbaba,Microbus,3,0,0
+P_O_14_IC094,P_O_14,Imbaba - Laylat Al Qadr,Microbus,3,0,0
+BOX_6O028,BOX,Al Mostaqbal Entrance - Masaken Othman (6th of October),Box,3,0,0
+P_O_14_IG020,P_O_14,Abou Al Reesh - Cairo University,Microbus,3,0,0
+P_O_14_GZ035,P_O_14,Awsim - Kit Kat Square,Microbus,3,0,0
+P_O_14_CA137,P_O_14,Helwan Metro - Ramses,Microbus,3,0,0
+P_O_14_IG023,P_O_14,Awwel Makram Ebeid - Haram Mashaal,Microbus,3,0,0
+P_O_14_CA076,P_O_14,Awwel Makram Ebeid - Helwan,Microbus,3,0,0
+P_O_14_GZ057,P_O_14,Dokki - Znen (Awwel Al Eshreen),Microbus,3,0,0
+P_O_14_IG078,P_O_14,Badrasheen - Tibeen,Microbus,3,0,0
+CTA_900,CTA,Abd Al Moneim Riad - Tagneed (Al Remaya),CTA 900,3,1,1
+P_O_14_CA141,P_O_14,Al-Salam (10th of Ramadan) - Helwan Metro,Microbus,3,0,0
+P_B_8_GZ015,P_B_8,Giza Square - Haram & Marioteya,Tomnaya,3,0,0
+CTA_204,CTA,Abbasseya - Khosous,CTA 204,3,1,1
+P_O_14_CA072,P_O_14,Ahmed Helmy - Arab Maadi,Microbus,3,0,0
+P_O_14_IC083,P_O_14,Hyper 1 - Qawmeya Arabeya,Microbus,3,0,0
+P_O_14_IC018,P_O_14,Giza Square - Hossary,Microbus,3,0,0
+P_O_14_IG084,P_O_14,Mazghuna - Tibeen,Microbus,3,0,0
+P_O_14_CA036,P_O_14,8th District (Nasr City) - Al tabba - Alf Maskan,Microbus,3,0,0
+P_O_14_IG041,P_O_14,New Marg - Remaya Square,Microbus,3,0,0
+P_O_14_CA007,P_O_14,Al Sayeda Aisha - Isbiko,Microbus,3,0,0
+P_O_14_IC011,P_O_14,Hossary - New Marg,Microbus,3,0,0
+P_O_14_IC081,P_O_14,Dandy Mall - Hyper 1,Microbus,3,0,0
+P_O_14_CA019,P_O_14,Al Malek Al Saleh - Al Sayeda Aisha,Microbus,3,0,0
+kmJvmozOqYl95wRijRLnL,CTA_M,Dawaran Shubra - Masaken Sheraton,Minibus 305,3,1,1
+P_O_14_IC086,P_O_14,Hyper 1 - Moneeb,Microbus,3,0,0
+P_O_14_IC017,P_O_14,Hossary - Moneeb,Microbus,3,0,0
+MM_NS5,MM,Abbasseya - Al Shorouq Water,MM NS5,3,1,1
+IYD6dwYtSHca6S9EV__lK,P_O_14,Basrawy - Mazallat,Microbus,3,0,0
+P_O_14_CA133,P_O_14,Helwan Metro - Zahraa Madinet Nasr,Microbus,3,0,0
+l-EKz6sq8PlM9bMdDXqUY,P_O_14,10th District (Nasr City) - Al-Salam (10th of Ramadan),Microbus,3,0,0
+5v34MuGjLYA0AFM7dhCCE,CTA,Abbasseya - Moneeb,CTA 1045,3,1,1
+P_O_14_IG018,P_O_14,Abd Al Moneim Riad - Moassasa,Microbus,3,0,0
+P_B_8_NC017,P_B_8,Al Hamd Square - Arabella Square,Tomnaya,3,0,0
+OXsaA6ch0zWJIr-wsnU3M,P_O_14,Masaken Othman (Ezbet El Nakhl) - Moassaset Al Zakah,Microbus,3,0,0
+CTA_26T,CTA,Abbasseya - Amr Ibn El Aas,CTA 26t,3,1,1
+P_O_14_IC016,P_O_14,Hossary - Moassasa,Microbus,3,0,0
+P_O_14_IC057,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Ramses,Microbus,3,0,0
+P_O_14_IC097,P_O_14,Giza Square - Laylat Al Qadr,Microbus,3,0,0
+SI9aO3R9Vl4yBxUdPoO7K,CTA_M,Al Omraneyya Al Gadida - Al Warraq,Minibus 14,3,1,1
+BOX_6O004,BOX,10th District (6th of October) - Laylat Al Qadr,Box,3,0,0
+P_O_14_CA162,P_O_14,8th District (Nasr City) - Al tabba - Awwel Makram Ebeid,Microbus,3,0,0
+P_O_14_IC026,P_O_14,New Marg - Rawda Mosque  (Obour),Microbus,3,0,0
+P_O_14_GZ033,P_O_14,Al Wehda Imbaba (Al Bohi) - Kit Kat Square,Microbus,3,0,0
+P_B_8_CA107,P_B_8,Al Nozha Al Gadida (Gesr El Suez Garage) - Mazlaqan Ain Shams,Tomnaya,3,0,0
+P_O_14_CA120,P_O_14,Matareya Square - Mazlaqan Ain Shams,Microbus,3,0,0
+1ZbDBsUQUJRub7iZYmHFI,P_O_14,Dar El Salam - Fayda Kamel,Microbus,3,0,0
+P_O_14_IG037,P_O_14,Al-Salam (10th of Ramadan) - Haram & Marioteya,Microbus,3,0,0
+CTA_1123,CTA,Bulaq Al Dakrur - Qism El Hadayek,CTA 1123,3,1,1
+CTA_1078,CTA,1st Settlement (New Cairo) - Matbaa,CTA 1078,3,1,1
+wefEKmjKPjq1ZbcWyQSwL,P_B_8,Masaken Othman (Ezbet El Nakhl) - New Marg,Tomnaya,3,0,0
+P_O_14_GZ002,P_O_14,Imbaba - Remaya (New Mashaal),Microbus,3,0,0
+P_O_14_IC044,P_O_14,New Marg - Rehab - Gate 13 - 12,Microbus,3,0,0
+VG85-qS5arY-IxZ4UXiop,P_O_14,Haram & Marioteya - Saqqara Traffic Office,Microbus,3,0,0
+HgOOTYudP9JvGMJLgyyjz,P_O_14,Giza Square - Kit Kat Square,Microbus,3,0,0
+P_O_14_IC079,P_O_14,Abbasseya - Megawra 3 (15th of May),Microbus,3,0,0
+F-huxTOsiGcnkweRGwZg8,CTA_M,Al-Salam (10th of Ramadan) - Attaba,Minibus 106,3,1,1
+CgY1MncbobepPdQSZZ9dl,CTA,Ibrahim Bek - Mamaleek -Manial (Meqyas),CTA 1143,3,1,1
+P_O_14_GZ014,P_O_14,Haram & Marioteya - Moneeb,Microbus,3,0,0
+P_O_14_CA150,P_O_14,Attaba - Ramses,Microbus,3,0,0
+P_O_14_IG015,P_O_14,Abd Al Moneim Riad - Faisal St & Ring Rd,Microbus,3,0,0
+2eCfQDCqolqzBE6SOlWnJ,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Mazlaqan Ain Shams,Microbus,3,0,0
+P_O_14_CA165,P_O_14,Abboud - Mazallat,Microbus,3,0,0
+P_O_14_CA160,P_O_14,Al Banhawi - Salam Alexandria,Microbus,3,0,0
+3JpAdi2uPwMtPTnRK6Jyp,CTA_M,Al Omraneyya Al Gadida - Darrasa,Minibus 78,3,1,1
+P_O_14_CA084,P_O_14,7th District (Nasr City) - Hadaba Wosta (Moqattam),Microbus,3,0,0
+JlzozxxL918inEWQTu3iJ,CTA,Al Zawya Al Hamra - Moneeb,CTA 931,3,1,1
+P_O_14_CA154,P_O_14,Awwel Abbas - Ramses,Microbus,3,0,0
+CTA_2,CTA,AUC Bus - Qism El Hadayek,CTA 2,3,1,1
+P_O_14_IC060,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Giza Square,Microbus,3,0,0
+ER0t9nxcaa0Md4Nm7r-oa,CTA_M,Qalaa - Zahraa Ain Shams,Minibus 30,3,1,1
+P_O_14_IG012,P_O_14,Abd Al Moneim Riad - Al Warraq,Microbus,3,0,0
+P_O_14_QA006,P_O_14,Abou Zaabal - Khanka,Microbus,3,0,0
+P_O_14_IG006,P_O_14,New Marg - Remaya (New Mashaal),Microbus,3,0,0
+P_O_14_IC014,P_O_14,Awwel Makram Ebeid - Hossary,Microbus,3,0,0
+yAI6yQ2LBxm7IO1KMcmR0,P_O_14,Imbaba - Warraq Al Arab (Cima),Microbus,3,0,0
+CTA_1081,CTA,Abd Al Moneim Riad - Isbiko,CTA 1081,3,1,1
+P_O_14_GZ055,P_O_14,Moneeb - Shabramant,Microbus,3,0,0
+bBGSiORySswlj4oOCxk3H,P_O_14,Church (Kayan) - New Administrative Capital - Qalyoub Exit,Microbus,3,0,0
+COOP_IG045,COOP,Moassasa - New Marg,Minibus,3,0,0
+wXzxv5mG6pJgRBElFDWcQ,P_O_14,10th of Ramadan City - Moneeb,Microbus,3,0,0
+P_O_14_CA022,P_O_14,Al Sayeda Aisha - Madinat Al Bo'oth Al Eslamyya,Microbus,3,0,0
+BOX_6O023,BOX,6th District - 6th of October (Al Souq Al Qadeem) - Hamada Emam,Box,3,0,0
+PBikgVF29mTLslC7tpYmN,P_O_14,Al Zawya Al Hamra - Khalafawy Square,Microbus,3,0,0
+BOX_6O024,BOX,6th District - 6th of October (Al Souq Al Qadeem) - Daewoo,Box,3,0,0
+tOuRwi8SSInQQJ7Kbq7O1,P_O_14,Dandy Mall - Remaya (New Mashaal),Microbus,3,0,0
+GxHvz209T3KnqSnTEacs-,P_O_14,Ahmed Helmy - Moassasa,Microbus,3,0,0
+h2J_fjZiNjbt_8gzFSmzs,P_O_14,Dandy Mall - Lebanon Square,Microbus,3,0,0
+P_O_14_CA067,P_O_14,Al Zawya Al Hamra - Ghamra,Microbus,3,0,0
+oBfdc8gljJblvRbAa0dmX,P_O_14,10th District (Nasr City) - 7th District (Nasr City),Microbus,3,0,0
+P_O_14_CA117,P_O_14,Masaken Ain Shams - Matareya Square,Microbus,3,0,0
+UqNUrY5nD-HVKa4Wl0Fi3,P_O_14,Filfil Mosque (Bashtil) - Isaaf,Microbus,3,0,0
+P_O_14_IC050,P_O_14,10th District (Nasr City) - Al Shabab Entrance,Microbus,3,0,0
+P_O_14_CA151,P_O_14,Nahda City - Ramses,Microbus,3,0,0
+P_O_14_IC020,P_O_14,10th District (Nasr City) - Gas (Banks Area),Microbus,3,0,0
+BJ5gu8S2fvtVIQNgi3LNC,P_B_8,Masaken Dahshour - Remaya (New Mashaal),Tomnaya,3,0,0
+P_B_8_IC073,P_B_8,Al Hamd Square - Moneeb Konayyesa,Tomnaya,3,0,0
+P_O_14_CA159,P_O_14,Mazlaqan Al Deweqa - Nahda City,Microbus,3,0,0
+P_O_14_CA131,P_O_14,Al Banhawi - Isbiko,Microbus,3,0,0
+CTA_531,CTA,Attaba - Om Bayoumi (Mintay),CTA 531,3,1,1
+P_O_14_CA025,P_O_14,Alf Maskan - Al Nozha Al Gadida (Gesr El Suez Garage),Microbus,3,0,0
+P_O_14_CA175,P_O_14,Abboud - Roxy,Microbus,3,0,0
+P_O_14_SZ010,P_O_14,Hyper 1 - Zayed 2000,Microbus,3,0,0
+P_O_14_IC092,P_O_14,Al-Salam (10th of Ramadan) - Al Shorouq Academy,Microbus,3,0,0
+P_O_14_CA118,P_O_14,Matareya Square - Mostorod,Microbus,3,0,0
+P_O_14_IC047,P_O_14,Laylat Al Qadr - Lebanon Square,Microbus,3,0,0
+P_O_14_6O029,P_O_14,Dolce - Laylat Al Qadr,Microbus,3,0,0
+P_O_14_IC066,P_O_14,Al Hegaz (Obour Police ) - Al-Salam (10th of Ramadan),Microbus,3,0,0
+IYilQT6atGwqzRh7MNJHd,COOP,Badrasheen - Giza Square,Minibus,3,0,0
+IQBYLZyf_eGY8fK3WVcR0,P_B_8,11th District (6th of October) - Hossary,Tomnaya,3,0,0
+P_O_14_CA155,P_O_14,Al-Salam (10th of Ramadan) - Ramses,Microbus,3,0,0
+P_O_14_GZ059,P_O_14,Mazghuna - Moneeb,Microbus,3,0,0
+COOP_GZ019,COOP,Giza Square - Remaya Square,Minibus,3,0,0
+f_ndpqhZbBLRF7rSyRerB,P_O_14,Haram Areesh (Sahl Hamza) - Ramses,Microbus,3,0,0
+P_O_14_IC021,P_O_14,Gas (Banks Area) - Saqr Quraish,Microbus,3,0,0
+P_O_14_CA147,P_O_14,Abboud - Awwel Al Zawya Al Hamra,Microbus,3,0,0
+COOP_IC042,COOP,Al-Salam (10th of Ramadan) - FUE,Minibus,3,0,0
+P_O_14_IG031,P_O_14,7th District (Nasr City) - Kolleyet Al Zeraah (Ain Shams University),Microbus,3,0,0
+COOP_IC084,COOP,Al-Salam (10th of Ramadan) - Hyper 1,Minibus,3,0,0
+COOP_IC083,COOP,Hyper 1 - Qawmeya Arabeya,Minibus,3,0,0
+COOP_IG026,COOP,10th District (Nasr City) - Qalyoub Exit,Minibus,3,0,0
+PtTt3WzbrwwaHofgpaVMj,COOP,Kolleyet Al Zeraah (Ain Shams University) - Mostorod,Minibus,3,0,0
+foiu6unw8p8KJnIDFM5Xs,P_O_14,Moassasa - Qalyoub El Balad,Microbus,3,0,0
+P_O_14_CA004,P_O_14,Al Sayeda Aisha - Saqr Quraish,Microbus,3,0,0
+COOP_IC077,COOP,New Cairo Academy - New Marg,Minibus,3,0,0
+O__qyKz6kCZCjrNB-7OYX,P_O_14,Helwan Post Office - Tibeen,Microbus,3,0,0
+MM_M21,MM,Cairo University - Laylat Al Qadr,MM M21,3,1,1
+MM_618,MM,7th District (Nasr City) - Obour,MM 618,3,1,1
+uPQepJdL4bjoI0R7J9XKz,CTA,Athar Al Naby - Bulaq Al Dakrur,CTA 96,3,1,1
+P_O_14_CA169,P_O_14,Al-Salam (10th of Ramadan) - Awwel Abbas,Microbus,3,0,0
+P_B_8_NC012,P_B_8,Gas (Banks Area) - Kattameya (Mahmoudeya),Tomnaya,3,0,0
+EgKIe-2AnaMNxtDaRSfZi,P_B_8,Gas (Banks Area) - Kattameya (Mahmoudeya),Tomnaya,3,0,0
+P_O_14_CA140,P_O_14,Helwan Metro - Tibeen,Microbus,3,0,0
+r2vpERz_TL7ahX5F7dvh9,CTA,Al Warraq - Qalaa,CTA 609,3,1,1
+P_O_14_IG010,P_O_14,Al Wehda Imbaba (Al Bohi) - Isaaf,Microbus,3,0,0
+bn1tRMyVcFLKoJ48jSDDC,CTA,Ahmed Helmy - Lebanon Square,CTA 173ss,3,1,1
+PDlizFncn7JYVajF5DkR9,P_O_14,Abou El Numrus - Shabramant,Microbus,3,0,0
+P_O_14_CA005,P_O_14,Al Sayeda Aisha - Hadaba Wosta (Moqattam),Microbus,3,0,0
+GKwSUuezWdV45Rd_Qtady,P_O_14,Abd Al Moneim Riad - Faisal Tawabek,Microbus,3,0,0
+BOX_6O003,BOX,10th District (6th of October) - Dolce,Box,3,0,0
+iDpD8dsATU1Rs0Mdtlwor,P_O_14,Moassasa - Mostorod,Microbus,3,0,0
+P_O_14_IC003,P_O_14,Al Sayeda Aisha - New Cairo Court,Microbus,3,0,0
+P_O_14_CA129,P_O_14,Ghamra - Masaken Ain Shams,Microbus,3,0,0
+P_O_14_IG092,P_O_14,Al-Salam (10th of Ramadan) - Moassasa,Microbus,3,0,0
+MM_M11,MM,City Stars - Hadayek AL Ahram (Second Gate),MM M11,3,1,1
+FBT0F0L0nZP2Z5ICmHls-,P_O_14,Giza Square - Matbaa,Microbus,3,0,0
+CTA_1140,CTA,Imbaba - Moneeb,CTA 1140,3,1,1
+RSdIAdQiV_sN5aWHuOSsc,P_O_14,Amiriya - Hadaek EL Kobba,Microbus,3,0,0
+P_O_14_CA112,P_O_14,Abbasseya - Masaken Ain Shams,Microbus,3,0,0
+CTA_M_158,CTA_M,Abd Al Moneim Riad - Cairo Airport,Minibus 158,3,1,1
+G3SanxHficxx5Wx3Kfnn0,P_O_14,Hyper 1 - Lebanon Square,Microbus,3,0,0
+P_O_14_IC056,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Hyper 1,Microbus,3,0,0
+fwS4JbFtp5dtGtwMGqXBH,P_O_14,Al Sayeda Aisha - Haram & Marioteya,Microbus,3,0,0
+P_O_14_IC074,P_O_14,Hyper 1 - New Marg,Microbus,3,0,0
+dGZEosc821pSF0MGiNb76,P_O_14,Alf Maskan - Al Sheikh Mansour,Microbus,3,0,0
+P_O_14_GZ042,P_O_14,Badrasheen - Moneeb,Microbus,3,0,0
+G78c4G-oy20XNbcMYCzxY,P_O_14,Dawaran Shubra - Orabi Bridge,Microbus,3,0,0
+EbtM_hQ0jhsQyuGc5GCpz,P_B_8,CIC - Hyper 1,Tomnaya,3,0,0
+P_O_14_IC037,P_O_14,Alf Maskan - Al Shorouq Academy,Microbus,3,0,0
+JyWtn3ABwFi8HtnOdZir3,P_O_14,Ard El Lewaa - Imbaba,Microbus,3,0,0
+CTA_833,CTA,Mazallat - Motseian,CTA 833,3,1,1
+HZd1EesltJ445uu9I6wbH,P_O_14,Awwel Al Zawya Al Hamra - Hadaek EL Kobba,Microbus,3,0,0
+Eq5DUhwePKrivC_r5EyAz,CTA,Al Sayeda Aisha - Imbaba,CTA 99,3,1,1
+P_O_14_IG073,P_O_14,Attaba - Filfil Mosque (Bashtil),Microbus,3,0,0
+30QI2WFsvNrXncGOrD-Yl,P_B_8,Carrefour - Maadi - Masaken Betcho,Tomnaya,3,0,0
+LpiM9b8bL-w2_OYYAi9OZ,P_O_14,Bohooth (Al Kobri Al Khashab) - Bulaq Al Dakrur,Microbus,3,0,0
+MfH-pfpTAl0OVRoWJgzRH,CTA,Attaba - Moassasa,CTA 24,3,1,1
+EN8O17ndwKGdqbV4Vemgm,CTA,Amiriya - Moneeb,CTA 916,3,1,1
+CTA_828,CTA,Abd Al Moneim Riad - Masaken Ain Shams,CTA 828,3,1,1
+P_O_14_IG039,P_O_14,Al Warraq - Attaba,Microbus,3,0,0
+P_O_14_IC076,P_O_14,Laylat Al Qadr - New Marg,Microbus,3,0,0
+P_O_14_CA142,P_O_14,Abboud - Helwan Metro,Microbus,3,0,0
+aJY-YEz8s6i0ojLZgEitA,P_O_14,Alf Maskan - Kilo 4 & Half,Microbus,3,0,0
+P_B_8_GZ060,P_B_8,Marioteya & Ring Rd - Moneeb,Tomnaya,3,0,0
+OV9c3M2XEp7fizUlcqY26,P_O_14,10th District (Nasr City) - Alf Maskan,Microbus,3,0,0
+P_O_14_IC068,P_O_14,Gas (Banks Area) - Moneeb,Microbus,3,0,0
+uW2y9jwwdAHo_waEy2qex,P_O_14,Cairo Alexandria Agriculture Road - New Marg,Microbus,3,0,0
+67VWfBwz-LVqC7OxaN5Cj,P_O_14,Haram & Marioteya - Kerdasa,Microbus,3,0,0
+P_O_14_6O021,P_O_14,Al Motamayez - Laylat Al Qadr,Microbus,3,0,0
+tChScy_qLlcoN-TeOox9G,P_O_14,Ain Shams Metro - Masaken Ain Shams,Microbus,3,0,0
+KmVdHOhRfUX8cw29qR_Vo,P_B_8,Kerdasa - Saft Al Laban,Tomnaya,3,0,0
+8TSoqsVo41bExi7Jg16qQ,P_O_14,Bulaq Al Dakrur - Ramses,Microbus,3,0,0
+rdpn6hzcA1xgiqwViabDy,P_B_8,Masaken Othman (Ezbet El Nakhl) - New Marg,Tomnaya,3,0,0
+utymBvr8ZF897oTW9pDue,CTA,Abd Al Moneim Riad - Om Bayoumi (Mintay),CTA 28,3,1,1
+P_O_14_IC004,P_O_14,Al Sayeda Aisha - Kattameya Church,Microbus,3,0,0
+CTA_80,CTA,10th District (Nasr City) - Darrasa,CTA 80,3,1,1
+ejAVozyP784n-DqXuiW2U,CTA,Abd Al Moneim Riad - Basateen,CTA 154,3,1,1
+P_O_14_CA130,P_O_14,Korba - Masaken Ain Shams,Microbus,3,0,0
+eZRgIovK0tJAVzmhR85GR,P_O_14,Moneeb - Remaya (New Mashaal),Microbus,3,0,0
+P_B_8_CA106,P_B_8,Al Nozha Al Gadida (Gesr El Suez Garage) - Masaken Ain Shams,Tomnaya,3,0,0
+6Qg43sT3Clqienri3AXm7,P_O_14,Ahmed Helmy - Al-Salam (10th of Ramadan),Microbus,3,0,0
+c9cUCbuNGMusHnHEIT34g,CTA,Attaba - Bulaq Al Dakrur,CTA 166,3,1,1
+CTA_1147,CTA,Attaba - Obour,CTA 1147,3,1,1
+CTA_69,CTA,1st Settlement (New Cairo) - Attaba,CTA 69,3,1,1
+P_O_14_IG096,P_O_14,Fayda Kamel - Giza Square,Microbus,3,0,0
+P_O_14_IC100,P_O_14,Kolleyet Al Zeraah (Ain Shams University) - Obour Market,Microbus,3,0,0
+COOP_GZ029,COOP,Giza Square - Tagneed (Al Remaya),Minibus,3,0,0
+P_O_14_IC089,P_O_14,Al Hamd Square - Moneeb,Microbus,3,0,0
+CTA_31S,CTA,Al Zawya Al Hamra - Giza Square,CTA 31s,3,1,1
+P_O_14_CA040,P_O_14,Alf Maskan - Al Sheikh Mansour,Microbus,3,0,0
+COOP_IG048,COOP,Mazallat - Qalyoub,Minibus,3,0,0
+P_O_14_CA032,P_O_14,Ain Shams Metro - Alf Maskan,Microbus,3,0,0
+P_O_14_IG056,P_O_14,Kolleyet Al Zeraah (Ain Shams University) - Mostorod,Microbus,3,0,0
+P_O_14_IC013,P_O_14,Hossary - Ramses,Microbus,3,0,0
+tywNfVmg7Vw0gAzy8NLvu,P_O_14,Haram & Marioteya - Hossary,Microbus,3,0,0
+wt6gx-bxKC-Iyl7o604Vq,P_O_14,7th District (Nasr City) - Moassasa,Microbus,3,0,0
+22jIZH2MmWm88pZ3MORG_,P_O_14,Imbaba - Obour,Microbus,3,0,0
+-VhmbIy80una-3ZcYAtuQ,P_O_14,Ard El Lewaa - Barageel St,Microbus,3,0,0
+0mQ8cT0ZE81ogwfFKHdrc,CTA_M,Al Zawya Al Hamra - Arab Maadi,Minibus 48,3,1,1
+m9IKw8bdVfTvbKv5OgLgV,P_O_14,Al Sawah Square - Roxy,Microbus,3,0,0
+lERFh__deEcw2uO7KdOxv,P_O_14,Haram & Marioteya - Moneeb,Microbus,3,0,0
+CTA_250,CTA,Attaba - Warraq Al Arab (Cima),CTA 250,3,1,1
+jZkmaAxA5oIPfa38GBCb4,P_O_14,Awwel Makram Ebeid - Remaya (New Mashaal),Microbus,3,0,0
+egjPD6593CKn95Mk98b1K,CTA_M,Darrasa - Masaken Othman (Ezbet El Nakhl),Minibus 31,3,1,1
+u02rskAm9s9jHxaOs9NhQ,CTA,8th District (Nasr City) - Al tabba - Ahmed Helmy,CTA 59,3,1,1
+MXkuS2j7tp4MjRSbo-Q6f,P_O_14,Al-Salam (10th of Ramadan) - Salam Alexandria,Microbus,3,0,0
+CTA_970-1051,CTA,Cairo Airport - Moassasa,CTA 1051,3,1,1
+P_O_14_CA081,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Al Sa'a Square,Microbus,3,0,0
+P_O_14_IG060,P_O_14,Ramses - Warraq Al Arab (Cima),Microbus,3,0,0
+P_O_14_IC063,P_O_14,Haram & Marioteya - Megawra 11 (15th of May),Microbus,3,0,0
+P_O_14_CA097,P_O_14,Mohagreen (Ezbet Al Nakhl) - New Marg,Microbus,3,0,0
+BamKiGYQ3P_xZETsNX1a5,P_O_14,Al Sayeda Nafeesa - Znen (Awwel Al Eshreen),Microbus,3,0,0
+Y-YHy-wjklAYFa_6LghGz,CTA,Abu Al Houl St - Moassasa,CTA 2001,3,1,1
+P_O_14_IG024,P_O_14,Haram Mashaal - Moassasa,Microbus,3,0,0
+ADJZbj6QAtiHt8lqBibnV,CTA_M,Darrasa - Isko,Minibus 80,3,1,1
+lXqxNN6vXSyk0IYiGiSVf,P_O_14,Kafr Al Shurafa - New Marg,Microbus,3,0,0
+P_B_8_6O017,P_B_8,6th District - 6th of October (Al Souq Al Qadeem) - Al Motamayez,Tomnaya,3,0,0
+CTA_99SS,CTA,Al Sayeda Aisha - Imbaba,CTA 99ss,3,1,1
+P_O_14_IG022,P_O_14,Haram Mashaal - Ramses,Microbus,3,0,0
+Tpa0A12goEVH-sdvNU4pa,CTA,Abbasseya - Matbaa,CTA 430,3,1,1
+Vdn0kVuba4a9LxwlhEGiJ,CTA,Attaba - Ibrahim Bek,CTA 967,3,1,1
+zB2dG9TMv7AhP64pVaI2B,P_O_14,10th District (Nasr City) - Zahraa Madinet Nasr,Microbus,3,0,0
+X58kvJ659-Gn2oLWjTaD4,P_O_14,Hossary - Zahraa Madinet Nasr,Microbus,3,0,0
+P_O_14_CA077,P_O_14,Helwan - Tibeen,Microbus,3,0,0
+NUilWKiUS6Kx6c0X5hCYF,P_O_14,Alf Maskan - Roxy,Microbus,3,0,0
+OOILmjleFc1XPBnUjoK58,P_O_14,Ard El Lewaa - Bashtil El Balad,Microbus,3,0,0
+P_B_8_6O010,P_B_8,Dolce - Hossary,Tomnaya,3,0,0
+P_B_8_6O012,P_B_8,Hossary - Laylat Al Qadr,Tomnaya,3,0,0
+P_O_14_IG034,P_O_14,Arab Maadi - Haram & Marioteya,Microbus,3,0,0
+P_O_14_IC043,P_O_14,FUE - Moneeb,Microbus,3,0,0
+dZLGvivIWt6t7VSFtbMB9,CTA,Ahmed Helmy - Amiriya,CTA 290,3,1,1
+HRKfVI0GjLKHq6o9ulFba,P_O_14,Abbasseya - Mazlaqan Al Deweqa,Microbus,3,0,0
+j7UPthklnvwZzR-_G5yRe,CTA_M,Kilo 4 & Half - Orabi Bridge,Minibus 162,3,1,1
+h8hJSqxjvR_DV1rkw2S5k,P_O_14,Bulaq Al Dakrur - Isaaf,Microbus,3,0,0
+eMaHcYlisvFxLtiCbDGRM,CTA,Abd Al Moneim Riad - Amiriya,CTA 38,3,1,1
+ZqF0hj3CyZzVwb8YwhrN3,P_O_14,Awwel Al Zawya Al Hamra - New Marg,Microbus,3,0,0
+oVLz5uMkzuzBcOtlii3MM,P_O_14,Hadaek EL Kobba - Matareya Square,Microbus,3,0,0
+6snbHgT_od7Wcobjy2M68,CTA,New Marg - Ramses,CTA 1055,3,1,1
+k_9mWTTJJol46IWykMhrV,P_O_14,Abbasseya - Alf Maskan,Microbus,3,0,0
+vvE6l7VzFeki_7IJpH25B,CTA,Attaba - Masaken Othman (Ezbet El Nakhl),CTA 41,3,1,1
+MUrGLjBAM0T83fv3U3Mqa,P_O_14,Bulaq Al Dakrur - Haram Areesh (Sahl Hamza),Microbus,3,0,0
+db_dOwMf5RFl45eluXu_7,CTA,Moassasa - Qalaa,CTA 235,3,1,1
+iCZTu5NQScawKNksGO9uH,P_O_14,Khanka - New Marg,Microbus,3,0,0
+Rh-QBHyvCmHYpwBY-voEg,P_O_14,Al-Salam (10th of Ramadan) - Salam Alexandria,Microbus,3,0,0
+P_O_14_IC005,P_O_14,Mehwar & Alex Desert Rd - Smart Village,Microbus,3,0,0
+fhoRkkZP1LuBccGcQ-lPf,P_O_14,Bigam - Moassasa,Microbus,3,0,0
+P_O_14_GZ030,P_O_14,Abou Rawwash - Akher Faisal,Microbus,3,0,0
+UYpQshWZml8TRw8pbOOWx,P_B_8,Al Magzar (Mariouteya) - Marioteya & Ring Rd,Tomnaya,3,0,0
+P_O_14_GZ048,P_O_14,El Kafr (Birak Al Khiyam) - Nahia,Microbus,3,0,0
+SijHB3MvvH7y5f_lh6hO3,P_O_14,Giza Square - Zahraa Metro,Microbus,3,0,0
+BOX_6O002,BOX,10th District (6th of October) - 6th District - 6th of October (Al Souq Al Qadeem),Box,3,0,0
+XHoe5oRTlC1Ihm0e712t_,P_O_14,Abd Al Moneim Riad - Imbaba,Microbus,3,0,0
+j0B0wGsqFxUkOptBjcLvx,CTA_M,Al Sayeda Nafeesa - Isko,Minibus 89,3,1,1
+P_O_14_IC028,P_O_14,Mehwar & Alex Desert Rd - Remaya (New Mashaal),Microbus,3,0,0
+P_O_14_IC053,P_O_14,Gas (Banks Area) - Saqr Quraish,Microbus,3,0,0
+Fuoze4mwamBt6aoqW-wJH,P_O_14,Matareya Square - Roxy,Microbus,3,0,0
+pVHOF8IJskNhngPjJTJY5,P_O_14,Abd Al Moneim Riad - Al Wehda Imbaba (Al Bohi),Microbus,3,0,0
+UydKv2gM1kSDyx7u4jZIV,CTA,7th District (Nasr City) - Darrasa,CTA 24g,3,1,1
+kv8R2uui-Di2K3gVwZO78,P_O_14,Giza Square - Hawamdeyya,Microbus,3,0,0
+Ml8Z5Ycxg-taVluDdj9eh,CTA,Giza Square - Ibrahim Bek,CTA 1028,3,1,1
+8RzwcHgdiBJrQow3-bGIj,P_O_14,Giza Square - Haram Areesh (Sahl Hamza),Microbus,3,0,0
+lnb3vDxVc9ZLbejDbwGIm,CTA,Abd Al Moneim Riad - Khosous,CTA 724,3,1,1
+yjnyYheH7FsPkAk-gppMs,P_O_14,Abbasseya - Awwel Makram Ebeid,Microbus,3,0,0
+24kdxuuUjA0qtjg6P-OPh,CTA,Abd Al Moneim Riad - Qalyoub,CTA 211,3,1,1
+-lI1f278TKfnCnumdD48V,P_O_14,Cairo University Metro - Znen (Awwel Al Eshreen),Microbus,3,0,0
+kBtm-qZ0NnQ1idoAL_yfA,CTA,Darrasa - Imbaba,CTA 1117,3,1,1
+P_O_14_CA090,P_O_14,7th District (Nasr City) - Abboud,Microbus,3,0,0
+vPxZODNW0MlX1OZFVTl8e,P_O_14,Awwel Makram Ebeid - Ramses,Microbus,3,0,0
+t-VkUnvixIVORTzsevcAZ,CTA,Amr Ibn El Aas - Bulaq Al Dakrur,CTA 814,3,1,1
+8X8gLBYp6o4Z9Dc0_MySn,P_O_14,Hyper 1 - Remaya (New Mashaal),Microbus,3,0,0
+ldy3O2UlQPWYA4Jj8vJgN,CTA,Abd Al Moneim Riad - Saqr Quraish,CTA 160,3,1,1
+fI_k2RnEr3Kvx-feFgZpe,P_O_14,Haram & Marioteya - Matbaa,Microbus,3,0,0
+ivXdrHhB3_jqwPHGsvb9r,P_O_14,Ain Shams Metro - Al Nozha Al Gadida (Gesr El Suez Garage),Microbus,3,0,0
+4P_RC_FgHuWtFC8yoCbgz,CTA,Giza Square - Moassasa,CTA 1160,3,1,1
+UkiuAl8JoV2LRVvfwCXZF,COOP,Al-Salam (10th of Ramadan) - Awwel Al Zawya Al Hamra,Minibus,3,0,0
+CT0zYWqMQPGAbKnQfzLyJ,CTA,Abd Al Moneim Riad - Masaken Almaza,CTA 1007,3,1,1
+COOP_GZ009,COOP,Applied Arts - Cairo University - Lebanon Square,Minibus,3,0,0
+P_B_8_6O020,P_B_8,Al Motamayez - Dolce,Tomnaya,3,0,0
+79A4DBdhOZXDQqFQNdq_5,P_B_8,Carrefour - Maadi - Zahraa Metro,Tomnaya,3,0,0
+ne9Df9bfGqa0RrCaPqNTA,P_O_14,Al Sayeda Aisha - Moneeb,Microbus,3,0,0
+IcpqTJSZNZXngGCgzW0-u,P_O_14,Fayda Kamel - Saqr Quraish,Microbus,3,0,0
+2nunj7L0d16GI8GHhNASo,P_O_14,Al-Salam (10th of Ramadan) - Al Sayeda Aisha,Microbus,3,0,0
+zRAXMgMRMVRhmAULPLo0R,P_O_14,Al Sayeda Aisha - Saad Zaghloul Metro,Microbus,3,0,0
+a857emSd0Eg9_C49Uly1i,P_O_14,Alf Maskan - Shabab (Obour),Microbus,3,0,0
+blJ-Wh52qAtvzY4CZegdj,P_O_14,Giza Square - Moneeb,Microbus,3,0,0
+XXk6QOM27EiINNJVOjcue,CTA_M,Giza Square - Tagneed (Al Remaya),Minibus 12,3,1,1
+P_O_14_IC091,P_O_14,Al Shorouq Academy - Awwel Makram Ebeid,Microbus,3,0,0
+P_O_14_CA119,P_O_14,Awwel Al Zawya Al Hamra - Matareya Square,Microbus,3,0,0
+COOP_QA007,COOP,Abou Zaabal - Mostorod Ring Rd,Minibus,3,0,0
+dbjKnrgfrSA1JY3LJPYuQ,P_O_14,Koleyet Al Banat - Azhar University - Ramses,Microbus,3,0,0
+21kZwsX6wTR98GRcou2yw,CTA,Kilo 4 & Half - Moassasa,CTA 927,3,1,1
+P_O_14_IC082,P_O_14,Hyper 1 - Ramses,Microbus,3,0,0
+yiVgiNyYpe2oH4ZTN0Baq,P_O_14,Alf Maskan - Rehab - Gate 13 - 12,Microbus,3,0,0
+GXDzdgrpKw9Tm5MLKMFPP,P_O_14,Moneeb - Qasr Al Einy,Microbus,3,0,0
+QORyzDKyscDKk9XRt8ZYZ,P_O_14,Isbiko - Nahda City,Microbus,3,0,0
+CTA_104S,CTA,Attaba - Bashtil,CTA 104,3,1,1
+P_O_14_CA164,P_O_14,Ahmed Maher Hospital - Dar El Salam,Microbus,3,0,0
+6K4_YEnZjlrZGldv7Yl2T,P_O_14,Imbaba - Moassasa,Microbus,3,0,0
+rN_2eW65vTEH6zLEx4HC1,P_O_14,Alf Maskan - Al-Salam (10th of Ramadan),Microbus,3,0,0
+xniqp9cSgkWVk0k63CbZl,CTA,Ibrahim Bek - Masaken Sheraton,CTA 1146,3,1,1
+COOP_IG081,COOP,Bab Al Shaaria Square - Khosous,Minibus,3,0,0
+3WAtjq7S69P9s8WhLOr4f,CTA,Abd Al Moneim Riad - Cairo Airport,CTA 1036,3,1,1
+YlvolLQ1uzaw8eiT89HI2,CTA,Abbasseya - Warraq Al Arab (Cima),CTA 1101,3,1,1
+T9Z1u1IkkEycKE6B_nakJ,P_O_14,Alf Maskan - Korba,Microbus,3,0,0
+MSR_Ms4,LTRA_M,Masaken Dahshour - Ramses,Minibus Ms4,3,1,1
+P_B_8_IC068,P_B_8,Gas (Banks Area) - Moneeb,Tomnaya,3,0,0
+P_B_8_6O019,P_B_8,6th District - 6th of October (Al Souq Al Qadeem) - Laylat Al Qadr,Tomnaya,3,0,0
+w9djMYsSD5gf7qz9VLvjn,P_O_14,Abbasseya - Hadaba Wosta (Moqattam),Microbus,3,0,0
+e1xAb2o6cgzGY9iNvA5aG,P_O_14,Abd Al Moneim Riad - Hossary,Microbus,3,0,0
+h7v0GKemY5eE-eh4q1KCJ,CTA,Abd Al Moneim Riad - Al Nozha Al Gadida (Gesr El Suez Garage),CTA 1121,3,1,1
+P_O_14_IG057,P_O_14,Attaba - Kerdasa,Microbus,3,0,0
+P_O_14_CA108,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Mazlaqan Ain Shams,Microbus,3,0,0
+YiqckBVvySeTMxSuhIb93,P_O_14,Abd Al Moneim Riad - Arab Maadi,Microbus,3,0,0
+dM98F5uCHLC-eVa5-BvJZ,P_O_14,Saqr Quraish - Zahraa Madinet Nasr,Microbus,3,0,0
+YOUm7rdzNVY6LFG9JKpHr,P_O_14,Helwan - Saqr Quraish,Microbus,3,0,0
+QeibrVPEcAQDuGbYNqK3W,P_O_14,Alf Maskan - Al Nozha Al Gadida (Gesr El Suez Garage),Microbus,3,0,0
+CTA_1162,CTA,Moneeb - Zahraa Madinet Nasr,CTA 1162,3,1,1
+zhdTDeTPdK8yAT1I8NTLw,CTA,Ahmed Helmy - Masallah Al Gadeda (Matareyya),CTA 290,3,1,1
+CTA_83,CTA,Amr Ibn El Aas - Om Bayoumi (Mintay),CTA 83,3,1,1
+deuSL4GElipbqZ1Ys9lLE,CTA,Al Sayeda Aisha - Imbaba,CTA 20,3,1,1
+fKnTlCkWALIgjxXU63NNV,P_O_14,Haram & Marioteya - Shabramant,Microbus,3,0,0
+CTA_580,CTA,Asmarrat - Manshiyat Nasser,CTA 580,3,1,1
+COOP_IG069,COOP,Bab Al Shaaria Square - Ibrahim Bek,Minibus,3,0,0
+3waGFbKHjbGyHsGw8XnY4,P_O_14,Giza Square - Hyper 1,Microbus,3,0,0
+MM_111,MM,Cairo Airport - Dawaran Shubra,MM 111,3,1,1
+P_O_14_CA086,P_O_14,7th District (Nasr City) - Ramses,Microbus,3,0,0
+a4gnGzOuEjFFXiOYfTYg9,CTA,8th District (Nasr City) - Al tabba - Abd Al Moneim Riad,CTA 32,3,1,1
+Sw7KMUZPTGb_ZDHt4D-yr,CTA_M,Abd Al Moneim Riad - Masaken Al Shorouq,Minibus 25,3,1,1
+7K3l-wUpwMqCltVD6bzOd,COOP,Giza Square - Imbaba,Minibus,3,0,0
+P_O_14_CA089,P_O_14,7th District (Nasr City) - Qism El Hadayek,Microbus,3,0,0
+VjYEpD99WGuBFvH5Dw-gV,CTA,Bulaq Al Dakrur - Masaken Al Wehda,CTA 1133,3,1,1
+rumnfrVLyA8ZA3JpTI5Ef,CTA,Bulaq Al Dakrur - Om Bayoumi (Mintay),CTA 203,3,1,1
+9HZEMuRNsQzN9flynqhET,P_O_14,Al Malek Al Saleh - Matbaa,Microbus,3,0,0
+AsoLzlPVywndjqDIeorpb,P_O_14,Masaken Ain Shams - Ramses,Microbus,3,0,0
+mVQ0zufyJ93lZbi9DOTdP,P_O_14,7th District (Nasr City) - Alf Maskan,Microbus,3,0,0
+czcD_GDbPM3RYT-b_E4GE,P_O_14,Bohooth (Al Kobri Al Khashab) - Lebanon Square,Microbus,3,0,0
+X7OUnQkaUhlNHC3RmAKjb,P_O_14,Al Sayeda Aisha - Awwel Makram Ebeid,Microbus,3,0,0
+KZbzaf9cmgAB7KuFCo1MM,CTA_M,Ahmed Helmy - Zahraa Madinet Nasr,Minibus 82,3,1,1
+RNWAMpjdKYvRHnfD_wR27,CTA,Abd Al Moneim Riad - Moneeb,CTA 124,3,1,1
+9j2ux9o5-KraQgcDFxC0H,CTA,Al Qanatir Al Khayriyyah - Attaba,CTA 212,3,1,1
+GT_lXm70bMWn54RrTwB2R,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Ramses,Microbus,3,0,0
+kchlu_YSoCWiXIfcmzM2n,P_O_14,Al-Salam (10th of Ramadan) - Rawda Mosque  (Obour),Microbus,3,0,0
+26Q9q9X6pYG2gBMg7IWKk,P_O_14,Mazlaqan Al Deweqa - Moneeb,Microbus,3,0,0
+hnRdMePAiavyLNXrgXpgd,P_O_14,Al Sayeda Aisha - Basateen,Microbus,3,0,0
+Zl9qxNlqnCCOTNhz07iZt,P_O_14,Bulaq Al Dakrur - Moneeb,Microbus,3,0,0
+RsaOPeERsjGuuC6Q-S_FU,COOP,Masaken Othman (Ezbet El Nakhl) - Matareya Square,Minibus,3,0,0
+Dnad46KxSgtz6WrdlQUHY,P_B_8,Asmarrat - Manshiyat Nasser,Tomnaya,3,0,0
+P_O_14_CA002,P_O_14,Al Sayeda Aisha - Saqr Quraish,Microbus,3,0,0
+1hy6BzswcfezL07nZtvGZ,P_O_14,Masaken Ain Shams - Matareya Square,Microbus,3,0,0
+jH8jIzX99Uq4NH-UZS5XF,P_O_14,10th District (Nasr City) - Rehab - Gate 6,Microbus,3,0,0
+4E_NzHWE6SBBt9WiSwera,P_O_14,10th of Ramadan City - Al-Salam (10th of Ramadan),Microbus,3,0,0
+dJf-9v2Gx-4ypC7DPKMUc,CTA,Amiriya - Masaken Zeinhom,CTA 1059,3,1,1
+EdxCXX3s8ILq_VMt8162G,P_O_14,Al Zawya Al Hamra - Imbaba,Microbus,3,0,0
+ijoblexYmIYN_Bo_iD_Wg,CTA,Abageyah - Masaken Al Wehda,CTA 1072,3,1,1
+YC8mSQwzG7-Amd9rDuPR1,P_O_14,Bashtil El Balad - Kit Kat Square,Microbus,3,0,0
+9JtrrWplRidMq_w6-6Bs8,P_O_14,Al Warraq - Ramses,Microbus,3,0,0
+aWV3f3TuFNL4Wo6tZP7KU,CTA,Lebanon Square - Saqr Quraish,CTA 1084,3,1,1
+bPAOgrQbVCQOI58hPq8M2,CTA_M,Abou Wafya - Zahraa Madinet Nasr,Minibus 120,3,1,1
+pHXU8x5lS5GcVfRS1nUfp,CTA_M,8th District (Nasr City) - Al tabba - Abd Al Moneim Riad,Minibus 184,3,1,1
+AK9Xq6-wtWH9sbUvuMUdZ,CTA_M,Al Omraneyya Al Gadida - Al Zawya Al Hamra,Minibus 424,3,1,1
+ETX2nqBxCzv_fCv4LLihL,P_O_14,Moassasa - Qalyoub,Microbus,3,0,0
+Plpoxm6EKpqHluA67UbO1,CTA,Attaba - Qalyoub,CTA 917,3,1,1
+XJQVWOM0aIFhA0CTFaprI,P_O_14,Moassasa - Obour Market,Microbus,3,0,0
+P_B_8_CA097,P_B_8,Mohagreen (Ezbet Al Nakhl) - New Marg,Tomnaya,3,0,0
+P_O_14_CA167,P_O_14,Rabaah Al Adaweya Mosque - Salam Alexandria,Microbus,3,0,0
+P_B_8_6O001,P_B_8,10th District (6th of October) - Hossary,Tomnaya,3,0,0
+15BSVKWwvsIQTR_rWUxzo,CTA_M,Arab Al Tawaila - Darrasa,Minibus 202,3,1,1
+FCAAr3fes-LcOKbkahMq-,P_O_14,Mazallat - Mostorod,Microbus,3,0,0
+ORbU8y-2u8NYD8VDwA_c2,CTA,Al Sayeda Aisha - Warraq Al Arab (Cima),CTA 86,3,1,1
+4cp78uINFpGWUO3lvHpAX,P_O_14,Awwel Makram Ebeid - Ghamra,Microbus,3,0,0
+ghUS4XUgfmpDNLCwwFfTq,CTA,8th District (Nasr City) - Al tabba - Attaba,CTA 69ss,3,1,1
+vffeFh9VQdtrf4m7w-fNP,CTA,Abd Al Moneim Riad - Ibrahim Bek,CTA 24s,3,1,1
+YOeG87a61PuMMNWtTAVCS,CTA,Abbasseya - Warraq Al Arab (Cima),CTA 1125,3,1,1
+jAkc2JP8TWQ7cm1sx3V2V,COOP,Attaba - Om Bayoumi (Mintay),Minibus,3,0,0
+whPhZJOh0ITe1RuUOEZX2,CTA,Bulaq Al Dakrur - Darrasa,CTA 186,3,1,1
+vzaclNhp7UH-JW9CUKVZf,CTA,Bashtil - Darrasa,CTA 815,3,1,1
+XEvmtqv39IKsFQIslODQ_,P_O_14,Al-Salam (10th of Ramadan) - Obour Market,Microbus,3,0,0
+0A3pcPjwLEpq7hwveYoyO,P_O_14,Alf Maskan - Al-Salam (10th of Ramadan),Microbus,3,0,0
+AraWFRXUDKxtJaQwJRzX3,CTA,Lebanon Square - Masaken Al Wehda,CTA 16,3,1,1
+GZtwE0__sVe5sfdM8Hq45,P_O_14,Al Sayeda Aisha - Ramses,Microbus,3,0,0
+B31s4JolfJ0z-HLdNoXCR,CTA,Abou Wafya - Al Sayeda Nafeesa,CTA 1060,3,1,1
+NQ9Wqx8QvnYzPFWEsHHiM,P_B_8,Hossary - Masaken Dahshour,Tomnaya,3,0,0
+YIHTQhZhY68hR2EQjvlF-,CTA,Basateen - Moneeb,CTA 923,3,1,1
+3Yvct3Jc-AgCLWnx8iJb-,P_O_14,Al Sa'a Square - Helmeyet El Zaitoun Metro,Microbus,3,0,0
+Z2RSwdOqb-nYzFdq9dXUL,P_O_14,Al Warraq - Moassasa,Microbus,3,0,0
+P_O_14_IC039,P_O_14,Mehwar & Alex Desert Rd - Remaya Square,Microbus,3,0,0
+CTA_103-1094,CTA,Attaba - Motseian,CTA 1094,3,1,1
+P_B_8_IC067,P_B_8,Gas (Banks Area) - Zahraa Metro,Tomnaya,3,0,0
+YyMVnpFACm_b2uotE7GjR,P_O_14,Al-Salam (10th of Ramadan) - Matareya Square,Microbus,3,0,0
+U1qTC-v8kA9-Rkit2YfDm,P_O_14,Alf Maskan - Arab Al Tawaila,Microbus,3,0,0
+P_O_14_CA087,P_O_14,7th District (Nasr City) - Ramses,Microbus,3,0,0
+P_O_14_IG083,P_O_14,Imbaba - Mazallat,Microbus,3,0,0
+CTA_24T,CTA,7th District (Nasr City) - Darrasa,CTA 24t,3,1,1
+P_O_14_CA092,P_O_14,New Marg - Zahraa Madinet Nasr,Microbus,3,0,0
+P_O_14_CA088,P_O_14,7th District (Nasr City) - Ghamra,Microbus,3,0,0
+AsBiwEEcVj3jrx8lh9jms,CTA,Attaba - Om Bayoumi (Mintay),CTA 992,3,1,1
+P_O_14_IC085,P_O_14,Haram Mashaal - Hyper 1,Microbus,3,0,0
+P_O_14_CA009,P_O_14,Al Sayeda Aisha - Attaba,Microbus,3,0,0
+COOP_IC044,COOP,New Marg - Rehab - Gate 13 - 12,Minibus,3,0,0
+P_O_14_IG028,P_O_14,Haram & Marioteya - Saqr Quraish,Microbus,3,0,0
+CTA_568,CTA,Attaba - Lebanon Square,CTA 568,3,1,1
+CTA_318,CTA,Al Nozha Al Gadida (Gesr El Suez Garage) - Cairo Airport,CTA 318,3,1,1
+P_B_8_CA046,P_B_8,Abou Al Reesh - Masaken Zeinhom,Tomnaya,3,0,0
+P_O_14_IG027,P_O_14,10th District (Nasr City) - Moneeb,Microbus,3,0,0
+P_O_14_GZ049,P_O_14,Faisal Tawabek - Giza Square,Microbus,3,0,0
+ezg_t81DPrRfiBGLI9GbE,P_O_14,Arab Al Tawaila - Matareya Square,Microbus,3,0,0
+P_O_14_IC072,P_O_14,15th of May - Helwan Metro,Microbus,3,0,0
+P_B_8_SZ006,P_B_8,Badr (Sheikh Zayed) - Zayed (MM),Tomnaya,3,0,0
+P_O_14_IG088,P_O_14,Bab Al Shaaria Square - Ring Rd Exit to Khosous,Microbus,3,0,0
+P_B_8_IC052,P_B_8,10th District (Nasr City) - New Cairo Academy,Tomnaya,3,0,0
+P_B_8_IC070,P_B_8,1st Settlement (New Cairo) - Zahraa Madinet Nasr,Tomnaya,3,0,0
+P_O_14_GZ022,P_O_14,Bohooth (Al Kobri Al Khashab) - Faisal St & Ring Rd,Microbus,3,0,0
+P_O_14_IC049,P_O_14,10th District (Nasr City) - 1st Settlement (New Cairo),Microbus,3,0,0
+COOP_IC065,COOP,Al Warraq - Hyper 1,Minibus,3,0,0
+MM_NS7,MM,Al Shorouq Water - Saray Al Qobba,MM NS7,3,1,1
+P_O_14_CA146,P_O_14,Awwel Al Zawya Al Hamra - Khalafawy Square,Microbus,3,0,0
+P_O_14_IC040,P_O_14,Mehwar & Alex Desert Rd - Moassasa,Microbus,3,0,0
+P_O_14_CA083,P_O_14,Al Sa'a Square - Ramses,Microbus,3,0,0
+P_B_8_GZ047,P_B_8,Al Magzar (Mariouteya) - Moneeb,Tomnaya,3,0,0
+P_O_14_CA156,P_O_14,Koleyet Al Banat - Azhar University - Ramses,Microbus,3,0,0
+P_O_14_CA061,P_O_14,Arab Maadi - Saqr Quraish,Microbus,3,0,0
+P_O_14_CA058,P_O_14,Horia Square - Saqr Quraish,Microbus,3,0,0
+P_O_14_CA109,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Nahda City,Microbus,3,0,0
+P_O_14_CA066,P_O_14,Al Zawya Al Hamra - Hadaek EL Kobba,Microbus,3,0,0
+P_O_14_CA173,P_O_14,Helmeyet El Zaitoun Metro - Kilo 4 & Half,Microbus,3,0,0
+COOP_QA001,COOP,Moassasa - Qalyoub,Minibus,3,0,0
+P_O_14_GZ043,P_O_14,26th of July & Ring Rd - Moneeb,Microbus,3,0,0
+P_O_14_IG061,P_O_14,Ramses - Warraq Al Arab (Cima),Microbus,3,0,0
+C6RjvuOaE6Jy7WRZtUxaM,CTA,Abbasseya - Moassasa,CTA 208,3,1,1
+GRN_G2,GRN,Koleyet Al Banat - Ain Shams University - Masaken Dahshour,Green G2,3,1,1
+GRN_G1,GRN,7th District (Nasr City) - Masaken Dahshour,Green G1,3,1,1
+P_O_14_IG090,P_O_14,Al-Salam (10th of Ramadan) - Imbaba,Microbus,3,0,0
+CTA_130,CTA,Abd Al Moneim Riad - Masaken Helmeyet Al Zaitoun,CTA 130,3,1,1
+CTA_67,CTA,Koleyet Al Banat - Azhar University - Masallah Al Gadeda (Matareyya),CTA 67,3,1,1
+CTA_73,CTA,Manshiyat Nasser - Qism El Hadayek,CTA 73,3,1,1
+MM_M8,MM,Giza Square - Lotus  (5th Settlement),MM M8,3,1,1
+ioDO0LtWeYfrWrZ16TFr5,CTA_M,8th District (Nasr City) - Al tabba - Al Omraneyya Al Gadida,Minibus 380,3,1,1
+ryPRB8CSZ4RJjvfbdXDC1,CTA,8th District (Nasr City) - Al tabba - Moneeb,CTA 1070,3,1,1
+8e41N39_w9qPLPFGgB8Hq,CTA_M,7th District (Nasr City) - New Marg,Minibus 265,3,1,1
+mVZQtFYsUCVuagT7jiTQ-,CTA_M,8th District (Nasr City) - Al tabba - Masaken Al Wehda,Minibus 115,3,1,1
+mNM0sR-uI_A_mqV5u7U0n,CTA,Abageyah - Amiriya,CTA 1090,3,1,1
+9vBFhlX-T17hM_HD2xuxr,CTA,Moassasa - Tagneed (Al Remaya),CTA 2002,3,1,1
+y2pNkYKdwmq-DYYWpGD5I,CTA_M,Al Nozha Al Gadida (Gesr El Suez Garage) - Dawaran Shubra,Minibus 60,3,1,1
+r3Rn-Eht_A27WHh3b8Zn0,P_O_14,Attaba - Bashtil,Microbus,3,0,0
+hXNe26POoDE0MSAUxW0W_,CTA_M,Koleyet Al Banat - Ain Shams University - Mazallat,Minibus 6,3,1,1
+IMRynqA53QmU-orlgoLIj,P_O_14,Mazallat - Roxy,Microbus,3,0,0
+ky6MXHGj0HKPAoqxgFyyp,CTA,7th District (Nasr City) - Lebanon Square,CTA 1065,3,1,1
+KRWhc98g65P9U2MM4fs0A,CTA_M,Masaken Sheraton - Mazallat,Minibus 11,3,1,1
+wYawpUlAxZrHlVxizOLid,CTA,Al Sayeda Aisha - Jazirat Mohamed,CTA 1109,3,1,1
+J_PqoU-hjIL1h8F626aNF,CTA_M,Al-Salam (10th of Ramadan) - Kafr Tohormos,Minibus 211,3,1,1
+vLtVl__J6Y88JxSMUbq9e,CTA,Isbiko - Moassasa,CTA 1030,3,1,1
+hzSgTxcnjIdeldzq3BHu1,CTA,Attaba - Moneeb,CTA 1069,3,1,1
+Hu_E85mwGGhJHvFmWrLch,CTA_M,Al Toub Al Ramly - Masaken Ain Shams,Minibus 13,3,1,1
+luITCTGk3nUs1odvaqf3p,COOP,Mazallat - Qalyoub El Balad,Minibus,3,0,0
+dX4GI-MLWfQt63dbt9LNY,CTA,3rd Settlement  (New Cairo) - Moassasa,CTA 1111,3,1,1
+mQ36caejcbeqdwPrBveqE,CTA,6th District - 6th of October (Al Souq Al Qadeem) - Moassasa,CTA 1017,3,1,1
+wjw5IKW5tGSh5Qf2OIk5Y,CTA,Moassasa - Obour,CTA 1032,3,1,1
+nhJyCrgCzEnJX58NfGuFk,CTA_M,Masaken Ain Shams - Znen (Awwel Al Eshreen),Minibus 51,3,1,1
+JktuaW0f3dvlZcs7mDGGu,CTA,Cairo Airport - Moassasa,CTA 970,3,1,1
+MgUVI0pvMFijJFql58iLt,CTA_M,Al Omraneyya Al Gadida - Koleyet Al Banat - Ain Shams University,Minibus 500,3,1,1
+ctcoGGvDNd93MT5czSIi7,CTA_M,Al Warraq - Masaken Al Shorouq,Minibus 85,3,1,1
+AflV7b-3AGXaMj90ZBio9,CTA_M,Bashtil - Masaken Ain Shams,Minibus 215,3,1,1
+K9zBV4fj5NavAGCuGFD2i,CTA,Ahmed Helmy - Can Can 12th District  (6th of October),CTA 1043s,3,1,1
+RpY93UNxhi5boOQu37j_C,CTA,Ahmed Helmy - Cairo Airport,CTA 366,3,1,1
+c_zrdXjQmBwztXf6Nw7jP,CTA,Imbaba - Moneeb,CTA 1140,3,1,1
+9utw1A6O1TUOZSdVJXnIN,CTA,Cairo Airport - Dawaran Shubra,CTA 925,3,1,1
+cSajDgx0bM1XDy4LLTYL4,CTA,Koleyet Al Banat - Azhar University - Moneeb,CTA 555,3,1,1
+c7dsOrHcVJ5TLsMxuO3XG,CTA,Amr Ibn El Aas - Masaken Ain Shams,CTA 1082,3,1,1
+UIbJAHRCDRcPVxtylKdP1,P_O_14,Abd Al Moneim Riad - Helwan Post Office,Microbus,3,0,0
+YwAwwkJqjET3Y_3C9x3AO,P_O_14,Ramses - Warraq Al Arab (Cima),Microbus,3,0,0
+BBlbsema50qEzicPBcriq,CTA_M,8th District (Nasr City) - Al tabba - Masaken Betcho,Minibus 56,3,1,1
+fIX2H6I2zopxdtQs4KTWy,CTA_M,Arab Al Tawaila - Basateen,Minibus 79,3,1,1
+JEYUgjN4DNooJRg88uMnU,CTA_M,Arab Al Tawaila - Attaba,Minibus 129,3,1,1
+Bp6VC-w4hVf07QNNC-TUQ,CTA,Al Omraneyya Al Gadida - Ibrahim Bek,CTA 820,3,1,1
+BTapayFKafajyYHQLI30g,CTA,Ahmed Helmy - Saqr Quraish,CTA 72,3,1,1
+A45ex-5A-EQJSEd1EPD_K,CTA,Masaken Ain Shams - Motseian,CTA 990,3,1,1
+PNtTPVJcmDWclAFZdvYD2,P_B_8,Alf Maskan - Arab Al Tawaila,Tomnaya,3,0,0
+zZOoW5YGvB9BYblSit-KB,CTA_M,Amiriya - Rehab - Gate 6,Minibus 8,3,1,1
+P_O_14_IC093,P_O_14,Laylat Al Qadr - Ramses,Microbus,3,0,0
+NCUBbHH_QGjf1q-0X1YC-,CTA,Amiriya - Moneeb,CTA 1129,3,1,1
+4oru4f3TseNYYICmUR910,P_O_14,Hadaba Wosta (Moqattam) - Manshiyat Nasser,Microbus,3,0,0
+lvMyRSGX-pAwdUcOqYZqG,CTA,8th District (Nasr City) - Al tabba - Athar Al Naby,CTA 995,3,1,1
+ktpntHMzg1dBhqPWG7ifu,CTA,Masaken Ain Shams - Matbaa,CTA 1002,3,1,1
+hWB-y-hCqfdmkq-zh_JuY,CTA,Kattameya (Mahmoudeya) - Matbaa,CTA 1034,3,1,1
+BV3Lpd-u_IqoQTTAGrXsT,CTA_M,Attaba - Tagneed (Al Remaya),Minibus 333,3,1,1
+yCzCB9uoQWDH4YDGoPa9W,CTA,3rd Settlement  (New Cairo) - New Marg,CTA 1122,3,1,1
+3dezhf9N-kKXYX4egwMmg,CTA_M,Imbaba - Mosheer Ahmed Ismail (Sheraton),Minibus 76,3,1,1
+DafSYVkgsDYBZs729kZGD,CTA,Can Can 12th District  (6th of October) - Imbaba,CTA 1043,3,1,1
+I0McnHOUOXtn5nXDvkIuT,CTA_M,8th District (Nasr City) - Al tabba - Saft Al Laban,Minibus 57,3,1,1
+NvJsbLXSZ_OQTMe4A0Re6,CTA_M,7th District (Nasr City) - Al Magzar (Mariouteya),Minibus 54,3,1,1
+zXpyM9xY7G9LBl-J7BFVC,P_O_14,Ahmed Helmy - Badr City,Microbus,3,0,0
+JZOWZGUVIlsyln-SJhGeB,P_B_8,10th District (Nasr City) - 8th District (Nasr City) - Al tabba,Tomnaya,3,0,0
+eWiEGCcCP5bsCA6uPr2nY,CTA,Alf Masnaa - Moneeb,CTA 573,3,1,1
+xkcfLc0qC3yXgkL3QkYzS,CTA_M,Al Sayeda Aisha - Zahraa Ain Shams,Minibus 7,3,1,1
+gwG-fhicbKS4E3iMRQz6P,CTA_M,Giza Square - Isko,Minibus 90,3,1,1
+eyQjmu5-Lb_ghG2yj7OUr,CTA_M,Imbaba - Kilo 4 & Half,Minibus 113,3,1,1
+ZGjX3QoD_ctqk3lvYrKDL,CTA_M,Bulaq Al Dakrur - Kilo 4 & Half,Minibus 329,3,1,1
+5CqnnGEDncnHS7HZkkGTj,CTA_M,Al Omraneyya Al Gadida - Kilo 4 & Half,Minibus 203,3,1,1
+NSy3ZsEBK5pZrZIyk51VL,CTA,Kilo 4 & Half - Kolleyet Al Zeraah (Cairo University),CTA 1011,3,1,1
+nOJ9PATzYJARWxEfkqu5L,CTA_M,Al Sayeda Nafeesa - Isko,Minibus 88,3,1,1
+xolg4JwSJogcCGeExbjKu,CTA_M,Giza Square - Masallah Al Gadeda (Matareyya),Minibus 29,3,1,1
+IK0lxgoOk-xJleJOgnUIP,P_O_14,Bulaq Al Dakrur - Haram Mashaal,Microbus,3,0,0
+WcBUjkdX_6SJfXXGp00S-,P_O_14,Abd Al Moneim Riad - Awwel Makram Ebeid,Microbus,3,0,0
+QAtNnDbICPuNWmtoKicmy,CTA_M,Al Sayeda Nafeesa - Khosous,Minibus 421,3,1,1
+3k65ONadSSpqWJMm7jv4a,CTA_M,Al Sayeda Nafeesa - El Warsha (Ezbet Al Nakhl),Minibus 146,3,1,1
+ynTk2w8k0i45iT5CkTzX-,P_O_14,Bulaq Al Dakrur - El Kafr (Birak Al Khiyam),Microbus,3,0,0
+0yN0f3emwwLcW287INPnm,CTA_M,Dawaran Shubra - Masaken Al Shorouq,Minibus 47,3,1,1
+Imw9VlP3uLpN1-7pXr_Qe,CTA_M,Isko - Masaken Al Shorouq,Minibus 18,3,1,1
+0ij9-cfVgid7IW1oTQKdT,CTA_M,Basateen - Mazallat,Minibus 93,3,1,1
+YDYZfl3PqeB6Fo4Ji9dpx,P_O_14,Al-Salam (10th of Ramadan) - Awwel Abbas,Microbus,3,0,0
+mrJT7Y9lx0AZq-7wl66cW,P_O_14,Abd Al Moneim Riad - Al Qanatir Al Khayriyyah,Microbus,3,0,0
+LJ8W8lrawIvi_HQ_N_fRD,P_O_14,Al-Salam (10th of Ramadan) - Moneeb,Microbus,3,0,0
+0XAvSntelgtvUQzvAfLqW,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Moassasa,Microbus,3,0,0
+FXHbwS2tr2kd-8DtfhIgo,P_O_14,Ahmed Maher Hospital - Matbaa,Microbus,3,0,0
+TIlnDqafo-e2AVr35QCtj,P_O_14,10th District (Nasr City) - Hadaba Wosta (Moqattam),Microbus,3,0,0
+v3r7iBOk8eP_u6GCz6kpD,P_O_14,Manshiyat Nasser - Ramses,Microbus,3,0,0
+CA6mMAtKLFlrTaQ4BiGcJ,CTA,Al Omraneyya Al Gadida - Qism El Hadayek,CTA 810,3,1,1
+r_aM8g8hbeCg_QnsOQXZh,CTA,Al Magzar (Mariouteya) - Masaken Al Wehda,CTA 1071,3,1,1
+6KGSCH_P7m-jw7W1PR0Ht,P_O_14,Alf Maskan - New Cairo Court,Microbus,3,0,0
+uVXNDIyKAilRBZ3n92UQo,P_O_14,Moassasa - Remaya (New Mashaal),Microbus,3,0,0
+rIW1na7aSBeUGKSkhuuGI,P_O_14,10th District (Nasr City) - Awwel Makram Ebeid,Microbus,3,0,0
+bvWwmlVRmaOh17E4NPADx,CTA_M,Bashtil - Masaken Zeinhom,Minibus 119,3,1,1
+7FCzhO02lSZAAW-JhYn9s,CTA_M,Isko - Matbaa,Minibus 107,3,1,1
+f3VyvIsE1IEeM5gDkzXhN,P_O_14,Ahmed Helmy - Mostorod,Microbus,3,0,0
+EJJbs0wpO3klUlJZZvU3J,CTA,Imbaba - Masaken Betcho,CTA 1031,3,1,1
+7S_gkEV2bsYICm8FcrJRV,CTA_M,Al Nozha Al Gadida (Gesr El Suez Garage) - Matbaa,Minibus 44,3,1,1
+L461chwDYnuXmkCJbl1Zk,CTA_M,Abou Al Reesh - Cairo Airport,Minibus 116,3,1,1
+9WQz2Uku_lDLfa9xlAq6e,P_O_14,Abbasseya - Helwan,Microbus,3,0,0
+THrQu8qlfqIVjyIOU9nsp,P_O_14,Al Sayeda Aisha - Awwel Faisal,Microbus,3,0,0
+tVSIeyuK_trcKCgwVwM1B,P_O_14,Hawamdeyya - Moneeb,Microbus,3,0,0
+Nt3X7K8xH9fN8xUI0jtsl,P_O_14,Dar El Salam - Giza Square,Microbus,3,0,0
+TwtquEbhxXg7lLUiammd0,P_O_14,Abbasseya - Helwan,Microbus,3,0,0
+NpVyB3A8oXLi3GfGFKSwW,P_O_14,Imbaba - Remaya (New Mashaal),Microbus,3,0,0
+NvP4fRLg68f35n6CvEdEj,P_O_14,Manshiyat Nasser - Moneeb,Microbus,3,0,0
+bIbrbTpxCAep4mS2L2FoJ,COOP,Moassasa - Remaya (New Mashaal),Minibus,3,0,0
+xQ-gNexveTXTu9hyB09su,P_O_14,Helmeyet El Zaitoun Metro - Kilo 4 & Half,Microbus,3,0,0
+Ytv0dFG7V3erHcHr8CQG8,CTA,Abou Wafya - Basateen,CTA 77,3,1,1
+JHK6gWh4wxS5zteB3hxbW,P_O_14,Al Nozha Al Gadida (Gesr El Suez Garage) - Arab Al Tawaila,Microbus,3,0,0
+OZAAPeChjNCYfhRh0ytYa,P_O_14,Al Sayeda Aisha - Kattameya (Mahmoudeya),Microbus,3,0,0
+xP2sjSYD1lMXW6ZUlUVOe,P_O_14,6th District - 6th of October (Al Souq Al Qadeem) - Giza Square,Microbus,3,0,0
+nPQFHmEKjUVtIvFp4H1KK,P_O_14,Hossary - Moassasa,Microbus,3,0,0
+lFki0psvWKrqJWc6Qz6PR,P_O_14,Alf Maskan - FUE,Microbus,3,0,0
+4AnLqrfTx4EzrhVcahl7F,P_O_14,Abboud - Bulaq Al Dakrur,Microbus,3,0,0
+2kavxuzVoPAIs0Zo7SkfI,P_B_8,6th District - 6th of October (Al Souq Al Qadeem) - Hossary,Tomnaya,3,0,0
+CBxRb0VoXyLWRjw97cRXJ,CTA_M,Giza Square - Kilo 4 & Half,Minibus 40,3,1,1
+HRIoKLqyzSuLF2TLVXtja,CTA,Abd Al Moneim Riad - Al-Salam (10th of Ramadan),CTA 323,3,1,1
+LwkV1eodv1ID5E0MVkEGV,P_O_14,Giza Square - Hossary,Microbus,3,0,0
+nQKW52Ox3zlyelPVrnuvw,CTA_M,1st Settlement (New Cairo) - Al Zawya Al Hamra,Minibus 62,3,1,1
+ej2ohQ-P0kTk-y-6MwMbM,P_O_14,Awwel Makram Ebeid - Helwan,Microbus,3,0,0
+VP-_HJndaq3LK1Y8sWnFm,CTA,Abou Wafya - Saqr Quraish,CTA 824,3,1,1
+IRzkagIluHAKgsFxr9c_Z,CTA,Abageyah - Warraq Al Arab (Cima),CTA 1135,3,1,1
+oq0Kd02t351SYBTGRu4mX,CTA_M,Bigam - Masaken Al Shorouq,Minibus 26,3,1,1
+2NGKDEeZqTOn-h078Hniy,P_O_14,Haram & Marioteya - Zahraa Madinet Nasr,Microbus,3,0,0
+_kGwgRC-pycvUmse6VVvU,CTA_M,Kilo 4 & Half - Znen (Awwel Al Eshreen),Minibus 49,3,1,1
+e8XSHfUauPfbEm5GI8uZB,CTA_M,Kilo 4 & Half - Madinat Al Talaba (Imbaba),Minibus 226,3,1,1
+iSJquE4a-hnmErov1zOQm,CTA,Bulaq Al Dakrur - Qism El Hadayek,CTA 91,3,1,1
+EvrZ1dQ_nxwknC6nlhifj,CTA,Ahmed Helmy - Mazlaqan Ain Shams,CTA 1104,3,1,1
+NZajXqCpAk_GgbEGzIBG1,COOP,Al-Salam (10th of Ramadan) - Remaya (New Mashaal),Minibus,3,0,0
+tr5C-Vao_XTCqFPXm-mE5,CTA_M,Bulaq Al Dakrur - Kilo 4 & Half,Minibus 121,3,1,1
+Hjh1uRXEyzV0t-_S0vjaF,CTA,Abbasseya - Saqr Quraish,CTA 922,3,1,1
+5KspV5Hlbm-No0kYZeowS,P_O_14,Haram Mashaal - Ramses,Microbus,3,0,0
+mNmLsNHPMlBfFhZRjrgK2,CTA,1st Settlement (New Cairo) - Imbaba,CTA 1029,3,1,1
+fuicPDe5V7A7QVMdRss5o,CTA,1st Settlement (New Cairo) - Moassasa,CTA 1103,3,1,1
+-6XpwB9WWYaBpVKpKkJAA,CTA_M,1st Settlement (New Cairo) - Mazallat,Minibus 304,3,1,1
+VGaQYovXuVb6WPYilc6D0,CTA_M,Bashtil - Saqr Quraish,Minibus 216,3,1,1
+ObwRVHlKZ6bJ0sY57ADgV,P_O_14,10th District (Nasr City) - New Marg,Microbus,3,0,0
+AYG5Jeb5RQthuAg3x6gL_,CTA_M,1st Settlement (New Cairo) - Masaken Ain Shams,Minibus 108,3,1,1
+qF9eq082_adr4tlPXHbat,CTA_M,Al Warraq - Kilo 4 & Half,Minibus 102,3,1,1
+koG8Hv7ojxwoLFo8eXvTW,COOP,Isko - Moassasa,Minibus,3,0,0
+nfGw_AtUWg704oRknN6oJ,CTA_M,1st Settlement (New Cairo) - Mazallat,Minibus 1,3,1,1
+ZpjJfGT2XablwK9bPaDxE,CTA,AUC Bus - Qism El Hadayek,CTA 2,3,1,1
+vWaavZmYB5sbQzR2d-U_U,CTA_M,1st Settlement (New Cairo) - Mostorod,Minibus 12,3,1,1
+D2cZnF4D57su9lDHL4c-h,CTA_M,1st Settlement (New Cairo) - Matbaa,Minibus 45,3,1,1
+FugP1Vj46_hKrrCUcBN5G,CTA_M,1st Settlement (New Cairo) - Isko,Minibus 87,3,1,1
+W4XrYxIpaEVrO-aOQjYMS,CTA,6th District - 6th of October (Al Souq Al Qadeem) - Abd Al Moneim Riad,CTA 1013,3,1,1
+wTMLwyykgGKLFW3yYaNnx,CTA,Masaken Al Wehda - Saqr Quraish,CTA 1008,3,1,1
+mFhgyri40omCemrCH5KSb,CTA,AUC Bus - New Marg,CTA 1124,3,1,1
+2tYSJSKAX45ZXdXge4fde,CTA,1st Settlement (New Cairo) - Abd Al Moneim Riad,CTA 1001,3,1,1
+CS3b3rHHRUxTf_IncW5DA,P_O_14,Haram & Marioteya - Helwan,Microbus,3,0,0
+JiIqBjX2_cEbIJ6DrqtzH,CTA_M,1st Settlement (New Cairo) - Amr Ibn El Aas,Minibus 147,3,1,1
+bxHMMd-JyQtEEVzZqhYxF,P_O_14,Imbaba - Qawmeya Arabeya,Microbus,3,0,0
+eVbAOGbA9hx7lvF6qbJse,CTA,Attaba - Moassaset Al Zakah,CTA 1076,3,1,1
+gD54eeIS5drTlju1bVuOq,CTA_M,Masaken Sheraton - Saqr Quraish,Minibus 55,3,1,1
+YFvdbCU6C-OUVsvdiECzT,CTA,Abd Al Moneim Riad - Asmarrat,CTA 1151,3,1,1
+RRrzHlEEvrgMUl0VtGTmU,CTA,1st Settlement (New Cairo) - Attaba,CTA 1010,3,1,1
+DC_H6AbB75qp51RmOSCrt,CTA,1st Settlement (New Cairo) - Abd Al Moneim Riad,CTA 1130,3,1,1
+4xLmOtIrO8HsH5BVeVgIZ,CTA,3rd Settlement  (New Cairo) - Abd Al Moneim Riad,CTA 1137,3,1,1
+Sox8uyw7SKydjtBoCTZlF,CTA_M,1st Settlement (New Cairo) - Dawaran Shubra,Minibus 159,3,1,1
+aCYYi5ZrCwjmU6CuJ-peQ,CTA_M,1st Settlement (New Cairo) - Abou Wafya,Minibus 321,3,1,1
+58ec_pyCB_Gbm8WqhvAx2,CTA,1st Settlement (New Cairo) - Dawaran Shubra,CTA 1033,3,1,1
+jIXHYKt1q-bq46OpP9z9c,CTA,1st Settlement (New Cairo) - Abd Al Moneim Riad,CTA 132,3,1,1
+cWtZ4nvWgHX7RWH24OAA1,CTA_M,1st Settlement (New Cairo) - Dawaran Shubra,Minibus 126,3,1,1
+nf1dT47KvJP9Y2TD0As54,P_O_14,Awwel Makram Ebeid - Saqr Quraish,Microbus,3,0,0
+yonpH4_SVRs1MuN6Ixc7i,CTA_M,7th District (Nasr City) - Kafr Tohormos,Minibus 212,3,1,1
+-nJDno82fXTeOuqXP8Q3H,CTA,Ahmed Helmy - Asmarrat,CTA 407,3,1,1
+vPervgwLcUBlBEEYI5p7Q,P_O_14,Al-Salam (10th of Ramadan) - Rabaah Al Adaweya Mosque,Microbus,3,0,0
+x0MiBbZzr0WNjON4yraWL,CTA_M,Ahmed Helmy - New Marg,Minibus 151,3,1,1
+RrZM9uyp0vcL4KFiRiurP,P_O_14,Al-Salam (10th of Ramadan) - Khanka,Microbus,3,0,0
+0jLSq_tyEzhc61dHzdRo5,P_B_8,Masaken Othman (Ezbet El Nakhl) - New Marg,Tomnaya,3,0,0
+_MAgxE7pFZU2v4vAiDGuz,CTA,Abd Al Moneim Riad - Cairo Airport,CTA 356,3,1,1
+dzCVUSS3MpR4QRQ6vLCn5,CTA,Hadaba Wosta (Moqattam) - Mazallat,CTA 1006,3,1,1
+e38x78tDVvSYikf-K2XLZ,CTA_M,Attaba - New Marg,Minibus 155,3,1,1
+Rid3J784c156sibqnTGhS,CTA_M,Attaba - Masaken Othman (Ezbet El Nakhl),Minibus 41,3,1,1
+wz-ZLxXwobCpZlLGOs-nJ,CTA,Bulaq Al Dakrur - Hadaba Wosta (Moqattam),CTA 1085,3,1,1
+lXdhO5SFzPueut3URDvPn,CTA,Abbasseya - Hadaba Wosta (Moqattam),CTA 1106,3,1,1
+DfiU0lrz_ql4vTYVNSlmz,CTA,Al Omraneyya Al Gadida - Attaba,CTA 7,3,1,1
+3Dt_GqyHPoLGPo1ZegcTc,CTA_M,Lebanon Square - Zahraa Madinet Nasr,Minibus 125,3,1,1
+L1rMkXC2KSeHo-lMhLN3w,CTA,Imbaba - Kattameya (Mahmoudeya),CTA 730,3,1,1
+fS9OIlGI6L05UA_VqIaSd,CTA,Ahmed Helmy - Cairo Airport,CTA 1054,3,1,1
+LpHLg1FZnH9OcBTFfVwEs,CTA,Abd Al Moneim Riad - Isbiko,CTA 330,3,1,1
+uSqPGMEHwN2LcA-Dx8IDf,CTA_M,Al-Salam (10th of Ramadan) - Bashtil,Minibus 219,3,1,1
+Llp_ydR2tscD940jXryQU,P_O_14,10th District (Nasr City) - Moneeb Konayyesa,Microbus,3,0,0
+sIt6Ay8Ghb65PsqmDHyii,CTA_M,8th District (Nasr City) - Al tabba - Madinat Al Talaba (Imbaba),Minibus 66,3,1,1
+_u0ElwgPPD4gErsOC9Dtq,CTA,Ahmed Helmy - Matbaa,CTA 1132,3,1,1
+NsRadhTyf0r3kiWFf6VpA,CTA_M,Al Sayeda Aisha - Khosous,Minibus 310,3,1,1
+7rXRm-ODpC-4pUd0AdZcX,CTA_M,Rehab - Gate 6 - Znen (Awwel Al Eshreen),Minibus 50,3,1,1
+NsWlr8t2byZcKwm7hf7UI,CTA,Attaba - Qalyoub,CTA 917,3,1,1
+N6IzAQa5E4U9mP-CLry9g,CTA,Cairo Airport - Mazallat,CTA 1138,3,1,1
+7ZNJgilomPVVQdSvyInsq,CTA,Amr Ibn El Aas - Moassasa,CTA 1073,3,1,1
+Rq-eMK7w1Ht-mDd-Q_JC8,CTA,Abd Al Moneim Riad - Isbiko,CTA 1027,3,1,1
+igaGwMdEQ1Rm4tT_CEE2b,CTA_M,Attaba - Masaken Sheraton,Minibus 255,3,1,1
+BV6LVVgDgSW-cSt6IkTzS,CTA,Asmarrat - Athar Al Naby,CTA 1142,3,1,1
+L6PArmxc9NFPD2d0aCCTb,CTA_M,Bigam - Masaken Sheraton,Minibus 28,3,1,1
+DtLLG0DY2SgylTir-e5kd,CTA,Amr Ibn El Aas - Om Bayoumi (Mintay),CTA 83,3,1,1
+gcVLDRuFTONiBOvli2aQ8,CTA_M,Abou Al Reesh - Masaken Sheraton,Minibus 112,3,1,1
+yyGnaQQgQqV2mgxb-3iuX,P_O_14,Badrasheen - Saqqara,Microbus,3,0,0
+WOzJvSlqkyu7lDJGuDjA2,CTA_M,Al Omraneyya Al Gadida - Amiriya,Minibus 160,3,1,1
+epRYw8BYwgHH-RcYG5VZR,CTA,Al Omraneyya Al Gadida - Qism El Hadayek,CTA 1105,3,1,1
+jChkkQK1HtN-5QMYcjlUu,P_O_14,Awwel Makram Ebeid - Hadaek EL Kobba,Microbus,3,0,0
+LTPSVqGzJYucn9U0WTWQz,CTA_M,Mazallat - Zahraa Madinet Nasr,Minibus 225,3,1,1
+GxpEPsh9nVdgjod-tsOkv,P_O_14,Attaba - Helwan Metro,Microbus,3,0,0
+OjdWYHiltgq6kjdcreFCA,CTA_M,Isko - Masaken Sheraton,Minibus 259,3,1,1
+tg7Ig_oSMPD5Nr6tlRuK4,CTA_M,Dawaran Shubra - Kattameya (Mahmoudeya),Minibus 307,3,1,1
+zoG2ixCLqw8Ytm3UpbKCp,CTA_M,Al Nozha Al Gadida (Gesr El Suez Garage) - Mamaleek -Manial (Meqyas),Minibus 4,3,1,1
+Ad2qtlLVDY6f99l6Ca-O6,CTA,Attaba - Isbiko,CTA 1004,3,1,1
+2Wxf2h2nrj2e5sjOpMram,CTA_M,Bulaq Al Dakrur - Masaken Sheraton,Minibus 127,3,1,1
+PnnpvX60X8WaRSAtq6_q1,CTA,Bulaq Al Dakrur - Cairo Airport,CTA 1003,3,1,1
+MM_NA15,MM,10th of Ramadan City - 10th of Ramadan City,MM NA15,3,1,1
+y-_-0L2mPQ5hq9U3U_Nk3,CTA_M,Hegaz Square - Tagneed (Al Remaya),Minibus 200,3,1,1
+E5kbHujl_1NdyyZVDIILb,CTA,Al Toub Al Ramly - Bulaq Al Dakrur,CTA 1126,3,1,1
+MM_M7,MM,Abd Al Moneim Riad - Hadayek AL Ahram (Second Gate),MM M7,3,1,1
+x_4y4YL3AYRZ74nIC-NQV,P_O_14,Abboud - Helwan,Microbus,3,0,0
+2teNSAc0dVegVu5GOxcn-,CTA,1st Settlement (New Cairo) - Bashtil,CTA 1012,3,1,1
+PcRD7pWWkA7PIAqxPtQKe,CTA,Abbasseya - Masarra,CTA 8T,3,1,1
+H0VZrZgURbduJqQJM_OjZ,CTA,Ahmed Helmy - Badr (Sheikh Zayed),CTA 1020,3,1,1
+J5A7VH01y0jYe8-oy58XV,CTA,Ahmed Helmy - Madinat Al Solb  (Al Tibeen),CTA 1089,3,1,1
+8Evj6WpZuMv4pgAH6uHVo,CTA,Abageyah - Imbaba,CTA 20,3,1,1
+MM_M20,MM,Cairo University - Zayed (MM),MM M20,3,1,1
+MM_M10,MM,Abd Al Moneim Riad - October (MM),MM M10,3,1,1
+MM_381,MM,Bulaq Al Dakrur - Cairo Airport,MM 381,3,1,1
+MM_NS9,MM,1st Settlement (New Cairo) - Al Shorouq Water,MM NS9,3,1,1
+MM_NA18,MM,10th of Ramadan City - 10th of Ramadan City,MM NA18,3,1,1
+MM_M9,MM,El Itihad Square (Maadi) - Lotus  (5th Settlement),MM M9,3,1,1
+MM_M6,MM,Lotus  (5th Settlement) - Saray Al Qobba,MM M6,3,1,1
+MM_M5,MM,Abd Al Moneim Riad - Lotus  (5th Settlement),MM M5,3,1,1
+63Gw347SsNx2agQWusD3h,CTA_M,1st Settlement (New Cairo) - Abou Al Reesh,Minibus 14,3,1,1
+Gqw2d9u5JudgWrjkgqYyp,CTA,Ahmed Helmy - Badr City,CTA 1023,3,1,1
+mNGL6lCQQ9K06QNEu7j30,CTA,Badr City - Hadaek EL Kobba,CTA 1057,3,1,1
+vIZc_NqGmEsfVnt_8xfJk,CTA,Al Nozha Al Gadida (Gesr El Suez Garage) - AUC Bus,CTA 354,3,1,1
+9QEgiYRqSJG3yn7EsBdHn,CTA,Abd Al Moneim Riad - AUC Bus,CTA 1062,3,1,1
+yViPvJ7FZshnCp-M3BzAp,CTA,Abd Al Moneim Riad - Al Shorouq,CTA 1056,3,1,1
+UhZhDEe_pYSBJb1XmUdHn,CTA,AUC Bus - Ring Rd Exit to Khosous,CTA 1124,3,1,1
+su06bTr5aMUAnkdk3YTAJ,CTA,AUC Bus - Ring Rd Exit to Khosous,CTA 505,3,1,1
+SCvq5Y3ce2b14_12Ytq5U,CTA,Al Shorouq - Dawaran Shubra,CTA 1016,3,1,1
+NAT_L1,NAT,Helwan - New El-Marg,Line 1,1,0,0
+NAT_L2,NAT,Shubra El-Kheima - El-Mounib,Line 2,1,0,0
+NAT_L3,NAT,Adly Mansour - Rod El-Farag Corridor,Line 3,1,0,0
+GOV_MIN_4,GOV_CTA_M,El Haykestep - Mamaleek (Al Manial),Minibus 4,3,1,1
+GOV_MIN_8,GOV_CTA_M,Amiriyyah - Rehab Square,Minibus 8,3,1,1
+GOV_MIN_9,GOV_CTA_M,Salam Station (10th of Ramadan Station) - Al Geish Square,Minibus 9,3,1,1
+GOV_MIN_10,GOV_CTA_M,Ibrahim Bek - Naguib Mahfouz Square (1st Settlement),Minibus 10,3,1,1
+GOV_MIN_17,GOV_CTA_M,Moasasset Al Zakah - Al Sayeda Nafeesa,Minibus 17,3,1,1
+GOV_MIN_26,GOV_CTA_M,15th of May - Masaken Al Shrouq,Minibus 26,3,1,1
+GOV_MIN_37,GOV_CTA_M,Kafr Tuhurmis - Elecrticity Hospital (Suez Rd),Minibus 37,3,1,1
+GOV_MIN_44,GOV_CTA_M,Matbaa - Al Nozha Al Gadida,Minibus 44,3,1,1
+GOV_MIN_52,GOV_CTA_M,Saft Al Laban - Al Mazallaat ( Shubra),Minibus 52,3,1,1
+GOV_MIN_53,GOV_CTA_M,Saft Al Laban - Masaken Almaza,Minibus 53,3,1,1
+GOV_MIN_57,GOV_CTA_M,Saft Al Laban - 8th District (Nasr City),Minibus 57,3,1,1
+GOV_MIN_74,GOV_CTA_M,Suez Bridge Entrance to Ring Road - Boulak El-Dakrour,Minibus 74,3,1,1
+GOV_MIN_79,GOV_CTA_M,Arab Tuweila - Basateen,Minibus 79,3,1,1
+GOV_MIN_80,GOV_CTA_M,Isko - Al Darraasa,Minibus 80,3,1,1
+GOV_MIN_81,GOV_CTA_M,Kobry Orabi - Naguib Mahfouz Square (1st Settlement),Minibus 81,3,1,1
+GOV_MIN_101,GOV_CTA_M,Rod Al Farag Metro Station - Naguib Mahfouz Square (1st Settlement),Minibus 101,3,1,1
+GOV_MIN_106,GOV_CTA_M,Salam Station (10th of Ramadan Station) - Attaba,Minibus 106,3,1,1
+GOV_MIN_115,GOV_CTA_M,Amiriyyah - 8th District (Nasr City),Minibus 115,3,1,1
+GOV_MIN_125,GOV_CTA_M,Lebanon Square - Naguib Mahfouz Square (1st Settlement),Minibus 125,3,1,1
+GOV_MIN_131,GOV_CTA_M,Rod Al Farag Metro Station - Naguib Mahfouz Square (1st Settlement),Minibus 131,3,1,1
+GOV_MIN_136,GOV_CTA_M,Naguib Mahfouz Square (1st Settlement) - Al Sayeda Nafeesa,Minibus 136,3,1,1
+GOV_MIN_137,GOV_CTA_M,Higher Institute For Hotels & Tourism (Sheraton) - Qawmeya Arabeya,Minibus 137,3,1,1
+GOV_MIN_138,GOV_CTA_M,Helwan Metro - Al Nozha Al Gadida,Minibus 138,3,1,1
+GOV_MIN_139,GOV_CTA_M,El-Qawmia - Al Sayeda Zeinab,Minibus 139,3,1,1
+GOV_MIN_140,GOV_CTA_M,Mohamed Naguib Metro Station - Rehab Square,Minibus 140,3,1,1
+GOV_MIN_145,GOV_CTA_M,Moasasset Al Zakah - Al Toob Al Ramly,Minibus 145,3,1,1
+GOV_MIN_149,GOV_CTA_M,El-Qawmia - Basateen,Minibus 149,3,1,1
+GOV_MIN_153,GOV_CTA_M,Zahraa Ain Shams - 10th District (Nasr City),Minibus 153,3,1,1
+GOV_MIN_202,GOV_CTA_M,Arab Tuweila - Al Darraasa,Minibus 202,3,1,1
+GOV_MIN_203,GOV_CTA_M,Abbassia - Al Omraneyya,Minibus 203,3,1,1
+GOV_MIN_211,GOV_CTA_M,Kafr Tuhurmis - Suez Bridge Entrance to Ring Road,Minibus 211,3,1,1
+GOV_MIN_220,GOV_CTA_M,Rehab Square - Al Ismailiya Square,Minibus 220,3,1,1
+GOV_MIN_226,GOV_CTA_M,Lebanon Square - Al Ahly Sporting Club,Minibus 226,3,1,1
+GOV_MIN_255,GOV_CTA_M,Abou Zaabal - Ramses,Minibus 255,3,1,1
+GOV_MIN_303,GOV_CTA_M,Moasasset Al Zakah - Mamaleek (Al Manial),Minibus 303,3,1,1
+GOV_MIN_314,GOV_CTA_M,Rod Al Farag Metro Station - Rehab Square,Minibus 314,3,1,1
+GOV_MIN_333,GOV_CTA_M,Al Kahraba St. (Nasr City) - Port Said Square (Maadi),Minibus 333,3,1,1
+GOV_MIN_355,GOV_CTA_M,Ataba - Al Khanka (Al Salam Rd.),Minibus 355,3,1,1
+GOV_MIN_404,GOV_CTA_M,Al Gezira (Al Moqattam) - Bashtil (Ring Rd.),Minibus 404,3,1,1
+GOV_MIN_424,GOV_CTA_M,Al Zawya Al Hamra - Al Omraneyya,Minibus 424,3,1,1
+GOV_MIN_505,GOV_CTA_M,Military Academy Stadium (Sheraton) - Ard Al Lewa Steps (26th of July Corridor),Minibus 505,3,1,1
+GOV_MIN_606,GOV_CTA_M,Al Habib Mosque (Al Barageel) - Waha Garage (Nasr City),Minibus 606,3,1,1
+GOV_MIN_616,GOV_CTA_M,Al Mothalath (Ahmed Al Zomor St.) - Kobry Al Qobba,Minibus 616,3,1,1
+GOV_MIN_700,GOV_CTA_M,Al Qanater Al Khayriya - Zewail Rd. (Wahat Rd.),Minibus 700,3,1,1
+GOV_MIN_702,GOV_CTA_M,Haram & Marioteya - Ahmed Helmy,Minibus 702,3,1,1
+GOV_MIN_755,GOV_CTA_M,Om Bayoumi - Saqr Quraish,Minibus 755,3,1,1
+GOV_MIN_2002,GOV_CTA_M,Shubra El-Kheima - Hadabet Al Ahram,Minibus 2002,3,1,1
+GOV_MIN_2003,GOV_CTA_M,Qalyub - Misr University for Sciences and Technology (MUST),Minibus 2003,3,1,1
+GOV_MIN_7 M,GOV_CTA_M,Mankaraa Gate (Hadayek Al Ahram) - Abd Al Moneim Riad,Minibus 7 M,3,1,1
+GOV_CTA_123,GOV_CTA,Mazlaqan Om Khinan (Al Hawamdeyya) - Abd Al Moneim Riad,CTA 123,3,1,1
+GOV_CTA_160/,GOV_CTA,Saqr Quraish - Abd Al Moneim Riad,CTA 160/,3,1,1
+GOV_CTA_222,GOV_CTA,Al Warraq - Amiriyyah,CTA 222,3,1,1
+GOV_CTA_366,GOV_CTA,Cairo Airport - Ahmed Helmy,CTA 366,3,1,1
+GOV_CTA_573,GOV_CTA,Moneeb Station - Gardenia (Cairo Suez Rd.),CTA 573,3,1,1
+GOV_CTA_582,GOV_CTA,Ahmed Saaed Bridge Exit - Al Shaheed Corridor,CTA 582,3,1,1
+GOV_CTA_912,GOV_CTA,Giza Square - Naguib Mahfouz Square (1st Settlement),CTA 912,3,1,1
+GOV_CTA_955,GOV_CTA,El Haykestep - Abd Al Moneim Riad,CTA 955,3,1,1
+GOV_CTA_988,GOV_CTA,Badrashen - Ramses,CTA 988,3,1,1
+GOV_CTA_997,GOV_CTA,Al Kahraba St. (Nasr City) - Port Said St. (Al Sawah),CTA 997,3,1,1
+GOV_CTA_13 - 25,GOV_CTA,Abbassia - Abd Al Moneim Riad,CTA 13 - 25,3,1,1
+GOV_CTA_1011,GOV_CTA,Masaken Almaza - Moneeb Station,CTA 1011,3,1,1
+GOV_CTA_1017,GOV_CTA,Ard Al Lewa Steps (26th of July Corridor) - Shubra El-Kheima,CTA 1017,3,1,1
+GOV_CTA_1031,GOV_CTA,Masaken Betcho - Imbaba,CTA 1031,3,1,1
+GOV_CTA_1035,GOV_CTA,Shubra El-Kheima - Abbaseya,CTA 1035,3,1,1
+GOV_CTA_1052,GOV_CTA,Al Qanater Al Khayriya - Al Mazallaat ( Shubra),CTA 1052,3,1,1
+GOV_CTA_1085,GOV_CTA,Al Gezira (Al Moqattam) - Bulaq Al Dakrur,CTA 1085,3,1,1
+GOV_CTA_1103,GOV_CTA,Shubra El-Kheima - Naguib Mahfouz Square (1st Settlement),CTA 1103,3,1,1
+GOV_CTA_1125,GOV_CTA,Warraq Al Arab - Abbassia,CTA 1125,3,1,1
+GOV_CTA_1127,GOV_CTA,Bulaq Al Dakrur - 3rd Settlement Station,CTA 1127,3,1,1
+GOV_CTA_1142,GOV_CTA,Asmarat - Giza Square,CTA 1142,3,1,1
+GOV_CTA_1145,GOV_CTA,Al Kahraba St. (Nasr City) - Al Mazallaat ( Shubra),CTA 1145,3,1,1
+GOV_CTA_1153,GOV_CTA,Helwan Metro - Abd Al Moneim Riad,CTA 1153,3,1,1
+RL_MONO_EN,NAT,East Nile Monorail: Cairo Stadium - Justice City,Monorail,12,1,1
+RL_LRT_CAP,NAT,Cairo LRT: Adly Mansour - Arts and Culture City,LRT,2,1,1
+RL_LRT_RAM,NAT,Cairo LRT: Adly Mansour - Knowledge City,LRT,2,1,1
+RL_APM,CAI_APM,Cairo Airport Shuttle: TB1 - TB2 & TB3,APM,12,1,1

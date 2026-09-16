@@ -1,0 +1,146 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-09T07:08:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 280689,
+  "tags": {
+    "name": "خط الإسكندرية-أسوان",
+    "name:ar": "خط الإسكندرية-أسوان",
+    "name:de": "Alexandria-Assuan-Linie",
+    "name:en": "Alexandria-Aswan line",
+    "name:fr": "Ligne Alexandrie-Assouan",
+    "network": "EG-railway",
+    "public_transport:version": "2",
+    "route": "train",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 5300628,
+  "tags": {
+    "name": "خط الاسماعيلية-القاهرة",
+    "name:ar": "خط الاسماعيلية-القاهرة",
+    "name:de": "Ismailia-Cairo Linie",
+    "name:en": "Ismailia-Cairo line",
+    "name:fr": "Ligne Ismailia-Cairo",
+    "network": "EG-railway",
+    "note": "Arabic name was translated with online tools might be incorrect",
+    "public_transport:version": "2",
+    "route": "train",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 5300629,
+  "tags": {
+    "name": "Mansoura-Cairo line",
+    "network": "EG-railway",
+    "public_transport:version": "2",
+    "route": "train",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 14350100,
+  "tags": {
+    "colour": "darkred",
+    "from": "مدينة المعارف",
+    "name": "القطار الكهربائي الخفيف",
+    "name:en": "Cairo Light Rail Transit: Adly Mansour → Knowledge City",
+    "name:fr": "Service branche Ramadan (Adly Mansour → Knowledge City)",
+    "network": "القطار الكهربائي الخفيف",
+    "network:wikidata": "Q89843133",
+    "operator": "RATP Dev",
+    "public_transport:version": "2",
+    "ref": "LRT",
+    "route": "train",
+    "to": "عدلى منصور",
+    "type": "route",
+    "wikidata": "Q125121893"
+  }
+},
+{
+  "type": "relation",
+  "id": 14350101,
+  "tags": {
+    "colour": "darkred",
+    "from": "عدلى منصور",
+    "name": "القطار الكهربائي الخفيف",
+    "name:en": "Cairo Light Rail Transit: Knowledge City → Adly Mansour",
+    "name:fr": "Service branche Ramadan (Knowledge City → Adly Mansour)",
+    "network": "القطار الكهربائي الخفيف",
+    "operator": "RATP Dev",
+    "public_transport:version": "2",
+    "ref": "LRT",
+    "route": "train",
+    "to": "مدينة المعارف",
+    "type": "route",
+    "wikidata": "Q125121893"
+  }
+},
+{
+  "type": "relation",
+  "id": 14350102,
+  "tags": {
+    "colour": "darkred",
+    "duration": "45",
+    "from": "مدينة الفنون و الثقافة",
+    "name": "القطار الكهربائي الخفيف",
+    "name:en": "Cairo Light Rail Transit",
+    "name:fr": "branche Nouvelle Capitale Administrative (vers A. Mansour)",
+    "network": "القطار الكهربائي الخفيف",
+    "operator": "RATP Dev",
+    "public_transport:version": "2",
+    "ref": "LRT",
+    "route": "train",
+    "to": "عدلى منصور",
+    "type": "route",
+    "wikidata": "Q125123069"
+  }
+},
+{
+  "type": "relation",
+  "id": 14350112,
+  "tags": {
+    "colour": "darkred",
+    "duration": "45",
+    "from": "عدلى منصور",
+    "name": "القطار الكهربائي الخفيف",
+    "name:en": "Cairo Light Rail Transit",
+    "name:fr": "branche Nouvelle Capitale Administrative (vers N. Cap. Adm.))",
+    "network": "القطار الكهربائي الخفيف",
+    "operator": "RATP Dev",
+    "public_transport:version": "2",
+    "ref": "LRT",
+    "route": "train",
+    "to": "مدينة الفنون و الثقافة",
+    "type": "route",
+    "wikidata": "Q125123069"
+  }
+},
+{
+  "type": "relation",
+  "id": 20675797,
+  "tags": {
+    "from": "Mansoura",
+    "name": "Mansoura-Cairo line",
+    "network": "EG-railway",
+    "public_transport:version": "2",
+    "route": "train",
+    "to": "Cairo",
+    "type": "route"
+  }
+}
+
+  ]
+}

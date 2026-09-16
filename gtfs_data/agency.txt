@@ -1,0 +1,15 @@
+agency_id,agency_name,agency_url,agency_timezone
+CTA,Cairo Transport Authority,http://www.cairo.gov.eg/ar/Interactive%20Services/Transportation/Pages/buses.aspx,Africa/Cairo
+CTA_M,Minibus licensed by CTA,http://www.cairo.gov.eg/ar/Interactive%20Services/Transportation/Pages/buses.aspx,Africa/Cairo
+BOX,Box Paratransit,http://transportforcairo.com/,Africa/Cairo
+P_B_8,Paratransit 8 Seater Suzuki Chevrolet or DMF (Blue Licenseplates),http://transportforcairo.com/,Africa/Cairo
+P_O_14,Paratransit 14 Seater Microbus (Orange Licenseplates),http://transportforcairo.com/,Africa/Cairo
+COOP,Cooperative paratransit 29 Seater (Grey Licenseplates),http://transportforcairo.com/,Africa/Cairo
+MM,Mwasalat Misr,http://www.mwasalatmisr.com/,Africa/Cairo
+NAT,National Authority for Tunnels,http://cairometro.gov.eg/HomePage.aspx,Africa/Cairo
+GRN,Green Bus,http://transportforcairo.com/,Africa/Cairo
+LTRA_M,Minibus licensed by LTRA,https://ltra.gov.eg/,Africa/Cairo
+PGT,Peugeot,http://transportforcairo.com/,Africa/Cairo
+CAI_APM,Cairo Airport Shuttle,https://www.cairo-airport.com/,Africa/Cairo
+GOV_CTA,Cairo Governorate published bus routes (reconstructed),https://www.cairo.gov.eg/,Africa/Cairo
+GOV_CTA_M,Cairo Governorate published minibus routes (reconstructed),https://www.cairo.gov.eg/,Africa/Cairo

@@ -1,0 +1,8 @@
+# Normalize all text files to LF in the repository, regardless of what
+# line ending a given checkout (Windows git with autocrlf=true, WSL,
+# Linux/mac) writes into the working tree. Without this, plain `git
+# status`/`git diff` shows nearly the entire tree as modified any time a
+# file round-trips through a checkout that introduces CRLF, masking real
+# changes in noise. See claude/testing-perf-arabic-hosting-2026-09-15.md
+# in the project docs for how this was found.
+* text=auto eol=lf

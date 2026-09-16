@@ -1,0 +1,73 @@
+route_id,agency_id,route_long_name,route_short_name,route_type,continuous_pickup,continuous_drop_off
+GOV_MIN_4,GOV_CTA_M,El Haykestep - Mamaleek (Al Manial),Minibus 4,3,1,1
+GOV_MIN_8,GOV_CTA_M,Amiriyyah - Rehab Square,Minibus 8,3,1,1
+GOV_MIN_9,GOV_CTA_M,Salam Station (10th of Ramadan Station) - Al Geish Square,Minibus 9,3,1,1
+GOV_MIN_10,GOV_CTA_M,Ibrahim Bek - Naguib Mahfouz Square (1st Settlement),Minibus 10,3,1,1
+GOV_MIN_17,GOV_CTA_M,Moasasset Al Zakah - Al Sayeda Nafeesa,Minibus 17,3,1,1
+GOV_MIN_26,GOV_CTA_M,15th of May - Masaken Al Shrouq,Minibus 26,3,1,1
+GOV_MIN_37,GOV_CTA_M,Kafr Tuhurmis - Elecrticity Hospital (Suez Rd),Minibus 37,3,1,1
+GOV_MIN_44,GOV_CTA_M,Matbaa - Al Nozha Al Gadida,Minibus 44,3,1,1
+GOV_MIN_52,GOV_CTA_M,Saft Al Laban - Al Mazallaat ( Shubra),Minibus 52,3,1,1
+GOV_MIN_53,GOV_CTA_M,Saft Al Laban - Masaken Almaza,Minibus 53,3,1,1
+GOV_MIN_57,GOV_CTA_M,Saft Al Laban - 8th District (Nasr City),Minibus 57,3,1,1
+GOV_MIN_74,GOV_CTA_M,Suez Bridge Entrance to Ring Road - Boulak El-Dakrour,Minibus 74,3,1,1
+GOV_MIN_79,GOV_CTA_M,Arab Tuweila - Basateen,Minibus 79,3,1,1
+GOV_MIN_80,GOV_CTA_M,Isko - Al Darraasa,Minibus 80,3,1,1
+GOV_MIN_81,GOV_CTA_M,Kobry Orabi - Naguib Mahfouz Square (1st Settlement),Minibus 81,3,1,1
+GOV_MIN_101,GOV_CTA_M,Rod Al Farag Metro Station - Naguib Mahfouz Square (1st Settlement),Minibus 101,3,1,1
+GOV_MIN_106,GOV_CTA_M,Salam Station (10th of Ramadan Station) - Attaba,Minibus 106,3,1,1
+GOV_MIN_115,GOV_CTA_M,Amiriyyah - 8th District (Nasr City),Minibus 115,3,1,1
+GOV_MIN_125,GOV_CTA_M,Lebanon Square - Naguib Mahfouz Square (1st Settlement),Minibus 125,3,1,1
+GOV_MIN_131,GOV_CTA_M,Rod Al Farag Metro Station - Naguib Mahfouz Square (1st Settlement),Minibus 131,3,1,1
+GOV_MIN_136,GOV_CTA_M,Naguib Mahfouz Square (1st Settlement) - Al Sayeda Nafeesa,Minibus 136,3,1,1
+GOV_MIN_137,GOV_CTA_M,Higher Institute For Hotels & Tourism (Sheraton) - Qawmeya Arabeya,Minibus 137,3,1,1
+GOV_MIN_138,GOV_CTA_M,Helwan Metro - Al Nozha Al Gadida,Minibus 138,3,1,1
+GOV_MIN_139,GOV_CTA_M,El-Qawmia - Al Sayeda Zeinab,Minibus 139,3,1,1
+GOV_MIN_140,GOV_CTA_M,Mohamed Naguib Metro Station - Rehab Square,Minibus 140,3,1,1
+GOV_MIN_145,GOV_CTA_M,Moasasset Al Zakah - Al Toob Al Ramly,Minibus 145,3,1,1
+GOV_MIN_149,GOV_CTA_M,El-Qawmia - Basateen,Minibus 149,3,1,1
+GOV_MIN_153,GOV_CTA_M,Zahraa Ain Shams - 10th District (Nasr City),Minibus 153,3,1,1
+GOV_MIN_202,GOV_CTA_M,Arab Tuweila - Al Darraasa,Minibus 202,3,1,1
+GOV_MIN_203,GOV_CTA_M,Abbassia - Al Omraneyya,Minibus 203,3,1,1
+GOV_MIN_211,GOV_CTA_M,Kafr Tuhurmis - Suez Bridge Entrance to Ring Road,Minibus 211,3,1,1
+GOV_MIN_220,GOV_CTA_M,Rehab Square - Al Ismailiya Square,Minibus 220,3,1,1
+GOV_MIN_226,GOV_CTA_M,Lebanon Square - Al Ahly Sporting Club,Minibus 226,3,1,1
+GOV_MIN_255,GOV_CTA_M,Abou Zaabal - Ramses,Minibus 255,3,1,1
+GOV_MIN_303,GOV_CTA_M,Moasasset Al Zakah - Mamaleek (Al Manial),Minibus 303,3,1,1
+GOV_MIN_314,GOV_CTA_M,Rod Al Farag Metro Station - Rehab Square,Minibus 314,3,1,1
+GOV_MIN_333,GOV_CTA_M,Al Kahraba St. (Nasr City) - Port Said Square (Maadi),Minibus 333,3,1,1
+GOV_MIN_355,GOV_CTA_M,Ataba - Al Khanka (Al Salam Rd.),Minibus 355,3,1,1
+GOV_MIN_404,GOV_CTA_M,Al Gezira (Al Moqattam) - Bashtil (Ring Rd.),Minibus 404,3,1,1
+GOV_MIN_424,GOV_CTA_M,Al Zawya Al Hamra - Al Omraneyya,Minibus 424,3,1,1
+GOV_MIN_505,GOV_CTA_M,Military Academy Stadium (Sheraton) - Ard Al Lewa Steps (26th of July Corridor),Minibus 505,3,1,1
+GOV_MIN_606,GOV_CTA_M,Al Habib Mosque (Al Barageel) - Waha Garage (Nasr City),Minibus 606,3,1,1
+GOV_MIN_616,GOV_CTA_M,Al Mothalath (Ahmed Al Zomor St.) - Kobry Al Qobba,Minibus 616,3,1,1
+GOV_MIN_700,GOV_CTA_M,Al Qanater Al Khayriya - Zewail Rd. (Wahat Rd.),Minibus 700,3,1,1
+GOV_MIN_702,GOV_CTA_M,Haram & Marioteya - Ahmed Helmy,Minibus 702,3,1,1
+GOV_MIN_755,GOV_CTA_M,Om Bayoumi - Saqr Quraish,Minibus 755,3,1,1
+GOV_MIN_2002,GOV_CTA_M,Shubra El-Kheima - Hadabet Al Ahram,Minibus 2002,3,1,1
+GOV_MIN_2003,GOV_CTA_M,Qalyub - Misr University for Sciences and Technology (MUST),Minibus 2003,3,1,1
+GOV_MIN_7 M,GOV_CTA_M,Mankaraa Gate (Hadayek Al Ahram) - Abd Al Moneim Riad,Minibus 7 M,3,1,1
+GOV_CTA_123,GOV_CTA,Mazlaqan Om Khinan (Al Hawamdeyya) - Abd Al Moneim Riad,CTA 123,3,1,1
+GOV_CTA_160/,GOV_CTA,Saqr Quraish - Abd Al Moneim Riad,CTA 160/,3,1,1
+GOV_CTA_222,GOV_CTA,Al Warraq - Amiriyyah,CTA 222,3,1,1
+GOV_CTA_366,GOV_CTA,Cairo Airport - Ahmed Helmy,CTA 366,3,1,1
+GOV_CTA_573,GOV_CTA,Moneeb Station - Gardenia (Cairo Suez Rd.),CTA 573,3,1,1
+GOV_CTA_582,GOV_CTA,Ahmed Saaed Bridge Exit - Al Shaheed Corridor,CTA 582,3,1,1
+GOV_CTA_912,GOV_CTA,Giza Square - Naguib Mahfouz Square (1st Settlement),CTA 912,3,1,1
+GOV_CTA_955,GOV_CTA,El Haykestep - Abd Al Moneim Riad,CTA 955,3,1,1
+GOV_CTA_988,GOV_CTA,Badrashen - Ramses,CTA 988,3,1,1
+GOV_CTA_997,GOV_CTA,Al Kahraba St. (Nasr City) - Port Said St. (Al Sawah),CTA 997,3,1,1
+GOV_CTA_13 - 25,GOV_CTA,Abbassia - Abd Al Moneim Riad,CTA 13 - 25,3,1,1
+GOV_CTA_1011,GOV_CTA,Masaken Almaza - Moneeb Station,CTA 1011,3,1,1
+GOV_CTA_1017,GOV_CTA,Ard Al Lewa Steps (26th of July Corridor) - Shubra El-Kheima,CTA 1017,3,1,1
+GOV_CTA_1031,GOV_CTA,Masaken Betcho - Imbaba,CTA 1031,3,1,1
+GOV_CTA_1035,GOV_CTA,Shubra El-Kheima - Abbaseya,CTA 1035,3,1,1
+GOV_CTA_1052,GOV_CTA,Al Qanater Al Khayriya - Al Mazallaat ( Shubra),CTA 1052,3,1,1
+GOV_CTA_1085,GOV_CTA,Al Gezira (Al Moqattam) - Bulaq Al Dakrur,CTA 1085,3,1,1
+GOV_CTA_1103,GOV_CTA,Shubra El-Kheima - Naguib Mahfouz Square (1st Settlement),CTA 1103,3,1,1
+GOV_CTA_1125,GOV_CTA,Warraq Al Arab - Abbassia,CTA 1125,3,1,1
+GOV_CTA_1127,GOV_CTA,Bulaq Al Dakrur - 3rd Settlement Station,CTA 1127,3,1,1
+GOV_CTA_1142,GOV_CTA,Asmarat - Giza Square,CTA 1142,3,1,1
+GOV_CTA_1145,GOV_CTA,Al Kahraba St. (Nasr City) - Al Mazallaat ( Shubra),CTA 1145,3,1,1
+GOV_CTA_1153,GOV_CTA,Helwan Metro - Abd Al Moneim Riad,CTA 1153,3,1,1
